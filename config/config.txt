@@ -257,16 +257,16 @@ CHECK_RANDOMIZER
 # SERVER ss13.example.com:2506
 
 ## forum address
-# FORUMURL https://citadel-station.net/forum/
+FORUMURL https://discord.gg/3Q8hRaDf7B
 
 ## Wiki address
-# WIKIURL https://katlin.dog/citadel-wiki
+WIKIURL https://desert-rose-fallout-13.fandom.com/wiki/Desert_Rose_-_Fallout_13_Wiki
 
 ## Rules address
-# RULESURL https://katlin.dog/citadel-rules/main
+RULESURL https://discord.gg/3Q8hRaDf7B
 
 ## Github address
-# GITHUBURL https://github.com/Citadel-Station-13/Citadel-Station-13
+ GITHUBURL https://github.com/Kosolov325/Desert-Nebula-BR
 
 ## Round specific stats address
 ## Link to round specific parsed logs; IE statbus. It is appended with the RoundID automatically by ticker/Reboot()
@@ -285,7 +285,7 @@ CHECK_RANDOMIZER
 # GITHUBREPOID 62485194
 
 ## Ban appeals URL - usually for a forum or wherever people should go to contact your admins.
-# BANAPPEALS https://citadel-station.net/forum/viewforum.php?f=8&sid=a0ce5331d5594ef6d49661609c6f4ff9
+ BANAPPEALS https://discord.gg/3Q8hRaDf7B
 
 ## System command that invokes youtube-dl, used by Play Internet Sound.
 ## You can install youtube-dl with
