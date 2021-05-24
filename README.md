@@ -1,4 +1,4 @@
-## Desert Rose 2
+## Desert Rose NEBULA BR
 Based and maintained from Citadel Station.
 
 [![Build Status](https://github.com/DesertRose2/desertrose/actions/workflows/ci_suite.yml/badge.svg?branch=master&event=push)](https://github.com/DesertRose2/desertrose/actions) 
