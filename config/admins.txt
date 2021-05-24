@@ -9,3 +9,8 @@
 ###############################################################################################
 
 dantesousa = Elder
+Syndi-Pudim = Headmin
+FidgetyBacchus = Headmin
+Richard-Campi = Headmin
+SondTheAnime = Administrator
+Kosolov325 = Kosolov

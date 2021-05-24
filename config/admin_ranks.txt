@@ -40,10 +40,12 @@ Trial Admin		= +@ +SPAWN +VAREDIT +BAN
 Badmin			= +@ +POSSESS +POLL +BUILDMODE +SERVER +FUN
 Game Admin		= +@ +STEALTH +SOUNDS +DEBUG
 Headmin                 = +@
+Administrator           = +@
 Game Master		= +EVERYTHING *EVERYTHING
 Lazy Master 	= +EVERYTHING -AUTOLOGIN *EVERYTHING
 
 Host			= +EVERYTHING *EVERYTHING
 Kosolov                 = +@
+Elder                   = +@
 
 Coder			= +DEBUG +VAREDIT +SERVER +SPAWN +POLL -AUTOLOGIN
