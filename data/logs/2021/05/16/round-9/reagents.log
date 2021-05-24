@@ -1,0 +1,606 @@
+[2021-05-16 13:07:20.876] Starting up round ID 9.
+ - -------------------------
+[2021-05-16 13:28:27.116] MOB ADD: on_mob_add(): dantesousa/(Dante Sousa) at Wasteland (62, 85, 2) - 5 of /datum/reagent/toxin/cazador_venom with 1 purity
+[2021-05-16 13:28:29.120] MOB ADD: on_merge(): dantesousa/(Dante Sousa) at Wasteland (59, 85, 2) - 9.6 of /datum/reagent/toxin/cazador_venom with 1 purity
+[2021-05-16 13:28:33.118] MOB ADD: on_merge(): dantesousa/(Dante Sousa) at Wasteland (65, 80, 2) - 13.8 of /datum/reagent/toxin/cazador_venom with 1 purity
+[2021-05-16 13:28:35.121] MOB ADD: on_merge(): dantesousa/(Dante Sousa) at Wasteland (63, 82, 2) - 18.4 of /datum/reagent/toxin/cazador_venom with 1 purity
+[2021-05-16 13:29:30.366] MOB ADD: on_mob_add(): dantesousa/(Dante Sousa) at Building (90, 91, 2) - 3 of /datum/reagent/medicine/adminordrazine/quantum_heal with 1 purity
+[2021-05-16 13:29:33.965] MOB DELETE: on_mob_delete: dantesousa/(Dante Sousa) at Building (90, 91, 2) - /datum/reagent/toxin/cazador_venom
+[2021-05-16 13:29:46.529] MOB DELETE: on_mob_delete: dantesousa/(Dante Sousa) at Building (91, 88, 2) - /datum/reagent/medicine/adminordrazine/quantum_heal
+[2021-05-16 13:39:28.017] MOB ADD: on_mob_add(): 2006F/(Alisya Durstine) at Wasteland (42, 174, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-16 13:42:40.039] MOB ADD: on_mob_add(): 2006f/(Adrian Reichard) at Wasteland (211, 53, 2) - 10 of /datum/reagent/medicine/healing_powder/poultice with 1 purity
+[2021-05-16 13:43:41.040] MOB ADD: on_mob_add(): *no key*/(Goodwin Foster) at Wasteland (205, 56, 2) - 1 of /datum/reagent/determination with 1 purity
+[2021-05-16 13:43:42.022] MOB ADD: on_merge(): *no key*/(Goodwin Foster) at Wasteland (205, 56, 2) - 6 of /datum/reagent/determination with 1 purity
+[2021-05-16 13:43:43.029] MOB ADD: on_merge(): *no key*/(Goodwin Foster) at Wasteland (205, 56, 2) - 8.5 of /datum/reagent/determination with 1 purity
+[2021-05-16 13:43:49.885] MOB ADD: on_mob_add(): *no key*/(Dortha Hoover) at Wasteland (215, 53, 2) - 2.5 of /datum/reagent/determination with 1 purity
+[2021-05-16 13:43:52.932] MOB ADD: on_merge(): *no key*/(Dortha Hoover) at Wasteland (215, 53, 2) - 7.5 of /datum/reagent/determination with 1 purity
+[2021-05-16 13:43:53.796] MOB ADD: on_merge(): *no key*/(Dortha Hoover) at Wasteland (215, 53, 2) - 8.5 of /datum/reagent/determination with 1 purity
+[2021-05-16 13:43:54.842] MOB ADD: on_merge(): *no key*/(Dortha Hoover) at Wasteland (215, 53, 2) - 9.5 of /datum/reagent/determination with 1 purity
+[2021-05-16 13:43:55.823] MOB ADD: on_merge(): *no key*/(Dortha Hoover) at Wasteland (215, 53, 2) - 14.5 of /datum/reagent/determination with 1 purity
+[2021-05-16 13:43:56.832] MOB ADD: on_merge(): *no key*/(Dortha Hoover) at Wasteland (215, 53, 2) - 22 of /datum/reagent/determination with 1 purity
+[2021-05-16 13:43:57.789] MOB ADD: on_merge(): *no key*/(Dortha Hoover) at Wasteland (215, 53, 2) - 23 of /datum/reagent/determination with 1 purity
+[2021-05-16 13:44:02.465] MOB ADD: on_merge(): *no key*/(Goodwin Foster) at Wasteland (205, 56, 2) - 16 of /datum/reagent/determination with 1 purity
+[2021-05-16 13:44:20.256] MOB DELETE: on_mob_delete: 2006f/(Adrian Reichard) at Wasteland (206, 56, 2) - /datum/reagent/medicine/healing_powder/poultice
+[2021-05-16 13:45:35.133] MOB ADD: on_mob_add(): 2006f/(Adrian Reichard) at Wasteland (227, 64, 2) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-16 13:47:18.798] MOB DELETE: on_mob_delete: 2006f/(Adrian Reichard) at City (63, 42, 2) - /datum/reagent/medicine/healing_powder
+[2021-05-16 13:58:43.930] MOB ADD: on_mob_add(): Matheusgp9999/(Nykix Nywt) at Wasteland (193, 122, 2) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-16 14:00:10.411] MOB DELETE: on_mob_delete: Matheusgp9999/(Nykix Nywt) at Wasteland (179, 114, 2) - /datum/reagent/medicine/healing_powder
+[2021-05-16 14:01:47.298] MOB ADD: on_mob_add(): Kaduh/(Tomas Miller) at Wasteland (240, 176, 2) - 5.704 of /datum/reagent/medicine/morphine with 1 purity
+[2021-05-16 14:01:47.298] MOB ADD: on_mob_add(): Kaduh/(Tomas Miller) at Wasteland (240, 176, 2) - 3.111 of /datum/reagent/drug/mushroomhallucinogen with 1 purity
+[2021-05-16 14:01:47.299] MOB ADD: on_mob_add(): Kaduh/(Tomas Miller) at Wasteland (240, 176, 2) - 2.074 of /datum/reagent/toxin with 1 purity
+[2021-05-16 14:01:47.299] MOB ADD: on_mob_add(): Kaduh/(Tomas Miller) at Wasteland (240, 176, 2) - 3.111 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-16 14:01:50.192] MOB DELETE: on_mob_delete: Kaduh/(Tomas Miller) at Wasteland (239, 179, 2) - /datum/reagent/toxin
+[2021-05-16 14:02:03.735] MOB DELETE: on_mob_delete: Kaduh/(Tomas Miller) at Wasteland (247, 198, 2) - /datum/reagent/consumable/nutriment
+[2021-05-16 14:02:46.898] MOB DELETE: on_mob_delete: Kaduh/(Tomas Miller) at Wasteland (247, 198, 2) - /datum/reagent/medicine/morphine
+[2021-05-16 14:03:07.069] MOB DELETE: on_mob_delete: Kaduh/(Tomas Miller) at Wasteland (247, 198, 2) - /datum/reagent/drug/mushroomhallucinogen
+[2021-05-16 14:03:27.872] MOB ADD: on_mob_add(): Matheusgp9999/(Nykix Nywt) at Building (202, 51, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-16 14:03:55.193] MOB DELETE: on_mob_delete: Matheusgp9999/(Nykix Nywt) at Building (197, 52, 2) - /datum/reagent/medicine/stimpak
+[2021-05-16 14:04:28.601] MOB ADD: on_mob_add(): Matheusgp9999/(Nykix Nywt) at Building (197, 55, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-16 14:05:01.483] MOB DELETE: on_mob_delete: Matheusgp9999/(Nykix Nywt) at Building (195, 50, 2) - /datum/reagent/medicine/stimpak
+[2021-05-16 14:06:44.598] MOB ADD: on_mob_add(): Kaduh/(Tomas Miller) at Wasteland (241, 144, 2) - 5 of /datum/reagent/toxin/cazador_venom with 1 purity
+[2021-05-16 14:07:00.405] MOB DELETE: on_mob_delete: Kaduh/(Tomas Miller) at Wasteland (242, 143, 2) - /datum/reagent/toxin/cazador_venom
+[2021-05-16 14:07:13.503] MOB ADD: on_mob_add(): Kaduh/(Tomas Miller) at Wasteland (241, 151, 2) - 0.667 of /datum/reagent/medicine/kelotane with 1 purity
+[2021-05-16 14:07:13.503] MOB ADD: on_mob_add(): Kaduh/(Tomas Miller) at Wasteland (241, 151, 2) - 0.667 of /datum/reagent/toxin/lipolicide with 1 purity
+[2021-05-16 14:07:13.503] MOB ADD: on_mob_add(): Kaduh/(Tomas Miller) at Wasteland (241, 151, 2) - 0.667 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-16 14:07:14.417] MOB DELETE: on_mob_delete: Kaduh/(Tomas Miller) at Wasteland (241, 151, 2) - /datum/reagent/toxin/lipolicide
+[2021-05-16 14:07:16.421] MOB DELETE: on_mob_delete: Kaduh/(Tomas Miller) at Wasteland (241, 151, 2) - /datum/reagent/medicine/kelotane
+[2021-05-16 14:07:16.422] MOB DELETE: on_mob_delete: Kaduh/(Tomas Miller) at Wasteland (241, 151, 2) - /datum/reagent/consumable/nutriment
+[2021-05-16 14:07:44.715] MOB ADD: on_mob_add(): Kaduh/(Tomas Miller) at Wasteland (244, 135, 2) - 5 of /datum/reagent/toxin/cazador_venom with 1 purity
+[2021-05-16 14:07:52.093] MOB ADD: on_mob_add(): Kaduh/(Tomas Miller) at Wasteland (242, 145, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-16 14:08:00.529] MOB DELETE: on_mob_delete: Kaduh/(Tomas Miller) at Wasteland (240, 139, 2) - /datum/reagent/toxin/cazador_venom
+[2021-05-16 14:08:28.591] MOB DELETE: on_mob_delete: Kaduh/(Tomas Miller) at Wasteland (245, 117, 2) - /datum/reagent/medicine/stimpak
+[2021-05-16 14:19:54.055] MOB ADD: on_mob_add(): Kaduh/(Tomas Miller) at Building (213, 76, 2) - 6.05 of /datum/reagent/consumable/cornoil with 1 purity
+[2021-05-16 14:19:54.056] MOB ADD: on_mob_add(): Kaduh/(Tomas Miller) at Building (213, 76, 2) - 1.65 of /datum/reagent/consumable/nutriment/vitamin with 1 purity
+[2021-05-16 14:19:54.056] MOB ADD: on_mob_add(): Kaduh/(Tomas Miller) at Building (213, 76, 2) - 3.3 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-16 14:19:55.527] MOB ADD: on_merge(): Kaduh/(Tomas Miller) at Building (213, 76, 2) - 10.6 of /datum/reagent/consumable/cornoil with 1 purity
+[2021-05-16 14:20:08.942] MOB DELETE: on_mob_delete: Kaduh/(Tomas Miller) at Wasteland (228, 83, 2) - /datum/reagent/consumable/nutriment/vitamin
+[2021-05-16 14:20:22.980] MOB DELETE: on_mob_delete: Kaduh/(Tomas Miller) at Wasteland (243, 109, 2) - /datum/reagent/consumable/nutriment
+[2021-05-16 14:20:49.039] MOB DELETE: on_mob_delete: Kaduh/(Tomas Miller) at Wasteland (215, 121, 2) - /datum/reagent/consumable/cornoil
+[2021-05-16 14:26:35.551] MOB ADD: on_mob_add(): Kaduh/(Tomas Miller) at Wasteland (177, 132, 2) - 1.179 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-16 14:26:35.551] MOB ADD: on_mob_add(): Kaduh/(Tomas Miller) at Wasteland (177, 132, 2) - 0.643 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-16 14:26:35.551] MOB ADD: on_mob_add(): Kaduh/(Tomas Miller) at Wasteland (177, 132, 2) - 1.179 of /datum/reagent/consumable/nutriment/vitamin with 1 purity
+[2021-05-16 14:26:36.130] MOB DELETE: on_mob_delete: Kaduh/(Tomas Miller) at Wasteland (177, 132, 2) - /datum/reagent/consumable/sugar
+[2021-05-16 14:26:40.143] MOB DELETE: on_mob_delete: Kaduh/(Tomas Miller) at Wasteland (184, 132, 2) - /datum/reagent/consumable/nutriment
+[2021-05-16 14:26:40.143] MOB DELETE: on_mob_delete: Kaduh/(Tomas Miller) at Wasteland (184, 132, 2) - /datum/reagent/consumable/nutriment/vitamin
+[2021-05-16 14:35:17.303] MOB ADD: on_mob_add(): Kaduh/(Tomas Miller) at Wasteland (106, 184, 2) - 1.179 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-16 14:35:17.303] MOB ADD: on_mob_add(): Kaduh/(Tomas Miller) at Wasteland (106, 184, 2) - 0.643 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-16 14:35:17.304] MOB ADD: on_mob_add(): Kaduh/(Tomas Miller) at Wasteland (106, 184, 2) - 1.179 of /datum/reagent/consumable/nutriment/vitamin with 1 purity
+[2021-05-16 14:35:17.838] MOB DELETE: on_mob_delete: Kaduh/(Tomas Miller) at Wasteland (106, 184, 2) - /datum/reagent/consumable/sugar
+[2021-05-16 14:35:19.347] MOB ADD: on_mob_add(): Kaduh/(Tomas Miller) at Wasteland (107, 184, 2) - 0.643 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-16 14:35:19.850] MOB DELETE: on_mob_delete: Kaduh/(Tomas Miller) at Wasteland (108, 185, 2) - /datum/reagent/consumable/sugar
+[2021-05-16 14:35:26.173] MOB ADD: on_mob_add(): Kaduh/(Tomas Miller) at Wasteland (107, 190, 2) - 0.643 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-16 14:35:27.854] MOB DELETE: on_mob_delete: Kaduh/(Tomas Miller) at Wasteland (107, 190, 2) - /datum/reagent/consumable/sugar
+[2021-05-16 14:35:30.784] MOB ADD: on_mob_add(): Kaduh/(Tomas Miller) at Wasteland (107, 189, 2) - 0.643 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-16 14:35:31.882] MOB DELETE: on_mob_delete: Kaduh/(Tomas Miller) at Wasteland (110, 187, 2) - /datum/reagent/consumable/sugar
+[2021-05-16 14:35:39.894] MOB DELETE: on_mob_delete: Kaduh/(Tomas Miller) at Wasteland (115, 185, 2) - /datum/reagent/consumable/nutriment
+[2021-05-16 14:35:39.894] MOB DELETE: on_mob_delete: Kaduh/(Tomas Miller) at Wasteland (115, 185, 2) - /datum/reagent/consumable/nutriment/vitamin
+[2021-05-16 14:38:06.728] MOB ADD: on_mob_add(): Kaduh/(Tomas Miller) at Wasteland (91, 229, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-16 14:39:24.279] MOB DELETE: on_mob_delete: Kaduh/(Tomas Miller) at Wasteland (94, 226, 2) - /datum/reagent/medicine/stimpak
+[2021-05-16 14:42:25.397] MOB ADD: on_mob_add(): Corvopimpolho/(Jerome Nabiev) at Wasteland (35, 77, 2) - 5 of /datum/reagent/toxin with 1 purity
+[2021-05-16 14:42:27.399] MOB ADD: on_merge(): Corvopimpolho/(Jerome Nabiev) at Wasteland (31, 75, 2) - 9.6 of /datum/reagent/toxin with 1 purity
+[2021-05-16 14:42:27.403] MOB ADD: on_merge(): Corvopimpolho/(Jerome Nabiev) at Wasteland (31, 75, 2) - 14.6 of /datum/reagent/toxin with 1 purity
+[2021-05-16 14:42:33.518] MOB ADD: on_merge(): Corvopimpolho/(Jerome Nabiev) at Wasteland (16, 75, 2) - 18.4 of /datum/reagent/toxin with 1 purity
+[2021-05-16 14:42:33.521] MOB ADD: on_merge(): Corvopimpolho/(Jerome Nabiev) at Wasteland (16, 75, 2) - 23.4 of /datum/reagent/toxin with 1 purity
+[2021-05-16 14:42:37.572] MOB ADD: on_merge(): Corvopimpolho/(Jerome Nabiev) at Wasteland (23, 76, 2) - 27.6 of /datum/reagent/toxin with 1 purity
+[2021-05-16 14:43:16.418] MOB ADD: on_mob_add(): Kaduh/(Tomas Miller) at Wasteland (158, 184, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-16 14:43:39.988] MOB DELETE: on_mob_delete: Kaduh/(Tomas Miller) at Wasteland (179, 180, 2) - /datum/reagent/medicine/stimpak
+[2021-05-16 14:45:33.666] MOB ADD: on_mob_add(): nickenzo12345/(Candice Hoenshell) at NCR (35, 196, 3) - 0.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:45:35.666] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at NCR (31, 198, 3) - 0.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:45:37.668] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at NCR (31, 205, 3) - 0.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:45:39.680] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at NCR (29, 205, 3) - 1 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:45:41.680] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at NCR (6, 215, 2) - 1.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:45:43.684] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at NCR (17, 215, 2) - 1.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:45:45.685] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at Wasteland (25, 217, 2) - 1.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:45:47.727] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at Wasteland (25, 221, 2) - 1.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:45:49.728] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at Wasteland (24, 229, 2) - 2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:45:51.728] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at Wasteland (30, 233, 2) - 2.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:45:53.731] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at Wasteland (40, 233, 2) - 2.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:45:56.869] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at Wasteland (43, 231, 2) - 2.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:45:58.875] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at Wasteland (44, 222, 2) - 2.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:46:00.885] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at Wasteland (44, 212, 2) - 3 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:46:03.475] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at Wasteland (43, 203, 2) - 3.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:46:05.476] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at Wasteland (37, 199, 2) - 3.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:46:07.483] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at Wasteland (27, 200, 2) - 3.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:46:09.482] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at Wasteland (26, 208, 2) - 3.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:46:11.483] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at Wasteland (25, 217, 2) - 4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:46:13.497] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at Wasteland (25, 227, 2) - 4.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:46:15.497] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at Wasteland (21, 234, 2) - 4.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:46:17.496] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at Wasteland (18, 235, 2) - 4.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:46:20.081] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at Wasteland (14, 238, 2) - 4.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:46:22.107] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at Wasteland (12, 242, 2) - 5 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:46:24.153] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at Wasteland (13, 239, 2) - 5.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:46:26.174] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at Wasteland (10, 232, 2) - 5.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:46:28.264] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at Wasteland (8, 232, 2) - 5.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:46:30.920] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at Wasteland (183, 4, 4) - 5.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:46:32.902] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at Wasteland (8, 233, 2) - 6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:46:34.907] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at Wasteland (14, 230, 2) - 6.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:46:36.952] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at Wasteland (7, 230, 2) - 6.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:46:40.095] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at Wasteland (5, 230, 2) - 6.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:46:42.113] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at Wasteland (15, 230, 2) - 6.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:46:44.132] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at Wasteland (24, 231, 2) - 7 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:46:47.270] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at Wasteland (30, 230, 2) - 7.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:46:49.302] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at Wasteland (32, 232, 2) - 7.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:46:51.323] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at Wasteland (38, 236, 2) - 7.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:46:53.365] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at Wasteland (43, 236, 2) - 7.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:46:55.380] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at Wasteland (44, 234, 2) - 8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:46:57.427] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at Wasteland (34, 233, 2) - 8.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:47:00.488] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at Wasteland (32, 234, 2) - 8.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:47:02.489] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at Wasteland (40, 232, 2) - 8.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:47:05.166] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at Wasteland (48, 229, 2) - 8.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:47:07.136] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at Wasteland (48, 220, 2) - 9 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:47:09.158] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at Wasteland (44, 221, 2) - 9.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:47:11.169] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at Wasteland (44, 228, 2) - 9.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:47:13.174] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at Wasteland (46, 228, 2) - 9.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:47:14.812] MOB ADD: on_mob_add(): nickenzo12345/(Candice Hoenshell) at Wasteland (46, 228, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-16 14:47:15.803] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at Wasteland (48, 228, 2) - 9.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:47:17.827] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at Wasteland (48, 229, 2) - 10 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:47:19.812] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at Wasteland (48, 227, 2) - 10.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:47:21.909] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at Wasteland (48, 228, 2) - 10.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:47:23.932] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at Wasteland (48, 228, 2) - 10.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:47:26.861] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at Wasteland (47, 228, 2) - 10.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:47:29.487] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at Wasteland (47, 228, 2) - 11 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:47:31.543] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at Wasteland (47, 228, 2) - 11.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:47:33.544] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at Wasteland (47, 228, 2) - 11.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:47:35.555] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at Wasteland (47, 228, 2) - 11.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:47:37.569] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at Wasteland (47, 228, 2) - 11.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:47:39.571] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at Wasteland (47, 228, 2) - 12 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:47:41.036] MOB DELETE: on_mob_delete: nickenzo12345/(Candice Hoenshell) at Wasteland (47, 228, 2) - /datum/reagent/medicine/stimpak
+[2021-05-16 14:47:41.581] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at Wasteland (47, 228, 2) - 12.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:47:43.606] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at Wasteland (47, 228, 2) - 12.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:47:45.623] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at Wasteland (47, 228, 2) - 12.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:47:47.705] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at Wasteland (47, 228, 2) - 12.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:47:49.707] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at Wasteland (48, 228, 2) - 13 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:47:51.805] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at Wasteland (48, 228, 2) - 13.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:47:53.836] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at Wasteland (48, 228, 2) - 13.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:47:55.839] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at NCR (51, 228, 2) - 13.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:47:57.883] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at NCR (53, 228, 2) - 13.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:47:59.891] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at NCR (52, 227, 2) - 14 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:48:01.911] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at NCR (52, 225, 2) - 14.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:48:03.921] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at NCR (52, 226, 2) - 14.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:48:05.921] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at NCR (53, 226, 2) - 14.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:48:07.932] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at NCR (53, 226, 2) - 14.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:48:09.943] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at NCR (53, 226, 2) - 15 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:48:11.976] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at NCR (53, 226, 2) - 15.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 14:48:55.405] MOB ADD: on_mob_add(): Kaduh/(Tomas Miller) at Wasteland (240, 183, 2) - 3 of /datum/reagent/consumable/nutriment/vitamin with 1 purity
+[2021-05-16 14:48:55.405] MOB ADD: on_mob_add(): Kaduh/(Tomas Miller) at Wasteland (240, 183, 2) - 6 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-16 14:49:09.708] MOB DELETE: on_mob_delete: Kaduh/(Tomas Miller) at Wasteland (240, 201, 2) - /datum/reagent/consumable/nutriment/vitamin
+[2021-05-16 14:49:23.736] MOB DELETE: on_mob_delete: Kaduh/(Tomas Miller) at Wasteland (239, 230, 2) - /datum/reagent/consumable/nutriment
+[2021-05-16 14:49:49.574] MOB ADD: on_mob_add(): Kaduh/(Tomas Miller) at Wasteland (236, 231, 2) - 20 of /datum/reagent/medicine/radx with 1 purity
+[2021-05-16 14:50:20.888] MOB ADD: on_mob_add(): Kaduh/(Tomas Miller) at Wasteland (237, 232, 2) - 1.179 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-16 14:50:20.888] MOB ADD: on_mob_add(): Kaduh/(Tomas Miller) at Wasteland (237, 232, 2) - 0.643 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-16 14:50:20.889] MOB ADD: on_mob_add(): Kaduh/(Tomas Miller) at Wasteland (237, 232, 2) - 1.179 of /datum/reagent/consumable/nutriment/vitamin with 1 purity
+[2021-05-16 14:50:21.977] MOB DELETE: on_mob_delete: Kaduh/(Tomas Miller) at Wasteland (237, 232, 2) - /datum/reagent/consumable/sugar
+[2021-05-16 14:50:22.232] MOB ADD: on_mob_add(): Kaduh/(Tomas Miller) at Wasteland (237, 232, 2) - 0.643 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-16 14:50:23.983] MOB DELETE: on_mob_delete: Kaduh/(Tomas Miller) at Wasteland (237, 232, 2) - /datum/reagent/consumable/sugar
+[2021-05-16 14:50:31.990] MOB DELETE: on_mob_delete: Kaduh/(Tomas Miller) at Wasteland (235, 243, 2) - /datum/reagent/consumable/nutriment
+[2021-05-16 14:50:31.990] MOB DELETE: on_mob_delete: Kaduh/(Tomas Miller) at Wasteland (235, 243, 2) - /datum/reagent/consumable/nutriment/vitamin
+[2021-05-16 14:50:44.011] MOB DELETE: on_mob_delete: nickenzo12345/(Candice Hoenshell) at NCR (40, 219, 2) - /datum/reagent/drug/nicotine
+[2021-05-16 14:52:18.924] INGESTION: SELF: corvopimpolho/(Phillip Brinigh) (loc the floor at Caves (207, 164, 2)) - /datum/reagent/consumable/milk (50u)
+[2021-05-16 14:52:19.419] MOB ADD: on_mob_add(): corvopimpolho/(Phillip Brinigh) at Caves (207, 164, 2) - 5 of /datum/reagent/consumable/milk with 1 purity
+[2021-05-16 14:52:19.420] TRANSFER: FROM The bucket ([0x2049b30]) (0,0,0) TO Phillip Brinigh ([mob_947]) (207,164,2) - corvopimpolho/(Phillip Brinigh) - self swallowed: trans_to with arguments Phillip Brinigh 5 1 1 0 and reagents Milk - 5
+[2021-05-16 14:52:44.857] MOB DELETE: on_mob_delete: corvopimpolho/(Phillip Brinigh) at Building (199, 166, 2) - /datum/reagent/consumable/milk
+[2021-05-16 14:58:51.959] MOB ADD: on_mob_add(): nickenzo12345/(Candice Hoenshell) at Wasteland (121, 141, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-16 14:59:47.780] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at Wasteland (114, 130, 2) - 14.4 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-16 14:59:57.480] OVERDOSE STOP: nickenzo12345/(Candice Hoenshell) at Wasteland (110, 137, 2) got over their need for Nicotine.
+[2021-05-16 15:00:00.098] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at Wasteland (110, 140, 2) - 23.2 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-16 15:00:32.239] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at Wasteland (125, 131, 2) - 30 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-16 15:00:47.294] MOB ADD: on_merge(): nickenzo12345/(Candice Hoenshell) at Wasteland (159, 133, 2) - 38.6 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-16 15:00:47.650] OVERDOSE START: nickenzo12345/(Candice Hoenshell) at Wasteland (160, 133, 2) started overdosing on 38.6 units of Stimpak Fluid.
+[2021-05-16 15:00:51.878] MOB ADD: on_mob_add(): Italos/(Josef Polson) at North Bunker Elevator (44, 232, 4) - 5 of /datum/reagent/toxin with 1 purity
+[2021-05-16 15:00:51.882] MOB ADD: on_merge(): Italos/(Josef Polson) at North Bunker Elevator (44, 232, 4) - 10 of /datum/reagent/toxin with 1 purity
+[2021-05-16 15:00:53.879] MOB ADD: on_merge(): Italos/(Josef Polson) at North Bunker Elevator (43, 232, 4) - 13.6 of /datum/reagent/toxin with 1 purity
+[2021-05-16 15:00:53.882] MOB ADD: on_merge(): Italos/(Josef Polson) at North Bunker Elevator (43, 232, 4) - 18.6 of /datum/reagent/toxin with 1 purity
+[2021-05-16 15:00:55.756] MOB ADD: on_mob_add(): Italos/(Josef Polson) at North Bunker Elevator (43, 232, 4) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-16 15:00:55.870] MOB ADD: on_merge(): Italos/(Josef Polson) at North Bunker Elevator (43, 232, 4) - 23.2 of /datum/reagent/toxin with 1 purity
+[2021-05-16 15:00:55.872] MOB ADD: on_merge(): Italos/(Josef Polson) at North Bunker Elevator (43, 232, 4) - 28.2 of /datum/reagent/toxin with 1 purity
+[2021-05-16 15:00:57.875] MOB ADD: on_merge(): Italos/(Josef Polson) at North Bunker Elevator (43, 232, 4) - 32.8 of /datum/reagent/toxin with 1 purity
+[2021-05-16 15:00:57.878] MOB ADD: on_merge(): Italos/(Josef Polson) at North Bunker Elevator (43, 232, 4) - 37.8 of /datum/reagent/toxin with 1 purity
+[2021-05-16 15:00:59.885] MOB ADD: on_merge(): Italos/(Josef Polson) at North Bunker Elevator (43, 232, 4) - 42.4 of /datum/reagent/toxin with 1 purity
+[2021-05-16 15:00:59.889] MOB ADD: on_merge(): Italos/(Josef Polson) at North Bunker Elevator (43, 232, 4) - 47.4 of /datum/reagent/toxin with 1 purity
+[2021-05-16 15:01:01.878] MOB ADD: on_merge(): Italos/(Josef Polson) at North Bunker Elevator (43, 232, 4) - 52 of /datum/reagent/toxin with 1 purity
+[2021-05-16 15:01:01.882] MOB ADD: on_merge(): Italos/(Josef Polson) at North Bunker Elevator (43, 232, 4) - 57 of /datum/reagent/toxin with 1 purity
+[2021-05-16 15:01:03.884] MOB ADD: on_merge(): Italos/(Josef Polson) at North Bunker Elevator (43, 232, 4) - 61.6 of /datum/reagent/toxin with 1 purity
+[2021-05-16 15:01:05.892] MOB ADD: on_merge(): Italos/(Josef Polson) at North Bunker Elevator (43, 232, 4) - 66.2 of /datum/reagent/toxin with 1 purity
+[2021-05-16 15:01:07.696] MOB ADD: on_mob_add(): Italos/(Josef Polson) at North Bunker Elevator (43, 232, 4) - 10 of /datum/reagent/medicine/epinephrine with 1 purity
+[2021-05-16 15:01:15.907] MOB ADD: on_merge(): Italos/(Josef Polson) at North Bunker Elevator (43, 232, 4) - 69.2 of /datum/reagent/toxin with 1 purity
+[2021-05-16 15:01:15.911] MOB ADD: on_merge(): Italos/(Josef Polson) at North Bunker Elevator (43, 232, 4) - 74.2 of /datum/reagent/toxin with 1 purity
+[2021-05-16 15:01:17.912] MOB ADD: on_merge(): Italos/(Josef Polson) at North Bunker Elevator (43, 232, 4) - 78.8 of /datum/reagent/toxin with 1 purity
+[2021-05-16 15:01:19.909] MOB ADD: on_merge(): Italos/(Josef Polson) at North Bunker Elevator (43, 232, 4) - 83.4 of /datum/reagent/toxin with 1 purity
+[2021-05-16 15:01:27.923] MOB ADD: on_merge(): Italos/(Josef Polson) at North Bunker Elevator (43, 232, 4) - 86.8 of /datum/reagent/toxin with 1 purity
+[2021-05-16 15:01:27.927] MOB ADD: on_merge(): Italos/(Josef Polson) at North Bunker Elevator (43, 232, 4) - 91.8 of /datum/reagent/toxin with 1 purity
+[2021-05-16 15:01:29.927] MOB ADD: on_merge(): Italos/(Josef Polson) at North Bunker Elevator (43, 232, 4) - 96.4 of /datum/reagent/toxin with 1 purity
+[2021-05-16 15:01:32.664] MOB ADD: on_merge(): Italos/(Josef Polson) at North Bunker Elevator (43, 232, 4) - 101 of /datum/reagent/toxin with 1 purity
+[2021-05-16 15:01:34.663] MOB ADD: on_merge(): Italos/(Josef Polson) at North Bunker Elevator (43, 232, 4) - 105.6 of /datum/reagent/toxin with 1 purity
+[2021-05-16 15:01:41.202] MOB ADD: on_merge(): Italos/(Josef Polson) at North Bunker Elevator (43, 232, 4) - 109.4 of /datum/reagent/toxin with 1 purity
+[2021-05-16 15:01:53.945] MOB ADD: on_merge(): Italos/(Josef Polson) at North Bunker Elevator (43, 232, 4) - 14.6 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-16 15:01:56.507] MOB ADD: on_merge(): Italos/(Josef Polson) at North Bunker Elevator (43, 232, 4) - 111.6 of /datum/reagent/toxin with 1 purity
+[2021-05-16 15:01:58.494] MOB ADD: on_merge(): Italos/(Josef Polson) at North Bunker Elevator (43, 232, 4) - 116.2 of /datum/reagent/toxin with 1 purity
+[2021-05-16 15:02:00.498] MOB ADD: on_merge(): Italos/(Josef Polson) at North Bunker Elevator (43, 232, 4) - 120.8 of /datum/reagent/toxin with 1 purity
+[2021-05-16 15:02:09.767] MOB ADD: on_merge(): Italos/(Josef Polson) at North Bunker Elevator (43, 232, 4) - 124.2 of /datum/reagent/toxin with 1 purity
+[2021-05-16 15:02:40.346] MOB ADD: on_merge(): Italos/(Josef Polson) at North Bunker Elevator (44, 232, 4) - 123.2 of /datum/reagent/toxin with 1 purity
+[2021-05-16 15:02:42.301] MOB ADD: on_merge(): Italos/(Josef Polson) at North Bunker Elevator (45, 234, 4) - 127.8 of /datum/reagent/toxin with 1 purity
+[2021-05-16 15:02:44.292] MOB ADD: on_merge(): Italos/(Josef Polson) at North Bunker Elevator (46, 232, 4) - 132.4 of /datum/reagent/toxin with 1 purity
+[2021-05-16 15:02:46.351] MOB ADD: on_merge(): Italos/(Josef Polson) at North Bunker Elevator (43, 232, 4) - 137 of /datum/reagent/toxin with 1 purity
+[2021-05-16 15:02:48.302] MOB ADD: on_merge(): Italos/(Josef Polson) at North Bunker Elevator (43, 233, 4) - 141.6 of /datum/reagent/toxin with 1 purity
+[2021-05-16 15:03:03.098] MOB ADD: on_mob_add(): 2006f[DC]/(Adrian Reichard) at Tunnel (55, 41, 3) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-16 15:04:20.339] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Enclave (139, 22, 3) - /datum/reagent/medicine/stimpak
+[2021-05-16 15:04:22.332] MOB DELETE: on_mob_delete: 2006f[DC]/(Adrian Reichard) at Tunnel (60, 46, 3) - /datum/reagent/medicine/stimpak
+[2021-05-16 15:04:32.358] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Enclave (138, 24, 3) - /datum/reagent/medicine/epinephrine
+[2021-05-16 15:05:47.355] MOB ADD: on_mob_add(): Italos/(Josef Polson) at Enclave (136, 25, 3) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-16 15:06:55.837] MOB ADD: on_mob_add(): GabrielDoomBR/(Baam Frest) at Wasteland (57, 36, 2) - 1 of /datum/reagent/determination with 1 purity
+[2021-05-16 15:06:57.090] MOB ADD: on_merge(): GabrielDoomBR/(Baam Frest) at Wasteland (55, 39, 2) - 3.5 of /datum/reagent/determination with 1 purity
+[2021-05-16 15:07:14.620] MOB ADD: on_mob_add(): GabrielDoomBR/(Baam Frest) at Wasteland (63, 37, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-16 15:07:19.981] MOB DELETE: on_mob_delete: GabrielDoomBR/(Baam Frest) at Wasteland (63, 37, 2) - /datum/reagent/determination
+[2021-05-16 15:07:24.149] MOB ADD: on_mob_add(): corvopimpolho/(Phillip Brinigh) at Wasteland (241, 194, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-16 15:07:34.267] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Enclave (142, 21, 3) - /datum/reagent/medicine/stimpak
+[2021-05-16 15:07:42.264] MOB DELETE: on_mob_delete: corvopimpolho/(Phillip Brinigh) at Wasteland (240, 184, 2) - /datum/reagent/medicine/stimpak
+[2021-05-16 15:08:20.404] MOB DELETE: on_mob_delete: GabrielDoomBR/(Baam Frest) at Tunnel (57, 39, 3) - /datum/reagent/medicine/stimpak
+[2021-05-16 15:09:01.232] MOB ADD: on_mob_add(): Italos/(Josef Polson) at Enclave (145, 21, 3) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-16 15:09:53.422] MOB ADD: on_mob_add(): Italos/(Josef Polson) at Enclave (142, 21, 3) - 20 of /datum/reagent/medicine/radx with 1 purity
+[2021-05-16 15:10:37.055] MOB ADD: on_merge(): Italos/(Josef Polson) at Enclave (142, 21, 3) - 10.6 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-16 15:12:20.486] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Enclave (141, 21, 3) - /datum/reagent/medicine/stimpak
+[2021-05-16 15:13:06.034] MOB ADD: on_mob_add(): nickenzo12345/(Aubrey Hujsak) at Tunnel (65, 46, 3) - 10 of /datum/reagent/consumable/ethanol/whiskey with 1 purity
+[2021-05-16 15:13:07.196] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Enclave (145, 20, 3) - /datum/reagent/medicine/radx
+[2021-05-16 15:13:17.362] MOB ADD: on_mob_add(): Italos/(Josef Polson) at Enclave (145, 20, 3) - 10.073 of /datum/reagent/medicine/epinephrine with 1 purity
+[2021-05-16 15:13:37.580] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Enclave (145, 20, 3) - /datum/reagent/toxin
+[2021-05-16 15:13:55.835] MOB DELETE: on_mob_delete: nickenzo12345/(Aubrey Hujsak) at Tunnel (63, 46, 3) - /datum/reagent/consumable/ethanol/whiskey
+[2021-05-16 15:15:41.870] MOB ADD: on_mob_add(): Matheusgp9999/(Nykix Nywt) at Wasteland (180, 8, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-16 15:16:03.003] MOB DELETE: on_mob_delete: Matheusgp9999/(Nykix Nywt) at Tunnel (174, 8, 2) - /datum/reagent/medicine/stimpak
+[2021-05-16 15:16:23.575] MOB ADD: on_mob_add(): Matheusgp9999/(Nykix Nywt) at Tunnel (170, 10, 2) - 1.6 of /datum/reagent/consumable/nutriment/vitamin with 1 purity
+[2021-05-16 15:16:23.576] MOB ADD: on_mob_add(): Matheusgp9999/(Nykix Nywt) at Tunnel (170, 10, 2) - 3.2 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-16 15:16:23.576] MOB ADD: on_mob_add(): Matheusgp9999/(Nykix Nywt) at Tunnel (170, 10, 2) - 3.2 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-16 15:16:24.905] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Tunnel (170, 10, 2) - 6 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-16 15:16:33.068] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Enclave (144, 21, 3) - /datum/reagent/medicine/epinephrine
+[2021-05-16 15:16:39.076] MOB DELETE: on_mob_delete: Matheusgp9999/(Nykix Nywt) at Wasteland (153, 6, 2) - /datum/reagent/consumable/nutriment/vitamin
+[2021-05-16 15:16:39.077] MOB DELETE: on_mob_delete: Matheusgp9999/(Nykix Nywt) at Wasteland (153, 6, 2) - /datum/reagent/consumable/sugar
+[2021-05-16 15:16:53.088] MOB DELETE: on_mob_delete: Matheusgp9999/(Nykix Nywt) at Wasteland (148, 9, 2) - /datum/reagent/consumable/nutriment
+[2021-05-16 15:17:16.703] MOB ADD: on_mob_add(): Matheusgp9999/(Nykix Nywt) at Wasteland (134, 11, 2) - 2 of /datum/reagent/toxin/cazador_venom with 1 purity
+[2021-05-16 15:17:16.703] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Wasteland (134, 11, 2) - 6 of /datum/reagent/toxin/cazador_venom with 1 purity
+[2021-05-16 15:17:18.703] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Wasteland (140, 11, 2) - 7.6 of /datum/reagent/toxin/cazador_venom with 1 purity
+[2021-05-16 15:17:18.703] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Wasteland (140, 11, 2) - 11.6 of /datum/reagent/toxin/cazador_venom with 1 purity
+[2021-05-16 15:18:02.952] MOB ADD: on_mob_add(): nickenzo12345/(Aubrey Hujsak) at Tunnel (62, 39, 3) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-16 15:18:04.307] MOB ADD: on_mob_add(): Matheusgp9999/(Nykix Nywt) at Wasteland (144, 13, 2) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-16 15:18:07.398] MOB DELETE: on_mob_delete: Matheusgp9999/(Nykix Nywt) at Wasteland (144, 13, 2) - /datum/reagent/toxin/cazador_venom
+[2021-05-16 15:18:18.233] MOB ADD: on_merge(): nickenzo12345/(Aubrey Hujsak) at Tunnel (63, 40, 3) - 18.4 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-16 15:18:27.499] MOB DELETE: on_mob_delete: Matheusgp9999/(Nykix Nywt) at Wasteland (144, 13, 2) - /datum/reagent/medicine/healing_powder
+[2021-05-16 15:18:39.517] MOB DELETE: on_mob_delete: nickenzo12345/(Aubrey Hujsak) at Tunnel (63, 39, 3) - /datum/reagent/medicine/stimpak
+[2021-05-16 15:22:06.523] MOB ADD: on_mob_add(): Matheusgp9999/(Nykix Nywt) at Followers of the Apocalypse (79, 57, 2) - 0.286 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-16 15:22:06.524] MOB ADD: on_mob_add(): Matheusgp9999/(Nykix Nywt) at Followers of the Apocalypse (79, 57, 2) - 0.857 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-16 15:22:06.524] MOB ADD: on_mob_add(): Matheusgp9999/(Nykix Nywt) at Followers of the Apocalypse (79, 57, 2) - 0.857 of /datum/reagent/consumable/coco with 1 purity
+[2021-05-16 15:22:07.460] MOB DELETE: on_mob_delete: Matheusgp9999/(Nykix Nywt) at Followers of the Apocalypse (79, 57, 2) - /datum/reagent/consumable/nutriment
+[2021-05-16 15:22:07.700] MOB ADD: on_mob_add(): Zero9e1/(Jack) at Ruins (18, 111, 4) - 5 of /datum/reagent/toxin with 1 purity
+[2021-05-16 15:22:07.740] MOB ADD: on_mob_add(): Matheusgp9999/(Nykix Nywt) at Followers of the Apocalypse (79, 57, 2) - 0.286 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-16 15:22:07.740] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Followers of the Apocalypse (79, 57, 2) - 0.914 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-16 15:22:07.740] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Followers of the Apocalypse (79, 57, 2) - 1.314 of /datum/reagent/consumable/coco with 1 purity
+[2021-05-16 15:22:09.510] MOB DELETE: on_mob_delete: Matheusgp9999/(Nykix Nywt) at Followers of the Apocalypse (79, 57, 2) - /datum/reagent/consumable/nutriment
+[2021-05-16 15:22:09.691] MOB ADD: on_mob_add(): Matheusgp9999/(Nykix Nywt) at Followers of the Apocalypse (79, 57, 2) - 0.286 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-16 15:22:09.691] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Followers of the Apocalypse (79, 57, 2) - 0.971 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-16 15:22:09.692] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Followers of the Apocalypse (79, 57, 2) - 1.771 of /datum/reagent/consumable/coco with 1 purity
+[2021-05-16 15:22:09.711] MOB ADD: on_merge(): Zero9e1/(Jack) at Ruins (17, 111, 4) - 9.6 of /datum/reagent/toxin with 1 purity
+[2021-05-16 15:22:10.877] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Followers of the Apocalypse (79, 57, 2) - 1.4 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-16 15:22:10.878] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Followers of the Apocalypse (79, 57, 2) - 2.2 of /datum/reagent/consumable/coco with 1 purity
+[2021-05-16 15:22:13.511] MOB DELETE: on_mob_delete: Matheusgp9999/(Nykix Nywt) at Followers of the Apocalypse (80, 57, 2) - /datum/reagent/consumable/sugar
+[2021-05-16 15:22:13.512] MOB DELETE: on_mob_delete: Matheusgp9999/(Nykix Nywt) at Followers of the Apocalypse (80, 57, 2) - /datum/reagent/consumable/nutriment
+[2021-05-16 15:22:18.345] MOB ADD: on_mob_add(): Matheusgp9999/(Nykix Nywt) at Followers of the Apocalypse (80, 57, 2) - 0.2 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-16 15:22:18.345] MOB ADD: on_mob_add(): Matheusgp9999/(Nykix Nywt) at Followers of the Apocalypse (80, 57, 2) - 0.6 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-16 15:22:18.345] MOB ADD: on_mob_add(): Matheusgp9999/(Nykix Nywt) at Followers of the Apocalypse (80, 57, 2) - 0.2 of /datum/reagent/consumable/sodiumchloride with 1 purity
+[2021-05-16 15:22:19.153] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Followers of the Apocalypse (80, 57, 2) - 1.2 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-16 15:22:19.154] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Followers of the Apocalypse (80, 57, 2) - 0.4 of /datum/reagent/consumable/sodiumchloride with 1 purity
+[2021-05-16 15:22:19.537] MOB DELETE: on_mob_delete: Matheusgp9999/(Nykix Nywt) at Followers of the Apocalypse (80, 57, 2) - /datum/reagent/consumable/nutriment
+[2021-05-16 15:22:19.537] MOB DELETE: on_mob_delete: Matheusgp9999/(Nykix Nywt) at Followers of the Apocalypse (80, 57, 2) - /datum/reagent/consumable/sodiumchloride
+[2021-05-16 15:22:19.982] MOB ADD: on_mob_add(): Matheusgp9999/(Nykix Nywt) at Followers of the Apocalypse (80, 57, 2) - 0.2 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-16 15:22:19.983] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Followers of the Apocalypse (80, 57, 2) - 1 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-16 15:22:19.983] MOB ADD: on_mob_add(): Matheusgp9999/(Nykix Nywt) at Followers of the Apocalypse (80, 57, 2) - 0.2 of /datum/reagent/consumable/sodiumchloride with 1 purity
+[2021-05-16 15:22:20.799] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Followers of the Apocalypse (80, 57, 2) - 1.6 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-16 15:22:20.799] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Followers of the Apocalypse (80, 57, 2) - 0.4 of /datum/reagent/consumable/sodiumchloride with 1 purity
+[2021-05-16 15:22:21.543] MOB DELETE: on_mob_delete: Matheusgp9999/(Nykix Nywt) at Wasteland (76, 57, 2) - /datum/reagent/consumable/coco
+[2021-05-16 15:22:21.544] MOB DELETE: on_mob_delete: Matheusgp9999/(Nykix Nywt) at Wasteland (76, 57, 2) - /datum/reagent/consumable/nutriment
+[2021-05-16 15:22:21.544] MOB DELETE: on_mob_delete: Matheusgp9999/(Nykix Nywt) at Wasteland (76, 57, 2) - /datum/reagent/consumable/sodiumchloride
+[2021-05-16 15:22:21.629] MOB ADD: on_mob_add(): Matheusgp9999/(Nykix Nywt) at Wasteland (76, 57, 2) - 0.2 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-16 15:22:21.629] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Wasteland (76, 57, 2) - 1.4 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-16 15:22:21.630] MOB ADD: on_mob_add(): Matheusgp9999/(Nykix Nywt) at Wasteland (76, 57, 2) - 0.2 of /datum/reagent/consumable/sodiumchloride with 1 purity
+[2021-05-16 15:22:23.552] MOB DELETE: on_mob_delete: Matheusgp9999/(Nykix Nywt) at Wasteland (73, 50, 2) - /datum/reagent/consumable/nutriment
+[2021-05-16 15:22:23.552] MOB DELETE: on_mob_delete: Matheusgp9999/(Nykix Nywt) at Wasteland (73, 50, 2) - /datum/reagent/consumable/sodiumchloride
+[2021-05-16 15:22:25.551] MOB DELETE: on_mob_delete: Matheusgp9999/(Nykix Nywt) at Wasteland (76, 51, 2) - /datum/reagent/consumable/sugar
+[2021-05-16 15:22:28.673] MOB ADD: on_mob_add(): Matheusgp9999/(Nykix Nywt) at Wasteland (79, 61, 2) - 0.286 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-16 15:22:28.673] MOB ADD: on_mob_add(): Matheusgp9999/(Nykix Nywt) at Wasteland (79, 61, 2) - 0.857 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-16 15:22:28.674] MOB ADD: on_mob_add(): Matheusgp9999/(Nykix Nywt) at Wasteland (79, 61, 2) - 0.857 of /datum/reagent/consumable/coco with 1 purity
+[2021-05-16 15:22:29.568] MOB DELETE: on_mob_delete: Matheusgp9999/(Nykix Nywt) at Wasteland (82, 61, 2) - /datum/reagent/consumable/nutriment
+[2021-05-16 15:22:30.322] MOB ADD: on_mob_add(): Matheusgp9999/(Nykix Nywt) at Wasteland (86, 61, 2) - 0.286 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-16 15:22:30.323] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Wasteland (86, 61, 2) - 0.914 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-16 15:22:30.323] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Wasteland (86, 61, 2) - 1.314 of /datum/reagent/consumable/coco with 1 purity
+[2021-05-16 15:22:31.570] MOB DELETE: on_mob_delete: Matheusgp9999/(Nykix Nywt) at Wasteland (92, 62, 2) - /datum/reagent/consumable/nutriment
+[2021-05-16 15:22:33.568] MOB DELETE: on_mob_delete: Matheusgp9999/(Nykix Nywt) at Wasteland (94, 67, 2) - /datum/reagent/consumable/sugar
+[2021-05-16 15:22:34.651] MOB ADD: on_mob_add(): Zero9e1/(Jack) at Ruins (17, 111, 4) - 2 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-16 15:22:34.652] MOB ADD: on_mob_add(): Zero9e1/(Jack) at Ruins (17, 111, 4) - 1 of /datum/reagent/consumable/nutriment/vitamin with 1 purity
+[2021-05-16 15:22:43.859] MOB DELETE: on_mob_delete: Matheusgp9999/(Nykix Nywt) at Wasteland (96, 73, 2) - /datum/reagent/consumable/coco
+[2021-05-16 15:22:45.874] MOB DELETE: on_mob_delete: Zero9e1/(Jack) at Ruins (18, 111, 4) - /datum/reagent/consumable/nutriment/vitamin
+[2021-05-16 15:22:49.904] MOB DELETE: on_mob_delete: Zero9e1/(Jack) at Ruins (18, 111, 4) - /datum/reagent/consumable/nutriment
+[2021-05-16 15:22:53.908] MOB DELETE: on_mob_delete: Zero9e1/(Jack) at Ruins (18, 112, 4) - /datum/reagent/toxin
+[2021-05-16 15:23:02.037] MOB ADD: on_mob_add(): Zero9e1/(Jack) at Ruins (18, 112, 4) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-16 15:23:14.246] MOB ADD: on_mob_add(): Zero9e1/(Jack) at Ruins (12, 112, 4) - 5 of /datum/reagent/toxin with 1 purity
+[2021-05-16 15:23:16.224] MOB ADD: on_merge(): Zero9e1/(Jack) at Ruins (15, 111, 4) - 9.6 of /datum/reagent/toxin with 1 purity
+[2021-05-16 15:23:18.219] MOB ADD: on_merge(): Zero9e1/(Jack) at Ruins (15, 111, 4) - 14.2 of /datum/reagent/toxin with 1 purity
+[2021-05-16 15:23:26.553] MOB ADD: on_merge(): Zero9e1/(Jack) at Ruins (14, 111, 4) - 17.6 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-16 15:24:06.413] MOB DELETE: on_mob_delete: Zero9e1/(Jack) at Wasteland (40, 130, 2) - /datum/reagent/medicine/healing_powder
+[2021-05-16 15:24:20.597] MOB DELETE: on_mob_delete: Zero9e1/(Jack) at Caves (57, 122, 2) - /datum/reagent/toxin
+[2021-05-16 15:24:46.889] MOB ADD: on_mob_add(): Zero9e1/(Jack) at Village (42, 126, 2) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-16 15:24:47.266] MOB DELETE: on_mob_delete: Zero9e1/(Jack) at Village (42, 126, 2) - /datum/reagent/medicine/healing_powder
+[2021-05-16 15:25:44.093] MOB ADD: on_mob_add(): Matheusgp9999/(Nykix Nywt) at Village (146, 107, 2) - 1.6 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-16 15:25:44.094] MOB ADD: on_mob_add(): Matheusgp9999/(Nykix Nywt) at Village (146, 107, 2) - 1 of /datum/reagent/consumable/doctor_delight with 1 purity
+[2021-05-16 15:25:44.094] MOB ADD: on_mob_add(): Matheusgp9999/(Nykix Nywt) at Village (146, 107, 2) - 0.4 of /datum/reagent/consumable/nutriment/vitamin with 1 purity
+[2021-05-16 15:25:45.469] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Village (146, 107, 2) - 2 of /datum/reagent/consumable/doctor_delight with 1 purity
+[2021-05-16 15:25:46.554] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Village (146, 106, 2) - 2.6 of /datum/reagent/consumable/doctor_delight with 1 purity
+[2021-05-16 15:25:47.414] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Village (146, 106, 2) - 3.6 of /datum/reagent/consumable/doctor_delight with 1 purity
+[2021-05-16 15:25:48.395] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Village (146, 106, 2) - 4.2 of /datum/reagent/consumable/doctor_delight with 1 purity
+[2021-05-16 15:25:54.005] MOB DELETE: on_mob_delete: Matheusgp9999/(Nykix Nywt) at Village (146, 101, 2) - /datum/reagent/consumable/nutriment/vitamin
+[2021-05-16 15:26:10.101] MOB DELETE: on_mob_delete: Matheusgp9999/(Nykix Nywt) at Village (149, 97, 2) - /datum/reagent/consumable/doctor_delight
+[2021-05-16 15:26:24.321] MOB DELETE: on_mob_delete: Matheusgp9999/(Nykix Nywt) at Village (139, 103, 2) - /datum/reagent/consumable/nutriment
+[2021-05-16 15:28:02.210] MOB ADD: on_mob_add(): Italos/(Josef Polson) at Wasteland (115, 78, 2) - 0.387 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:28:02.210] MOB ADD: on_mob_add(): Italos/(Josef Polson) at Wasteland (115, 78, 2) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:28:03.619] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Wasteland (107, 78, 2) - /datum/reagent/gold
+[2021-05-16 15:28:04.205] MOB ADD: on_merge(): Italos/(Josef Polson) at Wasteland (104, 78, 2) - 0.574 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:28:04.205] MOB ADD: on_mob_add(): Italos/(Josef Polson) at Wasteland (104, 78, 2) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:28:05.615] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Wasteland (96, 78, 2) - /datum/reagent/gold
+[2021-05-16 15:28:06.205] MOB ADD: on_merge(): Italos/(Josef Polson) at Wasteland (94, 78, 2) - 0.761 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:28:06.205] MOB ADD: on_mob_add(): Italos/(Josef Polson) at Wasteland (94, 78, 2) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:28:07.637] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Wasteland (93, 80, 2) - /datum/reagent/gold
+[2021-05-16 15:28:08.225] MOB ADD: on_merge(): Italos/(Josef Polson) at Wasteland (91, 80, 2) - 0.948 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:28:08.225] MOB ADD: on_mob_add(): Italos/(Josef Polson) at Wasteland (91, 80, 2) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:28:09.639] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Wasteland (83, 80, 2) - /datum/reagent/gold
+[2021-05-16 15:28:10.227] MOB ADD: on_merge(): Italos/(Josef Polson) at Wasteland (80, 80, 2) - 1.135 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:28:10.227] MOB ADD: on_mob_add(): Italos/(Josef Polson) at Wasteland (80, 80, 2) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:28:11.646] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Wasteland (73, 78, 2) - /datum/reagent/gold
+[2021-05-16 15:28:12.234] MOB ADD: on_merge(): Italos/(Josef Polson) at Wasteland (72, 78, 2) - 1.322 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:28:12.234] MOB ADD: on_mob_add(): Italos/(Josef Polson) at Wasteland (72, 78, 2) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:28:14.007] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Wasteland (67, 79, 2) - /datum/reagent/gold
+[2021-05-16 15:28:14.498] MOB ADD: on_merge(): Italos/(Josef Polson) at Wasteland (66, 79, 2) - 1.509 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:28:14.498] MOB ADD: on_mob_add(): Italos/(Josef Polson) at Wasteland (66, 79, 2) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:28:15.915] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Wasteland (67, 74, 2) - /datum/reagent/gold
+[2021-05-16 15:28:16.499] MOB ADD: on_merge(): Italos/(Josef Polson) at Wasteland (65, 72, 2) - 1.696 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:28:16.499] MOB ADD: on_mob_add(): Italos/(Josef Polson) at Wasteland (65, 72, 2) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:28:17.916] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Wasteland (61, 68, 2) - /datum/reagent/gold
+[2021-05-16 15:28:18.501] MOB ADD: on_merge(): Italos/(Josef Polson) at Wasteland (61, 66, 2) - 1.883 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:28:18.502] MOB ADD: on_mob_add(): Italos/(Josef Polson) at Wasteland (61, 66, 2) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:28:20.332] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Wasteland (58, 61, 2) - /datum/reagent/gold
+[2021-05-16 15:28:20.964] MOB ADD: on_merge(): Italos/(Josef Polson) at Wasteland (57, 59, 2) - 2.07 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:28:20.964] MOB ADD: on_mob_add(): Italos/(Josef Polson) at Wasteland (57, 59, 2) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:28:22.374] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Wasteland (57, 51, 2) - /datum/reagent/gold
+[2021-05-16 15:28:22.964] MOB ADD: on_merge(): Italos/(Josef Polson) at Wasteland (57, 48, 2) - 2.257 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:28:22.965] MOB ADD: on_mob_add(): Italos/(Josef Polson) at Wasteland (57, 48, 2) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:28:24.397] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Wasteland (57, 40, 2) - /datum/reagent/gold
+[2021-05-16 15:28:24.992] MOB ADD: on_merge(): Italos/(Josef Polson) at Wasteland (57, 36, 2) - 2.444 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:28:24.993] MOB ADD: on_mob_add(): Italos/(Josef Polson) at Wasteland (57, 36, 2) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:28:26.408] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Wasteland (56, 34, 2) - /datum/reagent/gold
+[2021-05-16 15:28:26.991] MOB ADD: on_merge(): Italos/(Josef Polson) at Wasteland (59, 34, 2) - 2.631 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:28:26.991] MOB ADD: on_mob_add(): Italos/(Josef Polson) at Wasteland (59, 34, 2) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:28:28.401] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Wasteland (64, 36, 2) - /datum/reagent/gold
+[2021-05-16 15:28:28.992] MOB ADD: on_merge(): Italos/(Josef Polson) at Wasteland (66, 36, 2) - 2.818 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:28:28.992] MOB ADD: on_mob_add(): Italos/(Josef Polson) at Wasteland (66, 36, 2) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:28:30.405] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Wasteland (66, 36, 2) - /datum/reagent/gold
+[2021-05-16 15:28:31.000] MOB ADD: on_merge(): Italos/(Josef Polson) at Caves (67, 35, 3) - 3.005 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:28:31.000] MOB ADD: on_mob_add(): Italos/(Josef Polson) at Caves (67, 35, 3) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:28:32.407] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Caves (68, 36, 3) - /datum/reagent/gold
+[2021-05-16 15:28:33.001] MOB ADD: on_merge(): Italos/(Josef Polson) at Caves (68, 36, 3) - 3.192 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:28:33.001] MOB ADD: on_mob_add(): Italos/(Josef Polson) at Caves (68, 36, 3) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:28:34.461] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Caves (68, 34, 3) - /datum/reagent/gold
+[2021-05-16 15:28:35.047] MOB ADD: on_merge(): Italos/(Josef Polson) at Caves (68, 34, 3) - 3.379 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:28:35.047] MOB ADD: on_mob_add(): Italos/(Josef Polson) at Caves (68, 34, 3) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:28:36.463] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Wasteland (67, 35, 2) - /datum/reagent/gold
+[2021-05-16 15:28:37.055] MOB ADD: on_merge(): Italos/(Josef Polson) at Wasteland (66, 36, 2) - 3.566 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:28:37.055] MOB ADD: on_mob_add(): Italos/(Josef Polson) at Wasteland (66, 36, 2) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:28:38.472] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Wasteland (58, 36, 2) - /datum/reagent/gold
+[2021-05-16 15:28:39.064] MOB ADD: on_merge(): Italos/(Josef Polson) at Wasteland (56, 36, 2) - 3.753 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:28:39.064] MOB ADD: on_mob_add(): Italos/(Josef Polson) at Wasteland (56, 36, 2) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:28:40.481] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Wasteland (54, 36, 2) - /datum/reagent/gold
+[2021-05-16 15:28:41.070] MOB ADD: on_merge(): Italos/(Josef Polson) at Wasteland (54, 36, 2) - 3.94 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:28:41.070] MOB ADD: on_mob_add(): Italos/(Josef Polson) at Wasteland (54, 36, 2) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:28:42.486] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Wasteland (51, 40, 2) - /datum/reagent/gold
+[2021-05-16 15:28:43.073] MOB ADD: on_merge(): Italos/(Josef Polson) at Wasteland (49, 41, 2) - 4.127 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:28:43.074] MOB ADD: on_mob_add(): Italos/(Josef Polson) at Wasteland (49, 41, 2) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:28:44.483] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at City (46, 47, 2) - /datum/reagent/gold
+[2021-05-16 15:28:45.073] MOB ADD: on_merge(): Italos/(Josef Polson) at City (45, 47, 2) - 4.314 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:28:45.074] MOB ADD: on_mob_add(): Italos/(Josef Polson) at City (45, 47, 2) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:28:46.518] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at City (46, 50, 2) - /datum/reagent/gold
+[2021-05-16 15:28:48.422] MOB ADD: on_merge(): Italos/(Josef Polson) at City (45, 49, 2) - 4.501 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:28:48.422] MOB ADD: on_mob_add(): Italos/(Josef Polson) at City (45, 49, 2) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:28:49.835] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at City (42, 45, 2) - /datum/reagent/gold
+[2021-05-16 15:28:50.432] MOB ADD: on_merge(): Italos/(Josef Polson) at City (40, 44, 2) - 4.688 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:28:50.432] MOB ADD: on_mob_add(): Italos/(Josef Polson) at City (40, 44, 2) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:28:51.847] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at City (39, 43, 2) - /datum/reagent/gold
+[2021-05-16 15:28:52.432] MOB ADD: on_merge(): Italos/(Josef Polson) at City (40, 44, 2) - 4.875 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:28:52.432] MOB ADD: on_mob_add(): Italos/(Josef Polson) at City (40, 44, 2) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:28:53.930] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at City (43, 45, 2) - /datum/reagent/gold
+[2021-05-16 15:28:54.522] MOB ADD: on_merge(): Italos/(Josef Polson) at City (44, 46, 2) - 5.062 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:28:54.522] MOB ADD: on_mob_add(): Italos/(Josef Polson) at City (44, 46, 2) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:28:55.929] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Wasteland (47, 42, 2) - /datum/reagent/gold
+[2021-05-16 15:28:56.523] MOB ADD: on_merge(): Italos/(Josef Polson) at Wasteland (49, 40, 2) - 5.249 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:28:56.523] MOB ADD: on_mob_add(): Italos/(Josef Polson) at Wasteland (49, 40, 2) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:28:57.932] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Wasteland (55, 40, 2) - /datum/reagent/gold
+[2021-05-16 15:28:58.523] MOB ADD: on_merge(): Italos/(Josef Polson) at Wasteland (57, 39, 2) - 5.436 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:28:58.523] MOB ADD: on_mob_add(): Italos/(Josef Polson) at Wasteland (57, 39, 2) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:28:59.937] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Wasteland (63, 37, 2) - /datum/reagent/gold
+[2021-05-16 15:29:00.533] MOB ADD: on_merge(): Italos/(Josef Polson) at City (64, 39, 2) - 5.623 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:29:00.534] MOB ADD: on_mob_add(): Italos/(Josef Polson) at City (64, 39, 2) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:29:01.953] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at City (61, 41, 2) - /datum/reagent/gold
+[2021-05-16 15:29:02.545] MOB ADD: on_merge(): Italos/(Josef Polson) at Tunnel (60, 40, 3) - 5.81 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:29:02.545] MOB ADD: on_mob_add(): Italos/(Josef Polson) at Tunnel (60, 40, 3) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:29:03.960] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Tunnel (60, 40, 3) - /datum/reagent/gold
+[2021-05-16 15:29:04.552] MOB ADD: on_merge(): Italos/(Josef Polson) at Tunnel (60, 40, 3) - 5.997 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:29:04.553] MOB ADD: on_mob_add(): Italos/(Josef Polson) at Tunnel (60, 40, 3) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:29:06.282] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Tunnel (60, 40, 3) - /datum/reagent/gold
+[2021-05-16 15:29:06.872] MOB ADD: on_merge(): Italos/(Josef Polson) at Tunnel (60, 40, 3) - 6.184 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:29:06.872] MOB ADD: on_mob_add(): Italos/(Josef Polson) at Tunnel (60, 40, 3) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:29:08.286] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Tunnel (60, 40, 3) - /datum/reagent/gold
+[2021-05-16 15:29:08.871] MOB ADD: on_merge(): Italos/(Josef Polson) at Tunnel (60, 40, 3) - 6.371 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:29:08.872] MOB ADD: on_mob_add(): Italos/(Josef Polson) at Tunnel (60, 40, 3) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:29:10.624] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Tunnel (61, 40, 3) - /datum/reagent/gold
+[2021-05-16 15:29:11.218] MOB ADD: on_merge(): Italos/(Josef Polson) at Tunnel (61, 40, 3) - 6.558 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:29:11.218] MOB ADD: on_mob_add(): Italos/(Josef Polson) at Tunnel (61, 40, 3) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:29:12.624] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at City (60, 40, 2) - /datum/reagent/gold
+[2021-05-16 15:29:13.223] MOB ADD: on_merge(): Italos/(Josef Polson) at City (61, 41, 2) - 6.745 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:29:13.223] MOB ADD: on_mob_add(): Italos/(Josef Polson) at City (61, 41, 2) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:29:14.634] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at City (64, 39, 2) - /datum/reagent/gold
+[2021-05-16 15:29:15.227] MOB ADD: on_merge(): Italos/(Josef Polson) at Wasteland (64, 37, 2) - 6.932 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:29:15.228] MOB ADD: on_mob_add(): Italos/(Josef Polson) at Wasteland (64, 37, 2) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:29:16.640] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Wasteland (57, 36, 2) - /datum/reagent/gold
+[2021-05-16 15:29:17.229] MOB ADD: on_merge(): Italos/(Josef Polson) at Wasteland (54, 36, 2) - 7.119 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:29:17.229] MOB ADD: on_mob_add(): Italos/(Josef Polson) at Wasteland (54, 36, 2) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:29:18.641] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Wasteland (56, 33, 2) - /datum/reagent/gold
+[2021-05-16 15:29:19.228] MOB ADD: on_merge(): Italos/(Josef Polson) at Wasteland (56, 30, 2) - 7.30601 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:29:19.229] MOB ADD: on_mob_add(): Italos/(Josef Polson) at Wasteland (56, 30, 2) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:29:20.711] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Wasteland (57, 22, 2) - /datum/reagent/gold
+[2021-05-16 15:29:21.305] MOB ADD: on_merge(): Italos/(Josef Polson) at Wasteland (57, 20, 2) - 7.49301 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:29:21.305] MOB ADD: on_mob_add(): Italos/(Josef Polson) at Wasteland (57, 20, 2) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:29:22.721] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Wasteland (58, 15, 2) - /datum/reagent/gold
+[2021-05-16 15:29:23.312] MOB ADD: on_merge(): Italos/(Josef Polson) at Wasteland (59, 14, 2) - 7.68001 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:29:23.313] MOB ADD: on_mob_add(): Italos/(Josef Polson) at Wasteland (59, 14, 2) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:29:24.734] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Wasteland (60, 11, 2) - /datum/reagent/gold
+[2021-05-16 15:29:25.315] MOB ADD: on_merge(): Italos/(Josef Polson) at Wasteland (61, 11, 2) - 7.86701 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:29:25.316] MOB ADD: on_mob_add(): Italos/(Josef Polson) at Wasteland (61, 11, 2) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:29:26.773] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Wasteland (61, 11, 2) - /datum/reagent/gold
+[2021-05-16 15:29:27.364] MOB ADD: on_merge(): Italos/(Josef Polson) at Wasteland (61, 12, 2) - 8.05401 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:29:27.365] MOB ADD: on_mob_add(): Italos/(Josef Polson) at Wasteland (61, 12, 2) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:29:28.782] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Wasteland (61, 12, 2) - /datum/reagent/gold
+[2021-05-16 15:29:29.380] MOB ADD: on_merge(): Italos/(Josef Polson) at Wasteland (61, 12, 2) - 8.24101 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:29:29.380] MOB ADD: on_mob_add(): Italos/(Josef Polson) at Wasteland (61, 12, 2) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:29:29.568] MOB ADD: on_mob_add(): Matheusgp9999/(Nykix Nywt) at Village (113, 154, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-16 15:29:30.822] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Wasteland (61, 12, 2) - /datum/reagent/gold
+[2021-05-16 15:29:31.413] MOB ADD: on_merge(): Italos/(Josef Polson) at Wasteland (61, 12, 2) - 8.42801 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:29:31.413] MOB ADD: on_mob_add(): Italos/(Josef Polson) at Wasteland (61, 12, 2) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:29:32.829] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Wasteland (61, 12, 2) - /datum/reagent/gold
+[2021-05-16 15:29:33.444] MOB ADD: on_merge(): Italos/(Josef Polson) at Wasteland (61, 12, 2) - 8.61501 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:29:33.445] MOB ADD: on_mob_add(): Italos/(Josef Polson) at Wasteland (61, 12, 2) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:29:34.864] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Wasteland (61, 12, 2) - /datum/reagent/gold
+[2021-05-16 15:29:35.454] MOB ADD: on_merge(): Italos/(Josef Polson) at Wasteland (61, 12, 2) - 8.80201 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:29:35.454] MOB ADD: on_mob_add(): Italos/(Josef Polson) at Wasteland (61, 12, 2) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:29:36.910] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Wasteland (60, 9, 2) - /datum/reagent/gold
+[2021-05-16 15:29:37.505] MOB ADD: on_merge(): Italos/(Josef Polson) at Wasteland (60, 9, 2) - 8.98901 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:29:37.505] MOB ADD: on_mob_add(): Italos/(Josef Polson) at Wasteland (60, 9, 2) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:29:38.921] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Wasteland (60, 9, 2) - /datum/reagent/gold
+[2021-05-16 15:29:39.534] MOB ADD: on_merge(): Italos/(Josef Polson) at Wasteland (60, 9, 2) - 9.17601 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:29:39.534] MOB ADD: on_mob_add(): Italos/(Josef Polson) at Wasteland (60, 9, 2) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:29:40.946] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Wasteland (60, 9, 2) - /datum/reagent/gold
+[2021-05-16 15:29:41.536] MOB ADD: on_merge(): Italos/(Josef Polson) at Wasteland (60, 10, 2) - 9.36301 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:29:41.536] MOB ADD: on_mob_add(): Italos/(Josef Polson) at Wasteland (60, 10, 2) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:29:42.940] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Wasteland (61, 11, 2) - /datum/reagent/gold
+[2021-05-16 15:29:43.535] MOB ADD: on_merge(): Italos/(Josef Polson) at Wasteland (61, 11, 2) - 9.55001 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:29:43.535] MOB ADD: on_mob_add(): Italos/(Josef Polson) at Wasteland (61, 11, 2) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:29:44.949] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Wasteland (61, 11, 2) - /datum/reagent/gold
+[2021-05-16 15:29:45.543] MOB ADD: on_merge(): Italos/(Josef Polson) at Wasteland (61, 11, 2) - 9.73701 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:29:45.543] MOB ADD: on_mob_add(): Italos/(Josef Polson) at Wasteland (61, 11, 2) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:29:46.956] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Wasteland (61, 11, 2) - /datum/reagent/gold
+[2021-05-16 15:29:47.550] MOB ADD: on_merge(): Italos/(Josef Polson) at Wasteland (61, 11, 2) - 9.92401 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:29:47.550] MOB ADD: on_mob_add(): Italos/(Josef Polson) at Wasteland (61, 11, 2) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:29:48.968] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Wasteland (61, 11, 2) - /datum/reagent/gold
+[2021-05-16 15:29:49.552] MOB ADD: on_merge(): Italos/(Josef Polson) at Wasteland (61, 11, 2) - 10.111 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:29:49.552] MOB ADD: on_mob_add(): Italos/(Josef Polson) at Wasteland (61, 11, 2) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:29:50.958] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Wasteland (61, 11, 2) - /datum/reagent/gold
+[2021-05-16 15:29:51.553] MOB ADD: on_merge(): Italos/(Josef Polson) at Wasteland (61, 11, 2) - 10.298 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:29:51.554] MOB ADD: on_mob_add(): Italos/(Josef Polson) at Wasteland (61, 11, 2) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:29:53.030] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Wasteland (61, 11, 2) - /datum/reagent/gold
+[2021-05-16 15:29:53.625] MOB ADD: on_merge(): Italos/(Josef Polson) at Wasteland (61, 11, 2) - 10.485 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:29:53.625] MOB ADD: on_mob_add(): Italos/(Josef Polson) at Wasteland (61, 11, 2) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:29:55.035] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Wasteland (61, 11, 2) - /datum/reagent/gold
+[2021-05-16 15:29:55.681] MOB ADD: on_merge(): Italos/(Josef Polson) at Wasteland (61, 11, 2) - 10.672 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:29:55.682] MOB ADD: on_mob_add(): Italos/(Josef Polson) at Wasteland (61, 11, 2) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:29:57.095] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Wasteland (61, 11, 2) - /datum/reagent/gold
+[2021-05-16 15:29:57.683] MOB ADD: on_merge(): Italos/(Josef Polson) at Wasteland (61, 11, 2) - 10.859 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:29:57.683] MOB ADD: on_mob_add(): Italos/(Josef Polson) at Wasteland (61, 11, 2) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:29:59.096] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Wasteland (60, 11, 2) - /datum/reagent/gold
+[2021-05-16 15:29:59.686] MOB ADD: on_merge(): Italos/(Josef Polson) at Wasteland (60, 11, 2) - 11.046 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:29:59.686] MOB ADD: on_mob_add(): Italos/(Josef Polson) at Wasteland (60, 11, 2) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:30:01.091] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Wasteland (60, 11, 2) - /datum/reagent/gold
+[2021-05-16 15:30:01.685] MOB ADD: on_merge(): Italos/(Josef Polson) at Wasteland (60, 11, 2) - 11.233 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:30:01.685] MOB ADD: on_mob_add(): Italos/(Josef Polson) at Wasteland (60, 11, 2) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:30:03.474] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Wasteland (60, 11, 2) - /datum/reagent/gold
+[2021-05-16 15:30:04.495] MOB ADD: on_merge(): Italos/(Josef Polson) at Wasteland (60, 11, 2) - 11.42 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:30:04.495] MOB ADD: on_mob_add(): Italos/(Josef Polson) at Wasteland (60, 11, 2) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:30:05.917] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Wasteland (60, 11, 2) - /datum/reagent/gold
+[2021-05-16 15:30:06.503] MOB ADD: on_merge(): Italos/(Josef Polson) at Wasteland (60, 11, 2) - 11.607 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:30:06.504] MOB ADD: on_mob_add(): Italos/(Josef Polson) at Wasteland (60, 11, 2) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:30:07.917] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Wasteland (60, 11, 2) - /datum/reagent/gold
+[2021-05-16 15:30:08.509] MOB ADD: on_merge(): Italos/(Josef Polson) at Wasteland (60, 11, 2) - 11.794 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:30:08.509] MOB ADD: on_mob_add(): Italos/(Josef Polson) at Wasteland (60, 11, 2) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:30:09.919] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Wasteland (60, 11, 2) - /datum/reagent/gold
+[2021-05-16 15:30:09.924] MOB DELETE: on_mob_delete: Matheusgp9999/(Nykix Nywt) at Village (129, 157, 2) - /datum/reagent/medicine/stimpak
+[2021-05-16 15:30:10.509] MOB ADD: on_merge(): Italos/(Josef Polson) at Wasteland (60, 11, 2) - 11.981 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:30:10.510] MOB ADD: on_mob_add(): Italos/(Josef Polson) at Wasteland (60, 11, 2) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:30:11.917] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Wasteland (60, 11, 2) - /datum/reagent/gold
+[2021-05-16 15:30:13.663] MOB ADD: on_merge(): Italos/(Josef Polson) at Wasteland (60, 11, 2) - 12.168 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:30:13.663] MOB ADD: on_mob_add(): Italos/(Josef Polson) at Wasteland (60, 11, 2) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:30:15.445] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Wasteland (60, 11, 2) - /datum/reagent/gold
+[2021-05-16 15:30:16.031] MOB ADD: on_merge(): Italos/(Josef Polson) at Wasteland (60, 11, 2) - 12.355 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:30:16.032] MOB ADD: on_mob_add(): Italos/(Josef Polson) at Wasteland (60, 11, 2) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:30:16.650] MOB ADD: on_mob_add(): gabrieldoombr/(Ricky Woolery) at Village (111, 168, 2) - 1 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-16 15:30:16.650] MOB ADD: on_mob_add(): gabrieldoombr/(Ricky Woolery) at Village (111, 168, 2) - 1 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-16 15:30:17.441] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Wasteland (61, 12, 2) - /datum/reagent/gold
+[2021-05-16 15:30:17.483] MOB ADD: on_merge(): gabrieldoombr/(Ricky Woolery) at Village (111, 168, 2) - 1.2 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-16 15:30:18.033] MOB ADD: on_merge(): Italos/(Josef Polson) at Wasteland (60, 15, 2) - 12.542 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:30:18.033] MOB ADD: on_mob_add(): Italos/(Josef Polson) at Wasteland (60, 15, 2) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:30:18.290] MOB ADD: on_merge(): gabrieldoombr/(Ricky Woolery) at Village (111, 168, 2) - 2.2 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-16 15:30:19.232] MOB ADD: on_merge(): gabrieldoombr/(Ricky Woolery) at Village (111, 168, 2) - 3.2 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-16 15:30:19.452] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Wasteland (59, 18, 2) - /datum/reagent/gold
+[2021-05-16 15:30:20.080] MOB ADD: on_merge(): Italos/(Josef Polson) at Wasteland (59, 18, 2) - 12.729 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:30:20.080] MOB ADD: on_mob_add(): Italos/(Josef Polson) at Wasteland (59, 18, 2) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:30:20.168] MOB ADD: on_merge(): gabrieldoombr/(Ricky Woolery) at Village (111, 168, 2) - 3.4 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-16 15:30:21.481] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Wasteland (59, 17, 2) - /datum/reagent/gold
+[2021-05-16 15:30:22.070] MOB ADD: on_merge(): Italos/(Josef Polson) at Wasteland (59, 17, 2) - 12.916 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:30:22.071] MOB ADD: on_mob_add(): Italos/(Josef Polson) at Wasteland (59, 17, 2) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:30:23.489] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Wasteland (60, 22, 2) - /datum/reagent/gold
+[2021-05-16 15:30:24.071] MOB ADD: on_merge(): Italos/(Josef Polson) at Wasteland (61, 24, 2) - 13.103 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:30:24.071] MOB ADD: on_mob_add(): Italos/(Josef Polson) at Wasteland (61, 24, 2) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:30:24.358] MOB ADD: on_merge(): gabrieldoombr/(Ricky Woolery) at Village (111, 169, 2) - 2.8 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-16 15:30:25.133] MOB ADD: on_merge(): gabrieldoombr/(Ricky Woolery) at Village (111, 168, 2) - 3.8 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-16 15:30:25.489] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Wasteland (58, 29, 2) - /datum/reagent/gold
+[2021-05-16 15:30:26.000] MOB ADD: on_merge(): gabrieldoombr/(Ricky Woolery) at Village (111, 168, 2) - 4 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-16 15:30:26.075] MOB ADD: on_merge(): Italos/(Josef Polson) at Wasteland (58, 31, 2) - 13.29 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:30:26.076] MOB ADD: on_mob_add(): Italos/(Josef Polson) at Wasteland (58, 31, 2) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:30:27.486] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Wasteland (56, 38, 2) - /datum/reagent/gold
+[2021-05-16 15:30:28.076] MOB ADD: on_merge(): Italos/(Josef Polson) at Wasteland (55, 39, 2) - 13.477 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:30:28.076] MOB ADD: on_mob_add(): Italos/(Josef Polson) at Wasteland (55, 39, 2) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:30:29.495] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Wasteland (55, 39, 2) - /datum/reagent/gold
+[2021-05-16 15:30:30.087] MOB ADD: on_merge(): Italos/(Josef Polson) at Wasteland (54, 39, 2) - 13.664 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:30:30.087] MOB ADD: on_mob_add(): Italos/(Josef Polson) at Wasteland (54, 39, 2) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:30:31.510] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Wasteland (54, 39, 2) - /datum/reagent/gold
+[2021-05-16 15:30:32.091] MOB ADD: on_merge(): Italos/(Josef Polson) at Wasteland (54, 39, 2) - 13.851 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:30:32.091] MOB ADD: on_mob_add(): Italos/(Josef Polson) at Wasteland (54, 39, 2) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:30:33.528] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Wasteland (54, 39, 2) - /datum/reagent/gold
+[2021-05-16 15:30:34.117] MOB ADD: on_merge(): Italos/(Josef Polson) at Wasteland (54, 39, 2) - 14.038 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:30:34.117] MOB ADD: on_mob_add(): Italos/(Josef Polson) at Wasteland (54, 39, 2) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:30:35.519] MOB DELETE: on_mob_delete: gabrieldoombr/(Ricky Woolery) at Wasteland (122, 182, 2) - /datum/reagent/consumable/sugar
+[2021-05-16 15:30:35.525] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Wasteland (53, 40, 2) - /datum/reagent/gold
+[2021-05-16 15:30:36.117] MOB ADD: on_merge(): Italos/(Josef Polson) at Wasteland (53, 40, 2) - 14.225 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:30:36.117] MOB ADD: on_mob_add(): Italos/(Josef Polson) at Wasteland (53, 40, 2) - 0.013 of /datum/reagent/gold with 1 purity
+[2021-05-16 15:30:37.570] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Wasteland (53, 40, 2) - /datum/reagent/gold
+[2021-05-16 15:30:58.417] MOB DELETE: on_mob_delete: gabrieldoombr/(Ricky Woolery) at Building (133, 199, 2) - /datum/reagent/consumable/nutriment
+[2021-05-16 15:33:06.790] MOB DELETE: on_mob_delete: Italos/(Josef Polson) at Tunnel (71, 28, 3) - /datum/reagent/drug/nicotine
+[2021-05-16 15:35:42.821] MOB ADD: on_mob_add(): GabrielDoomBR/(Ricky Woolery) at Building (30, 95, 2) - 5 of /datum/reagent/toxin with 1 purity
+[2021-05-16 15:35:46.903] MOB ADD: on_merge(): GabrielDoomBR/(Ricky Woolery) at Building (28, 89, 2) - 9.2 of /datum/reagent/toxin with 1 purity
+[2021-05-16 15:35:50.440] MOB ADD: on_mob_add(): GabrielDoomBR/(Ricky Woolery) at Building (28, 88, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-16 15:36:23.177] MOB DELETE: on_mob_delete: GabrielDoomBR/(Ricky Woolery) at Building (28, 92, 2) - /datum/reagent/toxin
+[2021-05-16 15:36:57.809] MOB DELETE: on_mob_delete: GabrielDoomBR/(Ricky Woolery) at Building (32, 96, 2) - /datum/reagent/medicine/stimpak
+[2021-05-16 15:36:58.066] MOB ADD: on_mob_add(): alexalbright/(Alex Albright) at Building (40, 96, 2) - 5 of /datum/reagent/toxin with 1 purity
+[2021-05-16 15:37:00.006] MOB ADD: on_merge(): alexalbright/(Alex Albright) at Building (38, 96, 2) - 9.6 of /datum/reagent/toxin with 1 purity
+[2021-05-16 15:37:02.065] MOB ADD: on_merge(): alexalbright/(Alex Albright) at Building (38, 96, 2) - 14.2 of /datum/reagent/toxin with 1 purity
+[2021-05-16 15:37:04.128] MOB ADD: on_merge(): alexalbright/(Alex Albright) at Building (38, 96, 2) - 18.8 of /datum/reagent/toxin with 1 purity
+[2021-05-16 15:37:12.400] MOB ADD: on_mob_add(): alexalbright/(Alex Albright) at Building (38, 96, 2) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-16 15:38:14.814] MOB DELETE: on_mob_delete: alexalbright/(Alex Albright) at Building (38, 91, 2) - /datum/reagent/medicine/healing_powder
+[2021-05-16 15:38:28.993] MOB DELETE: on_mob_delete: alexalbright/(Alex Albright) at Building (31, 96, 2) - /datum/reagent/toxin
+[2021-05-16 15:40:09.034] MOB ADD: on_mob_add(): alexalbright/(Alex Albright) at Bunker (241, 229, 4) - 1 of /datum/reagent/determination with 1 purity
+[2021-05-16 15:40:16.913] MOB DELETE: on_mob_delete: alexalbright/(Alex Albright) at Bunker Elevator (240, 229, 4) - /datum/reagent/determination
+[2021-05-16 15:41:17.033] MOB ADD: on_mob_add(): Shirozinha/(Tio Osso) at Village (155, 153, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-16 15:41:45.398] MOB ADD: on_mob_add(): Mr.Universo/(Lucas Chikui) at Wasteland (211, 60, 2) - 20 of /datum/reagent/consumable/ethanol/cognac with 1 purity
+[2021-05-16 15:41:54.116] MOB DELETE: on_mob_delete: Shirozinha/(Tio Osso) at Village (155, 154, 2) - /datum/reagent/medicine/stimpak
+[2021-05-16 15:42:37.477] OVERDOSE STOP: Italos/(Josef Polson) at Wasteland (77, 59, 2) got over their need for Nicotine.
+[2021-05-16 15:43:03.397] MOB ADD: on_mob_add(): GabrielDoomBR/(Ricky Woolery) at Wasteland (77, 51, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-16 15:43:08.729] MOB ADD: on_mob_add(): *no key*/(Aubrey Hujsak) at Wasteland (77, 55, 2) - 1 of /datum/reagent/determination with 1 purity
+[2021-05-16 15:43:19.695] MOB DELETE: on_mob_delete: GabrielDoomBR/(Ricky Woolery) at Followers of the Apocalypse (88, 47, 3) - /datum/reagent/medicine/stimpak
+[2021-05-16 15:43:25.719] MOB DELETE: on_mob_delete: Mr.Universo/(Lucas Chikui) at Wasteland (211, 127, 2) - /datum/reagent/consumable/ethanol/cognac
+[2021-05-16 15:43:40.870] MOB ADD: on_mob_add(): Mr.Universo/(Lucas Chikui) at Wasteland (192, 132, 2) - 0.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:43:42.942] MOB ADD: on_merge(): Mr.Universo/(Lucas Chikui) at Wasteland (189, 131, 2) - 0.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:43:44.942] MOB ADD: on_merge(): Mr.Universo/(Lucas Chikui) at Wasteland (187, 127, 2) - 0.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:43:46.948] MOB ADD: on_merge(): Mr.Universo/(Lucas Chikui) at Wasteland (185, 124, 2) - 1 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:43:48.955] MOB ADD: on_merge(): Mr.Universo/(Lucas Chikui) at Wasteland (184, 123, 2) - 1.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:43:50.962] MOB ADD: on_merge(): Mr.Universo/(Lucas Chikui) at Wasteland (188, 120, 2) - 1.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-16 15:43:51.661] MOB ADD: on_mob_add(): GabrielDoomBR[DC]/(Ricky Woolery) at Followers of the Apocalypse (87, 47, 3) - 10 of /datum/reagent/medicine/stimpak with 1 purity

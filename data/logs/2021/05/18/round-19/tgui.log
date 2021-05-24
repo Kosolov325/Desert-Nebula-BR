@@ -1,0 +1,2135 @@
+[2021-05-18 06:27:10.039] Starting up round ID 19.
+ - -------------------------
+[2021-05-18 11:16:28.329] corvopimpolho in browseroutput/initialize
+[2021-05-18 12:19:27.668] n0fun in browseroutput/initialize
+[2021-05-18 12:19:37.523] n0fun in verb/fix_tgui_panel
+ - Started fixing.
+[2021-05-18 12:19:37.523] n0fun in browseroutput/initialize
+[2021-05-18 12:19:40.822] n0fun in verb/fix_tgui_panel
+ - Failed to fix.
+[2021-05-18 12:19:41.772] n0fun in verb/fix_tgui_panel
+ - Started fixing.
+[2021-05-18 12:19:41.772] n0fun in browseroutput/initialize
+[2021-05-18 12:19:43.316] n0fun in verb/fix_tgui_panel
+ - Fixed by calling 'initialize'
+[2021-05-18 12:20:08.850] n0fun (as Peter Quill at 208,121,2)
+ - Using: /datum/component/loadout_selector [0x2100c2e8]
+ - new LoadoutSelect fancy 1
+[2021-05-18 12:20:08.852] n0fun in tgui-window-1/initialize
+ - Using: /datum/component/loadout_selector [0x2100c2e8]
+[2021-05-18 12:20:10.465] n0fun (as Peter Quill at 208,121,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2100c2e8]
+ - Action: loadout_select {"name":"Yankee"}
+[2021-05-18 12:20:11.658] n0fun (as Peter Quill at 208,121,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2100c2e8]
+ - Action: loadout_select {"name":"Supa-fly"}
+[2021-05-18 12:20:12.381] n0fun (as Peter Quill at 208,121,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2100c2e8]
+ - Action: loadout_select {"name":"Supa-fly"}
+[2021-05-18 12:20:13.902] n0fun (as Peter Quill at 208,121,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2100c2e8]
+ - Action: loadout_select {"name":"Yankee"}
+[2021-05-18 12:20:14.797] n0fun (as Peter Quill at 208,121,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2100c2e8]
+ - Action: loadout_select {"name":"Blastmaster"}
+[2021-05-18 12:20:16.111] n0fun (as Peter Quill at 208,121,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2100c2e8]
+ - Action: loadout_select {"name":"Sadist"}
+[2021-05-18 12:20:18.288] n0fun (as Peter Quill at 208,121,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2100c2e8]
+ - Action: loadout_select {"name":"Painspike"}
+[2021-05-18 12:20:19.907] n0fun (as Peter Quill at 208,121,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2100c2e8]
+ - Action: loadout_select {"name":"Badlands"}
+[2021-05-18 12:20:22.104] n0fun (as Peter Quill at 208,121,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2100c2e8]
+ - Action: loadout_select {"name":"Brotherhood Exile"}
+[2021-05-18 12:20:23.549] n0fun (as Peter Quill at 208,121,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2100c2e8]
+ - Action: loadout_select {"name":"NCR Deserter"}
+[2021-05-18 12:20:25.446] n0fun (as Peter Quill at 208,121,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2100c2e8]
+ - Action: loadout_select {"name":"Punished Legionnaire"}
+[2021-05-18 12:20:28.576] n0fun (as Peter Quill at 208,121,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2100c2e8]
+ - Action: loadout_select {"name":"Desperado"}
+[2021-05-18 12:20:37.029] n0fun (as Peter Quill at 208,121,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2100c2e8]
+ - Action: loadout_select {"name":"Sadist"}
+[2021-05-18 12:20:38.251] n0fun (as Peter Quill at 208,121,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2100c2e8]
+ - Action: loadout_select {"name":"Yankee"}
+[2021-05-18 12:20:39.894] n0fun (as Peter Quill at 208,121,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2100c2e8]
+ - Action: loadout_select {"name":"Blastmaster"}
+[2021-05-18 12:20:43.149] n0fun (as Peter Quill at 208,121,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2100c2e8]
+ - Action: loadout_select {"name":"Supa-fly"}
+[2021-05-18 12:20:44.570] n0fun (as Peter Quill at 208,121,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2100c2e8]
+ - Action: loadout_select {"name":"Badlands"}
+[2021-05-18 12:20:52.995] n0fun (as Peter Quill at 208,121,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2100c2e8]
+ - Action: loadout_select {"name":"Painspike"}
+[2021-05-18 12:20:53.690] n0fun (as Peter Quill at 208,121,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2100c2e8]
+ - Action: loadout_select {"name":"Badlands"}
+[2021-05-18 12:20:55.030] n0fun (as Peter Quill at 208,121,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2100c2e8]
+ - Action: loadout_confirm {}
+[2021-05-18 12:20:55.061] n0fun in tgui-window-1/close (suspending)
+[2021-05-18 12:26:37.592] thebanana3 in browseroutput/initialize
+[2021-05-18 12:27:59.216] thebanana3 (as Harmony Harding at 106,40,3)
+ - Using: /datum/component/loadout_selector [0x2103ea6b]
+ - new LoadoutSelect fancy 1
+[2021-05-18 12:27:59.217] thebanana3 in tgui-window-1/initialize
+ - Using: /datum/component/loadout_selector [0x2103ea6b]
+[2021-05-18 12:28:07.192] thebanana3 (as Harmony Harding at 106,40,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103ea6b]
+ - Action: loadout_select {"name":"Emergency Physician"}
+[2021-05-18 12:28:11.911] thebanana3 (as Harmony Harding at 106,40,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103ea6b]
+ - Action: loadout_select {"name":"Pharmacist"}
+[2021-05-18 12:28:16.849] thebanana3 (as Harmony Harding at 106,40,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103ea6b]
+ - Action: loadout_select {"name":"Paramedic"}
+[2021-05-18 12:28:19.714] thebanana3 (as Harmony Harding at 106,40,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103ea6b]
+ - Action: loadout_select {"name":"Medical Researcher"}
+[2021-05-18 12:28:26.404] thebanana3 (as Harmony Harding at 106,40,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103ea6b]
+ - Action: loadout_select {"name":"Emergency Physician"}
+[2021-05-18 12:28:28.715] thebanana3 (as Harmony Harding at 106,40,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103ea6b]
+ - Action: loadout_confirm {}
+[2021-05-18 12:28:28.720] thebanana3 in tgui-window-1/close (suspending)
+[2021-05-18 12:30:35.838] thebanana3 (as Harmony Harding at 81,48,2)
+ - Using: /obj/machinery/smartfridge/chemistry [0x200375a]
+ - new SmartVend fancy 1
+[2021-05-18 12:30:38.352] thebanana3 in tgui-window-1/close (suspending)
+[2021-05-18 12:30:38.352] thebanana3 in tgui-window-1/close (suspending)
+[2021-05-18 12:32:26.687] thebanana3 (as Harmony Harding at 80,57,3)
+ - Using: /obj/machinery/chem_dispenser [0x2006d1d]
+ - new ChemDispenser fancy 1
+[2021-05-18 12:32:30.601] thebanana3 in tgui-window-1/close (suspending)
+[2021-05-18 12:32:30.601] thebanana3 in tgui-window-1/close (suspending)
+[2021-05-18 12:34:54.147] thebanana3 (as Harmony Harding at 80,57,3)
+ - Using: /obj/machinery/chem_dispenser [0x2006d1d]
+ - new ChemDispenser fancy 1
+[2021-05-18 12:34:59.550] thebanana3 (as Harmony Harding at 80,57,3) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser [0x2006d1d]
+ - Action: amount {"target":5}
+[2021-05-18 12:37:14.331] coffeemasterori in browseroutput/initialize
+[2021-05-18 12:38:04.303] thebanana3 (as Harmony Harding at 80,57,3) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser [0x2006d1d]
+ - Action: amount {"target":40}
+[2021-05-18 12:38:07.812] thebanana3 (as Harmony Harding at 80,57,3) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser [0x2006d1d]
+ - Action: dispense {"reagent":"sugar"}
+[2021-05-18 12:38:15.775] thebanana3 (as Harmony Harding at 80,57,3) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser [0x2006d1d]
+ - Action: dispense {"reagent":"mercury"}
+[2021-05-18 12:38:17.116] thebanana3 (as Harmony Harding at 80,57,3) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser [0x2006d1d]
+ - Action: dispense {"reagent":"lithium"}
+[2021-05-18 12:38:20.263] thebanana3 in tgui-window-1/close (suspending)
+[2021-05-18 12:38:20.263] thebanana3 in tgui-window-1/close (suspending)
+[2021-05-18 12:38:21.768] thebanana3 (as Harmony Harding at 80,57,3)
+ - Using: /obj/machinery/chem_dispenser [0x2006d1d]
+ - new ChemDispenser fancy 1
+[2021-05-18 12:38:23.563] thebanana3 (as Harmony Harding at 80,57,3) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser [0x2006d1d]
+ - Action: eject {}
+[2021-05-18 12:38:24.463] coffeemasterori (as Nickolas Priebe at 254,71,2)
+ - Using: /datum/component/loadout_selector [0x2103f165]
+ - new LoadoutSelect fancy 1
+[2021-05-18 12:38:24.464] coffeemasterori in tgui-window-1/initialize
+ - Using: /datum/component/loadout_selector [0x2103f165]
+[2021-05-18 12:38:25.614] thebanana3 in tgui-window-1/close (suspending)
+[2021-05-18 12:38:25.614] thebanana3 in tgui-window-1/close (suspending)
+[2021-05-18 12:38:25.844] coffeemasterori (as Nickolas Priebe at 254,71,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f165]
+ - Action: loadout_select {"name":"Wasteland Doctor"}
+[2021-05-18 12:38:26.796] n0fun (as Unknown at 124,174,2)
+ - Using: /datum/component/personal_crafting [0x2100c317]
+ - new PersonalCrafting fancy 1
+[2021-05-18 12:38:27.563] coffeemasterori (as Nickolas Priebe at 254,71,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f165]
+ - Action: loadout_select {"name":"Scavenger"}
+[2021-05-18 12:38:28.555] coffeemasterori (as Nickolas Priebe at 254,71,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f165]
+ - Action: loadout_select {"name":"Legion Citizen"}
+[2021-05-18 12:38:29.357] thebanana3 (as Harmony Harding at 80,57,3)
+ - Using: /obj/machinery/chem_master [0x2006d1e]
+ - new ChemMaster fancy 1
+[2021-05-18 12:38:33.426] coffeemasterori (as Nickolas Priebe at 254,71,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f165]
+ - Action: loadout_select {"name":"Salvager"}
+[2021-05-18 12:38:37.085] thebanana3 (as Harmony Harding at 80,57,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006d1e]
+ - Action: transfer {"id":"spacedrugs","amount":1000,"to":"buffer"}
+[2021-05-18 12:38:37.401] coffeemasterori (as Nickolas Priebe at 254,71,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f165]
+ - Action: loadout_select {"name":"Wasteland Doctor"}
+[2021-05-18 12:38:38.233] n0fun (as Unknown at 124,175,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2100c317]
+ - Action: set_category {"category":"Tribal"}
+[2021-05-18 12:38:39.938] thebanana3 (as Harmony Harding at 80,57,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006d1e]
+ - Action: pillStyle {"id":2}
+[2021-05-18 12:38:40.533] thebanana3 (as Harmony Harding at 80,57,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006d1e]
+ - Action: pillStyle {"id":12}
+[2021-05-18 12:38:41.452] thebanana3 (as Harmony Harding at 80,57,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006d1e]
+ - Action: pillStyle {"id":11}
+[2021-05-18 12:38:42.637] thebanana3 (as Harmony Harding at 80,57,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006d1e]
+ - Action: pillStyle {"id":1}
+[2021-05-18 12:38:49.221] thebanana3 (as Harmony Harding at 80,57,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006d1e]
+ - Action: create {"type":"stimPak","amount":10,"volume":"auto"}
+[2021-05-18 12:38:50.133] coffeemasterori (as Nickolas Priebe at 254,71,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f165]
+ - Action: loadout_confirm {}
+[2021-05-18 12:38:50.175] coffeemasterori in tgui-window-1/close (suspending)
+[2021-05-18 12:38:50.875] n0fun in tgui-window-1/close (suspending)
+[2021-05-18 12:38:50.875] n0fun in tgui-window-1/close (suspending)
+[2021-05-18 12:39:01.564] thebanana3 in tgui-window-1/close (suspending)
+[2021-05-18 12:39:01.564] thebanana3 in tgui-window-1/close (suspending)
+[2021-05-18 12:39:18.009] thebanana3 (as Harmony Harding at 80,56,3)
+ - Using: /obj/machinery/chem_master [0x2006d1e]
+ - new ChemMaster fancy 1
+[2021-05-18 12:39:19.784] thebanana3 in tgui-window-1/close (suspending)
+[2021-05-18 12:39:47.817] n0fun in browseroutput/initialize
+[2021-05-18 12:44:49.602] thebanana3 (as Unknown at 131,150,3)
+ - Using: /datum/component/loadout_selector [0x2103f593]
+ - new LoadoutSelect fancy 1
+[2021-05-18 12:44:52.128] thebanana3 (as Unknown at 131,150,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f593]
+ - Action: loadout_select {"name":"Painspike"}
+[2021-05-18 12:44:55.092] thebanana3 (as Unknown at 131,150,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f593]
+ - Action: loadout_confirm {}
+[2021-05-18 12:44:55.127] thebanana3 in tgui-window-1/close (suspending)
+[2021-05-18 12:48:15.054] coffeemasterori (as Nickolas Priebe at 81,48,2)
+ - Using: /obj/machinery/smartfridge/chemistry [0x200375a]
+ - new SmartVend fancy 1
+[2021-05-18 12:48:16.280] coffeemasterori in tgui-window-1/close (suspending)
+[2021-05-18 12:48:16.281] coffeemasterori in tgui-window-1/close (suspending)
+[2021-05-18 12:50:12.387] coffeemasterori (as Nickolas Priebe at 105,42,3)
+ - Using: /obj/machinery/vending/wardrobe/chem_wardrobe [0x200706b]
+ - new Vending fancy 1
+[2021-05-18 12:50:14.203] coffeemasterori in tgui-window-1/close (suspending)
+[2021-05-18 12:50:14.204] coffeemasterori in tgui-window-1/close (suspending)
+[2021-05-18 12:55:17.612] n0fun (as Unknown at 176,37,2)
+ - Using: /obj/machinery/vending/coffee [0x2004f9c]
+ - new Vending fancy 1
+[2021-05-18 12:55:17.612] n0fun in tgui-window-1/initialize
+ - Using: /obj/machinery/vending/coffee [0x2004f9c]
+[2021-05-18 12:55:19.878] n0fun in tgui-window-1/close (suspending)
+[2021-05-18 12:55:19.879] n0fun in tgui-window-1/close (suspending)
+[2021-05-18 12:59:25.210] n0fun (as Unknown at 165,88,2)
+ - Using: /obj/machinery/power/solar_control [0x2004cf1]
+ - new SolarControl fancy 1
+[2021-05-18 12:59:26.283] n0fun (as Unknown at 165,88,2) in tgui-window-1
+ - Using: /obj/machinery/power/solar_control [0x2004cf1]
+ - Action: refresh {}
+[2021-05-18 12:59:26.861] n0fun (as Unknown at 165,88,2) in tgui-window-1
+ - Using: /obj/machinery/power/solar_control [0x2004cf1]
+ - Action: tracking {"mode":2}
+[2021-05-18 12:59:27.499] n0fun in tgui-window-1/close (suspending)
+[2021-05-18 12:59:27.499] n0fun in tgui-window-1/close (suspending)
+[2021-05-18 13:06:12.061] dfrenando in browseroutput/initialize
+[2021-05-18 13:08:03.387] dfrenando (as Fernando Araujo at 12,62,2)
+ - Using: /datum/component/loadout_selector [0x2100a160]
+ - new LoadoutSelect fancy 1
+[2021-05-18 13:08:03.388] dfrenando in tgui-window-1/initialize
+ - Using: /datum/component/loadout_selector [0x2100a160]
+[2021-05-18 13:08:05.335] dfrenando (as Fernando Araujo at 12,62,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2100a160]
+ - Action: loadout_select {"name":"Vaultie"}
+[2021-05-18 13:08:09.729] dfrenando (as Fernando Araujo at 12,62,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2100a160]
+ - Action: loadout_select {"name":"Salvager"}
+[2021-05-18 13:08:13.888] dfrenando (as Fernando Araujo at 12,62,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2100a160]
+ - Action: loadout_select {"name":"Wasteland Doctor"}
+[2021-05-18 13:08:16.808] dfrenando (as Fernando Araujo at 12,62,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2100a160]
+ - Action: loadout_select {"name":"Roving Trader"}
+[2021-05-18 13:08:19.230] dfrenando (as Fernando Araujo at 12,62,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2100a160]
+ - Action: loadout_select {"name":"Scavenger"}
+[2021-05-18 13:08:21.800] dfrenando (as Fernando Araujo at 12,62,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2100a160]
+ - Action: loadout_select {"name":"Legion Citizen"}
+[2021-05-18 13:08:25.294] dfrenando (as Fernando Araujo at 12,62,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2100a160]
+ - Action: loadout_select {"name":"NCR Citizen"}
+[2021-05-18 13:08:27.397] dfrenando (as Fernando Araujo at 12,62,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2100a160]
+ - Action: loadout_select {"name":"Scavenger"}
+[2021-05-18 13:08:31.032] dfrenando (as Fernando Araujo at 12,62,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2100a160]
+ - Action: loadout_confirm {}
+[2021-05-18 13:08:31.066] dfrenando in tgui-window-1/close (suspending)
+[2021-05-18 13:11:48.505] thebanana3 (as Jacquetta Taggart at 119,188,2)
+ - Using: /datum/orbit_menu [0x21008ecb]
+ - new Orbit fancy 1
+[2021-05-18 13:11:53.064] thebanana3 (as Jacquetta Taggart at 119,188,2)
+ - Using: /datum/orbit_menu [0x21008ecb]
+ - new Orbit fancy 1
+[2021-05-18 13:11:53.065] thebanana3 in tgui-window-2/initialize
+ - Using: /datum/orbit_menu [0x21008ecb]
+[2021-05-18 13:11:58.629] thebanana3 (as Jacquetta Taggart at 119,188,2) in tgui-window-2
+ - Using: /datum/orbit_menu [0x21008ecb]
+ - Action: orbit {"ref":"[mob_772]"}
+[2021-05-18 13:12:08.115] thebanana3 in tgui-window-1/close (suspending)
+[2021-05-18 13:12:08.115] thebanana3 in tgui-window-1/close (suspending)
+[2021-05-18 13:12:25.570] thebanana3 (as Jacquetta Taggart at 65,94,2) in tgui-window-2
+ - Using: /datum/orbit_menu [0x21008ecb]
+ - Action: orbit {"ref":"[mob_833]"}
+[2021-05-18 13:12:30.034] albertovinhofino in browseroutput/initialize
+[2021-05-18 13:12:32.738] thebanana3 (as Jacquetta Taggart at 80,57,3) in tgui-window-2
+ - Using: /datum/orbit_menu [0x21008ecb]
+ - Action: orbit {"ref":"[mob_847]"}
+[2021-05-18 13:12:41.409] thebanana3 in tgui-window-2/close (suspending)
+[2021-05-18 13:12:41.409] thebanana3 in tgui-window-2/close (suspending)
+[2021-05-18 13:13:14.670] thebanana3 (as Hailee Muggins at 219,212,3)
+ - Using: /datum/component/loadout_selector [0x2100b9db]
+ - new LoadoutSelect fancy 1
+[2021-05-18 13:13:18.355] thebanana3 (as Hailee Muggins at 219,212,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2100b9db]
+ - Action: loadout_select {"name":"Long-Range Support Star Paladin"}
+[2021-05-18 13:13:25.909] thebanana3 (as Hailee Muggins at 219,212,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2100b9db]
+ - Action: loadout_select {"name":"Mainline Star Paladin"}
+[2021-05-18 13:13:33.677] thebanana3 (as Hailee Muggins at 219,212,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2100b9db]
+ - Action: loadout_confirm {}
+[2021-05-18 13:13:33.720] thebanana3 in tgui-window-1/close (suspending)
+[2021-05-18 13:14:42.298] n0fun (as Peter Quill at 61,103,2)
+ - Using: /datum/orbit_menu [0x2103ff1f]
+ - new Orbit fancy 1
+[2021-05-18 13:14:44.712] n0fun (as Peter Quill at 61,103,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2103ff1f]
+ - Action: orbit {"ref":"[mob_833]"}
+[2021-05-18 13:14:49.605] n0fun in tgui-window-1/close (suspending)
+[2021-05-18 13:14:49.605] n0fun in tgui-window-1/close (suspending)
+[2021-05-18 13:15:26.189] dfrenando (as Ronald Gomes at 228,214,3)
+ - Using: /datum/component/loadout_selector [0x2103ff33]
+ - new LoadoutSelect fancy 1
+[2021-05-18 13:15:27.556] dfrenando (as Ronald Gomes at 228,214,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103ff33]
+ - Action: loadout_select {"name":"Frontline Junior Paladin"}
+[2021-05-18 13:15:29.736] dfrenando (as Ronald Gomes at 228,214,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103ff33]
+ - Action: loadout_select {"name":"Firesupport Paladin"}
+[2021-05-18 13:15:32.129] dfrenando (as Ronald Gomes at 228,214,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103ff33]
+ - Action: loadout_select {"name":"Frontline Paladin"}
+[2021-05-18 13:15:34.382] dfrenando (as Ronald Gomes at 228,214,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103ff33]
+ - Action: loadout_select {"name":"Firesupport Junior Paladin"}
+[2021-05-18 13:15:36.037] dfrenando (as Ronald Gomes at 228,214,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103ff33]
+ - Action: loadout_select {"name":"Frontline Junior Paladin"}
+[2021-05-18 13:15:36.895] dfrenando (as Ronald Gomes at 228,214,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103ff33]
+ - Action: loadout_select {"name":"Firesupport Junior Paladin"}
+[2021-05-18 13:15:37.715] dfrenando (as Ronald Gomes at 228,214,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103ff33]
+ - Action: loadout_select {"name":"Frontline Junior Paladin"}
+[2021-05-18 13:15:38.086] dfrenando (as Ronald Gomes at 228,214,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103ff33]
+ - Action: loadout_select {"name":"Firesupport Paladin"}
+[2021-05-18 13:15:41.451] dfrenando (as Ronald Gomes at 228,214,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103ff33]
+ - Action: loadout_preview_direction {"direction":1}
+[2021-05-18 13:15:42.040] dfrenando (as Ronald Gomes at 228,214,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103ff33]
+ - Action: loadout_preview_direction {"direction":1}
+[2021-05-18 13:15:42.462] dfrenando (as Ronald Gomes at 228,214,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103ff33]
+ - Action: loadout_preview_direction {"direction":1}
+[2021-05-18 13:15:43.079] dfrenando (as Ronald Gomes at 228,214,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103ff33]
+ - Action: loadout_preview_direction {"direction":1}
+[2021-05-18 13:15:44.005] dfrenando (as Ronald Gomes at 228,214,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103ff33]
+ - Action: loadout_select {"name":"Frontline Paladin"}
+[2021-05-18 13:15:47.545] dfrenando (as Ronald Gomes at 228,214,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103ff33]
+ - Action: loadout_confirm {}
+[2021-05-18 13:15:47.589] dfrenando in tgui-window-1/close (suspending)
+[2021-05-18 13:17:21.535] dfrenando (as Ronald Gomes at 220,235,3)
+ - Using: /obj/machinery/smartfridge/food [0x2007b72]
+ - new SmartVend fancy 1
+[2021-05-18 13:17:22.845] dfrenando in tgui-window-1/close (suspending)
+[2021-05-18 13:17:22.845] dfrenando in tgui-window-1/close (suspending)
+[2021-05-18 13:18:31.714] dfrenando (as Ronald Gomes at 161,245,2)
+ - Using: /obj/machinery/vending/hydroseeds [0x2004a5b]
+ - new Vending fancy 1
+[2021-05-18 13:18:45.869] dfrenando (as Ronald Gomes at 161,245,2) in tgui-window-1
+ - Using: /obj/machinery/vending/hydroseeds [0x2004a5b]
+ - Action: vend {"ref":"[0x2100b135]"}
+[2021-05-18 13:18:46.884] dfrenando in tgui-window-1/close (suspending)
+[2021-05-18 13:18:46.884] dfrenando in tgui-window-1/close (suspending)
+[2021-05-18 13:18:58.275] dfrenando (as Ronald Gomes at 161,246,2)
+ - Using: /obj/machinery/vending/hydronutrients [0x2004a59]
+ - new Vending fancy 1
+[2021-05-18 13:19:01.102] dfrenando (as Ronald Gomes at 161,246,2) in tgui-window-1
+ - Using: /obj/machinery/vending/hydronutrients [0x2004a59]
+ - Action: vend {"ref":"[0x2100b111]"}
+[2021-05-18 13:19:04.093] dfrenando (as Ronald Gomes at 161,246,2) in tgui-window-1
+ - Using: /obj/machinery/vending/hydronutrients [0x2004a59]
+ - Action: vend {"ref":"[0x2100b10d]"}
+[2021-05-18 13:19:04.885] dfrenando in tgui-window-1/close (suspending)
+[2021-05-18 13:19:04.886] dfrenando in tgui-window-1/close (suspending)
+[2021-05-18 13:19:16.684] dfrenando (as Ronald Gomes at 158,246,2)
+ - Using: /obj/machinery/vending/wardrobe/hydro_wardrobe [0x20049f7]
+ - new Vending fancy 1
+[2021-05-18 13:19:21.182] dfrenando in tgui-window-1/close (suspending)
+[2021-05-18 13:19:21.182] dfrenando in tgui-window-1/close (suspending)
+[2021-05-18 13:19:48.373] dfrenando (as Ronald Gomes at 167,244,2)
+ - Using: /obj/machinery/smartfridge/bottlerack/seedbin [0x2004d5b]
+ - new SmartVend fancy 1
+[2021-05-18 13:19:49.581] dfrenando in tgui-window-1/close (suspending)
+[2021-05-18 13:19:49.581] dfrenando in tgui-window-1/close (suspending)
+[2021-05-18 13:20:04.259] dfrenando (as Ronald Gomes at 164,246,2)
+ - Using: /obj/machinery/smartfridge/bottlerack/gardentool [0x2004c4c]
+ - new SmartVend fancy 1
+[2021-05-18 13:20:05.436] dfrenando in tgui-window-1/close (suspending)
+[2021-05-18 13:20:05.436] dfrenando in tgui-window-1/close (suspending)
+[2021-05-18 13:20:08.733] dfrenando (as Ronald Gomes at 161,246,2)
+ - Using: /obj/machinery/vending/hydronutrients [0x2004a59]
+ - new Vending fancy 1
+[2021-05-18 13:20:11.442] dfrenando in tgui-window-1/close (suspending)
+[2021-05-18 13:20:11.443] dfrenando in tgui-window-1/close (suspending)
+[2021-05-18 13:20:12.436] dfrenando (as Ronald Gomes at 161,245,2)
+ - Using: /obj/machinery/vending/hydroseeds [0x2004a5b]
+ - new Vending fancy 1
+[2021-05-18 13:20:14.788] dfrenando in tgui-window-1/close (suspending)
+[2021-05-18 13:20:14.788] dfrenando in tgui-window-1/close (suspending)
+[2021-05-18 13:20:56.971] dfrenando (as Ronald Gomes at 161,245,2)
+ - Using: /obj/machinery/vending/hydroseeds [0x2004a5b]
+ - new Vending fancy 1
+[2021-05-18 13:21:00.570] dfrenando in tgui-window-1/close (suspending)
+[2021-05-18 13:21:00.571] dfrenando in tgui-window-1/close (suspending)
+[2021-05-18 13:23:10.810] dfrenando (as Ronald Gomes at 161,246,2)
+ - Using: /obj/machinery/vending/hydronutrients [0x2004a59]
+ - new Vending fancy 1
+[2021-05-18 13:23:12.722] dfrenando (as Ronald Gomes at 161,246,2) in tgui-window-1
+ - Using: /obj/machinery/vending/hydronutrients [0x2004a59]
+ - Action: vend {"ref":"[0x2100b110]"}
+[2021-05-18 13:23:13.526] dfrenando in tgui-window-1/close (suspending)
+[2021-05-18 13:23:13.526] dfrenando in tgui-window-1/close (suspending)
+[2021-05-18 13:23:33.018] thebanana3 (as Hailee Muggins at 200,195,2)
+ - Using: /obj/machinery/vending/cola [0x20055e6]
+ - new Vending fancy 1
+[2021-05-18 13:23:39.172] thebanana3 (as Hailee Muggins at 200,195,2) in tgui-window-1
+ - Using: /obj/machinery/vending/cola [0x20055e6]
+ - Action: vend {"ref":"[0x2100c125]"}
+[2021-05-18 13:23:40.930] thebanana3 in tgui-window-1/close (suspending)
+[2021-05-18 13:23:40.930] thebanana3 in tgui-window-1/close (suspending)
+[2021-05-18 13:24:08.099] albertovinhofino (as Elias Ivanov at 59,165,4)
+ - Using: /obj/machinery/vending/wardrobe/medi_wardrobe [0x2009789]
+ - new Vending fancy 1
+[2021-05-18 13:24:08.100] albertovinhofino in tgui-window-1/initialize
+ - Using: /obj/machinery/vending/wardrobe/medi_wardrobe [0x2009789]
+[2021-05-18 13:24:13.821] albertovinhofino (as Elias Ivanov at 59,165,4) in tgui-window-1
+ - Using: /obj/machinery/vending/wardrobe/medi_wardrobe [0x2009789]
+ - Action: vend {"ref":"[0x21012a1f]"}
+[2021-05-18 13:24:46.380] albertovinhofino (as Elias Ivanov at 59,165,4) in tgui-window-1
+ - Using: /obj/machinery/vending/wardrobe/medi_wardrobe [0x2009789]
+ - Action: vend {"ref":"[0x21012a34]"}
+[2021-05-18 13:25:36.114] albertovinhofino (as Elias Ivanov at 59,165,4) in tgui-window-1
+ - Using: /obj/machinery/vending/wardrobe/medi_wardrobe [0x2009789]
+ - Action: vend {"ref":"[0x21012a37]"}
+[2021-05-18 13:25:56.052] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 13:25:56.053] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 13:26:13.160] albertovinhofino (as Elias Ivanov at 59,165,4)
+ - Using: /obj/machinery/vending/wardrobe/medi_wardrobe [0x2009789]
+ - new Vending fancy 1
+[2021-05-18 13:26:14.677] albertovinhofino (as Elias Ivanov at 59,165,4) in tgui-window-1
+ - Using: /obj/machinery/vending/wardrobe/medi_wardrobe [0x2009789]
+ - Action: vend {"ref":"[0x21012a1c]"}
+[2021-05-18 13:26:16.467] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 13:26:16.468] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 13:26:23.892] zeewhel in browseroutput/initialize
+[2021-05-18 13:26:39.887] zeewhel in verb/fix_tgui_panel
+ - Started fixing.
+[2021-05-18 13:26:39.887] zeewhel in browseroutput/initialize
+[2021-05-18 13:26:45.406] zeewhel in verb/fix_tgui_panel
+ - Failed to fix.
+[2021-05-18 13:28:41.072] fidgetybacchus in browseroutput/initialize
+[2021-05-18 13:28:50.365] dfrenando (as Ronald Gomes at 154,167,2)
+ - Using: /datum/component/personal_crafting [0x2103fbb7]
+ - new PersonalCrafting fancy 1
+[2021-05-18 13:28:54.700] dfrenando (as Ronald Gomes at 154,167,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103fbb7]
+ - Action: set_category {"category":"Crafting","subcategory":"Forging & Smithing"}
+[2021-05-18 13:28:59.837] dfrenando (as Ronald Gomes at 154,167,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103fbb7]
+ - Action: set_category {"category":"Misc","subcategory":"Miscellaneous"}
+[2021-05-18 13:29:00.349] dfrenando (as Ronald Gomes at 154,167,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103fbb7]
+ - Action: set_category {"category":"Misc","subcategory":"Bottling"}
+[2021-05-18 13:29:00.806] dfrenando (as Ronald Gomes at 154,167,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103fbb7]
+ - Action: set_category {"category":"Clothing","subcategory":"Belts"}
+[2021-05-18 13:29:01.872] dfrenando (as Ronald Gomes at 154,167,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103fbb7]
+ - Action: set_category {"category":"Misc","subcategory":"Burial & Execution"}
+[2021-05-18 13:29:04.910] dfrenando (as Ronald Gomes at 154,167,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103fbb7]
+ - Action: set_category {"category":"Clothing","subcategory":"Belts"}
+[2021-05-18 13:29:06.076] dfrenando (as Ronald Gomes at 154,167,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103fbb7]
+ - Action: set_category {"category":"Misc","subcategory":"Burial & Execution"}
+[2021-05-18 13:29:07.164] dfrenando (as Ronald Gomes at 154,167,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103fbb7]
+ - Action: set_category {"category":"Clothing","subcategory":"Shoes"}
+[2021-05-18 13:29:07.774] dfrenando (as Ronald Gomes at 154,167,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103fbb7]
+ - Action: set_category {"category":"Clothing","subcategory":"Armor"}
+[2021-05-18 13:29:08.140] dfrenando (as Ronald Gomes at 154,167,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103fbb7]
+ - Action: set_category {"category":"Clothing","subcategory":"Wasteland Clothing"}
+[2021-05-18 13:29:09.666] dfrenando (as Ronald Gomes at 154,167,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103fbb7]
+ - Action: set_category {"category":"Clothing","subcategory":"General Clothing"}
+[2021-05-18 13:29:10.295] dfrenando (as Ronald Gomes at 154,167,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103fbb7]
+ - Action: set_category {"category":"Weaponry","subcategory":"Explosives & Cells"}
+[2021-05-18 13:29:49.172] zeewhel in verb/fix_tgui_panel
+ - Started fixing.
+[2021-05-18 13:29:49.172] zeewhel in browseroutput/initialize
+[2021-05-18 13:29:52.784] zeewhel in verb/fix_tgui_panel
+ - Failed to fix.
+[2021-05-18 13:29:59.235] dfrenando (as Ronald Gomes at 133,171,2)
+ - Using: /obj/machinery/vending/nukacolavend [0x20041e8]
+ - new Vending fancy 1
+[2021-05-18 13:29:59.236] dfrenando in tgui-window-2/initialize
+ - Using: /obj/machinery/vending/nukacolavend [0x20041e8]
+[2021-05-18 13:30:01.847] dfrenando (as Ronald Gomes at 133,171,2) in tgui-window-2
+ - Using: /obj/machinery/vending/nukacolavend [0x20041e8]
+ - Action: vend {"ref":"[0x2100a39d]"}
+[2021-05-18 13:30:02.036] dfrenando (as Ronald Gomes at 133,171,2) in tgui-window-2
+ - Using: /obj/machinery/vending/nukacolavend [0x20041e8]
+ - Action: vend {"ref":"[0x2100a39d]"}
+[2021-05-18 13:30:02.198] dfrenando (as Ronald Gomes at 133,171,2) in tgui-window-2
+ - Using: /obj/machinery/vending/nukacolavend [0x20041e8]
+ - Action: vend {"ref":"[0x2100a39d]"}
+[2021-05-18 13:30:02.373] dfrenando (as Ronald Gomes at 133,171,2) in tgui-window-2
+ - Using: /obj/machinery/vending/nukacolavend [0x20041e8]
+ - Action: vend {"ref":"[0x2100a39d]"}
+[2021-05-18 13:30:02.541] dfrenando (as Ronald Gomes at 133,171,2) in tgui-window-2
+ - Using: /obj/machinery/vending/nukacolavend [0x20041e8]
+ - Action: vend {"ref":"[0x2100a39d]"}
+[2021-05-18 13:30:02.701] dfrenando (as Ronald Gomes at 133,171,2) in tgui-window-2
+ - Using: /obj/machinery/vending/nukacolavend [0x20041e8]
+ - Action: vend {"ref":"[0x2100a39d]"}
+[2021-05-18 13:30:02.907] dfrenando (as Ronald Gomes at 133,171,2) in tgui-window-2
+ - Using: /obj/machinery/vending/nukacolavend [0x20041e8]
+ - Action: vend {"ref":"[0x2100a39d]"}
+[2021-05-18 13:30:03.723] dfrenando in tgui-window-2/close (suspending)
+[2021-05-18 13:30:03.724] dfrenando in tgui-window-2/close (suspending)
+[2021-05-18 13:30:19.957] albertovinhofino (as Elias Ivanov at 69,186,4)
+ - Using: /obj/machinery/vending/engineering [0x20098be]
+ - new Vending fancy 1
+[2021-05-18 13:30:21.352] albertovinhofino (as Elias Ivanov at 69,186,4) in tgui-window-1
+ - Using: /obj/machinery/vending/engineering [0x20098be]
+ - Action: vend {"ref":"[0x21012dba]"}
+[2021-05-18 13:30:49.411] zeewhel (as Kain Morgan at 232,251,2)
+ - Using: /datum/component/loadout_selector [0x21040415]
+ - new LoadoutSelect fancy 1
+[2021-05-18 13:30:49.411] zeewhel in tgui-window-1/initialize
+ - Using: /datum/component/loadout_selector [0x21040415]
+[2021-05-18 13:30:53.275] zeewhel (as Kain Morgan at 232,251,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040415]
+ - Action: loadout_select {"name":"Vaultie"}
+[2021-05-18 13:31:00.194] zeewhel (as Kain Morgan at 232,251,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040415]
+ - Action: loadout_select {"name":"Salvager"}
+[2021-05-18 13:31:02.282] zeewhel (as Kain Morgan at 232,251,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040415]
+ - Action: loadout_select {"name":"Wasteland Doctor"}
+[2021-05-18 13:31:08.073] zeewhel (as Kain Morgan at 232,251,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040415]
+ - Action: loadout_select {"name":"Roving Trader"}
+[2021-05-18 13:31:12.044] zeewhel (as Kain Morgan at 232,251,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040415]
+ - Action: loadout_select {"name":"Scavenger"}
+[2021-05-18 13:31:15.658] zeewhel (as Kain Morgan at 232,251,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040415]
+ - Action: loadout_select {"name":"Legion Citizen"}
+[2021-05-18 13:31:18.081] zeewhel (as Kain Morgan at 232,251,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040415]
+ - Action: loadout_select {"name":"NCR Citizen"}
+[2021-05-18 13:31:20.993] zeewhel (as Kain Morgan at 232,251,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040415]
+ - Action: loadout_select {"name":"Vaultie"}
+[2021-05-18 13:31:22.628] zeewhel (as Kain Morgan at 232,251,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040415]
+ - Action: loadout_select {"name":"Scavenger"}
+[2021-05-18 13:31:28.347] zeewhel (as Kain Morgan at 232,251,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040415]
+ - Action: loadout_confirm {}
+[2021-05-18 13:31:28.384] zeewhel in tgui-window-1/close (suspending)
+[2021-05-18 13:31:32.616] albertovinhofino (as Elias Ivanov at 69,186,4) in tgui-window-1
+ - Using: /obj/machinery/vending/engineering [0x20098be]
+ - Action: vend {"ref":"[0x21012dbd]"}
+[2021-05-18 13:31:35.533] albertovinhofino (as Elias Ivanov at 69,186,4) in tgui-window-1
+ - Using: /obj/machinery/vending/engineering [0x20098be]
+ - Action: vend {"ref":"[0x21012dc0]"}
+[2021-05-18 13:31:38.596] albertovinhofino (as Elias Ivanov at 69,186,4) in tgui-window-1
+ - Using: /obj/machinery/vending/engineering [0x20098be]
+ - Action: vend {"ref":"[0x21012dbf]"}
+[2021-05-18 13:31:57.184] albertovinhofino (as Elias Ivanov at 69,186,4) in tgui-window-1
+ - Using: /obj/machinery/vending/engineering [0x20098be]
+ - Action: vend {"ref":"[0x21012dbc]"}
+[2021-05-18 13:32:00.616] albertovinhofino (as Elias Ivanov at 69,186,4) in tgui-window-1
+ - Using: /obj/machinery/vending/engineering [0x20098be]
+ - Action: vend {"ref":"[0x21012dbe]"}
+[2021-05-18 13:32:05.556] albertovinhofino (as Elias Ivanov at 69,186,4) in tgui-window-1
+ - Using: /obj/machinery/vending/engineering [0x20098be]
+ - Action: vend {"ref":"[0x21012dc2]"}
+[2021-05-18 13:32:08.356] albertovinhofino (as Elias Ivanov at 69,186,4) in tgui-window-1
+ - Using: /obj/machinery/vending/engineering [0x20098be]
+ - Action: vend {"ref":"[0x21012dc1]"}
+[2021-05-18 13:32:20.076] albertovinhofino (as Elias Ivanov at 69,186,4) in tgui-window-1
+ - Using: /obj/machinery/vending/engineering [0x20098be]
+ - Action: vend {"ref":"[0x21012dc6]"}
+[2021-05-18 13:32:23.169] albertovinhofino (as Elias Ivanov at 69,186,4) in tgui-window-1
+ - Using: /obj/machinery/vending/engineering [0x20098be]
+ - Action: vend {"ref":"[0x21012dc6]"}
+[2021-05-18 13:32:27.038] albertovinhofino (as Elias Ivanov at 69,186,4) in tgui-window-1
+ - Using: /obj/machinery/vending/engineering [0x20098be]
+ - Action: vend {"ref":"[0x21012dc5]"}
+[2021-05-18 13:32:28.466] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 13:32:28.466] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 13:32:28.674] zeewhel in verb/fix_tgui_panel
+ - Started fixing.
+[2021-05-18 13:32:28.675] zeewhel in browseroutput/initialize
+[2021-05-18 13:32:30.683] zeewhel in verb/fix_tgui_panel
+ - Fixed by calling 'initialize'
+[2021-05-18 13:33:37.804] albertovinhofino (as Elias Ivanov at 43,157,4)
+ - Using: /datum/wires/airlock/security [0x2101233e]
+ - new Wires fancy 1
+[2021-05-18 13:33:39.136] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 13:33:39.136] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 13:33:41.080] albertovinhofino (as Elias Ivanov at 43,157,4)
+ - Using: /datum/wires/airlock/security [0x2101233e]
+ - new Wires fancy 1
+[2021-05-18 13:33:41.621] thebanana3 (as Hailee Muggins at 200,255,2)
+ - Using: /datum/orbit_menu [0x21040881]
+ - new Orbit fancy 1
+[2021-05-18 13:33:42.640] albertovinhofino (as Elias Ivanov at 43,157,4) in tgui-window-1
+ - Using: /datum/wires/airlock/security [0x2101233e]
+ - Action: pulse {"wire":"grey"}
+[2021-05-18 13:33:43.200] albertovinhofino (as Elias Ivanov at 43,157,4) in tgui-window-1
+ - Using: /datum/wires/airlock/security [0x2101233e]
+ - Action: pulse {"wire":"grey"}
+[2021-05-18 13:33:43.944] albertovinhofino (as Elias Ivanov at 43,157,4) in tgui-window-1
+ - Using: /datum/wires/airlock/security [0x2101233e]
+ - Action: pulse {"wire":"magenta"}
+[2021-05-18 13:33:44.370] albertovinhofino (as Elias Ivanov at 43,157,4) in tgui-window-1
+ - Using: /datum/wires/airlock/security [0x2101233e]
+ - Action: pulse {"wire":"magenta"}
+[2021-05-18 13:33:45.332] albertovinhofino (as Elias Ivanov at 43,157,4) in tgui-window-1
+ - Using: /datum/wires/airlock/security [0x2101233e]
+ - Action: pulse {"wire":"orange"}
+[2021-05-18 13:33:45.616] albertovinhofino (as Elias Ivanov at 43,157,4) in tgui-window-1
+ - Using: /datum/wires/airlock/security [0x2101233e]
+ - Action: pulse {"wire":"orange"}
+[2021-05-18 13:33:46.835] albertovinhofino (as Elias Ivanov at 43,157,4) in tgui-window-1
+ - Using: /datum/wires/airlock/security [0x2101233e]
+ - Action: pulse {"wire":"pink"}
+[2021-05-18 13:33:47.152] albertovinhofino (as Elias Ivanov at 43,157,4) in tgui-window-1
+ - Using: /datum/wires/airlock/security [0x2101233e]
+ - Action: pulse {"wire":"pink"}
+[2021-05-18 13:33:48.199] thebanana3 (as Hailee Muggins at 200,255,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21040881]
+ - Action: orbit {"ref":"[mob_889]"}
+[2021-05-18 13:33:48.302] albertovinhofino (as Elias Ivanov at 43,157,4) in tgui-window-1
+ - Using: /datum/wires/airlock/security [0x2101233e]
+ - Action: pulse {"wire":"red"}
+[2021-05-18 13:33:48.520] albertovinhofino (as Elias Ivanov at 43,157,4) in tgui-window-1
+ - Using: /datum/wires/airlock/security [0x2101233e]
+ - Action: pulse {"wire":"red"}
+[2021-05-18 13:33:49.660] albertovinhofino (as Elias Ivanov at 43,157,4) in tgui-window-1
+ - Using: /datum/wires/airlock/security [0x2101233e]
+ - Action: pulse {"wire":"violet"}
+[2021-05-18 13:33:49.848] albertovinhofino (as Elias Ivanov at 43,157,4) in tgui-window-1
+ - Using: /datum/wires/airlock/security [0x2101233e]
+ - Action: pulse {"wire":"violet"}
+[2021-05-18 13:33:50.581] albertovinhofino (as Elias Ivanov at 43,157,4) in tgui-window-1
+ - Using: /datum/wires/airlock/security [0x2101233e]
+ - Action: pulse {"wire":"crimson"}
+[2021-05-18 13:33:50.823] albertovinhofino (as Elias Ivanov at 43,157,4) in tgui-window-1
+ - Using: /datum/wires/airlock/security [0x2101233e]
+ - Action: pulse {"wire":"crimson"}
+[2021-05-18 13:33:52.102] albertovinhofino (as Elias Ivanov at 43,157,4) in tgui-window-1
+ - Using: /datum/wires/airlock/security [0x2101233e]
+ - Action: pulse {"wire":"green"}
+[2021-05-18 13:33:52.284] albertovinhofino (as Elias Ivanov at 43,157,4) in tgui-window-1
+ - Using: /datum/wires/airlock/security [0x2101233e]
+ - Action: pulse {"wire":"green"}
+[2021-05-18 13:33:53.044] albertovinhofino (as Elias Ivanov at 43,157,4) in tgui-window-1
+ - Using: /datum/wires/airlock/security [0x2101233e]
+ - Action: pulse {"wire":"blue"}
+[2021-05-18 13:33:53.216] albertovinhofino (as Elias Ivanov at 43,157,4) in tgui-window-1
+ - Using: /datum/wires/airlock/security [0x2101233e]
+ - Action: pulse {"wire":"blue"}
+[2021-05-18 13:33:54.304] thebanana3 (as Hailee Muggins at 223,230,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21040881]
+ - Action: orbit {"ref":"[mob_881]"}
+[2021-05-18 13:34:06.403] thebanana3 (as Hailee Muggins at 43,153,4) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21040881]
+ - Action: orbit {"ref":"[mob_833]"}
+[2021-05-18 13:34:09.800] thebanana3 (as Hailee Muggins at 80,57,3) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21040881]
+ - Action: orbit {"ref":"[mob_874]"}
+[2021-05-18 13:34:16.686] albertovinhofino (as Elias Ivanov at 43,153,4)
+ - Using: /datum/wires/airlock [0x210123a0]
+ - new Wires fancy 1
+[2021-05-18 13:34:16.686] albertovinhofino in tgui-window-2/initialize
+ - Using: /datum/wires/airlock [0x210123a0]
+[2021-05-18 13:34:19.401] albertovinhofino (as Elias Ivanov at 43,153,4) in tgui-window-2
+ - Using: /datum/wires/airlock [0x210123a0]
+ - Action: pulse {"wire":"yellow"}
+[2021-05-18 13:34:19.815] albertovinhofino (as Elias Ivanov at 43,153,4) in tgui-window-2
+ - Using: /datum/wires/airlock [0x210123a0]
+ - Action: pulse {"wire":"yellow"}
+[2021-05-18 13:34:20.648] albertovinhofino (as Elias Ivanov at 43,153,4) in tgui-window-2
+ - Using: /datum/wires/airlock [0x210123a0]
+ - Action: pulse {"wire":"brown"}
+[2021-05-18 13:34:20.842] albertovinhofino (as Elias Ivanov at 43,153,4) in tgui-window-2
+ - Using: /datum/wires/airlock [0x210123a0]
+ - Action: pulse {"wire":"brown"}
+[2021-05-18 13:34:21.858] albertovinhofino (as Elias Ivanov at 43,153,4) in tgui-window-2
+ - Using: /datum/wires/airlock [0x210123a0]
+ - Action: pulse {"wire":"gold"}
+[2021-05-18 13:34:22.040] albertovinhofino (as Elias Ivanov at 43,153,4) in tgui-window-2
+ - Using: /datum/wires/airlock [0x210123a0]
+ - Action: pulse {"wire":"gold"}
+[2021-05-18 13:34:22.747] albertovinhofino (as Elias Ivanov at 43,153,4) in tgui-window-2
+ - Using: /datum/wires/airlock [0x210123a0]
+ - Action: pulse {"wire":"green"}
+[2021-05-18 13:34:22.896] albertovinhofino (as Elias Ivanov at 43,153,4) in tgui-window-2
+ - Using: /datum/wires/airlock [0x210123a0]
+ - Action: pulse {"wire":"green"}
+[2021-05-18 13:34:23.959] albertovinhofino (as Elias Ivanov at 43,153,4) in tgui-window-2
+ - Using: /datum/wires/airlock [0x210123a0]
+ - Action: pulse {"wire":"grey"}
+[2021-05-18 13:34:24.141] albertovinhofino (as Elias Ivanov at 43,153,4) in tgui-window-2
+ - Using: /datum/wires/airlock [0x210123a0]
+ - Action: pulse {"wire":"grey"}
+[2021-05-18 13:34:25.172] albertovinhofino (as Elias Ivanov at 43,153,4) in tgui-window-2
+ - Using: /datum/wires/airlock [0x210123a0]
+ - Action: pulse {"wire":"blue"}
+[2021-05-18 13:34:25.359] albertovinhofino (as Elias Ivanov at 43,153,4) in tgui-window-2
+ - Using: /datum/wires/airlock [0x210123a0]
+ - Action: pulse {"wire":"blue"}
+[2021-05-18 13:34:26.583] albertovinhofino (as Elias Ivanov at 43,153,4) in tgui-window-2
+ - Using: /datum/wires/airlock [0x210123a0]
+ - Action: pulse {"wire":"violet"}
+[2021-05-18 13:34:26.751] albertovinhofino (as Elias Ivanov at 43,153,4) in tgui-window-2
+ - Using: /datum/wires/airlock [0x210123a0]
+ - Action: pulse {"wire":"violet"}
+[2021-05-18 13:34:27.123] thebanana3 (as Hailee Muggins at 228,206,3) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21040881]
+ - Action: orbit {"ref":"[mob_881]"}
+[2021-05-18 13:34:27.745] albertovinhofino (as Elias Ivanov at 43,153,4) in tgui-window-2
+ - Using: /datum/wires/airlock [0x210123a0]
+ - Action: pulse {"wire":"purple"}
+[2021-05-18 13:34:27.896] albertovinhofino (as Elias Ivanov at 43,153,4) in tgui-window-2
+ - Using: /datum/wires/airlock [0x210123a0]
+ - Action: pulse {"wire":"purple"}
+[2021-05-18 13:34:29.093] albertovinhofino (as Elias Ivanov at 43,153,4) in tgui-window-2
+ - Using: /datum/wires/airlock [0x210123a0]
+ - Action: pulse {"wire":"orange"}
+[2021-05-18 13:34:29.260] albertovinhofino (as Elias Ivanov at 43,153,4) in tgui-window-2
+ - Using: /datum/wires/airlock [0x210123a0]
+ - Action: pulse {"wire":"orange"}
+[2021-05-18 13:34:30.207] albertovinhofino (as Elias Ivanov at 43,153,4) in tgui-window-2
+ - Using: /datum/wires/airlock [0x210123a0]
+ - Action: pulse {"wire":"red"}
+[2021-05-18 13:34:30.374] albertovinhofino (as Elias Ivanov at 43,153,4) in tgui-window-2
+ - Using: /datum/wires/airlock [0x210123a0]
+ - Action: pulse {"wire":"red"}
+[2021-05-18 13:34:33.897] albertovinhofino in tgui-window-2/close (suspending)
+[2021-05-18 13:34:33.897] albertovinhofino in tgui-window-2/close (suspending)
+[2021-05-18 13:34:35.963] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 13:35:04.098] thebanana3 in tgui-window-1/close (suspending)
+[2021-05-18 13:35:04.098] thebanana3 in tgui-window-1/close (suspending)
+[2021-05-18 13:35:36.620] albertovinhofino (as Elias Ivanov at 43,155,4)
+ - Using: /datum/wires/airlock/security [0x2101233e]
+ - new Wires fancy 1
+[2021-05-18 13:35:38.310] albertovinhofino (as Elias Ivanov at 43,155,4) in tgui-window-1
+ - Using: /datum/wires/airlock/security [0x2101233e]
+ - Action: pulse {"wire":"grey"}
+[2021-05-18 13:35:38.803] albertovinhofino (as Elias Ivanov at 43,155,4) in tgui-window-1
+ - Using: /datum/wires/airlock/security [0x2101233e]
+ - Action: pulse {"wire":"grey"}
+[2021-05-18 13:35:39.939] albertovinhofino (as Elias Ivanov at 43,155,4) in tgui-window-1
+ - Using: /datum/wires/airlock/security [0x2101233e]
+ - Action: pulse {"wire":"yellow"}
+[2021-05-18 13:35:40.118] albertovinhofino (as Elias Ivanov at 43,155,4) in tgui-window-1
+ - Using: /datum/wires/airlock/security [0x2101233e]
+ - Action: pulse {"wire":"yellow"}
+[2021-05-18 13:35:41.278] albertovinhofino (as Elias Ivanov at 43,155,4) in tgui-window-1
+ - Using: /datum/wires/airlock/security [0x2101233e]
+ - Action: pulse {"wire":"orange"}
+[2021-05-18 13:35:41.447] albertovinhofino (as Elias Ivanov at 43,155,4) in tgui-window-1
+ - Using: /datum/wires/airlock/security [0x2101233e]
+ - Action: pulse {"wire":"orange"}
+[2021-05-18 13:35:42.438] albertovinhofino (as Elias Ivanov at 43,155,4) in tgui-window-1
+ - Using: /datum/wires/airlock/security [0x2101233e]
+ - Action: pulse {"wire":"grey"}
+[2021-05-18 13:35:42.566] albertovinhofino (as Elias Ivanov at 43,155,4) in tgui-window-1
+ - Using: /datum/wires/airlock/security [0x2101233e]
+ - Action: pulse {"wire":"grey"}
+[2021-05-18 13:35:43.638] albertovinhofino (as Elias Ivanov at 43,155,4) in tgui-window-1
+ - Using: /datum/wires/airlock/security [0x2101233e]
+ - Action: pulse {"wire":"silver"}
+[2021-05-18 13:35:43.805] albertovinhofino (as Elias Ivanov at 43,155,4) in tgui-window-1
+ - Using: /datum/wires/airlock/security [0x2101233e]
+ - Action: pulse {"wire":"silver"}
+[2021-05-18 13:35:44.592] albertovinhofino (as Elias Ivanov at 43,155,4) in tgui-window-1
+ - Using: /datum/wires/airlock/security [0x2101233e]
+ - Action: pulse {"wire":"gold"}
+[2021-05-18 13:35:44.741] albertovinhofino (as Elias Ivanov at 43,155,4) in tgui-window-1
+ - Using: /datum/wires/airlock/security [0x2101233e]
+ - Action: pulse {"wire":"gold"}
+[2021-05-18 13:35:45.877] albertovinhofino (as Elias Ivanov at 43,155,4) in tgui-window-1
+ - Using: /datum/wires/airlock/security [0x2101233e]
+ - Action: pulse {"wire":"green"}
+[2021-05-18 13:35:46.048] albertovinhofino (as Elias Ivanov at 43,155,4) in tgui-window-1
+ - Using: /datum/wires/airlock/security [0x2101233e]
+ - Action: pulse {"wire":"green"}
+[2021-05-18 13:35:46.796] albertovinhofino (as Elias Ivanov at 43,155,4) in tgui-window-1
+ - Using: /datum/wires/airlock/security [0x2101233e]
+ - Action: pulse {"wire":"blue"}
+[2021-05-18 13:35:46.949] albertovinhofino (as Elias Ivanov at 43,155,4) in tgui-window-1
+ - Using: /datum/wires/airlock/security [0x2101233e]
+ - Action: pulse {"wire":"blue"}
+[2021-05-18 13:36:12.835] albertovinhofino (as Elias Ivanov at 42,154,4)
+ - Using: /datum/wires/airlock/security [0x21012259]
+ - new Wires fancy 1
+[2021-05-18 13:36:13.781] albertovinhofino (as Elias Ivanov at 42,154,4) in tgui-window-2
+ - Using: /datum/wires/airlock/security [0x21012259]
+ - Action: pulse {"wire":"green"}
+[2021-05-18 13:36:14.295] albertovinhofino (as Elias Ivanov at 42,154,4) in tgui-window-2
+ - Using: /datum/wires/airlock/security [0x21012259]
+ - Action: pulse {"wire":"green"}
+[2021-05-18 13:36:14.781] albertovinhofino (as Elias Ivanov at 42,154,4) in tgui-window-2
+ - Using: /datum/wires/airlock/security [0x21012259]
+ - Action: pulse {"wire":"blue"}
+[2021-05-18 13:36:20.798] albertovinhofino in tgui-window-2/close (suspending)
+[2021-05-18 13:36:20.798] albertovinhofino in tgui-window-2/close (suspending)
+[2021-05-18 13:36:21.008] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 13:38:12.110] dfrenando (as Ronald Gomes at 200,194,2)
+ - Using: /obj/machinery/vending/cola [0x20055e6]
+ - new Vending fancy 1
+[2021-05-18 13:38:13.729] dfrenando in tgui-window-2/close (suspending)
+[2021-05-18 13:38:13.729] dfrenando in tgui-window-2/close (suspending)
+[2021-05-18 13:38:33.631] dfrenando (as Ronald Gomes at 206,191,2)
+ - Using: /obj/machinery/vending/cigarette [0x20057f5]
+ - new Vending fancy 1
+[2021-05-18 13:38:35.264] dfrenando in tgui-window-2/close (suspending)
+[2021-05-18 13:38:35.264] dfrenando in tgui-window-2/close (suspending)
+[2021-05-18 13:39:03.894] albertovinhofino (as Elias Ivanov at 40,154,4)
+ - Using: /datum/wires/airlock/security [0x21012259]
+ - new Wires fancy 1
+[2021-05-18 13:39:06.064] albertovinhofino (as Elias Ivanov at 40,154,4) in tgui-window-1
+ - Using: /datum/wires/airlock/security [0x21012259]
+ - Action: pulse {"wire":"blue"}
+[2021-05-18 13:39:16.121] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 13:39:16.121] albertovinhofino (as Elias Ivanov at 42,154,4)
+ - Using: /datum/wires/airlock/security [0x21012259]
+ - new Wires fancy 1
+[2021-05-18 13:39:19.046] albertovinhofino (as Elias Ivanov at 43,155,4)
+ - Using: /datum/wires/airlock/security [0x2101233e]
+ - new Wires fancy 1
+[2021-05-18 13:39:20.224] albertovinhofino (as Elias Ivanov at 43,155,4) in tgui-window-1
+ - Using: /datum/wires/airlock/security [0x2101233e]
+ - Action: pulse {"wire":"blue"}
+[2021-05-18 13:39:27.082] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 13:39:27.082] albertovinhofino (as Elias Ivanov at 43,157,4)
+ - Using: /datum/wires/airlock/security [0x2101233e]
+ - new Wires fancy 1
+[2021-05-18 13:40:14.233] albertovinhofino (as Elias Ivanov at 74,181,4)
+ - Using: /datum/wires/airlock/security [0x21012f51]
+ - new Wires fancy 1
+[2021-05-18 13:40:15.551] albertovinhofino (as Elias Ivanov at 74,181,4) in tgui-window-1
+ - Using: /datum/wires/airlock/security [0x21012f51]
+ - Action: pulse {"wire":"blue"}
+[2021-05-18 13:40:21.620] albertovinhofino (as Elias Ivanov at 74,177,4)
+ - Using: /datum/wires/airlock/security [0x21012f56]
+ - new Wires fancy 1
+[2021-05-18 13:40:22.590] albertovinhofino (as Elias Ivanov at 74,177,4) in tgui-window-2
+ - Using: /datum/wires/airlock/security [0x21012f56]
+ - Action: pulse {"wire":"blue"}
+[2021-05-18 13:40:25.786] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 13:40:27.393] albertovinhofino (as Elias Ivanov at 74,174,4) in tgui-window-2
+ - Using: /datum/wires/airlock/security [0x21012f56]
+ - Action: pulse {"wire":"blue"}
+[2021-05-18 13:40:29.972] albertovinhofino (as Elias Ivanov at 74,174,4) in tgui-window-2
+ - Using: /datum/wires/airlock/security [0x21012f56]
+ - Action: pulse {"wire":"blue"}
+[2021-05-18 13:40:30.956] thebanana3 (as Emely Riker at 55,171,4)
+ - Using: /obj/machinery/vending/nukacolavendfull [0x20096a8]
+ - new Vending fancy 1
+[2021-05-18 13:40:35.102] thebanana3 (as Emely Riker at 55,170,4) in tgui-window-1
+ - Using: /obj/machinery/vending/nukacolavendfull [0x20096a8]
+ - Action: vend {"ref":"[0x210128f2]"}
+[2021-05-18 13:40:35.670] thebanana3 (as Emely Riker at 55,170,4) in tgui-window-1
+ - Using: /obj/machinery/vending/nukacolavendfull [0x20096a8]
+ - Action: vend {"ref":"[0x210128f2]"}
+[2021-05-18 13:40:35.684] thebanana3 (as Emely Riker at 55,170,4) in tgui-window-1
+ - Using: /obj/machinery/vending/nukacolavendfull [0x20096a8]
+ - Action: vend {"ref":"[0x210128f2]"}
+[2021-05-18 13:40:35.757] thebanana3 (as Emely Riker at 55,170,4) in tgui-window-1
+ - Using: /obj/machinery/vending/nukacolavendfull [0x20096a8]
+ - Action: vend {"ref":"[0x210128f2]"}
+[2021-05-18 13:40:36.232] thebanana3 (as Emely Riker at 55,170,4) in tgui-window-1
+ - Using: /obj/machinery/vending/nukacolavendfull [0x20096a8]
+ - Action: vend {"ref":"[0x210128f2]"}
+[2021-05-18 13:40:36.333] thebanana3 (as Emely Riker at 55,170,4) in tgui-window-1
+ - Using: /obj/machinery/vending/nukacolavendfull [0x20096a8]
+ - Action: vend {"ref":"[0x210128f2]"}
+[2021-05-18 13:40:36.336] thebanana3 (as Emely Riker at 55,170,4) in tgui-window-1
+ - Using: /obj/machinery/vending/nukacolavendfull [0x20096a8]
+ - Action: vend {"ref":"[0x210128f2]"}
+[2021-05-18 13:40:36.535] albertovinhofino (as Elias Ivanov at 74,174,4) in tgui-window-2
+ - Using: /datum/wires/airlock/security [0x21012f56]
+ - Action: pulse {"wire":"blue"}
+[2021-05-18 13:40:36.632] thebanana3 (as Emely Riker at 55,170,4) in tgui-window-1
+ - Using: /obj/machinery/vending/nukacolavendfull [0x20096a8]
+ - Action: vend {"ref":"[0x210128f2]"}
+[2021-05-18 13:40:36.688] thebanana3 (as Emely Riker at 55,170,4) in tgui-window-1
+ - Using: /obj/machinery/vending/nukacolavendfull [0x20096a8]
+ - Action: vend {"ref":"[0x210128f2]"}
+[2021-05-18 13:40:36.909] thebanana3 (as Emely Riker at 55,170,4) in tgui-window-1
+ - Using: /obj/machinery/vending/nukacolavendfull [0x20096a8]
+ - Action: vend {"ref":"[0x210128f2]"}
+[2021-05-18 13:40:37.073] thebanana3 (as Emely Riker at 55,170,4) in tgui-window-1
+ - Using: /obj/machinery/vending/nukacolavendfull [0x20096a8]
+ - Action: vend {"ref":"[0x210128f2]"}
+[2021-05-18 13:40:37.350] thebanana3 (as Emely Riker at 55,170,4) in tgui-window-1
+ - Using: /obj/machinery/vending/nukacolavendfull [0x20096a8]
+ - Action: vend {"ref":"[0x210128f2]"}
+[2021-05-18 13:40:37.473] thebanana3 (as Emely Riker at 55,170,4) in tgui-window-1
+ - Using: /obj/machinery/vending/nukacolavendfull [0x20096a8]
+ - Action: vend {"ref":"[0x210128f2]"}
+[2021-05-18 13:40:37.672] thebanana3 (as Emely Riker at 55,170,4) in tgui-window-1
+ - Using: /obj/machinery/vending/nukacolavendfull [0x20096a8]
+ - Action: vend {"ref":"[0x210128f2]"}
+[2021-05-18 13:40:37.772] albertovinhofino (as Elias Ivanov at 74,174,4) in tgui-window-2
+ - Using: /datum/wires/airlock/security [0x21012f56]
+ - Action: pulse {"wire":"blue"}
+[2021-05-18 13:40:37.856] thebanana3 (as Emely Riker at 55,170,4) in tgui-window-1
+ - Using: /obj/machinery/vending/nukacolavendfull [0x20096a8]
+ - Action: vend {"ref":"[0x210128f2]"}
+[2021-05-18 13:40:38.058] thebanana3 (as Emely Riker at 55,170,4) in tgui-window-1
+ - Using: /obj/machinery/vending/nukacolavendfull [0x20096a8]
+ - Action: vend {"ref":"[0x210128f2]"}
+[2021-05-18 13:40:38.597] thebanana3 (as Emely Riker at 55,170,4) in tgui-window-1
+ - Using: /obj/machinery/vending/nukacolavendfull [0x20096a8]
+ - Action: vend {"ref":"[0x210128f2]"}
+[2021-05-18 13:40:38.758] albertovinhofino (as Elias Ivanov at 74,174,4) in tgui-window-2
+ - Using: /datum/wires/airlock/security [0x21012f56]
+ - Action: pulse {"wire":"blue"}
+[2021-05-18 13:40:38.846] thebanana3 (as Emely Riker at 55,170,4) in tgui-window-1
+ - Using: /obj/machinery/vending/nukacolavendfull [0x20096a8]
+ - Action: vend {"ref":"[0x210128f2]"}
+[2021-05-18 13:40:38.851] thebanana3 (as Emely Riker at 55,170,4) in tgui-window-1
+ - Using: /obj/machinery/vending/nukacolavendfull [0x20096a8]
+ - Action: vend {"ref":"[0x210128f2]"}
+[2021-05-18 13:40:38.862] thebanana3 (as Emely Riker at 55,170,4) in tgui-window-1
+ - Using: /obj/machinery/vending/nukacolavendfull [0x20096a8]
+ - Action: vend {"ref":"[0x210128f2]"}
+[2021-05-18 13:40:39.051] thebanana3 (as Emely Riker at 55,170,4) in tgui-window-1
+ - Using: /obj/machinery/vending/nukacolavendfull [0x20096a8]
+ - Action: vend {"ref":"[0x210128f2]"}
+[2021-05-18 13:40:39.295] thebanana3 (as Emely Riker at 55,170,4) in tgui-window-1
+ - Using: /obj/machinery/vending/nukacolavendfull [0x20096a8]
+ - Action: vend {"ref":"[0x210128f2]"}
+[2021-05-18 13:40:39.373] thebanana3 (as Emely Riker at 55,170,4) in tgui-window-1
+ - Using: /obj/machinery/vending/nukacolavendfull [0x20096a8]
+ - Action: vend {"ref":"[0x210128f2]"}
+[2021-05-18 13:40:39.671] albertovinhofino (as Elias Ivanov at 74,174,4)
+ - Using: /datum/wires/airlock/security [0x21012f59]
+ - new Wires fancy 1
+[2021-05-18 13:40:39.735] thebanana3 (as Emely Riker at 55,170,4) in tgui-window-1
+ - Using: /obj/machinery/vending/nukacolavendfull [0x20096a8]
+ - Action: vend {"ref":"[0x210128f2]"}
+[2021-05-18 13:40:40.113] thebanana3 (as Emely Riker at 55,170,4) in tgui-window-1
+ - Using: /obj/machinery/vending/nukacolavendfull [0x20096a8]
+ - Action: vend {"ref":"[0x210128f2]"}
+[2021-05-18 13:40:40.155] thebanana3 (as Emely Riker at 55,170,4) in tgui-window-1
+ - Using: /obj/machinery/vending/nukacolavendfull [0x20096a8]
+ - Action: vend {"ref":"[0x210128f2]"}
+[2021-05-18 13:40:40.395] thebanana3 (as Emely Riker at 55,170,4) in tgui-window-1
+ - Using: /obj/machinery/vending/nukacolavendfull [0x20096a8]
+ - Action: vend {"ref":"[0x210128f2]"}
+[2021-05-18 13:40:40.572] albertovinhofino (as Elias Ivanov at 74,174,4) in tgui-window-1
+ - Using: /datum/wires/airlock/security [0x21012f59]
+ - Action: pulse {"wire":"blue"}
+[2021-05-18 13:40:41.142] thebanana3 in tgui-window-1/close (suspending)
+[2021-05-18 13:40:41.142] thebanana3 in tgui-window-1/close (suspending)
+[2021-05-18 13:40:59.903] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 13:40:59.904] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 13:41:04.723] dfrenando (as Ronald Gomes at 245,212,2)
+ - Using: /obj/machinery/vending/nukacolavend [0x2005fdb]
+ - new Vending fancy 1
+[2021-05-18 13:41:05.956] dfrenando in tgui-window-2/close (suspending)
+[2021-05-18 13:41:05.957] dfrenando in tgui-window-2/close (suspending)
+[2021-05-18 13:41:08.067] albertovinhofino (as Elias Ivanov at 74,175,4) in tgui-window-2
+ - Using: /datum/wires/airlock/security [0x21012f56]
+ - Action: pulse {"wire":"blue"}
+[2021-05-18 13:41:12.379] albertovinhofino (as Elias Ivanov at 74,175,4) in tgui-window-2
+ - Using: /datum/wires/airlock/security [0x21012f56]
+ - Action: pulse {"wire":"blue"}
+[2021-05-18 13:41:13.478] albertovinhofino (as Elias Ivanov at 74,175,4) in tgui-window-2
+ - Using: /datum/wires/airlock/security [0x21012f56]
+ - Action: pulse {"wire":"blue"}
+[2021-05-18 13:41:14.457] albertovinhofino (as Elias Ivanov at 74,175,4) in tgui-window-2
+ - Using: /datum/wires/airlock/security [0x21012f56]
+ - Action: pulse {"wire":"green"}
+[2021-05-18 13:41:15.386] albertovinhofino (as Elias Ivanov at 74,175,4) in tgui-window-2
+ - Using: /datum/wires/airlock/security [0x21012f56]
+ - Action: pulse {"wire":"blue"}
+[2021-05-18 13:41:20.854] albertovinhofino in tgui-window-2/close (suspending)
+[2021-05-18 13:41:20.854] albertovinhofino (as Elias Ivanov at 74,177,4)
+ - Using: /datum/wires/airlock/security [0x21012f56]
+ - new Wires fancy 1
+[2021-05-18 13:41:26.299] albertovinhofino (as Elias Ivanov at 74,179,4)
+ - Using: /datum/wires/airlock/security [0x21012f51]
+ - new Wires fancy 1
+[2021-05-18 13:41:27.636] albertovinhofino (as Elias Ivanov at 74,179,4) in tgui-window-1
+ - Using: /datum/wires/airlock/security [0x21012f51]
+ - Action: pulse {"wire":"blue"}
+[2021-05-18 13:41:32.569] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 13:41:32.569] albertovinhofino (as Elias Ivanov at 74,181,4)
+ - Using: /datum/wires/airlock/security [0x21012f51]
+ - new Wires fancy 1
+[2021-05-18 13:42:06.146] dfrenando (as Ronald Gomes at 224,215,2)
+ - Using: /obj/machinery/vending/cola/red [0x200dd78]
+ - new Vending fancy 1
+[2021-05-18 13:42:08.051] dfrenando in tgui-window-2/close (suspending)
+[2021-05-18 13:42:08.051] dfrenando in tgui-window-2/close (suspending)
+[2021-05-18 13:43:38.100] albertovinhofino (as Elias Ivanov at 53,164,4)
+ - Using: /datum/crewmonitor [0x2100008a]
+ - new CrewConsole fancy 1
+[2021-05-18 13:43:46.274] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 13:43:46.274] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 13:43:51.117] albertovinhofino (as Elias Ivanov at 58,161,4)
+ - Using: /obj/machinery/vending/medical [0x2009748]
+ - new Vending fancy 1
+[2021-05-18 13:43:52.721] albertovinhofino (as Elias Ivanov at 58,161,4) in tgui-window-1
+ - Using: /obj/machinery/vending/medical [0x2009748]
+ - Action: vend {"ref":"[0x210129aa]"}
+[2021-05-18 13:43:55.459] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 13:43:55.459] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 13:43:57.142] thebanana3 (as Alissa Osteen at 39,121,2)
+ - Using: /datum/component/loadout_selector [0x210404d1]
+ - new LoadoutSelect fancy 1
+[2021-05-18 13:44:00.382] thebanana3 (as Alissa Osteen at 39,121,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210404d1]
+ - Action: loadout_select {"name":"Melee"}
+[2021-05-18 13:44:06.064] thebanana3 (as Alissa Osteen at 39,121,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210404d1]
+ - Action: loadout_select {"name":"Ranged"}
+[2021-05-18 13:44:08.324]  in tgui-window-1/close (suspending)
+[2021-05-18 13:44:14.810] thebanana3 (as Alissa Osteen at 39,121,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210404d1]
+ - Action: loadout_confirm {}
+[2021-05-18 13:44:14.827] thebanana3 in tgui-window-1/close (suspending)
+[2021-05-18 13:45:53.629] albertovinhofino (as Elias Ivanov at 63,160,4)
+ - Using: /obj/machinery/computer/operating [0x2009811]
+ - new OperatingComputer fancy 1
+[2021-05-18 13:45:56.364] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 13:45:56.365] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 13:47:20.694] albertovinhofino (as Elias Ivanov at 63,160,4)
+ - Using: /obj/machinery/computer/operating [0x2009811]
+ - new OperatingComputer fancy 1
+[2021-05-18 13:47:26.980] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 13:47:26.980] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 13:47:31.899] albertovinhofino (as Elias Ivanov at 53,164,4)
+ - Using: /datum/crewmonitor [0x2100008a]
+ - new CrewConsole fancy 1
+[2021-05-18 13:47:33.508] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 13:47:33.508] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 13:49:00.625] albertovinhofino (as Elias Ivanov at 53,164,4)
+ - Using: /datum/crewmonitor [0x2100008a]
+ - new CrewConsole fancy 1
+[2021-05-18 13:49:02.618] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 13:49:02.618] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 13:49:28.818] thebanana3 (as Alissa Osteen at 77,97,2) in browseroutput (chatRenderer)
+ - chatRenderer failed to load an image after 10 attempts
+ - User Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.2; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729)
+[2021-05-18 13:49:49.057] albertovinhofino (as Elias Ivanov at 58,161,4)
+ - Using: /obj/machinery/vending/medical [0x2009748]
+ - new Vending fancy 1
+[2021-05-18 13:49:55.416] albertovinhofino (as Elias Ivanov at 58,161,4) in tgui-window-1
+ - Using: /obj/machinery/vending/medical [0x2009748]
+ - Action: vend {"ref":"[0x210129bc]"}
+[2021-05-18 13:49:56.616] albertovinhofino (as Elias Ivanov at 58,161,4) in tgui-window-1
+ - Using: /obj/machinery/vending/medical [0x2009748]
+ - Action: vend {"ref":"[0x210129ba]"}
+[2021-05-18 13:49:57.028] albertovinhofino (as Elias Ivanov at 58,161,4) in tgui-window-1
+ - Using: /obj/machinery/vending/medical [0x2009748]
+ - Action: vend {"ref":"[0x210129b9]"}
+[2021-05-18 13:49:58.531] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 13:49:58.531] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 13:52:07.121] thebanana3 in browseroutput/initialize
+[2021-05-18 13:52:48.273] albertovinhofino (as Elias Ivanov at 64,160,4)
+ - Using: /obj/machinery/computer/operating [0x2009811]
+ - new OperatingComputer fancy 1
+[2021-05-18 13:52:49.734] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 13:52:49.735] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 13:53:52.479] zeewhel (as Kain Morgan at 207,190,2)
+ - Using: /obj/machinery/vending/cigarette [0x20057f5]
+ - new Vending fancy 1
+[2021-05-18 13:54:06.983] zeewhel (as Kain Morgan at 207,190,2) in tgui-window-1
+ - Using: /obj/machinery/vending/cigarette [0x20057f5]
+ - Action: vend {"ref":"[0x2100c554]"}
+[2021-05-18 13:54:07.609] zeewhel in tgui-window-1/close (suspending)
+[2021-05-18 13:54:07.609] zeewhel in tgui-window-1/close (suspending)
+[2021-05-18 13:54:21.187] zeewhel (as Kain Morgan at 207,190,2)
+ - Using: /obj/machinery/vending/cigarette [0x20057f5]
+ - new Vending fancy 1
+[2021-05-18 13:54:23.407] zeewhel (as Kain Morgan at 207,190,2) in tgui-window-1
+ - Using: /obj/machinery/vending/cigarette [0x20057f5]
+ - Action: vend {"ref":"[0x2100c555]"}
+[2021-05-18 13:54:23.871] zeewhel (as Kain Morgan at 207,190,2) in tgui-window-1
+ - Using: /obj/machinery/vending/cigarette [0x20057f5]
+ - Action: vend {"ref":"[0x2100c556]"}
+[2021-05-18 13:54:24.514] zeewhel in tgui-window-1/close (suspending)
+[2021-05-18 13:54:24.514] zeewhel in tgui-window-1/close (suspending)
+[2021-05-18 13:54:38.395] zeewhel (as Kain Morgan at 207,190,2)
+ - Using: /obj/machinery/vending/cigarette [0x20057f5]
+ - new Vending fancy 1
+[2021-05-18 13:54:41.014] zeewhel (as Kain Morgan at 207,190,2) in tgui-window-1
+ - Using: /obj/machinery/vending/cigarette [0x20057f5]
+ - Action: vend {"ref":"[0x2100c558]"}
+[2021-05-18 13:54:41.807] zeewhel in tgui-window-1/close (suspending)
+[2021-05-18 13:54:41.807] zeewhel in tgui-window-1/close (suspending)
+[2021-05-18 13:57:16.532] albertovinhofino (as Elias Ivanov at 56,171,4)
+ - Using: /obj/machinery/vending/nukacolavendfull [0x20096a8]
+ - new Vending fancy 1
+[2021-05-18 13:57:17.709] albertovinhofino (as Elias Ivanov at 56,171,4)
+ - Using: /obj/machinery/vending/cola/red [0x201168b]
+ - new Vending fancy 1
+[2021-05-18 13:57:19.526] albertovinhofino in tgui-window-2/close (suspending)
+[2021-05-18 13:57:19.526] albertovinhofino in tgui-window-2/close (suspending)
+[2021-05-18 13:57:21.046] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 13:57:21.046] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 13:57:34.345] albertovinhofino (as Elias Ivanov at 57,202,4)
+ - Using: /obj/machinery/vending/coffee [0x20096eb]
+ - new Vending fancy 1
+[2021-05-18 13:57:36.029] albertovinhofino (as Elias Ivanov at 57,202,4)
+ - Using: /obj/machinery/vending/cigarette [0x2009731]
+ - new Vending fancy 1
+[2021-05-18 13:57:42.704] albertovinhofino (as Elias Ivanov at 57,198,4)
+ - Using: /obj/machinery/vending/cola/space_up [0x2009735]
+ - new Vending fancy 1
+[2021-05-18 13:57:42.705] albertovinhofino in tgui-window-3/initialize
+ - Using: /obj/machinery/vending/cola/space_up [0x2009735]
+[2021-05-18 13:57:43.236] albertovinhofino (as Elias Ivanov at 57,198,4)
+ - Using: /obj/machinery/vending/cola/starkist [0x20096ec]
+ - new Vending fancy 1
+[2021-05-18 13:57:43.237] albertovinhofino in tgui-window-4/initialize
+ - Using: /obj/machinery/vending/cola/starkist [0x20096ec]
+[2021-05-18 13:57:44.559] albertovinhofino in tgui-window-4/close (suspending)
+[2021-05-18 13:57:44.559] albertovinhofino in tgui-window-4/close (suspending)
+[2021-05-18 13:57:45.382] albertovinhofino in tgui-window-3/close (suspending)
+[2021-05-18 13:57:45.382] albertovinhofino in tgui-window-3/close (suspending)
+[2021-05-18 13:57:46.238] albertovinhofino in tgui-window-2/close (suspending)
+[2021-05-18 13:57:46.238] albertovinhofino in tgui-window-2/close (suspending)
+[2021-05-18 13:57:47.508] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 13:57:47.508] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 13:58:41.797] zeewhel (as Kain Morgan at 150,176,2)
+ - Using: /datum/wires/autolathe [0x2100a91f]
+ - new Wires fancy 1
+[2021-05-18 13:58:44.607] zeewhel (as Kain Morgan at 150,176,2) in tgui-window-1
+ - Using: /datum/wires/autolathe [0x2100a91f]
+ - Action: pulse {"wire":"cyan"}
+[2021-05-18 13:58:46.641] zeewhel (as Kain Morgan at 150,176,2) in tgui-window-1
+ - Using: /datum/wires/autolathe [0x2100a91f]
+ - Action: pulse {"wire":"cyan"}
+[2021-05-18 13:58:49.589] zeewhel (as Kain Morgan at 150,176,2) in tgui-window-1
+ - Using: /datum/wires/autolathe [0x2100a91f]
+ - Action: pulse {"wire":"silver"}
+[2021-05-18 13:58:51.496] zeewhel (as Kain Morgan at 150,176,2) in tgui-window-1
+ - Using: /datum/wires/autolathe [0x2100a91f]
+ - Action: pulse {"wire":"silver"}
+[2021-05-18 13:58:54.088] zeewhel (as Kain Morgan at 150,176,2) in tgui-window-1
+ - Using: /datum/wires/autolathe [0x2100a91f]
+ - Action: pulse {"wire":"blue"}
+[2021-05-18 13:58:56.743] zeewhel (as Kain Morgan at 150,176,2) in tgui-window-1
+ - Using: /datum/wires/autolathe [0x2100a91f]
+ - Action: pulse {"wire":"blue"}
+[2021-05-18 13:58:59.622] zeewhel (as Kain Morgan at 150,176,2) in tgui-window-1
+ - Using: /datum/wires/autolathe [0x2100a91f]
+ - Action: pulse {"wire":"green"}
+[2021-05-18 13:59:01.620] zeewhel (as Kain Morgan at 150,176,2) in tgui-window-1
+ - Using: /datum/wires/autolathe [0x2100a91f]
+ - Action: pulse {"wire":"green"}
+[2021-05-18 13:59:03.958] zeewhel (as Kain Morgan at 150,176,2) in tgui-window-1
+ - Using: /datum/wires/autolathe [0x2100a91f]
+ - Action: pulse {"wire":"gold"}
+[2021-05-18 13:59:06.046] zeewhel (as Kain Morgan at 150,176,2) in tgui-window-1
+ - Using: /datum/wires/autolathe [0x2100a91f]
+ - Action: pulse {"wire":"gold"}
+[2021-05-18 13:59:08.735] zeewhel (as Kain Morgan at 150,176,2) in tgui-window-1
+ - Using: /datum/wires/autolathe [0x2100a91f]
+ - Action: pulse {"wire":"crimson"}
+[2021-05-18 13:59:10.846] zeewhel (as Kain Morgan at 150,176,2) in tgui-window-1
+ - Using: /datum/wires/autolathe [0x2100a91f]
+ - Action: pulse {"wire":"crimson"}
+[2021-05-18 13:59:13.455] zeewhel (as Kain Morgan at 150,176,2) in tgui-window-1
+ - Using: /datum/wires/autolathe [0x2100a91f]
+ - Action: pulse {"wire":"silver"}
+[2021-05-18 13:59:15.606] zeewhel (as Kain Morgan at 150,176,2) in tgui-window-1
+ - Using: /datum/wires/autolathe [0x2100a91f]
+ - Action: pulse {"wire":"silver"}
+[2021-05-18 13:59:18.073] zeewhel (as Kain Morgan at 150,176,2) in tgui-window-1
+ - Using: /datum/wires/autolathe [0x2100a91f]
+ - Action: pulse {"wire":"purple"}
+[2021-05-18 13:59:20.008] zeewhel (as Kain Morgan at 150,176,2) in tgui-window-1
+ - Using: /datum/wires/autolathe [0x2100a91f]
+ - Action: pulse {"wire":"purple"}
+[2021-05-18 13:59:22.598] zeewhel (as Kain Morgan at 150,176,2) in tgui-window-1
+ - Using: /datum/wires/autolathe [0x2100a91f]
+ - Action: pulse {"wire":"yellow"}
+[2021-05-18 13:59:22.820] n0fun in browseroutput/initialize
+[2021-05-18 13:59:25.286] zeewhel (as Kain Morgan at 150,176,2) in tgui-window-1
+ - Using: /datum/wires/autolathe [0x2100a91f]
+ - Action: pulse {"wire":"yellow"}
+[2021-05-18 13:59:29.580] zeewhel (as Kain Morgan at 150,176,2) in tgui-window-1
+ - Using: /datum/wires/autolathe [0x2100a91f]
+ - Action: cut {"wire":"yellow"}
+[2021-05-18 13:59:31.396] zeewhel in tgui-window-1/close (suspending)
+[2021-05-18 13:59:31.397] zeewhel in tgui-window-1/close (suspending)
+[2021-05-18 13:59:36.065] albertovinhofino (as Elias Ivanov at 58,161,4)
+ - Using: /obj/machinery/vending/medical [0x2009748]
+ - new Vending fancy 1
+[2021-05-18 13:59:56.994] albertovinhofino (as Elias Ivanov at 58,161,4) in tgui-window-1
+ - Using: /obj/machinery/vending/medical [0x2009748]
+ - Action: vend {"ref":"[0x210129bd]"}
+[2021-05-18 13:59:58.051] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 13:59:58.051] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 14:00:41.432] albertovinhofino (as Elias Ivanov at 58,161,4)
+ - Using: /obj/machinery/vending/medical [0x2009748]
+ - new Vending fancy 1
+[2021-05-18 14:00:59.322] albertovinhofino (as Elias Ivanov at 58,161,4) in tgui-window-1
+ - Using: /obj/machinery/vending/medical [0x2009748]
+ - Action: vend {"ref":"[0x210129b8]"}
+[2021-05-18 14:01:12.825] albertovinhofino (as Elias Ivanov at 58,161,4) in tgui-window-1
+ - Using: /obj/machinery/vending/medical [0x2009748]
+ - Action: vend {"ref":"[0x210129b1]"}
+[2021-05-18 14:01:25.533] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 14:01:25.533] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 14:01:39.184] n0fun (as Kyra Taggart at 225,221,3)
+ - Using: /datum/orbit_menu [0x21040c36]
+ - new Orbit fancy 1
+[2021-05-18 14:01:39.184] n0fun in tgui-window-1/initialize
+ - Using: /datum/orbit_menu [0x21040c36]
+[2021-05-18 14:01:40.762] n0fun (as Kyra Taggart at 225,221,3) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21040c36]
+ - Action: orbit {"ref":"[mob_907]"}
+[2021-05-18 14:01:41.477] n0fun (as Kyra Taggart at 155,15,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21040c36]
+ - Action: orbit {"ref":"[mob_881]"}
+[2021-05-18 14:01:42.488] n0fun (as Kyra Taggart at 66,166,4) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21040c36]
+ - Action: orbit {"ref":"[mob_889]"}
+[2021-05-18 14:01:44.078] n0fun (as Kyra Taggart at 161,177,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21040c36]
+ - Action: orbit {"ref":"[mob_833]"}
+[2021-05-18 14:01:44.923] n0fun (as Kyra Taggart at 80,57,3) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21040c36]
+ - Action: orbit {"ref":"[mob_874]"}
+[2021-05-18 14:01:47.867] n0fun (as Kyra Taggart at 167,237,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21040c36]
+ - Action: orbit {"ref":"[mob_901]"}
+[2021-05-18 14:01:48.933] n0fun (as Kyra Taggart at 41,184,4) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21040c36]
+ - Action: orbit {"ref":"[mob_874]"}
+[2021-05-18 14:01:54.681] n0fun (as Kyra Taggart at 167,237,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21040c36]
+ - Action: orbit {"ref":"[mob_833]"}
+[2021-05-18 14:01:56.275] n0fun (as Kyra Taggart at 80,57,3) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21040c36]
+ - Action: orbit {"ref":"[mob_889]"}
+[2021-05-18 14:01:57.166] n0fun (as Kyra Taggart at 161,177,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21040c36]
+ - Action: orbit {"ref":"[mob_881]"}
+[2021-05-18 14:01:58.026] n0fun (as Kyra Taggart at 56,172,4) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21040c36]
+ - Action: orbit {"ref":"[mob_907]"}
+[2021-05-18 14:01:59.327] n0fun (as Kyra Taggart at 155,15,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21040c36]
+ - Action: orbit {"ref":"[mob_874]"}
+[2021-05-18 14:01:59.898] n0fun (as Kyra Taggart at 167,237,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21040c36]
+ - Action: orbit {"ref":"[mob_901]"}
+[2021-05-18 14:02:01.701] n0fun (as Kyra Taggart at 41,184,4) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21040c36]
+ - Action: orbit {"ref":"[mob_888]"}
+[2021-05-18 14:02:02.728] n0fun (as Kyra Taggart at 180,247,1) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21040c36]
+ - Action: orbit {"ref":"[mob_855]"}
+[2021-05-18 14:02:03.826] n0fun (as Kyra Taggart at 76,95,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21040c36]
+ - Action: orbit {"ref":"[mob_847]"}
+[2021-05-18 14:02:04.575] n0fun (as Kyra Taggart at 12,63,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21040c36]
+ - Action: orbit {"ref":"[mob_772]"}
+[2021-05-18 14:02:05.196] n0fun (as Kyra Taggart at 65,94,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21040c36]
+ - Action: orbit {"ref":"[mob_843]"}
+[2021-05-18 14:02:06.472] n0fun (as Kyra Taggart at 96,210,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21040c36]
+ - Action: orbit {"ref":"[mob_772]"}
+[2021-05-18 14:02:07.025] n0fun (as Kyra Taggart at 65,94,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21040c36]
+ - Action: orbit {"ref":"[mob_869]"}
+[2021-05-18 14:02:08.138] n0fun (as Kyra Taggart at 200,131,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21040c36]
+ - Action: orbit {"ref":"[mob_2]"}
+[2021-05-18 14:02:09.242] n0fun (as Kyra Taggart at 134,149,1) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21040c36]
+ - Action: orbit {"ref":"[mob_558]"}
+[2021-05-18 14:02:11.184] n0fun (as Kyra Taggart at 79,75,1) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21040c36]
+ - Action: orbit {"ref":"[mob_2]"}
+[2021-05-18 14:02:12.071] n0fun (as Kyra Taggart at 134,149,1) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21040c36]
+ - Action: orbit {"ref":"[mob_558]"}
+[2021-05-18 14:02:12.725] n0fun (as Kyra Taggart at 79,75,1) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21040c36]
+ - Action: orbit {"ref":"[mob_559]"}
+[2021-05-18 14:02:13.471] n0fun (as Kyra Taggart at 80,75,1) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21040c36]
+ - Action: orbit {"ref":"[mob_1]"}
+[2021-05-18 14:02:14.297] n0fun (as Kyra Taggart at 138,144,1) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21040c36]
+ - Action: orbit {"ref":"[mob_3]"}
+[2021-05-18 14:02:15.117] n0fun (as Kyra Taggart at 68,196,1) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21040c36]
+ - Action: orbit {"ref":"[0x2001457]"}
+[2021-05-18 14:02:16.251] n0fun (as Kyra Taggart at 151,189,1) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21040c36]
+ - Action: orbit {"ref":"[0x2001468]"}
+[2021-05-18 14:02:17.090] n0fun (as Kyra Taggart at 249,189,1) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21040c36]
+ - Action: orbit {"ref":"[0x2011f33]"}
+[2021-05-18 14:02:19.825] n0fun (as Kyra Taggart at 105,173,1) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21040c36]
+ - Action: orbit {"ref":"[0x2001bd2]"}
+[2021-05-18 14:02:55.177] n0fun (as Kyra Taggart at 9,4,1)
+ - Using: /obj/machinery/computer/shuttle/bos [0x2046bc2]
+ - new ShuttleConsole fancy 1
+[2021-05-18 14:02:55.178] n0fun in tgui-window-2/initialize
+ - Using: /obj/machinery/computer/shuttle/bos [0x2046bc2]
+[2021-05-18 14:02:57.752] n0fun in tgui-window-2/close (suspending)
+[2021-05-18 14:02:57.753] n0fun in tgui-window-2/close (suspending)
+[2021-05-18 14:03:02.918] n0fun (as Kyra Taggart at 10,6,1)
+ - Using: /obj/machinery/computer/shuttle/bos [0x2046bc2]
+ - new ShuttleConsole fancy 1
+[2021-05-18 14:03:07.760] zeewhel (as Kain Morgan at 161,179,2)
+ - Using: /obj/item/paper [0x2004a7e]
+ - new PaperSheet fancy 1
+[2021-05-18 14:03:09.122] zeewhel in tgui-window-1/close (suspending)
+[2021-05-18 14:03:09.122] zeewhel in tgui-window-1/close (suspending)
+[2021-05-18 14:03:10.756] n0fun (as Kyra Taggart at 10,6,1) in tgui-window-2
+ - Using: /obj/machinery/computer/shuttle/bos [0x2046bc2]
+ - Action: move {"shuttle_id":"Bos1"}
+[2021-05-18 14:03:12.438] n0fun (as Kyra Taggart at 12,4,1) in tgui-window-2
+ - Using: /obj/machinery/computer/shuttle/bos [0x2046bc2]
+ - Action: move {"shuttle_id":"Bos1"}
+[2021-05-18 14:03:13.632] n0fun in tgui-window-2/close (suspending)
+[2021-05-18 14:03:13.632] n0fun in tgui-window-2/close (suspending)
+[2021-05-18 14:03:15.201] n0fun (as Kyra Taggart at 12,4,1)
+ - Using: /obj/machinery/computer/shuttle/bos [0x2046bc2]
+ - new ShuttleConsole fancy 1
+[2021-05-18 14:03:20.806] n0fun in tgui-window-2/close (suspending)
+[2021-05-18 14:03:20.806] n0fun in tgui-window-2/close (suspending)
+[2021-05-18 14:03:21.624] n0fun in tgui-window-1/close (suspending)
+[2021-05-18 14:03:21.624] n0fun in tgui-window-1/close (suspending)
+[2021-05-18 14:08:05.097] albertovinhofino (as Elias Ivanov at 49,138,4)
+ - Using: /obj/structure/ore_box [0x200941b]
+ - new OreBox fancy 1
+[2021-05-18 14:08:06.233] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 14:08:06.233] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 14:10:10.145] zeewhel (as Kain Morgan at 161,177,2)
+ - Using: /datum/component/personal_crafting [0x21040543]
+ - new PersonalCrafting fancy 1
+[2021-05-18 14:10:16.600] zeewhel (as Kain Morgan at 161,177,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21040543]
+ - Action: set_category {"category":"Crafting","subcategory":"Forging & Smithing"}
+[2021-05-18 14:10:25.368] zeewhel (as Kain Morgan at 161,177,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21040543]
+ - Action: set_category {"category":"Crafting","subcategory":"Scavenging & Tinkering"}
+[2021-05-18 14:10:36.137] zeewhel (as Kain Morgan at 161,177,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21040543]
+ - Action: set_category {"category":"Crafting","subcategory":"Tools & Workbench"}
+[2021-05-18 14:11:03.907] zeewhel (as Kain Morgan at 152,178,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21040543]
+ - Action: make {"recipe":"[0x210012b0]"}
+[2021-05-18 14:11:05.427] zeewhel (as Kain Morgan at 152,178,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21040543]
+ - Action: make {"recipe":"[0x210012b1]"}
+[2021-05-18 14:11:12.936] zeewhel (as Kain Morgan at 150,178,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21040543]
+ - Action: make {"recipe":"[0x210012b0]"}
+[2021-05-18 14:11:13.516] dantethanatos in browseroutput/initialize
+[2021-05-18 14:11:42.081] albertovinhofino (as Elias Ivanov at 32,192,4)
+ - Using: /obj/machinery/vending/snack/orange [0x2010f9f]
+ - new Vending fancy 1
+[2021-05-18 14:11:44.290] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 14:11:44.291] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 14:12:53.157] albertovinhofino (as Elias Ivanov at 68,164,4)
+ - Using: /obj/machinery/vending/wardrobe/chem_wardrobe [0x200989c]
+ - new Vending fancy 1
+[2021-05-18 14:12:55.164] zeewhel in tgui-window-1/close (suspending)
+[2021-05-18 14:12:55.165] zeewhel in tgui-window-1/close (suspending)
+[2021-05-18 14:12:59.819] zeewhel (as Kain Morgan at 153,177,2)
+ - Using: /datum/component/personal_crafting [0x21040543]
+ - new PersonalCrafting fancy 1
+[2021-05-18 14:13:01.778] zeewhel (as Kain Morgan at 153,177,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21040543]
+ - Action: set_category {"category":"Crafting","subcategory":"Tools & Workbench"}
+[2021-05-18 14:13:03.013] zeewhel (as Kain Morgan at 153,177,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21040543]
+ - Action: make {"recipe":"[0x210012a5]"}
+[2021-05-18 14:13:05.753] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 14:13:05.753] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 14:13:07.962] albertovinhofino (as Elias Ivanov at 68,163,4)
+ - Using: /obj/machinery/chem_dispenser [0x20098b6]
+ - new ChemDispenser fancy 1
+[2021-05-18 14:13:09.665] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 14:13:09.665] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 14:13:10.527] albertovinhofino (as Elias Ivanov at 68,163,4)
+ - Using: /obj/machinery/chem_master/advanced [0x20098ce]
+ - new ChemMaster fancy 1
+[2021-05-18 14:13:12.239] zeewhel in tgui-window-1/close (suspending)
+[2021-05-18 14:13:12.239] zeewhel in tgui-window-1/close (suspending)
+[2021-05-18 14:13:13.247] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 14:13:13.247] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 14:13:35.922] zeewhel (as Kain Morgan at 153,177,2)
+ - Using: /datum/component/personal_crafting [0x21040543]
+ - new PersonalCrafting fancy 1
+[2021-05-18 14:13:37.118] zeewhel (as Kain Morgan at 153,177,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21040543]
+ - Action: set_category {"category":"Foods","subcategory":"Food Meats"}
+[2021-05-18 14:13:38.474] zeewhel (as Kain Morgan at 153,177,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21040543]
+ - Action: set_category {"category":"Crafting","subcategory":"Tools & Workbench"}
+[2021-05-18 14:13:40.875] zeewhel (as Kain Morgan at 153,177,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21040543]
+ - Action: make {"recipe":"[0x210012b0]"}
+[2021-05-18 14:13:50.354] zeewhel (as Kain Morgan at 153,177,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21040543]
+ - Action: make {"recipe":"[0x210012b1]"}
+[2021-05-18 14:13:59.629] zeewhel in tgui-window-1/close (suspending)
+[2021-05-18 14:13:59.629] zeewhel in tgui-window-1/close (suspending)
+[2021-05-18 14:14:52.342] zeewhel (as Kain Morgan at 153,177,2)
+ - Using: /datum/component/personal_crafting [0x21040543]
+ - new PersonalCrafting fancy 1
+[2021-05-18 14:14:55.587] zeewhel (as Kain Morgan at 153,177,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21040543]
+ - Action: set_category {"category":"Crafting","subcategory":"Tools & Workbench"}
+[2021-05-18 14:14:57.599] zeewhel (as Kain Morgan at 153,177,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21040543]
+ - Action: set_category {"category":"Misc","subcategory":"Farming"}
+[2021-05-18 14:14:58.139] zeewhel (as Kain Morgan at 153,177,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21040543]
+ - Action: set_category {"category":"Misc","subcategory":"Bottling"}
+[2021-05-18 14:14:59.546] zeewhel (as Kain Morgan at 153,177,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21040543]
+ - Action: set_category {"category":"Misc","subcategory":"Miscellaneous"}
+[2021-05-18 14:15:04.743] zeewhel (as Kain Morgan at 153,177,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21040543]
+ - Action: set_category {"category":"Misc","subcategory":"Burial & Execution"}
+[2021-05-18 14:15:07.537] zeewhel (as Kain Morgan at 153,177,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21040543]
+ - Action: set_category {"category":"Clothing","subcategory":"Belts"}
+[2021-05-18 14:15:09.200] zeewhel (as Kain Morgan at 153,177,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21040543]
+ - Action: set_category {"category":"Clothing","subcategory":"Armor"}
+[2021-05-18 14:15:16.588] zeewhel (as Kain Morgan at 153,177,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21040543]
+ - Action: set_category {"category":"Clothing","subcategory":"General Clothing"}
+[2021-05-18 14:15:18.269] zeewhel (as Kain Morgan at 153,177,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21040543]
+ - Action: set_category {"category":"Clothing","subcategory":"Misc Clothing"}
+[2021-05-18 14:15:18.689] zeewhel (as Kain Morgan at 153,177,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21040543]
+ - Action: set_category {"category":"Weaponry","subcategory":"Ranged Weapons"}
+[2021-05-18 14:15:19.084] zeewhel (as Kain Morgan at 153,177,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21040543]
+ - Action: set_category {"category":"Weaponry","subcategory":"Melee Weapons"}
+[2021-05-18 14:15:34.954] zeewhel (as Kain Morgan at 153,177,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21040543]
+ - Action: set_category {"category":"Weaponry","subcategory":"Ranged Weapons"}
+[2021-05-18 14:15:38.138] zeewhel (as Kain Morgan at 153,177,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21040543]
+ - Action: set_category {"category":"Weaponry","subcategory":"Explosives & Cells"}
+[2021-05-18 14:15:41.365] zeewhel (as Kain Morgan at 153,177,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21040543]
+ - Action: set_category {"category":"Medical"}
+[2021-05-18 14:15:47.393] zeewhel (as Kain Morgan at 153,177,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21040543]
+ - Action: set_category {"category":"Tribal"}
+[2021-05-18 14:16:08.105] zeewhel in tgui-window-1/close (suspending)
+[2021-05-18 14:16:08.105] zeewhel in tgui-window-1/close (suspending)
+[2021-05-18 14:16:34.336] zeewhel (as Kain Morgan at 128,194,2)
+ - Using: /obj/machinery/vending/cola/red [0x200c84b]
+ - new Vending fancy 1
+[2021-05-18 14:16:35.783] zeewhel in tgui-window-1/close (suspending)
+[2021-05-18 14:16:35.783] zeewhel in tgui-window-1/close (suspending)
+[2021-05-18 14:16:36.727] zeewhel (as Kain Morgan at 127,194,2)
+ - Using: /obj/machinery/vending/cola/space_up [0x2003f98]
+ - new Vending fancy 1
+[2021-05-18 14:16:38.810] zeewhel (as Kain Morgan at 127,194,2) in tgui-window-1
+ - Using: /obj/machinery/vending/cola/space_up [0x2003f98]
+ - Action: vend {"ref":"[0x2100a0b0]"}
+[2021-05-18 14:16:39.447] zeewhel in tgui-window-1/close (suspending)
+[2021-05-18 14:16:39.447] zeewhel in tgui-window-1/close (suspending)
+[2021-05-18 14:17:02.886] zeewhel (as Kain Morgan at 126,194,2)
+ - Using: /obj/machinery/vending/cigarette [0x2003f76]
+ - new Vending fancy 1
+[2021-05-18 14:17:04.746] zeewhel in tgui-window-1/close (suspending)
+[2021-05-18 14:17:04.746] zeewhel in tgui-window-1/close (suspending)
+[2021-05-18 14:23:55.296] luciam in browseroutput/initialize
+[2021-05-18 14:27:49.236] luciam (as Skarlet D'Luker at 254,63,2)
+ - Using: /datum/component/loadout_selector [0x21041222]
+ - new LoadoutSelect fancy 1
+[2021-05-18 14:27:49.237] luciam in tgui-window-1/initialize
+ - Using: /datum/component/loadout_selector [0x21041222]
+[2021-05-18 14:27:51.677] luciam (as Skarlet D'Luker at 254,63,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041222]
+ - Action: loadout_select {"name":"Vaultie"}
+[2021-05-18 14:27:55.339] luciam (as Skarlet D'Luker at 254,63,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041222]
+ - Action: loadout_select {"name":"Salvager"}
+[2021-05-18 14:28:00.473] luciam (as Skarlet D'Luker at 254,63,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041222]
+ - Action: loadout_select {"name":"Wasteland Doctor"}
+[2021-05-18 14:28:05.971] luciam (as Skarlet D'Luker at 254,63,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041222]
+ - Action: loadout_select {"name":"Salvager"}
+[2021-05-18 14:28:10.165] luciam (as Skarlet D'Luker at 254,63,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041222]
+ - Action: loadout_select {"name":"Roving Trader"}
+[2021-05-18 14:28:11.124] albertovinhofino in browseroutput/initialize
+[2021-05-18 14:28:11.408] luciam (as Skarlet D'Luker at 254,63,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041222]
+ - Action: loadout_select {"name":"Roving Trader"}
+[2021-05-18 14:28:12.744] luciam (as Skarlet D'Luker at 254,63,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041222]
+ - Action: loadout_select {"name":"Scavenger"}
+[2021-05-18 14:28:14.831] luciam (as Skarlet D'Luker at 254,63,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041222]
+ - Action: loadout_select {"name":"Roving Trader"}
+[2021-05-18 14:28:15.058] luciam (as Skarlet D'Luker at 254,63,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041222]
+ - Action: loadout_select {"name":"Roving Trader"}
+[2021-05-18 14:28:25.297] luciam (as Skarlet D'Luker at 254,63,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041222]
+ - Action: loadout_select {"name":"Scavenger"}
+[2021-05-18 14:28:27.192] albertovinhofino (as Elias Ivanov at 25,144,3)
+ - Using: /datum/spawners_menu [0x210412e1]
+ - new SpawnersMenu fancy 1
+[2021-05-18 14:28:27.192] albertovinhofino in tgui-window-1/initialize
+ - Using: /datum/spawners_menu [0x210412e1]
+[2021-05-18 14:28:32.851] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 14:28:32.851] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 14:28:34.252] luciam (as Skarlet D'Luker at 254,63,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041222]
+ - Action: loadout_select {"name":"Legion Citizen"}
+[2021-05-18 14:28:37.850] luciam (as Skarlet D'Luker at 254,63,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041222]
+ - Action: loadout_select {"name":"NCR Citizen"}
+[2021-05-18 14:28:43.570] luciam (as Skarlet D'Luker at 254,63,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041222]
+ - Action: loadout_select {"name":"Legion Citizen"}
+[2021-05-18 14:28:44.499] luciam (as Skarlet D'Luker at 254,63,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041222]
+ - Action: loadout_select {"name":"Scavenger"}
+[2021-05-18 14:28:45.769] albertovinhofino (as Elias Ivanov at 17,189,3)
+ - Using: /datum/orbit_menu [0x2104110b]
+ - new Orbit fancy 1
+[2021-05-18 14:28:46.490] luciam (as Skarlet D'Luker at 254,63,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041222]
+ - Action: loadout_select {"name":"Roving Trader"}
+[2021-05-18 14:28:48.794] luciam (as Skarlet D'Luker at 254,63,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041222]
+ - Action: loadout_select {"name":"Wasteland Doctor"}
+[2021-05-18 14:28:49.641] albertovinhofino (as Elias Ivanov at 17,189,3) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2104110b]
+ - Action: orbit {"ref":"[mob_911]"}
+[2021-05-18 14:28:50.010] luciam (as Skarlet D'Luker at 254,63,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041222]
+ - Action: loadout_select {"name":"Salvager"}
+[2021-05-18 14:28:52.529] albertovinhofino (as Elias Ivanov at 151,237,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2104110b]
+ - Action: orbit {"ref":"[mob_855]"}
+[2021-05-18 14:28:55.304] albertovinhofino (as Elias Ivanov at 76,95,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2104110b]
+ - Action: orbit {"ref":"[mob_847]"}
+[2021-05-18 14:28:57.498] albertovinhofino (as Elias Ivanov at 12,63,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2104110b]
+ - Action: orbit {"ref":"[mob_772]"}
+[2021-05-18 14:29:00.611] luciam (as Skarlet D'Luker at 254,63,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041222]
+ - Action: loadout_select {"name":"Vaultie"}
+[2021-05-18 14:29:04.422] luciam (as Skarlet D'Luker at 254,63,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041222]
+ - Action: loadout_select {"name":"Salvager"}
+[2021-05-18 14:29:07.084] albertovinhofino (as Elias Ivanov at 65,94,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2104110b]
+ - Action: orbit {"ref":"[mob_843]"}
+[2021-05-18 14:29:07.342] luciam (as Skarlet D'Luker at 254,63,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041222]
+ - Action: loadout_select {"name":"Vaultie"}
+[2021-05-18 14:29:09.102] luciam (as Skarlet D'Luker at 254,63,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041222]
+ - Action: loadout_confirm {}
+[2021-05-18 14:29:09.162] luciam in tgui-window-1/close (suspending)
+[2021-05-18 14:29:09.212] albertovinhofino (as Elias Ivanov at 96,210,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2104110b]
+ - Action: orbit {"ref":"[mob_869]"}
+[2021-05-18 14:29:11.737] albertovinhofino (as Elias Ivanov at 200,131,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2104110b]
+ - Action: orbit {"ref":"[mob_2]"}
+[2021-05-18 14:29:14.578] albertovinhofino (as Elias Ivanov at 134,149,1) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2104110b]
+ - Action: orbit {"ref":"[mob_833]"}
+[2021-05-18 14:29:17.638] albertovinhofino (as Elias Ivanov at 80,57,3) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2104110b]
+ - Action: orbit {"ref":"[mob_889]"}
+[2021-05-18 14:29:19.617] albertovinhofino (as Elias Ivanov at 160,178,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2104110b]
+ - Action: orbit {"ref":"[mob_901]"}
+[2021-05-18 14:29:20.465] albertovinhofino (as Elias Ivanov at 41,184,4) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2104110b]
+ - Action: orbit {"ref":"[mob_874]"}
+[2021-05-18 14:29:22.954] albertovinhofino (as Elias Ivanov at 167,237,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2104110b]
+ - Action: orbit {"ref":"[mob_920]"}
+[2021-05-18 14:29:27.223] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 14:29:27.224] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 14:29:31.455] albertovinhofino (as Elias Ivanov at 253,63,2)
+ - Using: /datum/spawners_menu [0x21041568]
+ - new SpawnersMenu fancy 1
+[2021-05-18 14:29:33.945] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 14:29:33.945] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 14:30:43.540] 2006f in browseroutput/initialize
+[2021-05-18 14:31:29.491] albertovinhofino (as Elias Ivanov at 239,215,3)
+ - Using: /datum/spawners_menu [0x21041568]
+ - new SpawnersMenu fancy 1
+[2021-05-18 14:31:33.550] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 14:31:33.550] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 14:34:31.222] albertovinhofino (as Elias Ivanov at 138,202,3)
+ - Using: /datum/spawners_menu [0x21041568]
+ - new SpawnersMenu fancy 1
+[2021-05-18 14:34:33.223] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 14:34:33.223] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 14:36:09.733] albertovinhofino (as Elias Ivanov at 227,237,3)
+ - Using: /datum/spawners_menu [0x21041568]
+ - new SpawnersMenu fancy 1
+[2021-05-18 14:36:12.030] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 14:36:12.030] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 14:36:25.718] albertovinhofino (as Elias Ivanov at 224,187,3)
+ - Using: /datum/orbit_menu [0x2104110b]
+ - new Orbit fancy 1
+[2021-05-18 14:36:29.918] albertovinhofino (as Elias Ivanov at 224,213,3) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2104110b]
+ - Action: orbit {"ref":"[mob_920]"}
+[2021-05-18 14:36:30.864] albertovinhofino (as Elias Ivanov at 150,214,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2104110b]
+ - Action: orbit {"ref":"[mob_881]"}
+[2021-05-18 14:36:32.065] albertovinhofino (as Elias Ivanov at 17,184,3) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2104110b]
+ - Action: orbit {"ref":"[mob_907]"}
+[2021-05-18 14:36:33.871] albertovinhofino (as Elias Ivanov at 155,15,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2104110b]
+ - Action: orbit {"ref":"[mob_855]"}
+[2021-05-18 14:36:35.615] albertovinhofino (as Elias Ivanov at 76,95,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2104110b]
+ - Action: orbit {"ref":"[mob_847]"}
+[2021-05-18 14:36:36.846] albertovinhofino (as Elias Ivanov at 12,63,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2104110b]
+ - Action: orbit {"ref":"[mob_772]"}
+[2021-05-18 14:36:38.135] albertovinhofino (as Elias Ivanov at 65,94,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2104110b]
+ - Action: orbit {"ref":"[mob_843]"}
+[2021-05-18 14:36:38.735] albertovinhofino (as Elias Ivanov at 96,210,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2104110b]
+ - Action: orbit {"ref":"[mob_869]"}
+[2021-05-18 14:36:52.262] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 14:36:52.263] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 14:37:15.068] albertovinhofino (as Elias Ivanov at 1,191,2)
+ - Using: /datum/spawners_menu [0x21041568]
+ - new SpawnersMenu fancy 1
+[2021-05-18 14:37:16.333] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 14:37:16.333] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 14:51:06.552] jhonatanlima in browseroutput/initialize
+[2021-05-18 14:52:45.510] jhonatanlima (as Luicio Notav at 252,73,2)
+ - Using: /datum/component/loadout_selector [0x21009178]
+ - new LoadoutSelect fancy 1
+[2021-05-18 14:52:45.510] jhonatanlima in tgui-window-1/initialize
+ - Using: /datum/component/loadout_selector [0x21009178]
+[2021-05-18 14:52:47.997] jhonatanlima (as Luicio Notav at 252,73,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21009178]
+ - Action: loadout_select {"name":"Salvager"}
+[2021-05-18 14:52:48.900] jhonatanlima (as Luicio Notav at 252,73,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21009178]
+ - Action: loadout_select {"name":"Wasteland Doctor"}
+[2021-05-18 14:52:51.532] jhonatanlima (as Luicio Notav at 252,73,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21009178]
+ - Action: loadout_select {"name":"Scavenger"}
+[2021-05-18 14:52:57.816] jhonatanlima (as Luicio Notav at 252,73,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21009178]
+ - Action: loadout_select {"name":"Legion Citizen"}
+[2021-05-18 14:53:00.556] jhonatanlima (as Luicio Notav at 252,73,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21009178]
+ - Action: loadout_select {"name":"NCR Citizen"}
+[2021-05-18 14:53:08.194] jhonatanlima (as Luicio Notav at 252,73,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21009178]
+ - Action: loadout_select {"name":"Wasteland Doctor"}
+[2021-05-18 14:53:09.344] jhonatanlima (as Luicio Notav at 252,73,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21009178]
+ - Action: loadout_select {"name":"Vaultie"}
+[2021-05-18 14:53:10.646] jhonatanlima (as Luicio Notav at 252,73,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21009178]
+ - Action: loadout_select {"name":"Salvager"}
+[2021-05-18 14:53:16.251] jhonatanlima (as Luicio Notav at 252,73,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21009178]
+ - Action: loadout_confirm {}
+[2021-05-18 14:53:16.284] jhonatanlima in tgui-window-1/close (suspending)
+[2021-05-18 14:54:23.038] fidgetybacchus in browseroutput/initialize
+[2021-05-18 14:55:10.760] jhonatanlima (as Luicio Notav at 206,80,2)
+ - Using: /obj/item/radio [0x20057b4]
+ - new Radio fancy 1
+[2021-05-18 14:55:12.306] jhonatanlima in tgui-window-1/close (suspending)
+[2021-05-18 14:55:12.306] jhonatanlima in tgui-window-1/close (suspending)
+[2021-05-18 14:56:04.267] jhonatanlima (as Luicio Notav at 212,80,2)
+ - Using: /obj/machinery/vending/tool [0x2005991]
+ - new Vending fancy 1
+[2021-05-18 14:56:13.174] jhonatanlima (as Luicio Notav at 212,80,2) in tgui-window-1
+ - Using: /obj/machinery/vending/tool [0x2005991]
+ - Action: vend {"ref":"[0x2100c768]"}
+[2021-05-18 14:56:23.773] jhonatanlima (as Luicio Notav at 212,80,2) in tgui-window-1
+ - Using: /obj/machinery/vending/tool [0x2005991]
+ - Action: vend {"ref":"[0x2100c762]"}
+[2021-05-18 14:56:25.151] jhonatanlima in tgui-window-1/close (suspending)
+[2021-05-18 14:56:25.152] jhonatanlima in tgui-window-1/close (suspending)
+[2021-05-18 14:59:20.103] gatossj in browseroutput/initialize
+[2021-05-18 15:00:27.838] gatossj (as John Grave at 3,61,2)
+ - Using: /datum/component/loadout_selector [0x21041a00]
+ - new LoadoutSelect fancy 1
+[2021-05-18 15:00:27.838] gatossj in tgui-window-1/initialize
+ - Using: /datum/component/loadout_selector [0x21041a00]
+[2021-05-18 15:00:32.047] gatossj (as John Grave at 3,61,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041a00]
+ - Action: loadout_select {"name":"Vaultie"}
+[2021-05-18 15:00:35.901] gatossj in tgui-window-1/close (suspending)
+[2021-05-18 15:00:35.902] gatossj in tgui-window-1/close (suspending)
+[2021-05-18 15:01:17.434] gatossj (as John Grave at 53,63,2)
+ - Using: /datum/component/loadout_selector [0x21041a00]
+ - new LoadoutSelect fancy 1
+[2021-05-18 15:01:20.388] gatossj (as John Grave at 53,63,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041a00]
+ - Action: loadout_select {"name":"Salvager"}
+[2021-05-18 15:01:23.845] gatossj (as John Grave at 53,63,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041a00]
+ - Action: loadout_select {"name":"Vaultie"}
+[2021-05-18 15:01:26.344] gatossj (as John Grave at 53,63,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041a00]
+ - Action: loadout_confirm {}
+[2021-05-18 15:01:26.415] gatossj in tgui-window-1/close (suspending)
+[2021-05-18 15:04:43.815] alexalbright in browseroutput/initialize
+[2021-05-18 15:04:51.822] jaspilf in browseroutput/initialize
+[2021-05-18 15:05:27.483] alexalbright (as Gladwyn Prescott at 56,35,2)
+ - Using: /datum/orbit_menu [0x21041978]
+ - new Orbit fancy 1
+[2021-05-18 15:05:27.483] alexalbright in tgui-window-1/initialize
+ - Using: /datum/orbit_menu [0x21041978]
+[2021-05-18 15:05:29.336] alexalbright (as Gladwyn Prescott at 56,35,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21041978]
+ - Action: orbit {"ref":"[mob_950]"}
+[2021-05-18 15:05:32.332] alexalbright (as Gladwyn Prescott at 91,92,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21041978]
+ - Action: orbit {"ref":"[mob_889]"}
+[2021-05-18 15:05:39.849] alexalbright (as Gladwyn Prescott at 160,178,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21041978]
+ - Action: orbit {"ref":"[mob_939]"}
+[2021-05-18 15:05:46.617] alexalbright (as Gladwyn Prescott at 197,55,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21041978]
+ - Action: orbit {"ref":"[mob_833]"}
+[2021-05-18 15:05:51.100] alexalbright (as Gladwyn Prescott at 80,57,3) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21041978]
+ - Action: orbit {"ref":"[mob_874]"}
+[2021-05-18 15:05:54.212] alexalbright (as Gladwyn Prescott at 167,237,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21041978]
+ - Action: orbit {"ref":"[mob_901]"}
+[2021-05-18 15:05:54.357] jaspilf in browseroutput/initialize
+[2021-05-18 15:05:58.893] alexalbright in tgui-window-1/close (suspending)
+[2021-05-18 15:05:58.893] alexalbright in tgui-window-1/close (suspending)
+[2021-05-18 15:06:12.939] jaspilf in browseroutput/initialize
+[2021-05-18 15:07:54.279] nickenzo12345 in browseroutput/initialize
+[2021-05-18 15:08:25.154] nickenzo12345 (as Katelyn Edwards at 232,254,2)
+ - Using: /datum/component/loadout_selector [0x21041a80]
+ - new LoadoutSelect fancy 1
+[2021-05-18 15:08:25.155] nickenzo12345 in tgui-window-1/initialize
+ - Using: /datum/component/loadout_selector [0x21041a80]
+[2021-05-18 15:08:28.431] nickenzo12345 (as Katelyn Edwards at 232,254,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041a80]
+ - Action: loadout_select {"name":"NCR Citizen"}
+[2021-05-18 15:08:31.012] nickenzo12345 (as Katelyn Edwards at 232,254,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041a80]
+ - Action: loadout_confirm {}
+[2021-05-18 15:08:31.111] nickenzo12345 in tgui-window-1/close (suspending)
+[2021-05-18 15:13:00.432] brunoasbahr in browseroutput/initialize
+[2021-05-18 15:15:11.475] jhonatanlima (as Luicio Notav at 196,194,2)
+ - Using: /obj/machinery/smartfridge/bottlerack/lootshelf/cans [0x2005490]
+ - new SmartVend fancy 1
+[2021-05-18 15:15:11.807] gatossj (as Unknown at 197,132,2)
+ - Using: /obj/item/radio/headset/headset_bos [0x2048d7c]
+ - new Radio fancy 1
+[2021-05-18 15:15:13.460] gatossj in tgui-window-1/close (suspending)
+[2021-05-18 15:15:13.460] gatossj in tgui-window-1/close (suspending)
+[2021-05-18 15:15:13.621] jhonatanlima (as Luicio Notav at 196,194,2) in tgui-window-1
+ - Using: /obj/machinery/smartfridge/bottlerack/lootshelf/cans [0x2005490]
+ - Action: Release {"name":"tin of beans","amount":1}
+[2021-05-18 15:15:24.798] jhonatanlima (as Luicio Notav at 196,194,2) in tgui-window-1
+ - Using: /obj/machinery/smartfridge/bottlerack/lootshelf/cans [0x2005490]
+ - Action: Release {"name":"dog food","amount":1}
+[2021-05-18 15:15:27.359] brunoasbahr (as Montagne Marshall at 2,186,2)
+ - Using: /datum/component/loadout_selector [0x21041c0d]
+ - new LoadoutSelect fancy 1
+[2021-05-18 15:15:27.360] brunoasbahr in tgui-window-1/initialize
+ - Using: /datum/component/loadout_selector [0x21041c0d]
+[2021-05-18 15:15:33.678] brunoasbahr (as Montagne Marshall at 2,186,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041c0d]
+ - Action: loadout_select {"name":"Roving Trader"}
+[2021-05-18 15:15:35.886] brunoasbahr (as Montagne Marshall at 2,186,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041c0d]
+ - Action: loadout_select {"name":"Wasteland Doctor"}
+[2021-05-18 15:15:38.231] jhonatanlima in tgui-window-1/close (suspending)
+[2021-05-18 15:15:38.232] jhonatanlima in tgui-window-1/close (suspending)
+[2021-05-18 15:15:39.607] ovelhacosmica in browseroutput/initialize
+[2021-05-18 15:15:45.365] brunoasbahr (as Montagne Marshall at 2,186,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041c0d]
+ - Action: loadout_select {"name":"Salvager"}
+[2021-05-18 15:15:48.943] brunoasbahr (as Montagne Marshall at 2,186,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041c0d]
+ - Action: loadout_confirm {}
+[2021-05-18 15:15:48.980] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 15:15:54.524] albertovinhofino (as Kade Tanner at 245,222,3)
+ - Using: /obj/machinery/vending/wardrobe/medi_wardrobe [0x2008662]
+ - new Vending fancy 1
+[2021-05-18 15:15:57.009] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 15:15:57.009] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 15:16:09.418] brunoasbahr (as Montagne Marshall at 3,186,2)
+ - Using: /datum/component/personal_crafting [0x21041b5e]
+ - new PersonalCrafting fancy 1
+[2021-05-18 15:16:11.679] brunoasbahr (as Montagne Marshall at 3,186,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041b5e]
+ - Action: set_category {"category":"Crafting","subcategory":"Tools & Workbench"}
+[2021-05-18 15:16:12.179] brunoasbahr (as Montagne Marshall at 3,186,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041b5e]
+ - Action: set_category {"category":"Crafting","subcategory":"Scavenging & Tinkering"}
+[2021-05-18 15:16:14.373] brunoasbahr (as Montagne Marshall at 3,186,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041b5e]
+ - Action: make {"recipe":"[0x21001230]"}
+[2021-05-18 15:16:17.278] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 15:16:17.278] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 15:16:30.346] albertovinhofino (as Kade Tanner at 239,215,3)
+ - Using: /obj/machinery/computer/operating/bos [0x200840a]
+ - new OperatingComputer fancy 1
+[2021-05-18 15:16:32.104] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 15:16:32.104] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 15:17:15.003] nickenzo12345 (as Katelyn Edwards at 30,104,2)
+ - Using: /obj/machinery/computer/shuttle/bunkerelevator [0x2046dc0]
+ - new ShuttleConsole fancy 1
+[2021-05-18 15:17:15.893] nickenzo12345 (as Katelyn Edwards at 30,104,2) in tgui-window-1
+ - Using: /obj/machinery/computer/shuttle/bunkerelevator [0x2046dc0]
+ - Action: move {"shuttle_id":"Level_1"}
+[2021-05-18 15:17:18.227] nickenzo12345 in tgui-window-1/close (suspending)
+[2021-05-18 15:17:18.227] nickenzo12345 in tgui-window-1/close (suspending)
+[2021-05-18 15:17:25.823] nickenzo12345 (as Katelyn Edwards at 240,230,4)
+ - Using: /obj/machinery/computer/shuttle/bunkerelevator [0x2046dc0]
+ - new ShuttleConsole fancy 1
+[2021-05-18 15:17:26.466] jhonatanlima (as Luicio Notav at 172,180,2)
+ - Using: /obj/machinery/vending/coffee [0x2004e6d]
+ - new Vending fancy 1
+[2021-05-18 15:17:27.050] nickenzo12345 (as Katelyn Edwards at 240,230,4) in tgui-window-1
+ - Using: /obj/machinery/computer/shuttle/bunkerelevator [0x2046dc0]
+ - Action: move {"shuttle_id":"Ground"}
+[2021-05-18 15:17:29.969] jhonatanlima (as Luicio Notav at 172,180,2) in tgui-window-1
+ - Using: /obj/machinery/vending/coffee [0x2004e6d]
+ - Action: vend {"ref":"[0x2100b702]"}
+[2021-05-18 15:17:30.775] jhonatanlima in tgui-window-1/close (suspending)
+[2021-05-18 15:17:30.775] jhonatanlima in tgui-window-1/close (suspending)
+[2021-05-18 15:17:32.740] nickenzo12345 (as Katelyn Edwards at 31,104,2) in tgui-window-1
+ - Using: /obj/machinery/computer/shuttle/bunkerelevator [0x2046dc0]
+ - Action: move {"shuttle_id":"Level_1"}
+[2021-05-18 15:17:35.084] nickenzo12345 (as Katelyn Edwards at 240,230,4) in tgui-window-1
+ - Using: /obj/machinery/computer/shuttle/bunkerelevator [0x2046dc0]
+ - Action: move {"shuttle_id":"Ground"}
+[2021-05-18 15:17:40.840] nickenzo12345 (as Katelyn Edwards at 31,104,2) in tgui-window-1
+ - Using: /obj/machinery/computer/shuttle/bunkerelevator [0x2046dc0]
+ - Action: move {"shuttle_id":"Level_1"}
+[2021-05-18 15:17:47.210] nickenzo12345 in tgui-window-1/close (suspending)
+[2021-05-18 15:17:47.210] nickenzo12345 in tgui-window-1/close (suspending)
+[2021-05-18 15:17:55.047] aert in browseroutput/initialize
+[2021-05-18 15:18:09.897] brunoasbahr (as Montagne Marshall at 84,197,2)
+ - Using: /obj/machinery/vending/dinnerware [0x20037e3]
+ - new Vending fancy 1
+[2021-05-18 15:18:49.309] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 15:18:49.309] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 15:18:49.310] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 15:18:49.311] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 15:18:49.313] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 15:18:49.314] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 15:19:18.668] alexalbright (as Gladwyn Prescott at 41,184,4)
+ - Using: /datum/orbit_menu [0x21041978]
+ - new Orbit fancy 1
+[2021-05-18 15:19:20.228] alexalbright (as Gladwyn Prescott at 41,184,4) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21041978]
+ - Action: orbit {"ref":"[mob_950]"}
+[2021-05-18 15:19:29.056] alexalbright (as Gladwyn Prescott at 171,9,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21041978]
+ - Action: orbit {"ref":"[mob_973]"}
+[2021-05-18 15:19:32.168] alexalbright (as Gladwyn Prescott at 231,196,3) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21041978]
+ - Action: orbit {"ref":"[mob_889]"}
+[2021-05-18 15:19:33.112] alexalbright (as Gladwyn Prescott at 160,178,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21041978]
+ - Action: orbit {"ref":"[mob_939]"}
+[2021-05-18 15:19:34.560] alexalbright (as Gladwyn Prescott at 115,170,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21041978]
+ - Action: orbit {"ref":"[mob_976]"}
+[2021-05-18 15:19:36.063] alexalbright (as Gladwyn Prescott at 105,184,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21041978]
+ - Action: orbit {"ref":"[mob_833]"}
+[2021-05-18 15:19:36.763] alexalbright (as Gladwyn Prescott at 80,57,3) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21041978]
+ - Action: orbit {"ref":"[mob_874]"}
+[2021-05-18 15:19:37.840] alexalbright (as Gladwyn Prescott at 167,237,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21041978]
+ - Action: orbit {"ref":"[mob_901]"}
+[2021-05-18 15:19:38.392] alexalbright (as Gladwyn Prescott at 41,184,4) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21041978]
+ - Action: orbit {"ref":"[mob_901]"}
+[2021-05-18 15:19:39.832] alexalbright in tgui-window-1/close (suspending)
+[2021-05-18 15:19:39.832] alexalbright in tgui-window-1/close (suspending)
+[2021-05-18 15:20:38.895] brunoasbahr (as Montagne Marshall at 160,169,2)
+ - Using: /obj/machinery/vending/hydronutrients [0x2004ae8]
+ - new Vending fancy 1
+[2021-05-18 15:20:42.314] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 15:20:42.315] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 15:21:16.734] matheusgp9999 in browseroutput/initialize
+[2021-05-18 15:23:38.168] jhonatanlima (as Luicio Notav at 160,169,2)
+ - Using: /obj/machinery/vending/hydronutrients [0x2004ae8]
+ - new Vending fancy 1
+[2021-05-18 15:23:40.193] jhonatanlima in tgui-window-1/close (suspending)
+[2021-05-18 15:23:40.194] jhonatanlima in tgui-window-1/close (suspending)
+[2021-05-18 15:23:59.117] jhonatanlima (as Luicio Notav at 159,167,2)
+ - Using: /obj/machinery/vending/hydroseeds [0x20049ba]
+ - new Vending fancy 1
+[2021-05-18 15:24:02.743] jhonatanlima in tgui-window-1/close (suspending)
+[2021-05-18 15:24:02.743] jhonatanlima in tgui-window-1/close (suspending)
+[2021-05-18 15:25:54.011] matheusgp9999 (as Nykix Nywt at 4,61,2)
+ - Using: /datum/component/loadout_selector [0x21041e30]
+ - new LoadoutSelect fancy 1
+[2021-05-18 15:25:54.012] matheusgp9999 in tgui-window-1/initialize
+ - Using: /datum/component/loadout_selector [0x21041e30]
+[2021-05-18 15:25:56.894] matheusgp9999 (as Nykix Nywt at 4,61,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041e30]
+ - Action: loadout_select {"name":"NCR Citizen"}
+[2021-05-18 15:25:58.145] matheusgp9999 (as Nykix Nywt at 4,61,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041e30]
+ - Action: loadout_select {"name":"NCR Citizen"}
+[2021-05-18 15:25:58.210] matheusgp9999 (as Nykix Nywt at 4,61,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041e30]
+ - Action: loadout_select {"name":"NCR Citizen"}
+[2021-05-18 15:26:00.670] matheusgp9999 (as Nykix Nywt at 4,61,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041e30]
+ - Action: loadout_confirm {}
+[2021-05-18 15:26:00.757] matheusgp9999 in tgui-window-1/close (suspending)
+[2021-05-18 15:27:22.506] gatossj in browseroutput/initialize
+[2021-05-18 15:27:41.171] jhonatanlima (as Luicio Notav at 245,212,2)
+ - Using: /obj/machinery/vending/cigarette [0x2006001]
+ - new Vending fancy 1
+[2021-05-18 15:27:42.917] jhonatanlima in tgui-window-1/close (suspending)
+[2021-05-18 15:27:42.917] jhonatanlima in tgui-window-1/close (suspending)
+[2021-05-18 15:27:43.854] jhonatanlima (as Luicio Notav at 245,212,2)
+ - Using: /obj/machinery/vending/nukacolavend [0x2005fdb]
+ - new Vending fancy 1
+[2021-05-18 15:27:45.352] jhonatanlima in tgui-window-1/close (suspending)
+[2021-05-18 15:27:45.352] jhonatanlima in tgui-window-1/close (suspending)
+[2021-05-18 15:28:56.136] albertovinhofino (as Kade Tanner at 230,206,3)
+ - Using: /datum/component/gps/item [0x21010921]
+ - new Gps fancy 1
+[2021-05-18 15:29:01.720] albertovinhofino (as Kade Tanner at 230,206,3) in tgui-window-1
+ - Using: /datum/component/gps/item [0x21010921]
+ - Action: updating {}
+[2021-05-18 15:29:02.968] albertovinhofino (as Kade Tanner at 230,206,3) in tgui-window-1
+ - Using: /datum/component/gps/item [0x21010921]
+ - Action: updating {}
+[2021-05-18 15:29:04.798] albertovinhofino (as Kade Tanner at 230,206,3) in tgui-window-1
+ - Using: /datum/component/gps/item [0x21010921]
+ - Action: globalmode {}
+[2021-05-18 15:29:05.232] albertovinhofino (as Kade Tanner at 230,206,3) in tgui-window-1
+ - Using: /datum/component/gps/item [0x21010921]
+ - Action: globalmode {}
+[2021-05-18 15:29:11.022] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 15:29:11.022] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 15:30:42.180] matheusgp9999 (as Nykix Nywt at 245,212,2)
+ - Using: /obj/machinery/vending/cigarette [0x2006001]
+ - new Vending fancy 1
+[2021-05-18 15:30:45.031] matheusgp9999 (as Nykix Nywt at 245,212,2) in tgui-window-1
+ - Using: /obj/machinery/vending/cigarette [0x2006001]
+ - Action: vend {"ref":"[0x2100cdde]"}
+[2021-05-18 15:30:47.203] matheusgp9999 (as Nykix Nywt at 245,212,2) in tgui-window-1
+ - Using: /obj/machinery/vending/cigarette [0x2006001]
+ - Action: vend {"ref":"[0x2100cde2]"}
+[2021-05-18 15:31:02.542] matheusgp9999 (as Nykix Nywt at 245,212,2) in tgui-window-1
+ - Using: /obj/machinery/vending/cigarette [0x2006001]
+ - Action: vend {"ref":"[0x2100cde8]"}
+[2021-05-18 15:31:14.331] matheusgp9999 in tgui-window-1/close (suspending)
+[2021-05-18 15:31:14.332] matheusgp9999 (as Nykix Nywt at 244,217,2)
+ - Using: /obj/machinery/vending/cigarette [0x2006001]
+ - new Vending fancy 1
+[2021-05-18 15:31:24.277] brunoasbahr (as Montagne Marshall at 161,179,2)
+ - Using: /datum/component/personal_crafting [0x21041b5e]
+ - new PersonalCrafting fancy 1
+[2021-05-18 15:31:28.794] brunoasbahr (as Montagne Marshall at 161,179,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041b5e]
+ - Action: set_category {"category":"Clothing","subcategory":"Armor"}
+[2021-05-18 15:31:29.419] brunoasbahr (as Montagne Marshall at 161,179,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041b5e]
+ - Action: set_category {"category":"Clothing","subcategory":"Wasteland Clothing"}
+[2021-05-18 15:31:29.839] brunoasbahr (as Montagne Marshall at 161,179,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041b5e]
+ - Action: set_category {"category":"Clothing","subcategory":"General Clothing"}
+[2021-05-18 15:31:30.365] brunoasbahr (as Montagne Marshall at 161,179,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041b5e]
+ - Action: set_category {"category":"Tribal"}
+[2021-05-18 15:31:31.308] brunoasbahr (as Montagne Marshall at 161,179,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041b5e]
+ - Action: set_category {"category":"Misc","subcategory":"Burial & Execution"}
+[2021-05-18 15:31:33.269] brunoasbahr (as Montagne Marshall at 161,179,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041b5e]
+ - Action: set_category {"category":"Misc","subcategory":"Miscellaneous"}
+[2021-05-18 15:31:36.212] brunoasbahr (as Montagne Marshall at 161,179,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041b5e]
+ - Action: set_category {"category":"Weaponry","subcategory":"Ranged Weapons"}
+[2021-05-18 15:31:48.038] brunoasbahr (as Montagne Marshall at 161,179,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041b5e]
+ - Action: set_category {"category":"Crafting","subcategory":"Scavenging & Tinkering"}
+[2021-05-18 15:31:49.517] brunoasbahr (as Montagne Marshall at 161,179,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041b5e]
+ - Action: set_category {"category":"Crafting","subcategory":"Forging & Smithing"}
+[2021-05-18 15:31:54.231] brunoasbahr (as Montagne Marshall at 161,179,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041b5e]
+ - Action: set_category {"category":"Crafting","subcategory":"Electronics & Robots"}
+[2021-05-18 15:32:08.863] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 15:32:08.864] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 15:32:12.337] albertovinhofino (as Kade Tanner at 228,242,3)
+ - Using: /obj/machinery/power/apc [0x2007eb6]
+ - new Apc fancy 1
+[2021-05-18 15:32:14.065] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 15:32:14.066] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-18 15:34:58.761] brunoasbahr (as Montagne Marshall at 150,176,2)
+ - Using: /obj/item/radio/headset [0x2049bde]
+ - new Radio fancy 1
+[2021-05-18 15:35:01.050] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 15:35:01.050] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 15:37:40.157] matheusgp9999 (as Nykix Nywt at 246,223,2) in browseroutput (chatRenderer)
+ - chatRenderer failed to load an image after 10 attempts
+ - User Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.2; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729; LCTE)
+[2021-05-18 15:37:55.706] matheusgp9999 in browseroutput/initialize
+[2021-05-18 15:38:12.295] matheusgp9999 (as Nykix Nywt at 245,223,2) in browseroutput (chatRenderer)
+ - chatRenderer failed to load an image after 10 attempts
+ - User Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.2; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729; LCTE)
+[2021-05-18 15:38:32.846] aert in browseroutput/initialize
+[2021-05-18 15:39:15.576] aert (as Keziah Wright at 254,64,2)
+ - Using: /datum/component/loadout_selector [0x210418aa]
+ - new LoadoutSelect fancy 1
+[2021-05-18 15:39:15.576] aert in tgui-window-1/initialize
+ - Using: /datum/component/loadout_selector [0x210418aa]
+[2021-05-18 15:39:18.811] aert (as Keziah Wright at 251,64,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210418aa]
+ - Action: loadout_select {"name":"Vaultie"}
+[2021-05-18 15:39:20.669] aert (as Keziah Wright at 251,68,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210418aa]
+ - Action: loadout_select {"name":"Salvager"}
+[2021-05-18 15:39:28.587] aert (as Keziah Wright at 254,68,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210418aa]
+ - Action: loadout_select {"name":"Wasteland Doctor"}
+[2021-05-18 15:39:30.831] aert (as Keziah Wright at 254,69,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210418aa]
+ - Action: loadout_select {"name":"Roving Trader"}
+[2021-05-18 15:39:33.285] aert (as Keziah Wright at 254,69,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210418aa]
+ - Action: loadout_select {"name":"Scavenger"}
+[2021-05-18 15:39:37.367] aert (as Keziah Wright at 254,69,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210418aa]
+ - Action: loadout_select {"name":"Legion Citizen"}
+[2021-05-18 15:39:40.867] aert (as Keziah Wright at 253,69,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210418aa]
+ - Action: loadout_select {"name":"NCR Citizen"}
+[2021-05-18 15:39:45.445] aert (as Keziah Wright at 254,69,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210418aa]
+ - Action: loadout_confirm {}
+[2021-05-18 15:39:45.537] aert in tgui-window-1/close (suspending)
+[2021-05-18 15:40:47.052] coffeemasterori in browseroutput/initialize
+[2021-05-18 15:42:58.117] coffeemasterori (as Nickolas Priebe at 102,51,3)
+ - Using: /obj/machinery/vending/snack [0x200705e]
+ - new Vending fancy 1
+[2021-05-18 15:42:58.118] coffeemasterori in tgui-window-1/initialize
+ - Using: /obj/machinery/vending/snack [0x200705e]
+[2021-05-18 15:43:01.691] coffeemasterori (as Nickolas Priebe at 102,51,3) in tgui-window-1
+ - Using: /obj/machinery/vending/snack [0x200705e]
+ - Action: vend {"ref":"[0x2100ea92]"}
+[2021-05-18 15:43:18.352] coffeemasterori (as Nickolas Priebe at 102,51,3) in tgui-window-1
+ - Using: /obj/machinery/vending/snack [0x200705e]
+ - Action: vend {"ref":"[0x2100ea93]"}
+[2021-05-18 15:43:18.840] coffeemasterori (as Nickolas Priebe at 102,51,3) in tgui-window-1
+ - Using: /obj/machinery/vending/snack [0x200705e]
+ - Action: vend {"ref":"[0x2100ea93]"}
+[2021-05-18 15:43:29.825] coffeemasterori (as Nickolas Priebe at 102,51,3) in tgui-window-1
+ - Using: /obj/machinery/vending/snack [0x200705e]
+ - Action: vend {"ref":"[0x2100ea92]"}
+[2021-05-18 15:43:30.053] coffeemasterori (as Nickolas Priebe at 102,51,3) in tgui-window-1
+ - Using: /obj/machinery/vending/snack [0x200705e]
+ - Action: vend {"ref":"[0x2100ea92]"}
+[2021-05-18 15:43:30.253] coffeemasterori (as Nickolas Priebe at 102,51,3) in tgui-window-1
+ - Using: /obj/machinery/vending/snack [0x200705e]
+ - Action: vend {"ref":"[0x2100ea92]"}
+[2021-05-18 15:43:30.424] coffeemasterori (as Nickolas Priebe at 102,51,3) in tgui-window-1
+ - Using: /obj/machinery/vending/snack [0x200705e]
+ - Action: vend {"ref":"[0x2100ea92]"}
+[2021-05-18 15:43:31.089] coffeemasterori (as Nickolas Priebe at 102,51,3) in tgui-window-1
+ - Using: /obj/machinery/vending/snack [0x200705e]
+ - Action: vend {"ref":"[0x2100ea93]"}
+[2021-05-18 15:43:31.288] coffeemasterori (as Nickolas Priebe at 102,51,3) in tgui-window-1
+ - Using: /obj/machinery/vending/snack [0x200705e]
+ - Action: vend {"ref":"[0x2100ea93]"}
+[2021-05-18 15:43:31.476] coffeemasterori (as Nickolas Priebe at 102,51,3) in tgui-window-1
+ - Using: /obj/machinery/vending/snack [0x200705e]
+ - Action: vend {"ref":"[0x2100ea93]"}
+[2021-05-18 15:43:32.216] coffeemasterori in tgui-window-1/close (suspending)
+[2021-05-18 15:43:32.216] coffeemasterori in tgui-window-1/close (suspending)

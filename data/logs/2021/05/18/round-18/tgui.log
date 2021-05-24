@@ -1,0 +1,2721 @@
+[2021-05-18 01:29:48.219] Starting up round ID 18.
+ - -------------------------
+[2021-05-18 01:29:48.833] zircony in browseroutput/initialize
+[2021-05-18 01:29:48.882] skodaithedog in browseroutput/initialize
+[2021-05-18 01:29:48.978] brunoasbahr in browseroutput/initialize
+[2021-05-18 01:29:49.003] ovelhacosmica in browseroutput/initialize
+[2021-05-18 01:29:49.027] marcioainder in browseroutput/initialize
+[2021-05-18 01:29:49.162] kaduh in browseroutput/initialize
+[2021-05-18 01:29:49.313] aedaris in browseroutput/initialize
+[2021-05-18 01:29:49.389] alexalbright in browseroutput/initialize
+[2021-05-18 01:29:51.374] comicao1 in browseroutput/initialize
+[2021-05-18 01:29:55.971] zero9e1 in browseroutput/initialize
+[2021-05-18 01:30:02.443] xandimasculu in browseroutput/initialize
+[2021-05-18 01:30:03.019] nizimgamer in browseroutput/initialize
+[2021-05-18 01:30:03.315] bxssvg in browseroutput/initialize
+[2021-05-18 01:30:04.970] nikonoyo in browseroutput/initialize
+[2021-05-18 01:30:05.000] thebanana3 in browseroutput/initialize
+[2021-05-18 01:30:06.590] darkpudding in browseroutput/initialize
+[2021-05-18 01:30:24.158] luciam in browseroutput/initialize
+[2021-05-18 01:34:13.908] darkpudding (as Unknown at 254,71,2)
+ - Using: /datum/component/loadout_selector [0x21032aef]
+ - new LoadoutSelect fancy 1
+[2021-05-18 01:34:13.908] darkpudding in tgui-window-1/initialize
+ - Using: /datum/component/loadout_selector [0x21032aef]
+[2021-05-18 01:34:15.507] darkpudding (as Unknown at 254,71,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21032aef]
+ - Action: loadout_select {"name":"Vaultie"}
+[2021-05-18 01:34:16.563] darkpudding (as Unknown at 254,71,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21032aef]
+ - Action: loadout_select {"name":"Vaultie"}
+[2021-05-18 01:34:18.651] darkpudding (as Unknown at 254,71,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21032aef]
+ - Action: loadout_select {"name":"Salvager"}
+[2021-05-18 01:34:22.475] zero9e1 (as Noton at 54,27,2)
+ - Using: /datum/component/loadout_selector [0x2100f838]
+ - new LoadoutSelect fancy 1
+[2021-05-18 01:34:22.476] zero9e1 in tgui-window-1/initialize
+ - Using: /datum/component/loadout_selector [0x2100f838]
+[2021-05-18 01:34:22.719] darkpudding (as Unknown at 254,71,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21032aef]
+ - Action: loadout_select {"name":"Wasteland Doctor"}
+[2021-05-18 01:34:23.326] bxssvg (as Lia Pavlov at 3,182,2)
+ - Using: /datum/component/loadout_selector [0x2100d91d]
+ - new LoadoutSelect fancy 1
+[2021-05-18 01:34:23.326] bxssvg in tgui-window-1/initialize
+ - Using: /datum/component/loadout_selector [0x2100d91d]
+[2021-05-18 01:34:23.531] darkpudding (as Unknown at 254,71,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21032aef]
+ - Action: loadout_select {"name":"Wasteland Doctor"}
+[2021-05-18 01:34:24.617] zero9e1 (as Noton at 54,27,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2100f838]
+ - Action: loadout_select {"name":"Bum"}
+[2021-05-18 01:34:25.730] zero9e1 (as Noton at 54,27,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2100f838]
+ - Action: loadout_select {"name":"Bum"}
+[2021-05-18 01:34:25.732] zero9e1 (as Noton at 54,27,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2100f838]
+ - Action: loadout_select {"name":"Bum"}
+[2021-05-18 01:34:25.841] johonasmexicanjo in browseroutput/initialize
+[2021-05-18 01:34:25.869] zero9e1 (as Noton at 54,27,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2100f838]
+ - Action: loadout_select {"name":"Bum"}
+[2021-05-18 01:34:25.940] bxssvg (as Lia Pavlov at 3,182,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2100d91d]
+ - Action: loadout_select {"name":"Salvager"}
+[2021-05-18 01:34:26.709] zero9e1 (as Noton at 54,27,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2100f838]
+ - Action: loadout_select {"name":"Bum"}
+[2021-05-18 01:34:26.801] bxssvg (as Lia Pavlov at 3,182,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2100d91d]
+ - Action: loadout_select {"name":"Vaultie"}
+[2021-05-18 01:34:27.320] darkpudding (as Unknown at 254,71,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21032aef]
+ - Action: loadout_select {"name":"Roving Trader"}
+[2021-05-18 01:34:28.083] zero9e1 (as Noton at 54,27,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2100f838]
+ - Action: loadout_select {"name":"Provisioner"}
+[2021-05-18 01:34:28.948] zero9e1 (as Noton at 54,27,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2100f838]
+ - Action: loadout_select {"name":"Provisioner"}
+[2021-05-18 01:34:28.950] zero9e1 (as Noton at 54,27,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2100f838]
+ - Action: loadout_select {"name":"Provisioner"}
+[2021-05-18 01:34:28.953] zero9e1 (as Noton at 54,27,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2100f838]
+ - Action: loadout_select {"name":"Provisioner"}
+[2021-05-18 01:34:28.962] darkpudding (as Unknown at 254,71,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21032aef]
+ - Action: loadout_select {"name":"Roving Trader"}
+[2021-05-18 01:34:29.015] bxssvg (as Lia Pavlov at 3,182,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2100d91d]
+ - Action: loadout_select {"name":"Salvager"}
+[2021-05-18 01:34:31.072] zero9e1 (as Noton at 56,32,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2100f838]
+ - Action: loadout_confirm {}
+[2021-05-18 01:34:31.101] zero9e1 in tgui-window-1/close (suspending)
+[2021-05-18 01:34:31.423] bxssvg (as Lia Pavlov at 3,182,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2100d91d]
+ - Action: loadout_select {"name":"Wasteland Doctor"}
+[2021-05-18 01:34:33.359] bxssvg (as Lia Pavlov at 3,182,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2100d91d]
+ - Action: loadout_select {"name":"Roving Trader"}
+[2021-05-18 01:34:34.948] darkpudding (as Unknown at 254,71,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21032aef]
+ - Action: loadout_confirm {}
+[2021-05-18 01:34:34.996] darkpudding in tgui-window-1/close (suspending)
+[2021-05-18 01:34:35.047] bxssvg (as Lia Pavlov at 3,182,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2100d91d]
+ - Action: loadout_select {"name":"Wasteland Doctor"}
+[2021-05-18 01:34:44.141] bxssvg (as Lia Pavlov at 3,182,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2100d91d]
+ - Action: loadout_select {"name":"Legion Citizen"}
+[2021-05-18 01:34:45.895] bxssvg (as Lia Pavlov at 3,182,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2100d91d]
+ - Action: loadout_select {"name":"Scavenger"}
+[2021-05-18 01:34:47.947] bxssvg (as Lia Pavlov at 3,182,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2100d91d]
+ - Action: loadout_select {"name":"Roving Trader"}
+[2021-05-18 01:34:58.841] bxssvg (as Lia Pavlov at 3,182,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2100d91d]
+ - Action: loadout_select {"name":"Vaultie"}
+[2021-05-18 01:35:00.427] bxssvg (as Lia Pavlov at 3,182,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2100d91d]
+ - Action: loadout_confirm {}
+[2021-05-18 01:35:00.513] bxssvg in tgui-window-1/close (suspending)
+[2021-05-18 01:36:24.449] xandimasculu in browseroutput/initialize
+[2021-05-18 01:37:23.396] darkpudding (as John Wick at 213,127,2)
+ - Using: /obj/machinery/vending/coffee [0x2005aac]
+ - new Vending fancy 1
+[2021-05-18 01:37:24.886] darkpudding in tgui-window-1/close (suspending)
+[2021-05-18 01:37:24.886] darkpudding (as John Wick at 216,131,2)
+ - Using: /obj/machinery/vending/coffee [0x2005aac]
+ - new Vending fancy 1
+[2021-05-18 01:40:15.396] zircony (as Natasha Harding at 234,253,2)
+ - Using: /datum/component/loadout_selector [0x2103ef6d]
+ - new LoadoutSelect fancy 1
+[2021-05-18 01:40:15.396] zircony in tgui-window-1/initialize
+ - Using: /datum/component/loadout_selector [0x2103ef6d]
+[2021-05-18 01:40:16.914] zircony (as Natasha Harding at 234,253,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103ef6d]
+ - Action: loadout_select {"name":"Salvager"}
+[2021-05-18 01:40:18.157] zircony (as Natasha Harding at 234,253,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103ef6d]
+ - Action: loadout_select {"name":"Salvager"}
+[2021-05-18 01:40:18.530] zircony (as Natasha Harding at 234,253,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103ef6d]
+ - Action: loadout_select {"name":"Salvager"}
+[2021-05-18 01:40:19.251] zircony (as Natasha Harding at 234,253,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103ef6d]
+ - Action: loadout_select {"name":"Wasteland Doctor"}
+[2021-05-18 01:40:20.015] zircony (as Natasha Harding at 234,253,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103ef6d]
+ - Action: loadout_select {"name":"Wasteland Doctor"}
+[2021-05-18 01:40:24.431] zircony (as Natasha Harding at 234,253,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103ef6d]
+ - Action: loadout_select {"name":"Roving Trader"}
+[2021-05-18 01:40:26.192] zircony (as Natasha Harding at 234,253,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103ef6d]
+ - Action: loadout_select {"name":"Scavenger"}
+[2021-05-18 01:40:30.956] zircony (as Natasha Harding at 234,253,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103ef6d]
+ - Action: loadout_confirm {}
+[2021-05-18 01:40:30.993] zircony in tgui-window-1/close (suspending)
+[2021-05-18 01:40:57.144] addervfx1 in browseroutput/initialize
+[2021-05-18 01:41:44.509] zircony (as Natasha Harding at 196,194,2)
+ - Using: /obj/machinery/smartfridge/bottlerack/lootshelf/cans [0x2005580]
+ - new SmartVend fancy 1
+[2021-05-18 01:41:46.507] zircony (as Natasha Harding at 196,194,2) in tgui-window-1
+ - Using: /obj/machinery/smartfridge/bottlerack/lootshelf/cans [0x2005580]
+ - Action: Release {"name":"tin of beans","amount":1}
+[2021-05-18 01:41:47.827] zircony in tgui-window-1/close (suspending)
+[2021-05-18 01:41:47.828] zircony in tgui-window-1/close (suspending)
+[2021-05-18 01:43:15.502] comicao1 (as Allah HamduliLyah at 191,156,2)
+ - Using: /datum/component/loadout_selector [0x2103f5fa]
+ - new LoadoutSelect fancy 1
+[2021-05-18 01:43:15.503] comicao1 in tgui-window-1/initialize
+ - Using: /datum/component/loadout_selector [0x2103f5fa]
+[2021-05-18 01:43:16.928] comicao1 (as Allah HamduliLyah at 191,156,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f5fa]
+ - Action: loadout_select {"name":"Sadist"}
+[2021-05-18 01:43:19.843] comicao1 (as Allah HamduliLyah at 191,156,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f5fa]
+ - Action: loadout_select {"name":"Painspike"}
+[2021-05-18 01:43:22.259] comicao1 (as Allah HamduliLyah at 191,156,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f5fa]
+ - Action: loadout_confirm {}
+[2021-05-18 01:43:22.294] comicao1 in tgui-window-1/close (suspending)
+[2021-05-18 01:43:22.895] addervfx in browseroutput/initialize
+[2021-05-18 01:43:55.254] luciam (as Skarlet D'Luker at 254,71,2)
+ - Using: /datum/component/loadout_selector [0x2103f6c1]
+ - new LoadoutSelect fancy 1
+[2021-05-18 01:43:55.255] luciam in tgui-window-1/initialize
+ - Using: /datum/component/loadout_selector [0x2103f6c1]
+[2021-05-18 01:43:57.889] luciam (as Skarlet D'Luker at 254,71,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f6c1]
+ - Action: loadout_select {"name":"Vaultie"}
+[2021-05-18 01:43:59.244] luciam (as Skarlet D'Luker at 254,71,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f6c1]
+ - Action: loadout_select {"name":"Vaultie"}
+[2021-05-18 01:44:02.840] luciam (as Skarlet D'Luker at 254,71,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f6c1]
+ - Action: loadout_confirm {}
+[2021-05-18 01:44:02.904] luciam in tgui-window-1/close (suspending)
+[2021-05-18 01:44:09.820] brunoasbahr (as Montagne Marshall at 231,254,2)
+ - Using: /datum/component/loadout_selector [0x2103f71d]
+ - new LoadoutSelect fancy 1
+[2021-05-18 01:44:09.821] brunoasbahr in tgui-window-1/initialize
+ - Using: /datum/component/loadout_selector [0x2103f71d]
+[2021-05-18 01:44:11.150] brunoasbahr (as Montagne Marshall at 231,254,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f71d]
+ - Action: loadout_select {"name":"Salvager"}
+[2021-05-18 01:44:14.374] brunoasbahr (as Montagne Marshall at 231,254,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f71d]
+ - Action: loadout_confirm {}
+[2021-05-18 01:44:14.406] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 01:44:19.260] kaduh in browseroutput/initialize
+[2021-05-18 01:45:38.117] kaduh (as Erika Miller at 82,45,2)
+ - Using: /obj/machinery/computer/operating [0x20038a2]
+ - new OperatingComputer fancy 1
+[2021-05-18 01:45:38.117] kaduh in tgui-window-1/initialize
+ - Using: /obj/machinery/computer/operating [0x20038a2]
+[2021-05-18 01:45:39.808] kaduh in tgui-window-1/close (suspending)
+[2021-05-18 01:45:39.809] kaduh in tgui-window-1/close (suspending)
+[2021-05-18 01:48:24.085] kaduh (as Erika Miller at 99,50,3)
+ - Using: /datum/component/personal_crafting [0x2103f427]
+ - new PersonalCrafting fancy 1
+[2021-05-18 01:48:26.253] kaduh (as Erika Miller at 99,50,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f427]
+ - Action: set_category {"category":"Clothing","subcategory":"Armor"}
+[2021-05-18 01:49:18.791] darkpudding (as John Wick at 101,233,2)
+ - Using: /obj/machinery/computer/shuttle/northbunkerelevator [0x20127fd]
+ - new ShuttleConsole fancy 1
+[2021-05-18 01:49:20.059] darkpudding (as John Wick at 101,233,2) in tgui-window-1
+ - Using: /obj/machinery/computer/shuttle/northbunkerelevator [0x20127fd]
+ - Action: move {"shuttle_id":"North_Level_1"}
+[2021-05-18 01:49:20.931] darkpudding in tgui-window-1/close (suspending)
+[2021-05-18 01:49:20.931] darkpudding in tgui-window-1/close (suspending)
+[2021-05-18 01:49:23.547] darkpudding (as John Wick at 44,234,4)
+ - Using: /obj/machinery/computer/shuttle/northbunkerelevator [0x20127fd]
+ - new ShuttleConsole fancy 1
+[2021-05-18 01:49:24.555] darkpudding (as John Wick at 44,234,4) in tgui-window-1
+ - Using: /obj/machinery/computer/shuttle/northbunkerelevator [0x20127fd]
+ - Action: move {"shuttle_id":"North_Ground"}
+[2021-05-18 01:49:25.435] darkpudding in tgui-window-1/close (suspending)
+[2021-05-18 01:49:25.435] darkpudding in tgui-window-1/close (suspending)
+[2021-05-18 01:49:35.428] kaduh in tgui-window-1/close (suspending)
+[2021-05-18 01:49:35.428] kaduh in tgui-window-1/close (suspending)
+[2021-05-18 01:50:57.952] brunoasbahr (as Montagne Marshall at 192,80,2)
+ - Using: /obj/machinery/vending/cola [0x2005464]
+ - new Vending fancy 1
+[2021-05-18 01:51:00.476] brunoasbahr (as Montagne Marshall at 192,80,2) in tgui-window-1
+ - Using: /obj/machinery/vending/cola [0x2005464]
+ - Action: vend {"ref":"[0x2100bd5a]"}
+[2021-05-18 01:51:02.830] brunoasbahr (as Montagne Marshall at 192,80,2) in tgui-window-1
+ - Using: /obj/machinery/vending/cola [0x2005464]
+ - Action: vend {"ref":"[0x2100bd58]"}
+[2021-05-18 01:51:04.130] brunoasbahr (as Montagne Marshall at 192,80,2) in tgui-window-1
+ - Using: /obj/machinery/vending/cola [0x2005464]
+ - Action: vend {"ref":"[0x2100bd58]"}
+[2021-05-18 01:51:04.607] brunoasbahr (as Montagne Marshall at 192,80,2) in tgui-window-1
+ - Using: /obj/machinery/vending/cola [0x2005464]
+ - Action: vend {"ref":"[0x2100bd58]"}
+[2021-05-18 01:51:05.210] brunoasbahr (as Montagne Marshall at 192,80,2) in tgui-window-1
+ - Using: /obj/machinery/vending/cola [0x2005464]
+ - Action: vend {"ref":"[0x2100bd58]"}
+[2021-05-18 01:51:06.226] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 01:51:06.226] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 01:51:13.768] luciam (as Skarlet D'Luker at 193,80,2)
+ - Using: /obj/machinery/vending/cola [0x2005464]
+ - new Vending fancy 1
+[2021-05-18 01:51:16.211] luciam (as Skarlet D'Luker at 193,80,2) in tgui-window-1
+ - Using: /obj/machinery/vending/cola [0x2005464]
+ - Action: vend {"ref":"[0x2100bd58]"}
+[2021-05-18 01:51:16.936] luciam in tgui-window-1/close (suspending)
+[2021-05-18 01:51:16.937] luciam in tgui-window-1/close (suspending)
+[2021-05-18 01:52:53.109] kaduh (as Erika Miller at 86,50,2)
+ - Using: /datum/skill_holder [0x21001753]
+ - new SkillPanel fancy 1
+[2021-05-18 01:53:07.555] kaduh in tgui-window-1/close (suspending)
+[2021-05-18 01:53:07.555] kaduh in tgui-window-1/close (suspending)
+[2021-05-18 01:53:41.695] kaduh (as Erika Miller at 92,57,2)
+ - Using: /obj/machinery/vending/hydronutrients [0x2003a21]
+ - new Vending fancy 1
+[2021-05-18 01:53:43.580] kaduh in tgui-window-1/close (suspending)
+[2021-05-18 01:53:43.580] kaduh in tgui-window-1/close (suspending)
+[2021-05-18 01:57:28.185] hanonimo in browseroutput/initialize
+[2021-05-18 01:58:10.744] comicao1 in browseroutput/initialize
+[2021-05-18 01:59:32.488] darkpudding in browseroutput/initialize
+[2021-05-18 01:59:58.235] baeiou in browseroutput/initialize
+[2021-05-18 02:00:37.261] baeiou in browseroutput/initialize
+[2021-05-18 02:00:48.280] hanonimo in browseroutput/initialize
+[2021-05-18 02:00:55.915] luciam (as Victoria Valentine at 240,32,2)
+ - Using: /datum/component/loadout_selector [0x2103fa59]
+ - new LoadoutSelect fancy 1
+[2021-05-18 02:00:57.808] luciam (as Victoria Valentine at 240,32,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103fa59]
+ - Action: loadout_select {"name":"Opifex (Blacksmith)"}
+[2021-05-18 02:00:58.853] luciam (as Victoria Valentine at 240,32,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103fa59]
+ - Action: loadout_select {"name":"Opifex (Blacksmith)"}
+[2021-05-18 02:01:00.121] luciam (as Victoria Valentine at 240,32,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103fa59]
+ - Action: loadout_select {"name":"Sacerdos (Acolyte)"}
+[2021-05-18 02:01:01.307] luciam (as Victoria Valentine at 240,32,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103fa59]
+ - Action: loadout_select {"name":"Sacerdos (Acolyte)"}
+[2021-05-18 02:01:02.256] luciam (as Victoria Valentine at 240,32,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103fa59]
+ - Action: loadout_select {"name":"Arcarius (Treasurer)"}
+[2021-05-18 02:01:02.832] luciam (as Victoria Valentine at 240,32,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103fa59]
+ - Action: loadout_select {"name":"Arcarius (Treasurer)"}
+[2021-05-18 02:01:03.267] luciam (as Victoria Valentine at 240,32,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103fa59]
+ - Action: loadout_select {"name":"Arcarius (Treasurer)"}
+[2021-05-18 02:01:09.080] luciam (as Victoria Valentine at 240,32,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103fa59]
+ - Action: loadout_select {"name":"Opifex (Blacksmith)"}
+[2021-05-18 02:01:12.340] luciam (as Victoria Valentine at 240,32,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103fa59]
+ - Action: loadout_preview_direction {"direction":1}
+[2021-05-18 02:01:13.163] luciam (as Victoria Valentine at 240,32,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103fa59]
+ - Action: loadout_preview_direction {"direction":-1}
+[2021-05-18 02:01:13.915] luciam (as Victoria Valentine at 240,32,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103fa59]
+ - Action: loadout_confirm {}
+[2021-05-18 02:01:13.927] luciam in tgui-window-1/close (suspending)
+[2021-05-18 02:01:29.425] baeiou in browseroutput/initialize
+[2021-05-18 02:01:37.769] kaduh (as Erika Miller at 105,41,3)
+ - Using: /datum/component/loadout_selector [0x210400c8]
+ - new LoadoutSelect fancy 1
+[2021-05-18 02:01:39.810] kaduh (as Erika Miller at 105,41,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210400c8]
+ - Action: loadout_select {"name":"Pharmacist"}
+[2021-05-18 02:01:50.947] kaduh (as Erika Miller at 102,37,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210400c8]
+ - Action: loadout_confirm {}
+[2021-05-18 02:01:50.952] kaduh in tgui-window-1/close (suspending)
+[2021-05-18 02:01:55.875] baeiou in browseroutput/initialize
+[2021-05-18 02:02:18.622] comicao1 (as Unknown at 134,138,3)
+ - Using: /datum/component/loadout_selector [0x21040016]
+ - new LoadoutSelect fancy 1
+[2021-05-18 02:02:18.623] comicao1 in tgui-window-1/initialize
+ - Using: /datum/component/loadout_selector [0x21040016]
+[2021-05-18 02:02:20.705] comicao1 (as Unknown at 134,138,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040016]
+ - Action: loadout_select {"name":"Brotherhood Exile"}
+[2021-05-18 02:02:23.695] comicao1 (as Unknown at 134,138,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040016]
+ - Action: loadout_select {"name":"Badlands"}
+[2021-05-18 02:02:26.174] comicao1 (as Unknown at 134,138,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040016]
+ - Action: loadout_select {"name":"Painspike"}
+[2021-05-18 02:02:27.124] comicao1 (as Unknown at 134,138,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040016]
+ - Action: loadout_select {"name":"NCR Deserter"}
+[2021-05-18 02:02:28.960] comicao1 (as Unknown at 134,138,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040016]
+ - Action: loadout_confirm {}
+[2021-05-18 02:02:29.067] comicao1 in tgui-window-1/close (suspending)
+[2021-05-18 02:02:29.969] degusta00 in browseroutput/initialize
+[2021-05-18 02:02:35.407] kaduh in browseroutput/initialize
+[2021-05-18 02:03:10.124] thebanana3 (as Harmony Harding at 215,49,2)
+ - Using: /datum/component/loadout_selector [0x2100fb2b]
+ - new LoadoutSelect fancy 1
+[2021-05-18 02:03:10.125] thebanana3 in tgui-window-1/initialize
+ - Using: /datum/component/loadout_selector [0x2100fb2b]
+[2021-05-18 02:03:13.412] degusta00 (as Bob Loureiro at 2,60,2)
+ - Using: /datum/component/loadout_selector [0x210400f5]
+ - new LoadoutSelect fancy 0
+[2021-05-18 02:03:13.413] degusta00 in tgui-window-1/initialize
+ - Using: /datum/component/loadout_selector [0x210400f5]
+[2021-05-18 02:03:13.464] thebanana3 (as Harmony Harding at 215,49,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2100fb2b]
+ - Action: loadout_select {"name":"Laborer"}
+[2021-05-18 02:03:15.991] thebanana3 (as Harmony Harding at 215,49,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2100fb2b]
+ - Action: loadout_select {"name":"Servant"}
+[2021-05-18 02:03:19.353] degusta00 (as Bob Loureiro at 3,60,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210400f5]
+ - Action: loadout_select {"name":"Roving Trader"}
+[2021-05-18 02:03:21.198] thebanana3 (as Harmony Harding at 215,49,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2100fb2b]
+ - Action: loadout_select {"name":"Laborer"}
+[2021-05-18 02:03:21.203] degusta00 (as Bob Loureiro at 3,60,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210400f5]
+ - Action: loadout_select {"name":"Roving Trader"}
+[2021-05-18 02:03:23.128] degusta00 (as Bob Loureiro at 3,60,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210400f5]
+ - Action: loadout_confirm {}
+[2021-05-18 02:03:23.174] degusta00 in tgui-window-1/close (suspending)
+[2021-05-18 02:03:24.935] thebanana3 (as Harmony Harding at 215,49,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2100fb2b]
+ - Action: loadout_select {"name":"Servant"}
+[2021-05-18 02:03:28.057] thebanana3 (as Harmony Harding at 215,49,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2100fb2b]
+ - Action: loadout_confirm {}
+[2021-05-18 02:03:28.062] thebanana3 in tgui-window-1/close (suspending)
+[2021-05-18 02:03:43.314] luciam (as Victoria Valentine at 233,30,2)
+ - Using: /obj/structure/ore_box [0x2006008]
+ - new OreBox fancy 1
+[2021-05-18 02:03:45.036] luciam (as Victoria Valentine at 233,30,2) in tgui-window-1
+ - Using: /obj/structure/ore_box [0x2006008]
+ - Action: removeall {}
+[2021-05-18 02:03:45.797] luciam in tgui-window-1/close (suspending)
+[2021-05-18 02:03:45.797] luciam in tgui-window-1/close (suspending)
+[2021-05-18 02:04:01.826] hanonimo (as Jaiden Oppenheimer at 104,39,3)
+ - Using: /obj/machinery/vending/wardrobe/medi_wardrobe [0x200715d]
+ - new Vending fancy 1
+[2021-05-18 02:04:01.827] hanonimo in tgui-window-1/initialize
+ - Using: /obj/machinery/vending/wardrobe/medi_wardrobe [0x200715d]
+[2021-05-18 02:04:02.968] hanonimo (as Jaiden Oppenheimer at 104,39,3)
+ - Using: /obj/machinery/vending/wardrobe/medi_wardrobe [0x200715d]
+ - new Vending fancy 1
+[2021-05-18 02:04:02.968] hanonimo in tgui-window-2/initialize
+ - Using: /obj/machinery/vending/wardrobe/medi_wardrobe [0x200715d]
+[2021-05-18 02:04:06.634] hanonimo in tgui-window-2/close (suspending)
+[2021-05-18 02:04:06.634] hanonimo in tgui-window-2/close (suspending)
+[2021-05-18 02:04:07.535] hanonimo in tgui-window-1/close (suspending)
+[2021-05-18 02:04:07.535] hanonimo in tgui-window-1/close (suspending)
+[2021-05-18 02:04:10.141] hanonimo (as Jaiden Oppenheimer at 105,42,3)
+ - Using: /obj/machinery/vending/medical [0x200715a]
+ - new Vending fancy 1
+[2021-05-18 02:04:12.202] hanonimo in tgui-window-1/close (suspending)
+[2021-05-18 02:04:12.202] hanonimo in tgui-window-1/close (suspending)
+[2021-05-18 02:04:35.204] stimusz in browseroutput/initialize
+[2021-05-18 02:08:14.926] degusta00 (as Bob Loureiro at 48,24,3)
+ - Using: /datum/wires/autolathe [0x2100ddb2]
+ - new Wires fancy 0
+[2021-05-18 02:08:20.958] comicao1 (as Noah Costello at 161,134,3)
+ - Using: /datum/component/loadout_selector [0x210406a9]
+ - new LoadoutSelect fancy 1
+[2021-05-18 02:08:22.261] comicao1 (as Noah Costello at 161,134,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210406a9]
+ - Action: loadout_select {"name":"Brotherhood Exile"}
+[2021-05-18 02:08:23.835] comicao1 (as Noah Costello at 161,134,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210406a9]
+ - Action: loadout_select {"name":"NCR Deserter"}
+[2021-05-18 02:08:24.441] comicao1 (as Noah Costello at 161,134,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210406a9]
+ - Action: loadout_select {"name":"NCR Deserter"}
+[2021-05-18 02:08:25.646] comicao1 (as Noah Costello at 161,134,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210406a9]
+ - Action: loadout_select {"name":"Badlands"}
+[2021-05-18 02:08:27.801] comicao1 (as Noah Costello at 161,134,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210406a9]
+ - Action: loadout_select {"name":"Painspike"}
+[2021-05-18 02:08:29.629] comicao1 (as Noah Costello at 161,134,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210406a9]
+ - Action: loadout_confirm {}
+[2021-05-18 02:08:29.676] comicao1 in tgui-window-1/close (suspending)
+[2021-05-18 02:08:30.363] degusta00 in tgui-window-1/close (suspending)
+[2021-05-18 02:08:34.972] thebanana3 (as Angelina Seelig at 220,150,2)
+ - Using: /datum/component/loadout_selector [0x210406f9]
+ - new LoadoutSelect fancy 1
+[2021-05-18 02:08:35.788] kaduh (as Erika Miller at 80,57,3)
+ - Using: /obj/machinery/chem_dispenser [0x2006e0d]
+ - new ChemDispenser fancy 1
+[2021-05-18 02:08:35.789] kaduh in tgui-window-1/initialize
+ - Using: /obj/machinery/chem_dispenser [0x2006e0d]
+[2021-05-18 02:08:37.409] thebanana3 (as Angelina Seelig at 220,150,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210406f9]
+ - Action: loadout_select {"name":"Supa-fly"}
+[2021-05-18 02:08:40.779] thebanana3 (as Angelina Seelig at 220,150,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210406f9]
+ - Action: loadout_select {"name":"Yankee"}
+[2021-05-18 02:08:43.296] thebanana3 (as Angelina Seelig at 220,150,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210406f9]
+ - Action: loadout_select {"name":"Blastmaster"}
+[2021-05-18 02:08:46.710] thebanana3 (as Angelina Seelig at 220,150,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210406f9]
+ - Action: loadout_select {"name":"Sadist"}
+[2021-05-18 02:08:50.298] kaduh in tgui-window-1/close (suspending)
+[2021-05-18 02:08:50.298] kaduh in tgui-window-1/close (suspending)
+[2021-05-18 02:08:50.985] zircony in browseroutput/initialize
+[2021-05-18 02:08:51.256] thebanana3 (as Angelina Seelig at 220,150,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210406f9]
+ - Action: loadout_select {"name":"Punished Legionnaire"}
+[2021-05-18 02:08:54.974] thebanana3 (as Angelina Seelig at 220,150,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210406f9]
+ - Action: loadout_select {"name":"NCR Deserter"}
+[2021-05-18 02:09:00.157] thebanana3 (as Angelina Seelig at 220,150,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210406f9]
+ - Action: loadout_select {"name":"Desperado"}
+[2021-05-18 02:09:01.368] thebanana3 (as Angelina Seelig at 220,150,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210406f9]
+ - Action: loadout_select {"name":"Desperado"}
+[2021-05-18 02:09:01.634] stimusz in browseroutput/initialize
+[2021-05-18 02:09:06.286] thebanana3 (as Angelina Seelig at 220,150,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210406f9]
+ - Action: loadout_select {"name":"Painspike"}
+[2021-05-18 02:09:07.454] thebanana3 (as Angelina Seelig at 220,150,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210406f9]
+ - Action: loadout_select {"name":"Painspike"}
+[2021-05-18 02:09:10.382] thebanana3 (as Angelina Seelig at 220,150,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210406f9]
+ - Action: loadout_confirm {}
+[2021-05-18 02:09:10.418] thebanana3 in tgui-window-1/close (suspending)
+[2021-05-18 02:10:09.879] johonasmexicanjo in browseroutput/initialize
+[2021-05-18 02:10:23.710] spookypineapple in browseroutput/initialize
+[2021-05-18 02:10:51.016] spookypineapple (as Payde Antonio at 223,163,2)
+ - Using: /datum/component/loadout_selector [0x210409f6]
+ - new LoadoutSelect fancy 1
+[2021-05-18 02:10:51.017] spookypineapple in tgui-window-1/initialize
+ - Using: /datum/component/loadout_selector [0x210409f6]
+[2021-05-18 02:10:54.796] spookypineapple (as Payde Antonio at 223,163,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210409f6]
+ - Action: loadout_select {"name":"Brotherhood Exile"}
+[2021-05-18 02:10:58.452] spookypineapple (as Payde Antonio at 223,163,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210409f6]
+ - Action: loadout_confirm {}
+[2021-05-18 02:10:58.457] spookypineapple in tgui-window-1/close (suspending)
+[2021-05-18 02:11:03.655] kaduh (as Erika Miller at 80,57,3)
+ - Using: /obj/machinery/chem_dispenser [0x2006e0d]
+ - new ChemDispenser fancy 1
+[2021-05-18 02:11:13.307] kaduh (as Erika Miller at 80,57,3) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser [0x2006e0d]
+ - Action: amount {"target":5}
+[2021-05-18 02:11:35.723] kaduh (as Erika Miller at 80,57,3) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser [0x2006e0d]
+ - Action: dispense {"reagent":"sodium"}
+[2021-05-18 02:11:39.109] kaduh (as Erika Miller at 80,57,3) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser [0x2006e0d]
+ - Action: dispense {"reagent":"chlorine"}
+[2021-05-18 02:11:40.691] kaduh (as Erika Miller at 80,57,3) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser [0x2006e0d]
+ - Action: dispense {"reagent":"water"}
+[2021-05-18 02:11:44.550] kaduh (as Erika Miller at 80,57,3) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser [0x2006e0d]
+ - Action: dispense {"reagent":"weldingfuel"}
+[2021-05-18 02:11:50.675] kaduh (as Erika Miller at 80,57,3) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser [0x2006e0d]
+ - Action: dispense {"reagent":"carbon"}
+[2021-05-18 02:11:55.774] kaduh (as Erika Miller at 80,57,3) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser [0x2006e0d]
+ - Action: dispense {"reagent":"hydrogen"}
+[2021-05-18 02:12:03.491] kaduh (as Erika Miller at 80,57,3) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser [0x2006e0d]
+ - Action: eject {}
+[2021-05-18 02:12:05.785] kaduh (as Erika Miller at 80,56,3)
+ - Using: /obj/machinery/chem_heater [0x2006e0f]
+ - new ChemHeater fancy 1
+[2021-05-18 02:12:05.786] kaduh in tgui-window-2/initialize
+ - Using: /obj/machinery/chem_heater [0x2006e0f]
+[2021-05-18 02:12:07.166] kaduh (as Erika Miller at 80,56,3) in tgui-window-2
+ - Using: /obj/machinery/chem_heater [0x2006e0f]
+ - Action: power {}
+[2021-05-18 02:12:08.504] kaduh (as Erika Miller at 80,56,3) in tgui-window-2
+ - Using: /obj/machinery/chem_heater [0x2006e0f]
+ - Action: temperature {"target":400}
+[2021-05-18 02:12:08.687] kaduh (as Erika Miller at 80,56,3) in tgui-window-2
+ - Using: /obj/machinery/chem_heater [0x2006e0f]
+ - Action: temperature {"target":470}
+[2021-05-18 02:12:15.137] kaduh (as Erika Miller at 80,56,3) in tgui-window-2
+ - Using: /obj/machinery/chem_heater [0x2006e0f]
+ - Action: temperature {"target":610}
+[2021-05-18 02:12:29.970] kaduh (as Erika Miller at 80,56,3) in tgui-window-2
+ - Using: /obj/machinery/chem_heater [0x2006e0f]
+ - Action: power {}
+[2021-05-18 02:12:32.241] kaduh (as Erika Miller at 80,56,3) in tgui-window-2
+ - Using: /obj/machinery/chem_heater [0x2006e0f]
+ - Action: eject {}
+[2021-05-18 02:12:36.254] comicao1 (as Fitz Barnes at 200,161,2)
+ - Using: /datum/component/loadout_selector [0x210404e3]
+ - new LoadoutSelect fancy 1
+[2021-05-18 02:12:37.649] comicao1 in tgui-window-1/close (suspending)
+[2021-05-18 02:12:37.649] comicao1 in tgui-window-1/close (suspending)
+[2021-05-18 02:12:38.266] kaduh in tgui-window-1/close (suspending)
+[2021-05-18 02:12:38.266] kaduh in tgui-window-1/close (suspending)
+[2021-05-18 02:12:59.115] comicao1 (as Fitz Barnes at 200,161,2)
+ - Using: /datum/component/loadout_selector [0x210404e3]
+ - new LoadoutSelect fancy 1
+[2021-05-18 02:13:00.366] comicao1 (as Fitz Barnes at 200,161,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210404e3]
+ - Action: loadout_select {"name":"Painspike"}
+[2021-05-18 02:13:01.545] kaduh (as Erika Miller at 80,57,3)
+ - Using: /obj/machinery/chem_master [0x2006e0e]
+ - new ChemMaster fancy 1
+[2021-05-18 02:13:02.751] comicao1 (as Fitz Barnes at 200,161,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210404e3]
+ - Action: loadout_confirm {}
+[2021-05-18 02:13:02.788] comicao1 in tgui-window-1/close (suspending)
+[2021-05-18 02:13:03.397] kaduh in tgui-window-2/close (suspending)
+[2021-05-18 02:13:03.397] kaduh in tgui-window-2/close (suspending)
+[2021-05-18 02:13:06.332] kaduh in tgui-window-1/close (suspending)
+[2021-05-18 02:13:06.332] kaduh in tgui-window-1/close (suspending)
+[2021-05-18 02:13:21.849] kaduh (as Erika Miller at 80,57,3)
+ - Using: /obj/machinery/chem_master [0x2006e0e]
+ - new ChemMaster fancy 1
+[2021-05-18 02:13:27.550] kaduh in tgui-window-1/close (suspending)
+[2021-05-18 02:13:27.550] kaduh in tgui-window-1/close (suspending)
+[2021-05-18 02:14:03.982] kaduh in browseroutput/initialize
+[2021-05-18 02:14:04.548] bxssvg in browseroutput/initialize
+[2021-05-18 02:14:31.251] spookypineapple (as Payde Antonio at 204,136,2)
+ - Using: /datum/language_menu [0x21040cb3]
+ - new LanguageMenu fancy 1
+[2021-05-18 02:14:33.111] spookypineapple in tgui-window-1/close (suspending)
+[2021-05-18 02:14:33.111] spookypineapple in tgui-window-1/close (suspending)
+[2021-05-18 02:14:33.749] spookypineapple (as Payde Antonio at 204,136,2)
+ - Using: /datum/language_menu [0x21040cb3]
+ - new LanguageMenu fancy 1
+[2021-05-18 02:14:35.453] spookypineapple in tgui-window-1/close (suspending)
+[2021-05-18 02:14:35.453] spookypineapple in tgui-window-1/close (suspending)
+[2021-05-18 02:15:10.537] brunoasbahr (as Montagne Marshall at 88,241,2)
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - new PersonalCrafting fancy 1
+[2021-05-18 02:15:12.777] brunoasbahr (as Montagne Marshall at 88,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: set_category {"category":"Clothing","subcategory":"Armor"}
+[2021-05-18 02:15:13.059] brunoasbahr (as Montagne Marshall at 88,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: set_category {"category":"Clothing","subcategory":"Wasteland Clothing"}
+[2021-05-18 02:15:13.706] brunoasbahr (as Montagne Marshall at 88,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: set_category {"category":"Clothing","subcategory":"Shoes"}
+[2021-05-18 02:15:14.181] brunoasbahr (as Montagne Marshall at 88,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: set_category {"category":"Misc","subcategory":"Burial & Execution"}
+[2021-05-18 02:15:15.134] brunoasbahr (as Montagne Marshall at 88,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: set_category {"category":"Crafting","subcategory":"Scavenging & Tinkering"}
+[2021-05-18 02:15:15.785] brunoasbahr (as Montagne Marshall at 88,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: set_category {"category":"Crafting","subcategory":"Tools & Workbench"}
+[2021-05-18 02:15:16.955] brunoasbahr (as Montagne Marshall at 88,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: set_category {"category":"Crafting","subcategory":"Scavenging & Tinkering"}
+[2021-05-18 02:15:19.394] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 02:15:19.395] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 02:15:35.854] brunoasbahr (as Montagne Marshall at 88,241,2)
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - new PersonalCrafting fancy 1
+[2021-05-18 02:15:37.595] brunoasbahr (as Montagne Marshall at 88,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: set_category {"category":"Misc","subcategory":"Bottling"}
+[2021-05-18 02:15:38.065] brunoasbahr (as Montagne Marshall at 88,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: set_category {"category":"Misc","subcategory":"Farming"}
+[2021-05-18 02:15:38.450] brunoasbahr (as Montagne Marshall at 88,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: set_category {"category":"Crafting","subcategory":"Tools & Workbench"}
+[2021-05-18 02:15:39.143] brunoasbahr (as Montagne Marshall at 88,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: set_category {"category":"Crafting","subcategory":"Scavenging & Tinkering"}
+[2021-05-18 02:15:40.747] brunoasbahr (as Montagne Marshall at 88,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: make {"recipe":"[0x21001233]"}
+[2021-05-18 02:15:41.977] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 02:15:41.977] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 02:17:03.225] bxssvg (as Lia Pavlov at 60,26,2)
+ - Using: /datum/component/loadout_selector [0x21040d19]
+ - new LoadoutSelect fancy 1
+[2021-05-18 02:17:03.225] bxssvg in tgui-window-1/initialize
+ - Using: /datum/component/loadout_selector [0x21040d19]
+[2021-05-18 02:17:05.227] bxssvg (as Lia Pavlov at 60,26,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040d19]
+ - Action: loadout_select {"name":"Provisioner"}
+[2021-05-18 02:17:06.360] bxssvg (as Lia Pavlov at 60,26,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040d19]
+ - Action: loadout_select {"name":"Provisioner"}
+[2021-05-18 02:17:09.239] bxssvg (as Lia Pavlov at 60,26,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040d19]
+ - Action: loadout_select {"name":"Bum"}
+[2021-05-18 02:17:11.644] bxssvg (as Lia Pavlov at 60,26,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040d19]
+ - Action: loadout_select {"name":"Proper Lady"}
+[2021-05-18 02:17:12.894] bxssvg (as Lia Pavlov at 60,26,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040d19]
+ - Action: loadout_select {"name":"Respectable Gent"}
+[2021-05-18 02:17:15.172] bxssvg (as Lia Pavlov at 60,26,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040d19]
+ - Action: loadout_select {"name":"Proper Lady"}
+[2021-05-18 02:17:20.161] bxssvg (as Lia Pavlov at 60,26,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040d19]
+ - Action: loadout_select {"name":"Respectable Gent"}
+[2021-05-18 02:17:22.201] bxssvg (as Lia Pavlov at 60,26,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040d19]
+ - Action: loadout_select {"name":"Hombre"}
+[2021-05-18 02:17:23.808] bxssvg (as Lia Pavlov at 60,26,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040d19]
+ - Action: loadout_select {"name":"Hombre"}
+[2021-05-18 02:17:25.624] bxssvg (as Lia Pavlov at 60,26,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040d19]
+ - Action: loadout_select {"name":"Proper Lady"}
+[2021-05-18 02:17:27.747] bxssvg (as Lia Pavlov at 60,26,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040d19]
+ - Action: loadout_confirm {}
+[2021-05-18 02:17:27.773] bxssvg in tgui-window-1/close (suspending)
+[2021-05-18 02:17:35.640] kaduh in browseroutput/initialize
+[2021-05-18 02:17:49.284] brunoasbahr (as Montagne Marshall at 88,241,2)
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - new PersonalCrafting fancy 1
+[2021-05-18 02:17:50.927] brunoasbahr (as Montagne Marshall at 88,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: set_category {"category":"Crafting","subcategory":"Scavenging & Tinkering"}
+[2021-05-18 02:17:53.156] brunoasbahr (as Montagne Marshall at 88,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: make {"recipe":"[0x21001233]"}
+[2021-05-18 02:17:57.282] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 02:17:57.282] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 02:18:28.677] brunoasbahr (as Montagne Marshall at 88,241,2)
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - new PersonalCrafting fancy 1
+[2021-05-18 02:18:30.057] brunoasbahr (as Montagne Marshall at 88,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: set_category {"category":"Misc","subcategory":"Farming"}
+[2021-05-18 02:18:30.383] brunoasbahr (as Montagne Marshall at 88,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: set_category {"category":"Crafting","subcategory":"Scavenging & Tinkering"}
+[2021-05-18 02:18:32.189] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 02:18:32.189] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 02:19:21.298] zircony (as Natasha Harding at 93,241,2)
+ - Using: /obj/machinery/vending/medical [0x204a3c6]
+ - new Vending fancy 1
+[2021-05-18 02:19:21.298] zircony in tgui-window-1/initialize
+ - Using: /obj/machinery/vending/medical [0x204a3c6]
+[2021-05-18 02:19:24.281] zircony (as Natasha Harding at 93,241,2) in tgui-window-1
+ - Using: /obj/machinery/vending/medical [0x204a3c6]
+ - Action: vend {"ref":"[0x21040b28]"}
+[2021-05-18 02:19:25.079] zircony in tgui-window-1/close (suspending)
+[2021-05-18 02:19:25.079] zircony in tgui-window-1/close (suspending)
+[2021-05-18 02:20:04.016] stimusz (as Unknown at 223,164,2)
+ - Using: /datum/component/loadout_selector [0x21040ef3]
+ - new LoadoutSelect fancy 1
+[2021-05-18 02:20:04.016] stimusz in tgui-window-1/initialize
+ - Using: /datum/component/loadout_selector [0x21040ef3]
+[2021-05-18 02:20:06.844] stimusz (as Unknown at 223,164,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040ef3]
+ - Action: loadout_select {"name":"Yankee"}
+[2021-05-18 02:20:08.027] stimusz (as Unknown at 223,164,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040ef3]
+ - Action: loadout_select {"name":"Yankee"}
+[2021-05-18 02:20:08.029] stimusz (as Unknown at 223,164,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040ef3]
+ - Action: loadout_select {"name":"Supa-fly"}
+[2021-05-18 02:20:12.681] stimusz (as Unknown at 222,164,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040ef3]
+ - Action: loadout_select {"name":"Yankee"}
+[2021-05-18 02:20:13.378] stimusz (as Unknown at 222,164,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040ef3]
+ - Action: loadout_select {"name":"Blastmaster"}
+[2021-05-18 02:20:14.521] stimusz (as Unknown at 222,164,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040ef3]
+ - Action: loadout_select {"name":"Supa-fly"}
+[2021-05-18 02:20:15.132] stimusz (as Unknown at 222,164,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040ef3]
+ - Action: loadout_preview_direction {"direction":1}
+[2021-05-18 02:20:15.761] stimusz (as Unknown at 222,164,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040ef3]
+ - Action: loadout_preview_direction {"direction":1}
+[2021-05-18 02:20:15.999] stimusz (as Unknown at 222,164,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040ef3]
+ - Action: loadout_preview_direction {"direction":1}
+[2021-05-18 02:20:16.508] stimusz (as Unknown at 222,164,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040ef3]
+ - Action: loadout_select {"name":"Yankee"}
+[2021-05-18 02:20:17.026] stimusz (as Unknown at 222,164,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040ef3]
+ - Action: loadout_select {"name":"Blastmaster"}
+[2021-05-18 02:20:17.421] stimusz (as Unknown at 222,164,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040ef3]
+ - Action: loadout_select {"name":"Yankee"}
+[2021-05-18 02:20:17.589] stimusz (as Unknown at 222,164,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040ef3]
+ - Action: loadout_select {"name":"Yankee"}
+[2021-05-18 02:20:17.922] stimusz (as Unknown at 222,164,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040ef3]
+ - Action: loadout_select {"name":"Yankee"}
+[2021-05-18 02:20:18.257] stimusz (as Unknown at 222,164,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040ef3]
+ - Action: loadout_select {"name":"Blastmaster"}
+[2021-05-18 02:20:20.995] stimusz (as Unknown at 222,164,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040ef3]
+ - Action: loadout_select {"name":"Painspike"}
+[2021-05-18 02:20:22.136] stimusz (as Unknown at 222,164,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040ef3]
+ - Action: loadout_select {"name":"Sadist"}
+[2021-05-18 02:20:22.685] stimusz (as Unknown at 222,164,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040ef3]
+ - Action: loadout_select {"name":"Sadist"}
+[2021-05-18 02:20:23.792] stimusz (as Unknown at 222,164,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040ef3]
+ - Action: loadout_select {"name":"Painspike"}
+[2021-05-18 02:20:24.182] stimusz (as Unknown at 222,164,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040ef3]
+ - Action: loadout_select {"name":"Painspike"}
+[2021-05-18 02:20:24.467] stimusz (as Unknown at 222,164,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040ef3]
+ - Action: loadout_select {"name":"Sadist"}
+[2021-05-18 02:20:25.005] stimusz (as Unknown at 222,164,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040ef3]
+ - Action: loadout_select {"name":"Blastmaster"}
+[2021-05-18 02:20:27.523] stimusz (as Unknown at 221,164,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040ef3]
+ - Action: loadout_select {"name":"Sadist"}
+[2021-05-18 02:20:27.811] stimusz (as Unknown at 221,164,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040ef3]
+ - Action: loadout_select {"name":"Painspike"}
+[2021-05-18 02:20:28.063] stimusz (as Unknown at 221,164,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040ef3]
+ - Action: loadout_select {"name":"Painspike"}
+[2021-05-18 02:20:33.464] stimusz (as Unknown at 221,164,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040ef3]
+ - Action: loadout_confirm {}
+[2021-05-18 02:20:33.504] stimusz in tgui-window-1/close (suspending)
+[2021-05-18 02:21:27.638] stimusz (as Brad Legweak at 205,167,2) in browseroutput (chatRenderer)
+ - chatRenderer failed to load an image after 10 attempts
+ - User Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.2; WOW64; Trident/7.0; .NET4.0E; .NET4.0C; .NET CLR 3.5.30729; .NET CLR 2.0.50727; .NET CLR 3.0.30729; Zoom 3.6.0)
+[2021-05-18 02:22:11.087] brunoasbahr (as Montagne Marshall at 88,241,2)
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - new PersonalCrafting fancy 1
+[2021-05-18 02:22:13.478] brunoasbahr (as Montagne Marshall at 88,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: set_category {"category":"Crafting","subcategory":"Scavenging & Tinkering"}
+[2021-05-18 02:22:14.674] brunoasbahr (as Montagne Marshall at 88,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: make {"recipe":"[0x21001233]"}
+[2021-05-18 02:22:18.625] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 02:22:18.625] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 02:23:16.224] kulzcow in browseroutput/initialize
+[2021-05-18 02:23:40.762] stimusz (as Brad Legweak at 188,9,2) in browseroutput (chatRenderer)
+ - chatRenderer failed to load an image after 10 attempts
+ - User Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.2; WOW64; Trident/7.0; .NET4.0E; .NET4.0C; .NET CLR 3.5.30729; .NET CLR 2.0.50727; .NET CLR 3.0.30729; Zoom 3.6.0)
+[2021-05-18 02:24:08.821] zircony (as Natasha Harding at 171,141,2)
+ - Using: /obj/machinery/vending/tool [0x2004f74]
+ - new Vending fancy 1
+[2021-05-18 02:24:10.210] zircony (as Natasha Harding at 171,141,2) in tgui-window-1
+ - Using: /obj/machinery/vending/tool [0x2004f74]
+ - Action: vend {"ref":"[0x2100b73f]"}
+[2021-05-18 02:24:11.235] stimusz (as Brad Legweak at 210,72,2)
+ - Using: /datum/orbit_menu [0x210414f8]
+ - new Orbit fancy 1
+[2021-05-18 02:24:11.363] zircony in tgui-window-1/close (suspending)
+[2021-05-18 02:24:11.363] zircony in tgui-window-1/close (suspending)
+[2021-05-18 02:24:23.112] brunoasbahr (as Montagne Marshall at 88,241,2)
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - new PersonalCrafting fancy 1
+[2021-05-18 02:24:25.124] brunoasbahr (as Montagne Marshall at 88,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: set_category {"category":"Crafting","subcategory":"Tools & Workbench"}
+[2021-05-18 02:24:26.051] brunoasbahr (as Montagne Marshall at 88,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: set_category {"category":"Crafting","subcategory":"Scavenging & Tinkering"}
+[2021-05-18 02:24:27.586] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 02:24:27.586] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 02:24:30.679] stimusz (as Brad Legweak at 210,131,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x210414f8]
+ - Action: orbit {"ref":"[mob_1005]"}
+[2021-05-18 02:24:31.463] stimusz in tgui-window-1/close (suspending)
+[2021-05-18 02:24:31.464] stimusz in tgui-window-1/close (suspending)
+[2021-05-18 02:24:54.126] zircony (as Natasha Harding at 171,144,2)
+ - Using: /obj/machinery/smartfridge/bottlerack/lootshelf/construction [0x2004f6a]
+ - new SmartVend fancy 1
+[2021-05-18 02:24:56.386] zircony in tgui-window-1/close (suspending)
+[2021-05-18 02:24:56.386] zircony in tgui-window-1/close (suspending)
+[2021-05-18 02:25:01.314] brunoasbahr (as Montagne Marshall at 88,241,2)
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - new PersonalCrafting fancy 1
+[2021-05-18 02:25:03.003] brunoasbahr (as Montagne Marshall at 88,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: set_category {"category":"Crafting","subcategory":"Tools & Workbench"}
+[2021-05-18 02:25:04.170] brunoasbahr (as Montagne Marshall at 88,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: set_category {"category":"Crafting","subcategory":"Scavenging & Tinkering"}
+[2021-05-18 02:25:07.083] brunoasbahr (as Montagne Marshall at 88,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: make {"recipe":"[0x21001233]"}
+[2021-05-18 02:25:11.033] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 02:25:11.034] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 02:25:12.732] baeiou (as Augustus Malkav at 212,39,2)
+ - Using: /datum/orbit_menu [0x2104109a]
+ - new Orbit fancy 1
+[2021-05-18 02:25:12.732] baeiou in tgui-window-1/initialize
+ - Using: /datum/orbit_menu [0x2104109a]
+[2021-05-18 02:25:23.043] baeiou (as Augustus Malkav at 212,39,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2104109a]
+ - Action: orbit {"ref":"[mob_924]"}
+[2021-05-18 02:25:23.657] baeiou in tgui-window-1/close (suspending)
+[2021-05-18 02:25:23.658] baeiou in tgui-window-1/close (suspending)
+[2021-05-18 02:25:25.949] kulzcow (as Derek Ackerley at 251,67,2)
+ - Using: /datum/component/loadout_selector [0x21041228]
+ - new LoadoutSelect fancy 1
+[2021-05-18 02:25:25.950] kulzcow in tgui-window-1/initialize
+ - Using: /datum/component/loadout_selector [0x21041228]
+[2021-05-18 02:25:35.245] kulzcow in tgui-window-1/close (suspending)
+[2021-05-18 02:25:35.245] kulzcow in tgui-window-1/close (suspending)
+[2021-05-18 02:25:36.574] kulzcow (as Derek Ackerley at 251,67,2)
+ - Using: /datum/component/loadout_selector [0x21041228]
+ - new LoadoutSelect fancy 1
+[2021-05-18 02:25:40.085] stimusz (as Brad Legweak at 48,85,2)
+ - Using: /datum/orbit_menu [0x210414f8]
+ - new Orbit fancy 1
+[2021-05-18 02:25:41.154] stimusz in tgui-window-1/close (suspending)
+[2021-05-18 02:25:41.154] stimusz in tgui-window-1/close (suspending)
+[2021-05-18 02:25:44.649] kulzcow (as Derek Ackerley at 252,68,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041228]
+ - Action: loadout_select {"name":"Roving Trader"}
+[2021-05-18 02:25:45.986] kulzcow (as Derek Ackerley at 252,68,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041228]
+ - Action: loadout_select {"name":"Roving Trader"}
+[2021-05-18 02:25:45.988] kulzcow (as Derek Ackerley at 252,68,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041228]
+ - Action: loadout_select {"name":"Roving Trader"}
+[2021-05-18 02:25:45.989] kulzcow (as Derek Ackerley at 252,68,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041228]
+ - Action: loadout_select {"name":"Legion Citizen"}
+[2021-05-18 02:25:46.670] kulzcow (as Derek Ackerley at 252,68,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041228]
+ - Action: loadout_select {"name":"Scavenger"}
+[2021-05-18 02:25:52.076] kulzcow (as Derek Ackerley at 252,69,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041228]
+ - Action: loadout_select {"name":"Salvager"}
+[2021-05-18 02:25:53.224] kulzcow (as Derek Ackerley at 252,69,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041228]
+ - Action: loadout_select {"name":"Vaultie"}
+[2021-05-18 02:25:53.797] kulzcow (as Derek Ackerley at 252,69,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041228]
+ - Action: loadout_select {"name":"Vaultie"}
+[2021-05-18 02:25:53.799] kulzcow (as Derek Ackerley at 252,69,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041228]
+ - Action: loadout_select {"name":"Vaultie"}
+[2021-05-18 02:25:56.670] kulzcow (as Derek Ackerley at 253,68,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041228]
+ - Action: loadout_select {"name":"Salvager"}
+[2021-05-18 02:25:59.426] kulzcow (as Derek Ackerley at 252,66,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041228]
+ - Action: loadout_select {"name":"NCR Citizen"}
+[2021-05-18 02:26:00.730] kulzcow (as Derek Ackerley at 252,66,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041228]
+ - Action: loadout_select {"name":"NCR Citizen"}
+[2021-05-18 02:26:03.444] kulzcow (as Derek Ackerley at 252,68,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041228]
+ - Action: loadout_select {"name":"Wasteland Doctor"}
+[2021-05-18 02:26:04.326] kulzcow (as Derek Ackerley at 251,68,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041228]
+ - Action: loadout_select {"name":"Roving Trader"}
+[2021-05-18 02:26:07.175] stimusz (as Brad Legweak at 209,219,3)
+ - Using: /datum/orbit_menu [0x210414f8]
+ - new Orbit fancy 1
+[2021-05-18 02:26:07.625] zircony in browseroutput/initialize
+[2021-05-18 02:26:14.294] kulzcow (as Derek Ackerley at 250,68,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041228]
+ - Action: loadout_select {"name":"Salvager"}
+[2021-05-18 02:26:15.746] kulzcow (as Derek Ackerley at 245,68,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041228]
+ - Action: loadout_select {"name":"Wasteland Doctor"}
+[2021-05-18 02:26:16.404] brunoasbahr (as Montagne Marshall at 88,241,2)
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - new PersonalCrafting fancy 1
+[2021-05-18 02:26:17.069] stimusz in tgui-window-1/close (suspending)
+[2021-05-18 02:26:17.070] stimusz in tgui-window-1/close (suspending)
+[2021-05-18 02:26:18.275] brunoasbahr (as Montagne Marshall at 88,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: set_category {"category":"Crafting","subcategory":"Tools & Workbench"}
+[2021-05-18 02:26:18.644] kulzcow (as Derek Ackerley at 251,68,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041228]
+ - Action: loadout_select {"name":"Roving Trader"}
+[2021-05-18 02:26:18.695] brunoasbahr (as Montagne Marshall at 88,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: set_category {"category":"Crafting","subcategory":"Scavenging & Tinkering"}
+[2021-05-18 02:26:20.835] brunoasbahr (as Montagne Marshall at 88,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: make {"recipe":"[0x21001232]"}
+[2021-05-18 02:26:22.733] kulzcow (as Derek Ackerley at 249,68,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041228]
+ - Action: loadout_preview_direction {"direction":1}
+[2021-05-18 02:26:22.785] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 02:26:22.786] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 02:26:23.928] kulzcow (as Derek Ackerley at 250,68,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041228]
+ - Action: loadout_select {"name":"Scavenger"}
+[2021-05-18 02:26:28.993] kulzcow (as Derek Ackerley at 250,68,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041228]
+ - Action: loadout_select {"name":"Legion Citizen"}
+[2021-05-18 02:26:33.232] kulzcow (as Derek Ackerley at 250,68,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041228]
+ - Action: loadout_select {"name":"NCR Citizen"}
+[2021-05-18 02:26:33.970] kulzcow (as Derek Ackerley at 250,68,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041228]
+ - Action: loadout_select {"name":"NCR Citizen"}
+[2021-05-18 02:26:34.744] kulzcow (as Derek Ackerley at 250,65,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041228]
+ - Action: loadout_select {"name":"NCR Citizen"}
+[2021-05-18 02:26:34.941] kulzcow (as Derek Ackerley at 250,65,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041228]
+ - Action: loadout_select {"name":"NCR Citizen"}
+[2021-05-18 02:26:35.483] kulzcow (as Derek Ackerley at 250,68,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041228]
+ - Action: loadout_select {"name":"Roving Trader"}
+[2021-05-18 02:26:36.063] kulzcow (as Derek Ackerley at 250,66,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041228]
+ - Action: loadout_select {"name":"Wasteland Doctor"}
+[2021-05-18 02:26:39.470] kulzcow (as Derek Ackerley at 250,65,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041228]
+ - Action: loadout_select {"name":"Roving Trader"}
+[2021-05-18 02:26:39.473] kulzcow (as Derek Ackerley at 250,65,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041228]
+ - Action: loadout_select {"name":"Roving Trader"}
+[2021-05-18 02:26:42.603] kulzcow (as Derek Ackerley at 249,65,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041228]
+ - Action: loadout_confirm {}
+[2021-05-18 02:26:42.643] kulzcow in tgui-window-1/close (suspending)
+[2021-05-18 02:27:36.977] stimusz (as Luke Curry at 209,153,2)
+ - Using: /datum/component/loadout_selector [0x2104182c]
+ - new LoadoutSelect fancy 1
+[2021-05-18 02:27:38.388] stimusz (as Luke Curry at 209,153,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2104182c]
+ - Action: loadout_select {"name":"Yankee"}
+[2021-05-18 02:27:39.557] stimusz (as Luke Curry at 209,153,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2104182c]
+ - Action: loadout_select {"name":"Painspike"}
+[2021-05-18 02:27:40.209] stimusz (as Luke Curry at 209,153,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2104182c]
+ - Action: loadout_select {"name":"Badlands"}
+[2021-05-18 02:27:40.834] stimusz (as Luke Curry at 209,153,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2104182c]
+ - Action: loadout_select {"name":"Brotherhood Exile"}
+[2021-05-18 02:27:41.466] stimusz (as Luke Curry at 209,153,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2104182c]
+ - Action: loadout_select {"name":"NCR Deserter"}
+[2021-05-18 02:27:42.114] stimusz (as Luke Curry at 209,153,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2104182c]
+ - Action: loadout_select {"name":"NCR Deserter"}
+[2021-05-18 02:27:42.116] stimusz (as Luke Curry at 209,153,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2104182c]
+ - Action: loadout_select {"name":"NCR Deserter"}
+[2021-05-18 02:27:42.118] stimusz (as Luke Curry at 209,153,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2104182c]
+ - Action: loadout_select {"name":"NCR Deserter"}
+[2021-05-18 02:27:42.176] stimusz (as Luke Curry at 209,153,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2104182c]
+ - Action: loadout_select {"name":"NCR Deserter"}
+[2021-05-18 02:27:43.211] stimusz (as Luke Curry at 209,153,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2104182c]
+ - Action: loadout_select {"name":"Punished Legionnaire"}
+[2021-05-18 02:27:43.871] stimusz (as Luke Curry at 209,153,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2104182c]
+ - Action: loadout_select {"name":"Punished Legionnaire"}
+[2021-05-18 02:27:43.873] stimusz (as Luke Curry at 209,153,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2104182c]
+ - Action: loadout_select {"name":"Punished Legionnaire"}
+[2021-05-18 02:27:44.134] stimusz (as Luke Curry at 209,153,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2104182c]
+ - Action: loadout_select {"name":"Desperado"}
+[2021-05-18 02:27:45.860] stimusz (as Luke Curry at 209,153,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2104182c]
+ - Action: loadout_select {"name":"Sadist"}
+[2021-05-18 02:27:46.738] stimusz (as Luke Curry at 209,153,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2104182c]
+ - Action: loadout_select {"name":"Painspike"}
+[2021-05-18 02:27:50.128] stimusz (as Luke Curry at 209,153,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2104182c]
+ - Action: loadout_confirm {}
+[2021-05-18 02:27:50.164] stimusz in tgui-window-1/close (suspending)
+[2021-05-18 02:28:29.325] brunoasbahr (as Montagne Marshall at 88,241,2)
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - new PersonalCrafting fancy 1
+[2021-05-18 02:28:31.061] brunoasbahr (as Montagne Marshall at 88,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: set_category {"category":"Crafting","subcategory":"Tools & Workbench"}
+[2021-05-18 02:28:31.638] brunoasbahr (as Montagne Marshall at 88,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: set_category {"category":"Crafting","subcategory":"Scavenging & Tinkering"}
+[2021-05-18 02:28:33.003] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 02:28:33.003] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 02:28:41.918] brunoasbahr (as Montagne Marshall at 88,241,2)
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - new PersonalCrafting fancy 1
+[2021-05-18 02:28:43.851] brunoasbahr (as Montagne Marshall at 88,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: set_category {"category":"Crafting","subcategory":"Scavenging & Tinkering"}
+[2021-05-18 02:28:45.113] brunoasbahr (as Montagne Marshall at 88,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: make {"recipe":"[0x21001233]"}
+[2021-05-18 02:28:46.812] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 02:28:46.813] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 02:30:39.393] zircony (as Natasha Harding at 92,241,2)
+ - Using: /obj/machinery/vending/tool [0x204aa05]
+ - new Vending fancy 1
+[2021-05-18 02:30:39.393] zircony in tgui-window-1/initialize
+ - Using: /obj/machinery/vending/tool [0x204aa05]
+[2021-05-18 02:30:42.508] zircony in tgui-window-1/close (suspending)
+[2021-05-18 02:30:42.508] zircony in tgui-window-1/close (suspending)
+[2021-05-18 02:32:00.397] johonasmexicanjo (as Maximus Wolfe at 229,24,2)
+ - Using: /datum/component/personal_crafting [0x21040c75]
+ - new PersonalCrafting fancy 1
+[2021-05-18 02:32:00.397] johonasmexicanjo in tgui-window-1/initialize
+ - Using: /datum/component/personal_crafting [0x21040c75]
+[2021-05-18 02:32:04.774] johonasmexicanjo (as Maximus Wolfe at 229,24,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21040c75]
+ - Action: set_category {"category":"Tribal"}
+[2021-05-18 02:32:06.270] johonasmexicanjo (as Maximus Wolfe at 229,24,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21040c75]
+ - Action: make {"recipe":"[0x21001246]"}
+[2021-05-18 02:32:07.102] johonasmexicanjo in tgui-window-1/close (suspending)
+[2021-05-18 02:32:07.102] johonasmexicanjo in tgui-window-1/close (suspending)
+[2021-05-18 02:32:14.735] johonasmexicanjo (as Maximus Wolfe at 225,20,2)
+ - Using: /datum/component/personal_crafting [0x21040c75]
+ - new PersonalCrafting fancy 1
+[2021-05-18 02:32:18.461] johonasmexicanjo (as Maximus Wolfe at 225,20,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21040c75]
+ - Action: set_category {"category":"Tribal"}
+[2021-05-18 02:32:19.358] johonasmexicanjo (as Maximus Wolfe at 225,20,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21040c75]
+ - Action: make {"recipe":"[0x21001246]"}
+[2021-05-18 02:32:23.202] johonasmexicanjo in tgui-window-1/close (suspending)
+[2021-05-18 02:32:23.202] johonasmexicanjo in tgui-window-1/close (suspending)
+[2021-05-18 02:32:38.916] johonasmexicanjo (as Maximus Wolfe at 218,50,2)
+ - Using: /datum/component/personal_crafting [0x21040c75]
+ - new PersonalCrafting fancy 1
+[2021-05-18 02:32:41.936] johonasmexicanjo (as Maximus Wolfe at 218,50,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21040c75]
+ - Action: set_category {"category":"Tribal"}
+[2021-05-18 02:32:42.895] johonasmexicanjo (as Maximus Wolfe at 218,50,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21040c75]
+ - Action: make {"recipe":"[0x21001246]"}
+[2021-05-18 02:32:45.297] johonasmexicanjo in tgui-window-1/close (suspending)
+[2021-05-18 02:32:45.297] johonasmexicanjo in tgui-window-1/close (suspending)
+[2021-05-18 02:32:49.471] johonasmexicanjo (as Maximus Wolfe at 214,50,2)
+ - Using: /datum/component/personal_crafting [0x21040c75]
+ - new PersonalCrafting fancy 1
+[2021-05-18 02:32:53.237] johonasmexicanjo (as Maximus Wolfe at 214,50,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21040c75]
+ - Action: set_category {"category":"Medical"}
+[2021-05-18 02:32:53.666] johonasmexicanjo (as Maximus Wolfe at 214,50,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21040c75]
+ - Action: set_category {"category":"Tribal"}
+[2021-05-18 02:32:53.863] johonasmexicanjo (as Maximus Wolfe at 214,50,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21040c75]
+ - Action: set_category {"category":"Tribal"}
+[2021-05-18 02:32:56.045] johonasmexicanjo (as Maximus Wolfe at 214,50,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21040c75]
+ - Action: make {"recipe":"[0x21001246]"}
+[2021-05-18 02:32:57.174] johonasmexicanjo in tgui-window-1/close (suspending)
+[2021-05-18 02:32:57.175] johonasmexicanjo in tgui-window-1/close (suspending)
+[2021-05-18 02:33:10.302] johonasmexicanjo (as Maximus Wolfe at 210,49,2)
+ - Using: /datum/component/personal_crafting [0x21040c75]
+ - new PersonalCrafting fancy 1
+[2021-05-18 02:33:14.092] johonasmexicanjo (as Maximus Wolfe at 210,49,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21040c75]
+ - Action: set_category {"category":"Tribal"}
+[2021-05-18 02:33:14.883] johonasmexicanjo (as Maximus Wolfe at 210,49,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21040c75]
+ - Action: make {"recipe":"[0x21001246]"}
+[2021-05-18 02:33:16.159] johonasmexicanjo in tgui-window-1/close (suspending)
+[2021-05-18 02:33:16.159] johonasmexicanjo in tgui-window-1/close (suspending)
+[2021-05-18 02:33:33.069] johonasmexicanjo (as Maximus Wolfe at 202,58,2)
+ - Using: /datum/component/personal_crafting [0x21040c75]
+ - new PersonalCrafting fancy 1
+[2021-05-18 02:33:36.033] johonasmexicanjo (as Maximus Wolfe at 202,58,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21040c75]
+ - Action: set_category {"category":"Tribal"}
+[2021-05-18 02:33:37.015] johonasmexicanjo (as Maximus Wolfe at 202,58,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21040c75]
+ - Action: make {"recipe":"[0x21001246]"}
+[2021-05-18 02:33:38.315] johonasmexicanjo in tgui-window-1/close (suspending)
+[2021-05-18 02:33:38.315] johonasmexicanjo in tgui-window-1/close (suspending)
+[2021-05-18 02:33:47.572] johonasmexicanjo (as Maximus Wolfe at 220,57,2)
+ - Using: /datum/component/personal_crafting [0x21040c75]
+ - new PersonalCrafting fancy 1
+[2021-05-18 02:33:50.353] johonasmexicanjo (as Maximus Wolfe at 220,57,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21040c75]
+ - Action: set_category {"category":"Tribal"}
+[2021-05-18 02:33:51.573] johonasmexicanjo (as Maximus Wolfe at 220,57,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21040c75]
+ - Action: make {"recipe":"[0x21001246]"}
+[2021-05-18 02:33:52.235] johonasmexicanjo in tgui-window-1/close (suspending)
+[2021-05-18 02:33:52.235] johonasmexicanjo in tgui-window-1/close (suspending)
+[2021-05-18 02:34:02.454] brunoasbahr (as Montagne Marshall at 88,241,2)
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - new PersonalCrafting fancy 1
+[2021-05-18 02:34:04.942] brunoasbahr (as Montagne Marshall at 88,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: set_category {"category":"Crafting","subcategory":"Scavenging & Tinkering"}
+[2021-05-18 02:34:05.438] brunoasbahr (as Montagne Marshall at 88,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: set_category {"category":"Crafting","subcategory":"Scavenging & Tinkering"}
+[2021-05-18 02:34:18.681] brunoasbahr (as Montagne Marshall at 88,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: make {"recipe":"[0x21001233]"}
+[2021-05-18 02:34:20.722] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 02:34:20.722] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 02:34:42.807] brunoasbahr (as Montagne Marshall at 88,241,2)
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - new PersonalCrafting fancy 1
+[2021-05-18 02:34:54.743] brunoasbahr (as Montagne Marshall at 88,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: set_category {"category":"Crafting","subcategory":"Scavenging & Tinkering"}
+[2021-05-18 02:34:55.203] brunoasbahr (as Montagne Marshall at 88,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: set_category {"category":"Crafting","subcategory":"Scavenging & Tinkering"}
+[2021-05-18 02:34:56.734] brunoasbahr (as Montagne Marshall at 88,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: make {"recipe":"[0x21001233]"}
+[2021-05-18 02:35:05.137] brunoasbahr (as Montagne Marshall at 88,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: make {"recipe":"[0x21001233]"}
+[2021-05-18 02:35:11.084] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 02:35:11.085] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 02:35:44.250] brunoasbahr (as Montagne Marshall at 88,241,2)
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - new PersonalCrafting fancy 1
+[2021-05-18 02:35:46.116] brunoasbahr (as Montagne Marshall at 88,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: set_category {"category":"Crafting","subcategory":"Tools & Workbench"}
+[2021-05-18 02:35:46.564] brunoasbahr (as Montagne Marshall at 88,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: set_category {"category":"Crafting","subcategory":"Scavenging & Tinkering"}
+[2021-05-18 02:35:48.215] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 02:35:48.215] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 02:36:17.700] spookypineapple (as Payde Antonio at 133,237,2)
+ - Using: /obj/item/radio/intercom [0x20042c0]
+ - new Radio fancy 1
+[2021-05-18 02:36:17.700] spookypineapple (as Payde Antonio at 133,237,2)
+ - Using: /obj/item/radio/intercom [0x20042c0]
+ - new Radio fancy 1
+[2021-05-18 02:36:19.206] spookypineapple in tgui-window-1/close (suspending)
+[2021-05-18 02:36:19.207] spookypineapple in tgui-window-1/close (suspending)
+[2021-05-18 02:37:26.717] kulzcow (as Derek Ackerley at 221,235,3)
+ - Using: /obj/machinery/smartfridge/food [0x2007c7a]
+ - new SmartVend fancy 1
+[2021-05-18 02:37:28.805] kulzcow in tgui-window-1/close (suspending)
+[2021-05-18 02:38:03.548] alexalbright in browseroutput/initialize
+[2021-05-18 02:38:28.664] thebanana3 (as Angelina Seelig at 230,206,3)
+ - Using: /datum/component/gps/item [0x21010b84]
+ - new Gps fancy 1
+[2021-05-18 02:38:31.077] thebanana3 in tgui-window-1/close (suspending)
+[2021-05-18 02:38:31.077] thebanana3 in tgui-window-1/close (suspending)
+[2021-05-18 02:41:50.927] spookypineapple (as Unknown at 230,206,3)
+ - Using: /datum/component/gps/item [0x21010b84]
+ - new Gps fancy 1
+[2021-05-18 02:41:52.785] spookypineapple in tgui-window-1/close (suspending)
+[2021-05-18 02:41:52.785] spookypineapple in tgui-window-1/close (suspending)
+[2021-05-18 02:43:23.058] stimusz (as Unknown at 223,209,3)
+ - Using: /obj/machinery/vending/cigarette [0x2007e30]
+ - new Vending fancy 1
+[2021-05-18 02:43:24.763] stimusz in tgui-window-1/close (suspending)
+[2021-05-18 02:43:24.763] stimusz in tgui-window-1/close (suspending)
+[2021-05-18 02:43:34.943] comicao1 in browseroutput/initialize
+[2021-05-18 02:44:51.364] hanonimo (as Jaiden Oppenheimer at 91,57,2)
+ - Using: /obj/machinery/vending/hydronutrients [0x2003a21]
+ - new Vending fancy 1
+[2021-05-18 02:44:53.178] hanonimo in tgui-window-1/close (suspending)
+[2021-05-18 02:44:53.178] hanonimo in tgui-window-1/close (suspending)
+[2021-05-18 02:45:34.474] alexalbright in browseroutput/initialize
+[2021-05-18 02:46:10.902] alexalbright (as Gladwyn Prescott at 56,35,2)
+ - Using: /datum/orbit_menu [0x2103f83c]
+ - new Orbit fancy 1
+[2021-05-18 02:46:10.902] alexalbright in tgui-window-1/initialize
+ - Using: /datum/orbit_menu [0x2103f83c]
+[2021-05-18 02:46:13.535] alexalbright (as Gladwyn Prescott at 56,35,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2103f83c]
+ - Action: orbit {"ref":"[mob_990]"}
+[2021-05-18 02:46:15.710] alexalbright (as Gladwyn Prescott at 227,200,3) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2103f83c]
+ - Action: orbit {"ref":"[mob_1012]"}
+[2021-05-18 02:46:18.714] alexalbright (as Gladwyn Prescott at 42,49,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2103f83c]
+ - Action: orbit {"ref":"[mob_954]"}
+[2021-05-18 02:46:21.046] alexalbright (as Gladwyn Prescott at 84,58,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2103f83c]
+ - Action: orbit {"ref":"[mob_956]"}
+[2021-05-18 02:46:22.010] alexalbright (as Gladwyn Prescott at 82,57,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2103f83c]
+ - Action: orbit {"ref":"[mob_1013]"}
+[2021-05-18 02:46:24.682] alexalbright (as Gladwyn Prescott at 239,31,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2103f83c]
+ - Action: orbit {"ref":"[mob_926]"}
+[2021-05-18 02:46:25.818] alexalbright (as Gladwyn Prescott at 82,241,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2103f83c]
+ - Action: orbit {"ref":"[mob_907]"}
+[2021-05-18 02:46:26.646] alexalbright (as Gladwyn Prescott at 85,240,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2103f83c]
+ - Action: orbit {"ref":"[mob_1013]"}
+[2021-05-18 02:46:27.646] alexalbright (as Gladwyn Prescott at 227,31,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2103f83c]
+ - Action: orbit {"ref":"[mob_1018]"}
+[2021-05-18 02:46:28.694] alexalbright (as Gladwyn Prescott at 233,205,3) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2103f83c]
+ - Action: orbit {"ref":"[mob_1056]"}
+[2021-05-18 02:46:29.430] alexalbright (as Gladwyn Prescott at 236,203,3) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2103f83c]
+ - Action: orbit {"ref":"[mob_1005]"}
+[2021-05-18 02:46:31.991] alexalbright (as Gladwyn Prescott at 151,248,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2103f83c]
+ - Action: orbit {"ref":"[mob_1045]"}
+[2021-05-18 02:46:33.994] alexalbright in tgui-window-1/close (suspending)
+[2021-05-18 02:46:33.994] alexalbright in tgui-window-1/close (suspending)
+[2021-05-18 02:47:24.111] tehii in browseroutput/initialize
+[2021-05-18 02:47:36.228] tehii in browseroutput/initialize
+[2021-05-18 02:48:48.738] kaduh (as Erika Miller at 80,57,3)
+ - Using: /obj/machinery/chem_dispenser [0x2006e0d]
+ - new ChemDispenser fancy 1
+[2021-05-18 02:48:48.738] kaduh in tgui-window-1/initialize
+ - Using: /obj/machinery/chem_dispenser [0x2006e0d]
+[2021-05-18 02:48:51.899] kaduh (as Erika Miller at 80,57,3)
+ - Using: /obj/machinery/chem_master [0x204a176]
+ - new ChemMaster fancy 1
+[2021-05-18 02:48:51.899] kaduh in tgui-window-2/initialize
+ - Using: /obj/machinery/chem_master [0x204a176]
+[2021-05-18 02:48:53.926] kaduh in tgui-window-2/close (suspending)
+[2021-05-18 02:48:53.926] kaduh in tgui-window-2/close (suspending)
+[2021-05-18 02:49:25.843] kaduh (as Erika Miller at 80,57,3) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser [0x2006e0d]
+ - Action: amount {"target":10}
+[2021-05-18 02:49:29.937] kaduh (as Erika Miller at 80,57,3) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser [0x2006e0d]
+ - Action: dispense {"reagent":"potassium"}
+[2021-05-18 02:49:34.694] kaduh (as Erika Miller at 80,57,3) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser [0x2006e0d]
+ - Action: dispense {"reagent":"nitrogen"}
+[2021-05-18 02:49:41.462] kaduh (as Erika Miller at 80,57,3) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser [0x2006e0d]
+ - Action: amount {"target":30}
+[2021-05-18 02:49:55.685] kaduh (as Erika Miller at 80,57,3) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser [0x2006e0d]
+ - Action: dispense {"reagent":"oxygen"}
+[2021-05-18 02:50:00.423] kaduh (as Erika Miller at 80,57,3) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser [0x2006e0d]
+ - Action: dispense {"reagent":"sulfur"}
+[2021-05-18 02:50:40.051] kaduh (as Erika Miller at 80,57,3) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser [0x2006e0d]
+ - Action: eject {}
+[2021-05-18 02:50:43.548] kaduh in tgui-window-1/close (suspending)
+[2021-05-18 02:50:43.548] kaduh in tgui-window-1/close (suspending)
+[2021-05-18 02:51:08.031] hanonimo (as Jaiden Oppenheimer at 225,77,2)
+ - Using: /datum/orbit_menu [0x21040bef]
+ - new Orbit fancy 1
+[2021-05-18 02:51:14.209] hanonimo in tgui-window-1/close (suspending)
+[2021-05-18 02:51:14.209] hanonimo in tgui-window-1/close (suspending)
+[2021-05-18 02:51:21.616] hanonimo (as Jaiden Oppenheimer at 221,80,2)
+ - Using: /datum/spawners_menu [0x2103f30c]
+ - new SpawnersMenu fancy 1
+[2021-05-18 02:51:25.081] hanonimo in tgui-window-1/close (suspending)
+[2021-05-18 02:51:25.082] hanonimo in tgui-window-1/close (suspending)
+[2021-05-18 02:51:38.227] kaduh (as Erika Miller at 80,57,3)
+ - Using: /obj/machinery/chem_master [0x204a176]
+ - new ChemMaster fancy 1
+[2021-05-18 02:51:50.277] kaduh in tgui-window-1/close (suspending)
+[2021-05-18 02:51:50.277] kaduh in tgui-window-1/close (suspending)
+[2021-05-18 02:51:51.171] kaduh (as Erika Miller at 80,57,3)
+ - Using: /obj/machinery/chem_master [0x204a176]
+ - new ChemMaster fancy 1
+[2021-05-18 02:51:57.175] kaduh (as Erika Miller at 80,57,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x204a176]
+ - Action: eject {}
+[2021-05-18 02:51:58.351] kaduh in tgui-window-1/close (suspending)
+[2021-05-18 02:51:58.351] kaduh in tgui-window-1/close (suspending)
+[2021-05-18 02:52:39.592] hanonimo (as Jaiden Oppenheimer at 150,49,2)
+ - Using: /datum/orbit_menu [0x21040bef]
+ - new Orbit fancy 1
+[2021-05-18 02:52:41.436] hanonimo (as Jaiden Oppenheimer at 150,49,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21040bef]
+ - Action: orbit {"ref":"[mob_954]"}
+[2021-05-18 02:52:42.750] hanonimo in tgui-window-1/close (suspending)
+[2021-05-18 02:52:42.750] hanonimo in tgui-window-1/close (suspending)
+[2021-05-18 02:53:34.155] degusta00 (as Unknown at 155,178,2)
+ - Using: /datum/component/personal_crafting [0x21013228]
+ - new PersonalCrafting fancy 0
+[2021-05-18 02:53:39.349] degusta00 (as Unknown at 152,177,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21013228]
+ - Error: Zombie window detected, closing.
+[2021-05-18 02:53:39.350] degusta00 in tgui-window-1/close
+[2021-05-18 02:53:39.799] degusta00 (as Unknown at 153,177,2)
+ - Using: /datum/component/personal_crafting [0x21013228]
+ - new PersonalCrafting fancy 0
+[2021-05-18 02:53:39.799] degusta00 in tgui-window-1/initialize
+ - Using: /datum/component/personal_crafting [0x21013228]
+[2021-05-18 02:53:47.720] degusta00 (as Unknown at 154,177,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21013228]
+ - Action: set_category {"category":"Crafting","subcategory":"Forging & Smithing"}
+[2021-05-18 02:53:49.413] degusta00 (as Unknown at 154,177,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21013228]
+ - Action: set_category {"category":"Crafting","subcategory":"Scavenging & Tinkering"}
+[2021-05-18 02:54:04.940] degusta00 (as Unknown at 154,177,2) in SStgui/force_close_window
+[2021-05-18 02:54:04.940] degusta00 in tgui-window-1/close
+[2021-05-18 02:54:13.237] degusta00 (as Unknown at 155,177,2)
+ - Using: /datum/component/personal_crafting [0x21013228]
+ - new PersonalCrafting fancy 0
+[2021-05-18 02:54:13.237] degusta00 in tgui-window-1/initialize
+ - Using: /datum/component/personal_crafting [0x21013228]
+[2021-05-18 02:54:15.831] degusta00 (as Unknown at 154,177,2) in SStgui/force_close_window
+[2021-05-18 02:54:15.831] degusta00 in tgui-window-1/close
+[2021-05-18 02:54:27.805] kulzcow (as Unknown at 239,24,2)
+ - Using: /obj/structure/ore_box [0x2006009]
+ - new OreBox fancy 1
+[2021-05-18 02:54:30.289] kulzcow in tgui-window-1/close (suspending)
+[2021-05-18 02:54:30.289] kulzcow in tgui-window-1/close (suspending)
+[2021-05-18 02:54:36.336] tehii (as April Elliot at 57,142,2)
+ - Using: /datum/component/loadout_selector [0x21041d02]
+ - new LoadoutSelect fancy 1
+[2021-05-18 02:54:36.337] tehii in tgui-window-1/initialize
+ - Using: /datum/component/loadout_selector [0x21041d02]
+[2021-05-18 02:54:38.530] tehii in tgui-window-1/close (suspending)
+[2021-05-18 02:54:38.530] tehii in tgui-window-1/close (suspending)
+[2021-05-18 02:54:41.624] tehii (as April Elliot at 56,142,2)
+ - Using: /datum/component/loadout_selector [0x21041d02]
+ - new LoadoutSelect fancy 1
+[2021-05-18 02:54:42.956] tehii in tgui-window-1/close (suspending)
+[2021-05-18 02:54:42.956] tehii in tgui-window-1/close (suspending)
+[2021-05-18 02:55:36.675] tehii (as April Elliot at 59,141,2)
+ - Using: /datum/component/loadout_selector [0x21041d02]
+ - new LoadoutSelect fancy 1
+[2021-05-18 02:55:38.138] tehii in tgui-window-1/close (suspending)
+[2021-05-18 02:55:38.138] tehii in tgui-window-1/close (suspending)
+[2021-05-18 02:55:38.956] tehii (as April Elliot at 59,141,2)
+ - Using: /datum/component/loadout_selector [0x21041d02]
+ - new LoadoutSelect fancy 1
+[2021-05-18 02:55:39.996] tehii in tgui-window-1/close (suspending)
+[2021-05-18 02:55:39.996] tehii in tgui-window-1/close (suspending)
+[2021-05-18 02:55:46.025] tehii (as April Elliot at 59,141,2)
+ - Using: /datum/component/loadout_selector [0x21041d02]
+ - new LoadoutSelect fancy 1
+[2021-05-18 02:55:47.199] kaduh (as Erika Miller at 214,66,2)
+ - Using: /datum/orbit_menu [0x2100d234]
+ - new Orbit fancy 1
+[2021-05-18 02:55:47.861] tehii (as April Elliot at 59,141,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041d02]
+ - Action: loadout_select {"name":"Gardener"}
+[2021-05-18 02:55:49.064] tehii (as April Elliot at 59,141,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041d02]
+ - Action: loadout_select {"name":"Gardener"}
+[2021-05-18 02:55:49.066] tehii (as April Elliot at 59,141,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041d02]
+ - Action: loadout_select {"name":"Gatherer"}
+[2021-05-18 02:55:49.652] tehii (as April Elliot at 59,141,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041d02]
+ - Action: loadout_select {"name":"Gatherer"}
+[2021-05-18 02:55:49.654] tehii (as April Elliot at 59,141,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041d02]
+ - Action: loadout_select {"name":"Mender"}
+[2021-05-18 02:55:50.287] tehii (as April Elliot at 59,141,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041d02]
+ - Action: loadout_select {"name":"Craftsman"}
+[2021-05-18 02:55:50.897] tehii (as April Elliot at 59,141,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041d02]
+ - Action: loadout_select {"name":"Gardener"}
+[2021-05-18 02:55:51.290]  in tgui-window-1/close (suspending)
+[2021-05-18 02:55:51.649] tehii (as April Elliot at 59,141,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041d02]
+ - Action: loadout_select {"name":"Gardener"}
+[2021-05-18 02:55:51.736] tehii (as April Elliot at 59,141,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041d02]
+ - Action: loadout_select {"name":"Mender"}
+[2021-05-18 02:55:52.538] tehii (as April Elliot at 59,141,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041d02]
+ - Action: loadout_select {"name":"Gardener"}
+[2021-05-18 02:55:53.216] tehii (as April Elliot at 59,141,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041d02]
+ - Action: loadout_select {"name":"Gardener"}
+[2021-05-18 02:55:54.447] tehii (as April Elliot at 59,141,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041d02]
+ - Action: loadout_select {"name":"Gatherer"}
+[2021-05-18 02:56:01.653] tehii (as April Elliot at 59,141,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041d02]
+ - Action: loadout_select {"name":"Gardener"}
+[2021-05-18 02:56:02.855] tehii (as April Elliot at 59,141,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041d02]
+ - Action: loadout_select {"name":"Mender"}
+[2021-05-18 02:56:04.155] hanonimo (as Jaiden Oppenheimer at 51,67,3)
+ - Using: /datum/orbit_menu [0x21040bef]
+ - new Orbit fancy 1
+[2021-05-18 02:56:05.108] kulzcow in browseroutput/initialize
+[2021-05-18 02:56:05.743] tehii (as April Elliot at 59,141,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041d02]
+ - Action: loadout_select {"name":"Craftsman"}
+[2021-05-18 02:56:06.570] brunoasbahr (as Montagne Marshall at 82,241,2)
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - new PersonalCrafting fancy 1
+[2021-05-18 02:56:08.004] tehii (as April Elliot at 59,141,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041d02]
+ - Action: loadout_select {"name":"Mender"}
+[2021-05-18 02:56:08.699] brunoasbahr (as Montagne Marshall at 82,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: set_category {"category":"Crafting","subcategory":"Tools & Workbench"}
+[2021-05-18 02:56:08.729] tehii (as April Elliot at 59,141,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041d02]
+ - Action: loadout_select {"name":"Gatherer"}
+[2021-05-18 02:56:09.327] brunoasbahr (as Montagne Marshall at 82,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: set_category {"category":"Crafting","subcategory":"Scavenging & Tinkering"}
+[2021-05-18 02:56:10.830] brunoasbahr (as Montagne Marshall at 82,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: make {"recipe":"[0x21001233]"}
+[2021-05-18 02:56:11.121] tehii (as April Elliot at 59,141,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041d02]
+ - Action: loadout_select {"name":"Gardener"}
+[2021-05-18 02:56:11.977] hanonimo (as Jaiden Oppenheimer at 51,67,3) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21040bef]
+ - Action: orbit {"ref":"[mob_1045]"}
+[2021-05-18 02:56:12.129] tehii (as April Elliot at 59,141,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041d02]
+ - Action: loadout_select {"name":"Mender"}
+[2021-05-18 02:56:14.449] hanonimo in tgui-window-1/close (suspending)
+[2021-05-18 02:56:14.449] hanonimo in tgui-window-1/close (suspending)
+[2021-05-18 02:56:16.543] tehii (as April Elliot at 59,141,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041d02]
+ - Action: loadout_confirm {}
+[2021-05-18 02:56:16.549] tehii in tgui-window-1/close (suspending)
+[2021-05-18 02:56:19.936] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 02:56:19.936] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 02:56:42.731] kaduh in browseroutput/initialize
+[2021-05-18 02:56:47.170] kaduh (as Erika Miller at 214,66,2) in tgui-window-1
+ - Error: Couldn't find the window datum, force closing.
+[2021-05-18 02:56:47.170] kaduh (as Erika Miller at 214,66,2) in SStgui/force_close_window
+[2021-05-18 02:56:49.007] degusta00 (as Unknown at 144,180,2)
+ - Using: /datum/component/personal_crafting [0x21013228]
+ - new PersonalCrafting fancy 0
+[2021-05-18 02:56:49.007] degusta00 in tgui-window-1/initialize
+ - Using: /datum/component/personal_crafting [0x21013228]
+[2021-05-18 02:57:00.340] degusta00 (as Unknown at 144,180,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21013228]
+ - Action: set_category {"category":"Crafting","subcategory":"Scavenging & Tinkering"}
+[2021-05-18 02:57:04.167] degusta00 (as Unknown at 144,180,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21013228]
+ - Action: set_category {"category":"Crafting","subcategory":"Forging & Smithing"}
+[2021-05-18 02:57:07.382] degusta00 (as Unknown at 144,180,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21013228]
+ - Action: set_category {"category":"Crafting","subcategory":"Electronics & Robots"}
+[2021-05-18 02:57:12.039] degusta00 (as Unknown at 144,180,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21013228]
+ - Action: set_category {"category":"Crafting","subcategory":"Electronics & Robots"}
+[2021-05-18 02:57:20.066] degusta00 (as Unknown at 144,180,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21013228]
+ - Action: set_category {"category":"Clothing","subcategory":"Misc Clothing"}
+[2021-05-18 02:57:22.058] degusta00 (as Unknown at 144,180,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21013228]
+ - Action: set_category {"category":"Clothing","subcategory":"Shoes"}
+[2021-05-18 02:57:22.496] degusta00 (as Unknown at 144,180,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21013228]
+ - Action: set_category {"category":"Clothing","subcategory":"Armor"}
+[2021-05-18 02:57:24.558] degusta00 (as Unknown at 144,180,2) in SStgui/force_close_window
+[2021-05-18 02:57:24.558] degusta00 in tgui-window-1/close
+[2021-05-18 02:58:09.588] baeiou (as Augustus Malkav at 106,85,2)
+ - Using: /datum/orbit_menu [0x2104109a]
+ - new Orbit fancy 1
+[2021-05-18 02:58:22.994] baeiou in tgui-window-1/close (suspending)
+[2021-05-18 02:58:22.994] baeiou in tgui-window-1/close (suspending)
+[2021-05-18 02:58:35.309] brunoasbahr (as Montagne Marshall at 83,241,2)
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - new PersonalCrafting fancy 1
+[2021-05-18 02:58:37.943] brunoasbahr (as Montagne Marshall at 83,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: set_category {"category":"Crafting","subcategory":"Scavenging & Tinkering"}
+[2021-05-18 02:58:39.870] brunoasbahr (as Montagne Marshall at 83,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: make {"recipe":"[0x21001233]"}
+[2021-05-18 02:58:58.304] brunoasbahr (as Montagne Marshall at 83,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: make {"recipe":"[0x21001233]"}
+[2021-05-18 02:59:08.015] brunoasbahr (as Montagne Marshall at 83,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: make {"recipe":"[0x21001233]"}
+[2021-05-18 02:59:20.486] brunoasbahr (as Montagne Marshall at 83,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: make {"recipe":"[0x21001233]"}
+[2021-05-18 02:59:28.288] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 02:59:28.288] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 02:59:44.003] brunoasbahr (as Montagne Marshall at 83,241,2)
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - new PersonalCrafting fancy 1
+[2021-05-18 02:59:46.085] brunoasbahr (as Montagne Marshall at 83,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: set_category {"category":"Crafting","subcategory":"Scavenging & Tinkering"}
+[2021-05-18 02:59:49.968] brunoasbahr (as Montagne Marshall at 83,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: make {"recipe":"[0x21001233]"}
+[2021-05-18 02:59:57.898] brunoasbahr (as Montagne Marshall at 83,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: make {"recipe":"[0x21001233]"}
+[2021-05-18 03:00:16.091] brunoasbahr (as Montagne Marshall at 83,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: make {"recipe":"[0x21001233]"}
+[2021-05-18 03:00:23.795] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 03:00:23.795] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 03:00:31.780] hanonimo (as Jaiden Oppenheimer at 218,62,2)
+ - Using: /datum/orbit_menu [0x21040bef]
+ - new Orbit fancy 1
+[2021-05-18 03:00:36.333] hanonimo (as Jaiden Oppenheimer at 217,62,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21040bef]
+ - Action: orbit {"ref":"[mob_1087]"}
+[2021-05-18 03:00:48.142] zircony (as Natasha Harding at 91,246,2)
+ - Using: /datum/component/personal_crafting [0x2103ed74]
+ - new PersonalCrafting fancy 1
+[2021-05-18 03:00:51.456] zircony (as Natasha Harding at 91,246,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103ed74]
+ - Action: set_category {"category":"Misc","subcategory":"Farming"}
+[2021-05-18 03:00:52.063] zircony (as Natasha Harding at 91,246,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103ed74]
+ - Action: set_category {"category":"Crafting","subcategory":"Tools & Workbench"}
+[2021-05-18 03:00:55.492] zircony (as Natasha Harding at 91,246,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103ed74]
+ - Action: set_category {"category":"Crafting","subcategory":"Scavenging & Tinkering"}
+[2021-05-18 03:00:55.939] zircony (as Natasha Harding at 91,246,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103ed74]
+ - Action: set_category {"category":"Crafting","subcategory":"Forging & Smithing"}
+[2021-05-18 03:00:56.619] zircony (as Natasha Harding at 91,246,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103ed74]
+ - Action: set_category {"category":"Crafting","subcategory":"Electronics & Robots"}
+[2021-05-18 03:00:57.997] zircony (as Natasha Harding at 91,246,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103ed74]
+ - Action: set_category {"category":"Tribal"}
+[2021-05-18 03:00:58.834] zircony (as Natasha Harding at 91,246,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103ed74]
+ - Action: make {"recipe":"[0x21001248]"}
+[2021-05-18 03:01:00.746] brunoasbahr (as Montagne Marshall at 83,241,2)
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - new PersonalCrafting fancy 1
+[2021-05-18 03:01:03.137] brunoasbahr (as Montagne Marshall at 83,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: set_category {"category":"Misc","subcategory":"Burial & Execution"}
+[2021-05-18 03:01:03.640] brunoasbahr (as Montagne Marshall at 83,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: set_category {"category":"Misc","subcategory":"Farming"}
+[2021-05-18 03:01:03.930] brunoasbahr (as Montagne Marshall at 83,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: set_category {"category":"Crafting","subcategory":"Tools & Workbench"}
+[2021-05-18 03:01:05.595] brunoasbahr (as Montagne Marshall at 83,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: set_category {"category":"Crafting","subcategory":"Scavenging & Tinkering"}
+[2021-05-18 03:01:06.756] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:01:06.757] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:01:07.132] brunoasbahr (as Montagne Marshall at 83,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: make {"recipe":"[0x21001233]"}
+[2021-05-18 03:01:15.120] hanonimo in tgui-window-1/close (suspending)
+[2021-05-18 03:01:15.120] hanonimo in tgui-window-1/close (suspending)
+[2021-05-18 03:01:17.300] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 03:01:17.300] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 03:01:50.715] hanonimo (as Jaiden Oppenheimer at 187,35,4)
+ - Using: /datum/orbit_menu [0x21040bef]
+ - new Orbit fancy 1
+[2021-05-18 03:01:51.338] brunoasbahr (as Montagne Marshall at 83,241,2)
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - new PersonalCrafting fancy 1
+[2021-05-18 03:01:53.367] brunoasbahr (as Montagne Marshall at 83,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: set_category {"category":"Misc","subcategory":"Burial & Execution"}
+[2021-05-18 03:01:53.961] brunoasbahr (as Montagne Marshall at 83,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: set_category {"category":"Misc","subcategory":"Miscellaneous"}
+[2021-05-18 03:01:54.478] brunoasbahr (as Montagne Marshall at 83,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: set_category {"category":"Crafting","subcategory":"Tools & Workbench"}
+[2021-05-18 03:01:54.871] hanonimo (as Jaiden Oppenheimer at 187,35,4) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21040bef]
+ - Action: orbit {"ref":"[mob_1072]"}
+[2021-05-18 03:01:55.148] brunoasbahr (as Montagne Marshall at 83,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: set_category {"category":"Crafting","subcategory":"Scavenging & Tinkering"}
+[2021-05-18 03:01:56.212] brunoasbahr (as Montagne Marshall at 83,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: make {"recipe":"[0x21001233]"}
+[2021-05-18 03:01:56.227] hanonimo in tgui-window-1/close (suspending)
+[2021-05-18 03:01:56.227] hanonimo in tgui-window-1/close (suspending)
+[2021-05-18 03:02:01.550] hanonimo (as Jaiden Oppenheimer at 219,63,2)
+ - Using: /datum/orbit_menu [0x21040bef]
+ - new Orbit fancy 1
+[2021-05-18 03:02:05.285] hanonimo (as Jaiden Oppenheimer at 219,63,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21040bef]
+ - Action: orbit {"ref":"[mob_990]"}
+[2021-05-18 03:02:05.922] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 03:02:05.922] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 03:02:06.467] hanonimo in tgui-window-1/close (suspending)
+[2021-05-18 03:02:06.467] hanonimo in tgui-window-1/close (suspending)
+[2021-05-18 03:02:06.789] thebanana3 (as Angelina Seelig at 56,127,2) in browseroutput (chatRenderer)
+ - chatRenderer failed to load an image after 10 attempts
+ - User Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.2; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729)
+[2021-05-18 03:02:06.789] thebanana3 (as Angelina Seelig at 56,127,2) in browseroutput (chatRenderer)
+ - chatRenderer failed to load an image after 10 attempts
+ - User Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.2; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729)
+[2021-05-18 03:02:06.789] thebanana3 (as Angelina Seelig at 56,127,2) in browseroutput (chatRenderer)
+ - chatRenderer failed to load an image after 10 attempts
+ - User Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.2; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729)
+[2021-05-18 03:03:02.175] baeiou (as Augustus Malkav at 161,124,4)
+ - Using: /datum/orbit_menu [0x2104109a]
+ - new Orbit fancy 1
+[2021-05-18 03:03:20.448] zircony (as Natasha Harding at 98,240,2)
+ - Using: /datum/component/personal_crafting [0x2103ed74]
+ - new PersonalCrafting fancy 1
+[2021-05-18 03:03:22.733] zircony (as Natasha Harding at 98,240,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103ed74]
+ - Action: set_category {"category":"Misc","subcategory":"Farming"}
+[2021-05-18 03:03:23.233] zircony (as Natasha Harding at 98,240,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103ed74]
+ - Action: set_category {"category":"Crafting","subcategory":"Scavenging & Tinkering"}
+[2021-05-18 03:03:25.399] zircony (as Natasha Harding at 98,240,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103ed74]
+ - Action: make {"recipe":"[0x21001231]"}
+[2021-05-18 03:03:42.782] baeiou in tgui-window-1/close (suspending)
+[2021-05-18 03:03:42.782] baeiou in tgui-window-1/close (suspending)
+[2021-05-18 03:04:33.040] zircony (as Natasha Harding at 98,240,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103ed74]
+ - Action: make {"recipe":"[0x21001231]"}
+[2021-05-18 03:05:30.779] zircony (as Natasha Harding at 98,240,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103ed74]
+ - Action: make {"recipe":"[0x21001231]"}
+[2021-05-18 03:06:35.499] zircony (as Natasha Harding at 98,240,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103ed74]
+ - Action: make {"recipe":"[0x21001231]"}
+[2021-05-18 03:07:09.724] kaduh (as Erika Miller at 48,136,2)
+ - Using: /datum/orbit_menu [0x2100d234]
+ - new Orbit fancy 1
+[2021-05-18 03:07:09.725] kaduh in tgui-window-1/initialize
+ - Using: /datum/orbit_menu [0x2100d234]
+[2021-05-18 03:07:12.574] kaduh (as Erika Miller at 48,136,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2100d234]
+ - Action: orbit {"ref":"[mob_1084]"}
+[2021-05-18 03:07:14.726] kaduh (as Erika Miller at 50,136,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2100d234]
+ - Action: orbit {"ref":"[mob_1013]"}
+[2021-05-18 03:07:36.737] zircony (as Natasha Harding at 98,240,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103ed74]
+ - Action: make {"recipe":"[0x21001231]"}
+[2021-05-18 03:07:43.144] kaduh in tgui-window-1/close (suspending)
+[2021-05-18 03:07:43.144] kaduh in tgui-window-1/close (suspending)
+[2021-05-18 03:08:41.696] zircony (as Natasha Harding at 99,240,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103ed74]
+ - Action: make {"recipe":"[0x21001231]"}
+[2021-05-18 03:09:42.805] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:09:42.805] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:09:51.085] zircony (as Natasha Harding at 99,241,2)
+ - Using: /datum/component/personal_crafting [0x2103ed74]
+ - new PersonalCrafting fancy 1
+[2021-05-18 03:09:53.541] zircony (as Natasha Harding at 99,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103ed74]
+ - Action: set_category {"category":"Crafting","subcategory":"Forging & Smithing"}
+[2021-05-18 03:09:54.092] zircony (as Natasha Harding at 99,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103ed74]
+ - Action: set_category {"category":"Crafting","subcategory":"Scavenging & Tinkering"}
+[2021-05-18 03:09:55.709] zircony (as Natasha Harding at 99,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103ed74]
+ - Action: make {"recipe":"[0x21001231]"}
+[2021-05-18 03:10:05.183] zircony (as Natasha Harding at 99,241,2)
+ - Using: /datum/skill_holder [0x21001708]
+ - new SkillPanel fancy 1
+[2021-05-18 03:10:05.183] zircony in tgui-window-2/initialize
+ - Using: /datum/skill_holder [0x21001708]
+[2021-05-18 03:10:12.517] zircony in tgui-window-2/close (suspending)
+[2021-05-18 03:10:12.517] zircony in tgui-window-2/close (suspending)
+[2021-05-18 03:10:56.532] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:10:56.533] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:14:19.314] brunoasbahr (as Montagne Marshall at 83,241,2)
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - new PersonalCrafting fancy 1
+[2021-05-18 03:14:22.162] brunoasbahr (as Montagne Marshall at 83,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: set_category {"category":"Crafting","subcategory":"Scavenging & Tinkering"}
+[2021-05-18 03:14:23.845] brunoasbahr (as Montagne Marshall at 83,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: make {"recipe":"[0x21001233]"}
+[2021-05-18 03:14:31.965] brunoasbahr (as Montagne Marshall at 83,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: make {"recipe":"[0x21001233]"}
+[2021-05-18 03:14:46.325] brunoasbahr (as Montagne Marshall at 83,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: make {"recipe":"[0x21001233]"}
+[2021-05-18 03:14:54.245] brunoasbahr (as Montagne Marshall at 83,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: make {"recipe":"[0x21001233]"}
+[2021-05-18 03:15:06.557] brunoasbahr (as Montagne Marshall at 83,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: make {"recipe":"[0x21001233]"}
+[2021-05-18 03:15:19.949] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 03:15:19.949] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 03:16:38.150] thebanana3 (as Angelina Seelig at 181,184,2)
+ - Using: /datum/orbit_menu [0x2100d2d8]
+ - new Orbit fancy 1
+[2021-05-18 03:16:41.676] thebanana3 (as Angelina Seelig at 181,184,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2100d2d8]
+ - Action: orbit {"ref":"[mob_921]"}
+[2021-05-18 03:16:45.202] thebanana3 (as Angelina Seelig at 180,247,1) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2100d2d8]
+ - Action: orbit {"ref":"[mob_907]"}
+[2021-05-18 03:16:46.547] thebanana3 (as Angelina Seelig at 86,240,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2100d2d8]
+ - Action: orbit {"ref":"[mob_1013]"}
+[2021-05-18 03:16:57.209] thebanana3 (as Angelina Seelig at 199,75,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2100d2d8]
+ - Action: orbit {"ref":"[mob_926]"}
+[2021-05-18 03:16:58.804] thebanana3 (as Angelina Seelig at 84,241,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2100d2d8]
+ - Action: orbit {"ref":"[mob_907]"}
+[2021-05-18 03:17:12.198] degusta00 (as Unknown at 144,180,2)
+ - Using: /datum/skill_holder [0x21040050]
+ - new SkillPanel fancy 0
+[2021-05-18 03:17:12.198] degusta00 in tgui-window-1/initialize
+ - Using: /datum/skill_holder [0x21040050]
+[2021-05-18 03:17:22.706] degusta00 (as Unknown at 144,180,2) in SStgui/force_close_window
+[2021-05-18 03:17:22.706] degusta00 in tgui-window-1/close
+[2021-05-18 03:17:26.890] brunoasbahr (as Montagne Marshall at 83,241,2)
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - new PersonalCrafting fancy 1
+[2021-05-18 03:17:28.792] brunoasbahr (as Montagne Marshall at 83,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: set_category {"category":"Clothing","subcategory":"Belts"}
+[2021-05-18 03:17:29.469] brunoasbahr (as Montagne Marshall at 83,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: set_category {"category":"Misc","subcategory":"Burial & Execution"}
+[2021-05-18 03:17:29.856] thebanana3 (as Angelina Seelig at 89,241,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2100d2d8]
+ - Action: orbit {"ref":"[mob_907]"}
+[2021-05-18 03:17:30.790] thebanana3 (as Angelina Seelig at 86,240,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2100d2d8]
+ - Action: orbit {"ref":"[mob_926]"}
+[2021-05-18 03:17:32.242] thebanana3 (as Angelina Seelig at 83,241,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2100d2d8]
+ - Action: orbit {"ref":"[mob_1045]"}
+[2021-05-18 03:17:32.765] brunoasbahr (as Montagne Marshall at 83,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: set_category {"category":"Weaponry","subcategory":"Explosives & Cells"}
+[2021-05-18 03:17:37.728] thebanana3 (as Angelina Seelig at 218,39,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2100d2d8]
+ - Action: orbit {"ref":"[mob_1056]"}
+[2021-05-18 03:17:43.855] thebanana3 (as Angelina Seelig at 236,203,3) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2100d2d8]
+ - Action: orbit {"ref":"[mob_970]"}
+[2021-05-18 03:17:48.263] thebanana3 in tgui-window-1/close (suspending)
+[2021-05-18 03:17:48.263] thebanana3 in tgui-window-1/close (suspending)
+[2021-05-18 03:17:51.872] thebanana3 (as Angelina Seelig at 145,177,2)
+ - Using: /datum/orbit_menu [0x2100d2d8]
+ - new Orbit fancy 1
+[2021-05-18 03:17:56.215] thebanana3 (as Angelina Seelig at 145,177,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2100d2d8]
+ - Action: orbit {"ref":"[mob_1102]"}
+[2021-05-18 03:17:57.890] thebanana3 in tgui-window-1/close (suspending)
+[2021-05-18 03:17:57.890] thebanana3 in tgui-window-1/close (suspending)
+[2021-05-18 03:18:11.369] brunoasbahr (as Montagne Marshall at 83,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: set_category {"category":"Weaponry","subcategory":"Ranged Weapons"}
+[2021-05-18 03:18:24.462] thebanana3 (as Angelina Seelig at 212,72,2)
+ - Using: /datum/orbit_menu [0x2100d2d8]
+ - new Orbit fancy 1
+[2021-05-18 03:18:35.538] thebanana3 (as Angelina Seelig at 212,72,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2100d2d8]
+ - Action: orbit {"ref":"[mob_1]"}
+[2021-05-18 03:18:38.085] johonasmexicanjo (as Maximus Wolfe at 212,68,2)
+ - Using: /datum/orbit_menu [0x2103ff7b]
+ - new Orbit fancy 1
+[2021-05-18 03:18:40.224] johonasmexicanjo (as Maximus Wolfe at 212,68,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2103ff7b]
+ - Action: orbit {"ref":"[mob_926]"}
+[2021-05-18 03:18:44.872] johonasmexicanjo (as Maximus Wolfe at 83,241,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2103ff7b]
+ - Action: orbit {"ref":"[mob_907]"}
+[2021-05-18 03:18:48.072] thebanana3 (as Angelina Seelig at 145,146,1) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2100d2d8]
+ - Action: orbit {"ref":"[0x2001457]"}
+[2021-05-18 03:18:49.240] johonasmexicanjo (as Maximus Wolfe at 90,240,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2103ff7b]
+ - Action: orbit {"ref":"[mob_1045]"}
+[2021-05-18 03:18:50.518] thebanana3 (as Angelina Seelig at 168,189,1) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2100d2d8]
+ - Action: orbit {"ref":"[0x2001468]"}
+[2021-05-18 03:18:51.891] thebanana3 (as Angelina Seelig at 255,189,1) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2100d2d8]
+ - Action: orbit {"ref":"[0x20124fd]"}
+[2021-05-18 03:18:52.202] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 03:18:52.202] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 03:18:53.250] johonasmexicanjo (as Maximus Wolfe at 218,39,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2103ff7b]
+ - Action: orbit {"ref":"[mob_1056]"}
+[2021-05-18 03:18:56.890] johonasmexicanjo (as Maximus Wolfe at 236,203,3) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2103ff7b]
+ - Action: orbit {"ref":"[mob_970]"}
+[2021-05-18 03:18:59.850] johonasmexicanjo in tgui-window-1/close (suspending)
+[2021-05-18 03:18:59.851] johonasmexicanjo in tgui-window-1/close (suspending)
+[2021-05-18 03:19:00.582] thebanana3 (as Angelina Seelig at 114,227,1) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2100d2d8]
+ - Action: orbit {"ref":"[0x2001bd2]"}
+[2021-05-18 03:19:11.703] thebanana3 (as Angelina Seelig at 71,231,1) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2100d2d8]
+ - Action: orbit {"ref":"[mob_926]"}
+[2021-05-18 03:21:18.930] zircony (as Natasha Harding at 103,164,2)
+ - Using: /obj/machinery/vending/nukacolavend [0x2003c61]
+ - new Vending fancy 1
+[2021-05-18 03:21:20.271] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:21:20.272] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:24:04.469] brunoasbahr (as Montagne Marshall at 82,241,2)
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - new PersonalCrafting fancy 1
+[2021-05-18 03:24:06.589] brunoasbahr (as Montagne Marshall at 82,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: set_category {"category":"Clothing","subcategory":"General Clothing"}
+[2021-05-18 03:24:07.111] brunoasbahr (as Montagne Marshall at 82,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: set_category {"category":"Weaponry","subcategory":"Melee Weapons"}
+[2021-05-18 03:24:07.420] brunoasbahr (as Montagne Marshall at 82,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: set_category {"category":"Weaponry","subcategory":"Explosives & Cells"}
+[2021-05-18 03:24:07.774] brunoasbahr (as Montagne Marshall at 82,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: set_category {"category":"Foods","subcategory":"Food Bread"}
+[2021-05-18 03:24:08.266] brunoasbahr (as Montagne Marshall at 82,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: set_category {"category":"Clothing","subcategory":"Shoes"}
+[2021-05-18 03:24:08.628] brunoasbahr (as Montagne Marshall at 82,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: set_category {"category":"Misc","subcategory":"Miscellaneous"}
+[2021-05-18 03:24:09.026] brunoasbahr (as Montagne Marshall at 82,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: set_category {"category":"Crafting","subcategory":"Tools & Workbench"}
+[2021-05-18 03:24:09.643] brunoasbahr (as Montagne Marshall at 82,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: set_category {"category":"Crafting","subcategory":"Scavenging & Tinkering"}
+[2021-05-18 03:24:11.068] brunoasbahr (as Montagne Marshall at 82,241,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3c0]
+ - Action: make {"recipe":"[0x21001233]"}
+[2021-05-18 03:24:26.500] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 03:24:26.500] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 03:24:54.449] zircony (as Natasha Harding at 160,169,2)
+ - Using: /obj/machinery/vending/hydronutrients [0x2004bd8]
+ - new Vending fancy 1
+[2021-05-18 03:24:55.761] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:24:55.761] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:25:28.136] zircony (as Natasha Harding at 158,166,2)
+ - Using: /obj/machinery/vending/hydroseeds [0x2004aaa]
+ - new Vending fancy 1
+[2021-05-18 03:25:29.813] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:25:29.813] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:25:45.955] zircony (as Natasha Harding at 171,144,2)
+ - Using: /obj/machinery/smartfridge/bottlerack/lootshelf/construction [0x2004f6a]
+ - new SmartVend fancy 1
+[2021-05-18 03:25:47.819] zircony (as Natasha Harding at 171,144,2) in tgui-window-1
+ - Using: /obj/machinery/smartfridge/bottlerack/lootshelf/construction [0x2004f6a]
+ - Action: Release {"name":"high quality metal parts","amount":1}
+[2021-05-18 03:25:48.351] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:25:48.352] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:25:51.164] zircony (as Natasha Harding at 171,141,2)
+ - Using: /obj/machinery/vending/tool [0x2004f74]
+ - new Vending fancy 1
+[2021-05-18 03:25:54.567] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:25:54.567] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:26:14.505]  in tgui-window-1/close (suspending)
+[2021-05-18 03:27:52.903] baeiou in browseroutput/initialize
+[2021-05-18 03:30:43.331] degusta00 (as Unknown at 150,177,2)
+ - Using: /datum/component/personal_crafting [0x21013228]
+ - new PersonalCrafting fancy 0
+[2021-05-18 03:30:43.332] degusta00 in tgui-window-1/initialize
+ - Using: /datum/component/personal_crafting [0x21013228]
+[2021-05-18 03:30:48.348] baeiou in browseroutput/initialize
+[2021-05-18 03:30:51.632] degusta00 (as Unknown at 150,177,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21013228]
+ - Action: set_category {"category":"Weaponry","subcategory":"Ranged Weapons"}
+[2021-05-18 03:30:54.067] zircony (as Natasha Harding at 171,131,2)
+ - Using: /datum/orbit_menu [0x2104271a]
+ - new Orbit fancy 1
+[2021-05-18 03:30:54.698] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:30:57.708] zircony (as Natasha Harding at 171,122,2)
+ - Using: /datum/orbit_menu [0x21042491]
+ - new Orbit fancy 1
+[2021-05-18 03:30:58.836] zircony (as Natasha Harding at 171,122,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21042491]
+ - Action: orbit {"ref":"[mob_1045]"}
+[2021-05-18 03:30:59.383] zircony (as Natasha Harding at 218,39,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21042491]
+ - Action: orbit {"ref":"[mob_926]"}
+[2021-05-18 03:31:00.969] zircony (as Natasha Harding at 143,142,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21042491]
+ - Action: orbit {"ref":"[mob_1045]"}
+[2021-05-18 03:31:01.914] zircony (as Natasha Harding at 218,39,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21042491]
+ - Action: orbit {"ref":"[mob_1056]"}
+[2021-05-18 03:31:02.695] zircony (as Natasha Harding at 236,203,3) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21042491]
+ - Action: orbit {"ref":"[mob_970]"}
+[2021-05-18 03:31:05.478] zircony (as Natasha Harding at 150,177,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21042491]
+ - Action: orbit {"ref":"[mob_921]"}
+[2021-05-18 03:31:05.743] degusta00 (as Unknown at 150,177,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21013228]
+ - Action: set_category {"category":"Weaponry","subcategory":"Melee Weapons"}
+[2021-05-18 03:31:06.068] zircony (as Natasha Harding at 180,247,1) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21042491]
+ - Action: orbit {"ref":"[mob_959]"}
+[2021-05-18 03:31:08.081] zircony (as Natasha Harding at 246,46,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21042491]
+ - Action: orbit {"ref":"[mob_990]"}
+[2021-05-18 03:31:10.074] zircony (as Natasha Harding at 47,137,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21042491]
+ - Action: orbit {"ref":"[mob_1096]"}
+[2021-05-18 03:31:10.572] zircony (as Natasha Harding at 50,136,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21042491]
+ - Action: orbit {"ref":"[mob_974]"}
+[2021-05-18 03:31:11.623] zircony (as Natasha Harding at 229,20,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21042491]
+ - Action: orbit {"ref":"[mob_926]"}
+[2021-05-18 03:31:14.991] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:31:14.991] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:31:17.875] degusta00 (as Unknown at 150,177,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21013228]
+ - Action: set_category {"category":"Clothing","subcategory":"Armor"}
+[2021-05-18 03:31:38.120] degusta00 (as Unknown at 150,177,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21013228]
+ - Action: set_category {"category":"Foods","subcategory":"Food Bread"}
+[2021-05-18 03:31:43.160] degusta00 (as Unknown at 150,177,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21013228]
+ - Action: set_category {"category":"Crafting","subcategory":"Electronics & Robots"}
+[2021-05-18 03:31:45.249] degusta00 (as Unknown at 150,177,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21013228]
+ - Action: set_category {"category":"Crafting","subcategory":"Forging & Smithing"}
+[2021-05-18 03:31:46.706] degusta00 (as Unknown at 150,177,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21013228]
+ - Action: set_category {"category":"Crafting","subcategory":"Scavenging & Tinkering"}
+[2021-05-18 03:31:48.852] degusta00 (as Unknown at 150,177,2) in SStgui/force_close_window
+[2021-05-18 03:31:48.852] degusta00 in tgui-window-1/close
+[2021-05-18 03:32:55.660] baeiou in browseroutput/initialize
+[2021-05-18 03:33:42.393] zircony (as Natasha Harding at 32,100,2)
+ - Using: /obj/machinery/vending/tool [0x2002811]
+ - new Vending fancy 1
+[2021-05-18 03:33:44.581] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:33:44.581] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:34:10.232] zircony (as Natasha Harding at 67,51,2)
+ - Using: /datum/orbit_menu [0x21042614]
+ - new Orbit fancy 1
+[2021-05-18 03:34:11.356] zircony (as Natasha Harding at 67,51,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21042614]
+ - Action: orbit {"ref":"[mob_926]"}
+[2021-05-18 03:34:12.889] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:34:12.889] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:36:56.098] degusta00 (as Bob Loureiro at 150,177,2)
+ - Using: /datum/component/personal_crafting [0x21013228]
+ - new PersonalCrafting fancy 0
+[2021-05-18 03:36:56.098] degusta00 in tgui-window-1/initialize
+ - Using: /datum/component/personal_crafting [0x21013228]
+[2021-05-18 03:36:59.545] degusta00 (as Bob Loureiro at 150,177,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21013228]
+ - Action: set_category {"category":"Crafting","subcategory":"Forging & Smithing"}
+[2021-05-18 03:37:01.038] degusta00 (as Bob Loureiro at 150,177,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21013228]
+ - Action: set_category {"category":"Crafting","subcategory":"Scavenging & Tinkering"}
+[2021-05-18 03:37:03.309] degusta00 (as Bob Loureiro at 150,177,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21013228]
+ - Action: set_category {"category":"Crafting","subcategory":"Tools & Workbench"}
+[2021-05-18 03:37:14.625] degusta00 (as Bob Loureiro at 150,177,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21013228]
+ - Action: set_category {"category":"Misc","subcategory":"Farming"}
+[2021-05-18 03:37:14.858] degusta00 (as Bob Loureiro at 150,177,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21013228]
+ - Action: set_category {"category":"Misc","subcategory":"Farming"}
+[2021-05-18 03:37:16.798] degusta00 (as Bob Loureiro at 150,177,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21013228]
+ - Action: set_category {"category":"Misc","subcategory":"Bottling"}
+[2021-05-18 03:37:17.998] degusta00 (as Bob Loureiro at 150,177,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21013228]
+ - Action: set_category {"category":"Misc","subcategory":"Farming"}
+[2021-05-18 03:37:18.732] brunoasbahr (as Montagne Marshall at 84,52,2)
+ - Using: /obj/machinery/vending/medical [0x20038c8]
+ - new Vending fancy 1
+[2021-05-18 03:37:21.791] zircony (as Natasha Harding at 83,52,2)
+ - Using: /obj/machinery/vending/medical [0x20038c8]
+ - new Vending fancy 1
+[2021-05-18 03:37:22.341] degusta00 (as Bob Loureiro at 150,177,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21013228]
+ - Action: set_category {"category":"Clothing","subcategory":"Armor"}
+[2021-05-18 03:37:25.058] degusta00 (as Bob Loureiro at 150,177,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21013228]
+ - Action: set_category {"category":"Clothing","subcategory":"Wasteland Clothing"}
+[2021-05-18 03:37:26.164] degusta00 (as Bob Loureiro at 150,177,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21013228]
+ - Action: set_category {"category":"Clothing","subcategory":"General Clothing"}
+[2021-05-18 03:37:29.038] degusta00 (as Bob Loureiro at 150,177,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21013228]
+ - Action: set_category {"category":"Medical"}
+[2021-05-18 03:37:30.022] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 03:37:30.023] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 03:37:32.199] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:37:32.199] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:37:33.221] brunoasbahr (as Montagne Marshall at 84,50,2)
+ - Using: /obj/machinery/smartfridge/chemistry [0x20038ca]
+ - new SmartVend fancy 1
+[2021-05-18 03:37:34.222] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 03:37:34.222] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 03:37:41.214] zircony (as Natasha Harding at 87,47,2)
+ - Using: /datum/orbit_menu [0x21042888]
+ - new Orbit fancy 1
+[2021-05-18 03:37:42.591] zircony (as Natasha Harding at 87,47,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21042888]
+ - Action: orbit {"ref":"[mob_926]"}
+[2021-05-18 03:37:43.396] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:37:43.396] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:37:44.095] degusta00 (as Bob Loureiro at 150,177,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21013228]
+ - Action: set_category {"category":"Tribal"}
+[2021-05-18 03:37:51.917] degusta00 (as Bob Loureiro at 150,177,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21013228]
+ - Action: set_category {"category":"Weaponry","subcategory":"Explosives & Cells"}
+[2021-05-18 03:37:54.323] degusta00 (as Bob Loureiro at 150,177,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21013228]
+ - Action: set_category {"category":"Weaponry","subcategory":"Ranged Weapons"}
+[2021-05-18 03:37:56.947] brunoasbahr (as Montagne Marshall at 105,42,3)
+ - Using: /obj/machinery/vending/wardrobe/chem_wardrobe [0x200715b]
+ - new Vending fancy 1
+[2021-05-18 03:37:58.928] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 03:37:58.929] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 03:37:59.657] brunoasbahr (as Montagne Marshall at 105,43,3)
+ - Using: /obj/machinery/vending/medical [0x200715a]
+ - new Vending fancy 1
+[2021-05-18 03:38:04.381] degusta00 (as Bob Loureiro at 150,177,2) in SStgui/force_close_window
+[2021-05-18 03:38:04.381] degusta00 in tgui-window-1/close
+[2021-05-18 03:38:04.717] baeiou in browseroutput/initialize
+[2021-05-18 03:38:05.405] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 03:38:05.405] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 03:38:19.581] brunoasbahr (as Montagne Marshall at 104,39,3)
+ - Using: /obj/machinery/vending/wardrobe/medi_wardrobe [0x200715d]
+ - new Vending fancy 1
+[2021-05-18 03:38:22.180] zircony (as Natasha Harding at 103,40,3)
+ - Using: /obj/machinery/vending/wardrobe/medi_wardrobe [0x200715d]
+ - new Vending fancy 1
+[2021-05-18 03:38:22.755] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 03:38:22.755] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 03:38:24.273] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:38:24.273] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:38:33.725] zircony (as Natasha Harding at 85,24,3)
+ - Using: /obj/machinery/vending/boozeomat [0x2006f42]
+ - new Vending fancy 1
+[2021-05-18 03:38:35.432] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:38:35.432] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:38:40.303] zircony (as Natasha Harding at 67,30,3)
+ - Using: /obj/machinery/vending/medical [0x2006bf5]
+ - new Vending fancy 1
+[2021-05-18 03:38:44.194] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:38:44.195] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:38:45.658] zircony (as Natasha Harding at 70,30,3)
+ - Using: /obj/machinery/smartfridge/organ [0x2006c90]
+ - new SmartVend fancy 1
+[2021-05-18 03:38:48.556] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:38:48.557] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:39:42.909] brunoasbahr (as Montagne Marshall at 81,48,2)
+ - Using: /obj/machinery/smartfridge/chemistry [0x200384a]
+ - new SmartVend fancy 1
+[2021-05-18 03:39:44.175] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 03:39:44.176] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 03:40:03.412] baeiou in browseroutput/initialize
+[2021-05-18 03:40:30.666] zircony (as Natasha Harding at 102,50,3)
+ - Using: /obj/machinery/vending/snack [0x200714e]
+ - new Vending fancy 1
+[2021-05-18 03:40:31.908] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:40:31.908] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:40:55.194] zircony (as Natasha Harding at 93,39,3)
+ - Using: /datum/orbit_menu [0x21042888]
+ - new Orbit fancy 1
+[2021-05-18 03:40:58.587] zircony (as Natasha Harding at 93,39,3) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21042888]
+ - Action: orbit {"ref":"[mob_926]"}
+[2021-05-18 03:41:00.403] zircony (as Natasha Harding at 91,52,3) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21042888]
+ - Action: orbit {"ref":"[mob_970]"}
+[2021-05-18 03:41:03.284] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:41:03.285] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:42:00.178] zircony (as Natasha Harding at 5,174,2)
+ - Using: /datum/orbit_menu [0x21042888]
+ - new Orbit fancy 1
+[2021-05-18 03:42:01.344] zircony (as Natasha Harding at 5,174,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21042888]
+ - Action: orbit {"ref":"[mob_926]"}
+[2021-05-18 03:42:02.630] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:42:02.631] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:43:03.754] zircony (as Natasha Harding at 104,44,3)
+ - Using: /obj/machinery/vending/medical [0x200715a]
+ - new Vending fancy 1
+[2021-05-18 03:43:16.502] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:43:16.502] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:43:29.657] zircony (as Natasha Harding at 79,58,3)
+ - Using: /obj/machinery/chem_dispenser [0x2006e0d]
+ - new ChemDispenser fancy 1
+[2021-05-18 03:43:31.174] zircony (as Natasha Harding at 79,58,3) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser [0x2006e0d]
+ - Action: dispense {"reagent":"aluminium"}
+[2021-05-18 03:43:31.779] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:43:31.780] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:43:39.851] zircony (as Natasha Harding at 103,43,3)
+ - Using: /datum/orbit_menu [0x21042888]
+ - new Orbit fancy 1
+[2021-05-18 03:43:40.923] zircony (as Natasha Harding at 103,43,3) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21042888]
+ - Action: orbit {"ref":"[mob_926]"}
+[2021-05-18 03:43:42.389] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:43:42.389] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:43:54.320] brunoasbahr (as Montagne Marshall at 82,44,2)
+ - Using: /obj/machinery/computer/operating [0x20038a4]
+ - new OperatingComputer fancy 1
+[2021-05-18 03:43:59.237] brunoasbahr (as Montagne Marshall at 82,44,2) in tgui-window-1
+ - Using: /obj/machinery/computer/operating [0x20038a4]
+ - Action: sync {}
+[2021-05-18 03:44:01.245] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 03:44:01.246] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 03:44:55.010] zircony (as Natasha Harding at 54,230,2)
+ - Using: /datum/orbit_menu [0x21042888]
+ - new Orbit fancy 1
+[2021-05-18 03:44:56.154] zircony (as Natasha Harding at 54,230,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21042888]
+ - Action: orbit {"ref":"[mob_926]"}
+[2021-05-18 03:44:56.902] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:44:56.903] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:45:32.448] zircony (as Natasha Harding at 63,171,2)
+ - Using: /datum/orbit_menu [0x21042888]
+ - new Orbit fancy 1
+[2021-05-18 03:45:33.518] zircony (as Natasha Harding at 63,171,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21042888]
+ - Action: orbit {"ref":"[mob_926]"}
+[2021-05-18 03:45:35.448] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:45:35.449] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:47:43.668] brunoasbahr (as Unknown at 82,44,2)
+ - Using: /obj/machinery/computer/operating [0x20038a4]
+ - new OperatingComputer fancy 1
+[2021-05-18 03:47:49.337] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 03:47:49.337] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 03:48:04.039] brunoasbahr (as Unknown at 82,44,2)
+ - Using: /obj/machinery/computer/operating [0x20038a4]
+ - new OperatingComputer fancy 1
+[2021-05-18 03:48:05.310] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 03:48:05.310] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 03:48:26.290] zircony (as Natasha Harding at 91,58,2)
+ - Using: /obj/machinery/vending/hydronutrients [0x2003a21]
+ - new Vending fancy 1
+[2021-05-18 03:48:27.756] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:48:27.756] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:48:35.027] zircony (as Natasha Harding at 80,58,2)
+ - Using: /obj/machinery/vending/snack [0x2003804]
+ - new Vending fancy 1
+[2021-05-18 03:48:36.902] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:48:36.902] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:49:01.291] zircony (as Natasha Harding at 74,105,2)
+ - Using: /datum/orbit_menu [0x21042679]
+ - new Orbit fancy 1
+[2021-05-18 03:49:04.902] zircony (as Natasha Harding at 74,105,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21042679]
+ - Action: orbit {"ref":"[mob_926]"}
+[2021-05-18 03:49:05.404] zircony (as Natasha Harding at 83,44,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21042679]
+ - Action: orbit {"ref":"[mob_926]"}
+[2021-05-18 03:49:06.699] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:49:06.699] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:49:16.620] zircony (as Natasha Harding at 83,44,2)
+ - Using: /obj/machinery/computer/operating [0x20038a4]
+ - new OperatingComputer fancy 1
+[2021-05-18 03:49:21.887] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:49:21.887] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:49:30.629] zircony (as Natasha Harding at 82,43,2)
+ - Using: /obj/machinery/computer/operating [0x20038a4]
+ - new OperatingComputer fancy 1
+[2021-05-18 03:49:33.268] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:49:33.269] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:49:39.539] zircony (as Natasha Harding at 84,46,2)
+ - Using: /datum/orbit_menu [0x21042679]
+ - new Orbit fancy 1
+[2021-05-18 03:49:42.169] zircony (as Natasha Harding at 84,46,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21042679]
+ - Action: orbit {"ref":"[mob_926]"}
+[2021-05-18 03:49:43.514] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:49:43.514] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:50:45.315] zircony (as Natasha Harding at 82,197,2)
+ - Using: /obj/machinery/vending/dinnerware [0x20038d3]
+ - new Vending fancy 1
+[2021-05-18 03:50:46.721] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:50:46.721] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:52:39.588] zircony (as Natasha Harding at 220,194,2)
+ - Using: /obj/machinery/smartfridge/bottlerack/lootshelf/cans [0x2005c6d]
+ - new SmartVend fancy 1
+[2021-05-18 03:52:41.072] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:52:41.073] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:53:29.109] zircony (as Natasha Harding at 245,213,2)
+ - Using: /obj/machinery/vending/cigarette [0x20060f1]
+ - new Vending fancy 1
+[2021-05-18 03:53:30.297] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:53:30.297] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:53:31.042] zircony (as Natasha Harding at 245,212,2)
+ - Using: /obj/machinery/vending/nukacolavend [0x20060cb]
+ - new Vending fancy 1
+[2021-05-18 03:53:32.795] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:53:32.795] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:53:44.402] zircony (as Natasha Harding at 247,148,2)
+ - Using: /obj/machinery/vending/games [0x20061a0]
+ - new Vending fancy 1
+[2021-05-18 03:53:45.698] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:53:45.698] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:53:51.313] zircony (as Natasha Harding at 244,147,2)
+ - Using: /obj/machinery/vending/cigarette [0x20060cd]
+ - new Vending fancy 1
+[2021-05-18 03:53:52.441] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:53:52.441] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:55:46.056] zircony (as Natasha Harding at 169,53,2)
+ - Using: /obj/machinery/vending/cola/starkist [0x200d916]
+ - new Vending fancy 1
+[2021-05-18 03:55:47.248] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:55:47.248] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:55:56.327] zircony (as Natasha Harding at 83,46,2)
+ - Using: /datum/orbit_menu [0x210424f9]
+ - new Orbit fancy 1
+[2021-05-18 03:55:57.621] zircony (as Natasha Harding at 83,46,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x210424f9]
+ - Action: orbit {"ref":"[mob_926]"}
+[2021-05-18 03:55:59.102] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:55:59.102] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:58:20.808] zircony (as Natasha Harding at 245,148,2)
+ - Using: /obj/machinery/vending/games [0x20061a0]
+ - new Vending fancy 1
+[2021-05-18 03:58:21.910] zircony in tgui-window-1/close (suspending)
+[2021-05-18 03:58:21.910] zircony in tgui-window-1/close (suspending)
+[2021-05-18 04:00:01.870] zircony (as Natasha Harding at 84,59,2)
+ - Using: /datum/orbit_menu [0x210424f9]
+ - new Orbit fancy 1
+[2021-05-18 04:00:03.542] zircony (as Natasha Harding at 84,59,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x210424f9]
+ - Action: orbit {"ref":"[mob_926]"}
+[2021-05-18 04:00:05.257] zircony in tgui-window-1/close (suspending)
+[2021-05-18 04:00:05.258] zircony in tgui-window-1/close (suspending)
+[2021-05-18 04:01:07.329] zircony (as Natasha Harding at 101,80,2)
+ - Using: /datum/orbit_menu [0x210424f9]
+ - new Orbit fancy 1
+[2021-05-18 04:01:07.982] zircony in tgui-window-1/close (suspending)
+[2021-05-18 04:01:11.597] zircony (as Natasha Harding at 83,54,2)
+ - Using: /datum/orbit_menu [0x210426fb]
+ - new Orbit fancy 1
+[2021-05-18 04:01:12.577] zircony (as Natasha Harding at 83,54,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x210426fb]
+ - Action: orbit {"ref":"[mob_926]"}
+[2021-05-18 04:01:13.808] zircony in tgui-window-1/close (suspending)
+[2021-05-18 04:01:13.809] zircony in tgui-window-1/close (suspending)
+[2021-05-18 04:03:08.795] zircony (as Natasha Harding at 74,19,2)
+ - Using: /obj/machinery/door/airlock/vault [0x20036f6]
+ - new AiAirlock fancy 1
+[2021-05-18 04:03:12.578] zircony in tgui-window-1/close (suspending)
+[2021-05-18 04:03:12.579] zircony in tgui-window-1/close (suspending)
+[2021-05-18 04:05:23.030] zircony (as Natasha Harding at 75,19,2)
+ - Using: /obj/machinery/mineral/mint [0x200378d]
+ - new main fancy 1
+[2021-05-18 04:05:29.608] zircony (as Natasha Harding at 77,19,2)
+ - Using: /obj/machinery/mineral/mint [0x200378d]
+ - new main fancy 1
+[2021-05-18 04:05:30.452] zircony (as Natasha Harding at 78,19,2)
+ - Using: /obj/machinery/mineral/mint [0x200378d]
+ - new main fancy 1
+[2021-05-18 04:05:30.453] zircony in tgui-window-3/initialize
+ - Using: /obj/machinery/mineral/mint [0x200378d]
+[2021-05-18 04:05:30.667] brunoasbahr (as Unknown at 77,20,2)
+ - Using: /obj/machinery/mineral/mint [0x200378d]
+ - new main fancy 1
+[2021-05-18 04:05:30.706] zircony (as Natasha Harding at 78,19,2)
+ - Using: /obj/machinery/mineral/mint [0x200378d]
+ - new main fancy 1
+[2021-05-18 04:05:30.706] zircony in tgui-window-4/initialize
+ - Using: /obj/machinery/mineral/mint [0x200378d]
+[2021-05-18 04:05:31.628] brunoasbahr (as Unknown at 77,20,2)
+ - Using: /obj/machinery/mineral/mint [0x200378d]
+ - new main fancy 1
+[2021-05-18 04:05:31.629] brunoasbahr in tgui-window-2/initialize
+ - Using: /obj/machinery/mineral/mint [0x200378d]
+[2021-05-18 04:05:33.160] brunoasbahr (as Unknown at 77,20,2)
+ - Using: /obj/machinery/mineral/mint [0x200378d]
+ - new main fancy 1
+[2021-05-18 04:05:33.161] brunoasbahr in tgui-window-3/initialize
+ - Using: /obj/machinery/mineral/mint [0x200378d]
+[2021-05-18 04:05:35.165] brunoasbahr (as Unknown at 77,20,2)
+ - Using: /obj/machinery/mineral/mint [0x200378d]
+ - new main fancy 1
+[2021-05-18 04:05:35.166] brunoasbahr in tgui-window-4/initialize
+ - Using: /obj/machinery/mineral/mint [0x200378d]
+[2021-05-18 04:05:39.135] brunoasbahr (as Unknown at 77,19,2)
+ - Using: /obj/machinery/mineral/mint [0x200378d]
+ - new main fancy 1
+[2021-05-18 04:05:39.136] brunoasbahr in tgui-window-5/initialize
+ - Using: /obj/machinery/mineral/mint [0x200378d]
+[2021-05-18 04:05:41.218] zircony (as Natasha Harding at 79,19,2)
+ - Using: /obj/machinery/mineral/mint [0x200378d]
+ - new main fancy 1
+[2021-05-18 04:05:41.219] zircony in tgui-window-5/initialize
+ - Using: /obj/machinery/mineral/mint [0x200378d]
+[2021-05-18 04:05:41.475] zircony (as Natasha Harding at 78,19,2)
+ - Using: /obj/machinery/mineral/mint [0x200378d]
+ - new main fancy 1
+[2021-05-18 04:05:41.475] zircony in tgui-window-6/initialize
+ - Using: /obj/machinery/mineral/mint [0x200378d]
+[2021-05-18 04:05:57.811] brunoasbahr in tgui-window-5/close (suspending)
+[2021-05-18 04:05:57.811] brunoasbahr in tgui-window-4/close (suspending)
+[2021-05-18 04:05:57.812] brunoasbahr in tgui-window-3/close (suspending)
+[2021-05-18 04:05:57.812] brunoasbahr in tgui-window-2/close (suspending)
+[2021-05-18 04:05:57.813] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 04:05:59.610] zircony in tgui-window-6/close
+[2021-05-18 04:05:59.610] zircony (as Natasha Harding at 60,25,2)
+ - Using: /obj/machinery/mineral/mint [0x200378d]
+ - new /datum/tgui fancy 1
+[2021-05-18 04:05:59.610] zircony in tgui-window-5/close (suspending)
+[2021-05-18 04:05:59.610] zircony (as Natasha Harding at 60,25,2)
+ - Using: /obj/machinery/mineral/mint [0x200378d]
+ - new /datum/tgui fancy 1
+[2021-05-18 04:05:59.611] zircony in tgui-window-4/close (suspending)
+[2021-05-18 04:05:59.611] zircony (as Natasha Harding at 60,25,2)
+ - Using: /obj/machinery/mineral/mint [0x200378d]
+ - new /datum/tgui fancy 1
+[2021-05-18 04:05:59.611] zircony in tgui-window-3/close (suspending)
+[2021-05-18 04:05:59.611] zircony (as Natasha Harding at 60,25,2)
+ - Using: /obj/machinery/mineral/mint [0x200378d]
+ - new /datum/tgui fancy 1
+[2021-05-18 04:05:59.611] zircony in tgui-window-2/close (suspending)
+[2021-05-18 04:05:59.611] zircony (as Natasha Harding at 60,25,2)
+ - Using: /obj/machinery/mineral/mint [0x200378d]
+ - new /datum/tgui fancy 1
+[2021-05-18 04:05:59.612] zircony in tgui-window-1/close (suspending)
+[2021-05-18 04:05:59.612] zircony (as Natasha Harding at 60,25,2)
+ - Using: /obj/machinery/mineral/mint [0x200378d]
+ - new /datum/tgui fancy 1
+[2021-05-18 04:06:54.540] zircony (as Natasha Harding at 105,53,2)
+ - Using: /datum/orbit_menu [0x210055bb]
+ - new Orbit fancy 1
+[2021-05-18 04:06:55.869] zircony (as Natasha Harding at 105,53,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x210055bb]
+ - Action: orbit {"ref":"[mob_926]"}
+[2021-05-18 04:06:57.490] zircony in tgui-window-1/close (suspending)
+[2021-05-18 04:06:57.490] zircony in tgui-window-1/close (suspending)
+[2021-05-18 04:07:44.997] zircony (as Natasha Harding at 235,91,2)
+ - Using: /datum/orbit_menu [0x210055bb]
+ - new Orbit fancy 1
+[2021-05-18 04:07:46.148] zircony (as Natasha Harding at 235,91,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x210055bb]
+ - Action: orbit {"ref":"[mob_926]"}
+[2021-05-18 04:07:46.628] zircony (as Natasha Harding at 240,92,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x210055bb]
+ - Action: orbit {"ref":"[mob_1056]"}
+[2021-05-18 04:07:48.872] zircony (as Natasha Harding at 236,203,3) in tgui-window-1
+ - Using: /datum/orbit_menu [0x210055bb]
+ - Action: orbit {"ref":"[mob_1045]"}
+[2021-05-18 04:07:52.004] zircony (as Natasha Harding at 218,39,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x210055bb]
+ - Action: orbit {"ref":"[mob_1056]"}
+[2021-05-18 04:07:56.463] zircony in tgui-window-1/close (suspending)
+[2021-05-18 04:07:56.464] zircony in tgui-window-1/close (suspending)
+[2021-05-18 04:08:08.884] zircony (as Natasha Harding at 224,199,3)
+ - Using: /datum/orbit_menu [0x210055bb]
+ - new Orbit fancy 1
+[2021-05-18 04:08:09.986] zircony (as Natasha Harding at 224,199,3) in tgui-window-1
+ - Using: /datum/orbit_menu [0x210055bb]
+ - Action: orbit {"ref":"[mob_926]"}
+[2021-05-18 04:08:12.320] zircony in tgui-window-1/close (suspending)
+[2021-05-18 04:08:12.320] zircony in tgui-window-1/close (suspending)
+[2021-05-18 04:10:00.261] brunoasbahr (as Unknown at 80,57,3)
+ - Using: /obj/machinery/chem_master [0x204a176]
+ - new ChemMaster fancy 1
+[2021-05-18 04:10:01.780] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 04:10:01.780] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 04:10:02.559] brunoasbahr (as Unknown at 80,57,3)
+ - Using: /obj/machinery/chem_dispenser [0x2006e0d]
+ - new ChemDispenser fancy 1
+[2021-05-18 04:10:05.641] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 04:10:05.641] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 04:10:26.688] brunoasbahr (as Unknown at 80,57,3)
+ - Using: /obj/machinery/chem_dispenser [0x2006e0d]
+ - new ChemDispenser fancy 1
+[2021-05-18 04:10:46.858] brunoasbahr (as Unknown at 80,57,3) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser [0x2006e0d]
+ - Action: amount {"target":10}
+[2021-05-18 04:10:47.354] brunoasbahr (as Unknown at 80,57,3) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser [0x2006e0d]
+ - Action: amount {"target":5}
+[2021-05-18 04:10:47.922] brunoasbahr (as Unknown at 80,57,3) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser [0x2006e0d]
+ - Action: amount {"target":10}
+[2021-05-18 04:12:20.742] zircony (as Natasha Harding at 80,57,3)
+ - Using: /obj/machinery/chem_master [0x204a176]
+ - new ChemMaster fancy 1
+[2021-05-18 04:12:22.663] zircony in tgui-window-1/close (suspending)
+[2021-05-18 04:12:22.663] zircony in tgui-window-1/close (suspending)
+[2021-05-18 04:12:23.393] zircony (as Natasha Harding at 80,57,3)
+ - Using: /obj/machinery/chem_dispenser [0x2006e0d]
+ - new ChemDispenser fancy 1
+[2021-05-18 04:12:26.989] zircony in tgui-window-1/close (suspending)
+[2021-05-18 04:12:26.989] zircony in tgui-window-1/close (suspending)
+[2021-05-18 04:12:43.326] brunoasbahr (as Unknown at 80,57,3) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser [0x2006e0d]
+ - Action: amount {"target":5}
+[2021-05-18 04:12:44.187] brunoasbahr (as Unknown at 80,57,3) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser [0x2006e0d]
+ - Action: dispense {"reagent":"weldingfuel"}
+[2021-05-18 04:12:45.636] brunoasbahr (as Unknown at 80,57,3) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser [0x2006e0d]
+ - Action: dispense {"reagent":"carbon"}
+[2021-05-18 04:12:46.471] brunoasbahr (as Unknown at 80,57,3) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser [0x2006e0d]
+ - Action: dispense {"reagent":"hydrogen"}
+[2021-05-18 04:12:49.658] zircony (as Natasha Harding at 80,57,3)
+ - Using: /obj/machinery/chem_master [0x204a176]
+ - new ChemMaster fancy 1
+[2021-05-18 04:12:51.482] zircony in tgui-window-1/close (suspending)
+[2021-05-18 04:12:51.482] zircony in tgui-window-1/close (suspending)
+[2021-05-18 04:12:53.145] zircony (as Natasha Harding at 80,57,3)
+ - Using: /obj/machinery/chem_dispenser [0x2006e0d]
+ - new ChemDispenser fancy 1
+[2021-05-18 04:12:55.694] zircony in tgui-window-1/close (suspending)
+[2021-05-18 04:12:55.694] zircony in tgui-window-1/close (suspending)
+[2021-05-18 04:13:01.627] brunoasbahr (as Unknown at 80,57,3) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser [0x2006e0d]
+ - Action: dispense {"reagent":"weldingfuel"}
+[2021-05-18 04:13:03.083] brunoasbahr (as Unknown at 80,57,3) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser [0x2006e0d]
+ - Action: dispense {"reagent":"oxygen"}
+[2021-05-18 04:13:13.643] brunoasbahr (as Unknown at 80,57,3) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser [0x2006e0d]
+ - Action: dispense {"reagent":"hydrogen"}
+[2021-05-18 04:13:14.627] brunoasbahr (as Unknown at 80,57,3) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser [0x2006e0d]
+ - Action: dispense {"reagent":"water"}
+[2021-05-18 04:13:15.117] brunoasbahr (as Unknown at 80,57,3) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser [0x2006e0d]
+ - Action: dispense {"reagent":"sugar"}
+[2021-05-18 04:13:20.147] brunoasbahr (as Unknown at 80,57,3) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser [0x2006e0d]
+ - Action: amount {"target":15}
+[2021-05-18 04:13:20.859] brunoasbahr (as Unknown at 80,57,3) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser [0x2006e0d]
+ - Action: dispense {"reagent":"oxygen"}
+[2021-05-18 04:13:22.091] brunoasbahr (as Unknown at 80,57,3) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser [0x2006e0d]
+ - Action: eject {}
+[2021-05-18 04:13:23.196] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 04:13:23.197] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 04:13:24.431] brunoasbahr (as Unknown at 80,57,3)
+ - Using: /obj/machinery/chem_master [0x204a176]
+ - new ChemMaster fancy 1
+[2021-05-18 04:13:26.196] brunoasbahr (as Unknown at 80,57,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x204a176]
+ - Action: transfer {"id":"oil","amount":1000,"to":"buffer"}
+[2021-05-18 04:13:28.108] brunoasbahr (as Unknown at 80,57,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x204a176]
+ - Action: create {"type":"stimPak","amount":1,"volume":"auto"}
+[2021-05-18 04:13:31.339] brunoasbahr (as Unknown at 80,57,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x204a176]
+ - Action: transfer {"id":"neurine","amount":1000,"to":"buffer"}
+[2021-05-18 04:13:35.570] brunoasbahr (as Unknown at 80,57,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x204a176]
+ - Action: create {"type":"stimPak","amount":1,"volume":"auto"}
+[2021-05-18 04:13:37.435] brunoasbahr (as Unknown at 80,57,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x204a176]
+ - Action: create {"type":"stimPak","amount":1,"volume":"auto"}
+[2021-05-18 04:13:39.155] brunoasbahr (as Unknown at 80,57,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x204a176]
+ - Action: create {"type":"stimPak","amount":1,"volume":"auto"}
+[2021-05-18 04:13:41.161] brunoasbahr (as Unknown at 80,57,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x204a176]
+ - Action: create {"type":"stimPak","amount":1,"volume":"auto"}
+[2021-05-18 04:13:42.600] brunoasbahr (as Unknown at 80,57,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x204a176]
+ - Action: create {"type":"stimPak","amount":1,"volume":"auto"}
+[2021-05-18 04:13:45.132] brunoasbahr (as Unknown at 80,57,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x204a176]
+ - Action: eject {}
+[2021-05-18 04:13:46.252] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 04:13:46.252] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 04:13:47.899] brunoasbahr (as Unknown at 80,57,3)
+ - Using: /obj/machinery/chem_master [0x204a176]
+ - new ChemMaster fancy 1
+[2021-05-18 04:13:50.435] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 04:13:50.436] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 04:15:07.071] drcortexxx in browseroutput/initialize
+[2021-05-18 04:15:32.259] brunoasbahr (as Unknown at 83,44,2)
+ - Using: /datum/skill_holder [0x2103f4f4]
+ - new SkillPanel fancy 1
+[2021-05-18 04:15:42.720] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 04:15:42.720] brunoasbahr in tgui-window-1/close (suspending)
+[2021-05-18 04:16:09.187] drcortexxx (as Erick Holdeman at 237,254,2)
+ - Using: /datum/component/loadout_selector [0x210404f9]
+ - new LoadoutSelect fancy 1
+[2021-05-18 04:16:09.187] drcortexxx in tgui-window-1/initialize
+ - Using: /datum/component/loadout_selector [0x210404f9]
+[2021-05-18 04:16:13.977] drcortexxx (as Erick Holdeman at 237,254,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210404f9]
+ - Action: loadout_select {"name":"Salvager"}
+[2021-05-18 04:16:16.826] drcortexxx (as Erick Holdeman at 237,254,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210404f9]
+ - Action: loadout_select {"name":"Vaultie"}
+[2021-05-18 04:16:18.817] drcortexxx (as Erick Holdeman at 237,254,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210404f9]
+ - Action: loadout_select {"name":"Wasteland Doctor"}
+[2021-05-18 04:16:21.209] drcortexxx (as Erick Holdeman at 237,254,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210404f9]
+ - Action: loadout_select {"name":"Roving Trader"}
+[2021-05-18 04:16:23.186] drcortexxx (as Erick Holdeman at 237,254,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210404f9]
+ - Action: loadout_select {"name":"Scavenger"}
+[2021-05-18 04:16:26.593] drcortexxx (as Erick Holdeman at 237,254,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210404f9]
+ - Action: loadout_preview_direction {"direction":1}
+[2021-05-18 04:16:27.242] drcortexxx (as Erick Holdeman at 237,254,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210404f9]
+ - Action: loadout_preview_direction {"direction":1}
+[2021-05-18 04:16:27.500] drcortexxx (as Erick Holdeman at 237,254,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210404f9]
+ - Action: loadout_preview_direction {"direction":1}
+[2021-05-18 04:16:27.626] drcortexxx (as Erick Holdeman at 237,254,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210404f9]
+ - Action: loadout_preview_direction {"direction":1}
+[2021-05-18 04:16:28.842] drcortexxx (as Erick Holdeman at 237,254,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210404f9]
+ - Action: loadout_confirm {}
+[2021-05-18 04:16:28.875] drcortexxx in tgui-window-1/close (suspending)
+[2021-05-18 04:18:30.294] drcortexxx (as Erick Holdeman at 242,199,2)
+ - Using: /datum/component/personal_crafting [0x21042bb8]
+ - new PersonalCrafting fancy 1
+[2021-05-18 04:18:34.372] drcortexxx (as Erick Holdeman at 242,199,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21042bb8]
+ - Action: set_category {"category":"Crafting","subcategory":"Forging & Smithing"}
+[2021-05-18 04:18:49.997] drcortexxx in tgui-window-1/close (suspending)
+[2021-05-18 04:18:49.998] drcortexxx in tgui-window-1/close (suspending)
+[2021-05-18 04:21:15.425] drcortexxx (as Erick Holdeman at 241,147,2)
+ - Using: /datum/component/personal_crafting [0x21042bb8]
+ - new PersonalCrafting fancy 1
+[2021-05-18 04:21:18.155] drcortexxx (as Erick Holdeman at 241,147,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21042bb8]
+ - Action: set_category {"category":"Clothing","subcategory":"Belts"}
+[2021-05-18 04:21:18.835] drcortexxx (as Erick Holdeman at 241,147,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21042bb8]
+ - Action: set_category {"category":"Clothing","subcategory":"Shoes"}
+[2021-05-18 04:21:19.377] drcortexxx (as Erick Holdeman at 241,147,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21042bb8]
+ - Action: set_category {"category":"Clothing","subcategory":"Armor"}
+[2021-05-18 04:21:23.149] drcortexxx (as Erick Holdeman at 241,147,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21042bb8]
+ - Action: toggle_recipes {}
+[2021-05-18 04:21:23.549] drcortexxx (as Erick Holdeman at 241,147,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21042bb8]
+ - Action: toggle_compact {}
+[2021-05-18 04:21:24.924] drcortexxx (as Erick Holdeman at 241,147,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21042bb8]
+ - Action: toggle_compact {}
+[2021-05-18 04:21:26.638] drcortexxx (as Erick Holdeman at 241,147,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21042bb8]
+ - Action: toggle_recipes {}
+[2021-05-18 04:21:29.572] drcortexxx (as Erick Holdeman at 241,147,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21042bb8]
+ - Action: toggle_compact {}
+[2021-05-18 04:21:30.731] drcortexxx (as Erick Holdeman at 241,147,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21042bb8]
+ - Action: toggle_compact {}
+[2021-05-18 04:21:35.728] drcortexxx (as Erick Holdeman at 241,147,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21042bb8]
+ - Action: set_category {"category":"Clothing","subcategory":"Wasteland Clothing"}
+[2021-05-18 04:21:41.532] drcortexxx (as Erick Holdeman at 241,147,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21042bb8]
+ - Action: set_category {"category":"Clothing","subcategory":"Misc Clothing"}
+[2021-05-18 04:21:42.795] drcortexxx (as Erick Holdeman at 241,147,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21042bb8]
+ - Action: set_category {"category":"Clothing","subcategory":"Misc Clothing"}
+[2021-05-18 04:21:43.632] drcortexxx (as Erick Holdeman at 241,147,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21042bb8]
+ - Action: set_category {"category":"Weaponry","subcategory":"Melee Weapons"}
+[2021-05-18 04:21:47.825] drcortexxx (as Erick Holdeman at 241,147,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21042bb8]
+ - Action: set_category {"category":"Foods","subcategory":"Food Soups"}
+[2021-05-18 04:21:48.361] drcortexxx (as Erick Holdeman at 241,147,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21042bb8]
+ - Action: set_category {"category":"","subcategory":"Food Pies & Sweets"}
+[2021-05-18 04:21:49.221] drcortexxx (as Erick Holdeman at 241,147,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21042bb8]
+ - Action: set_category {"category":"Tribal"}
+[2021-05-18 04:22:08.419] drcortexxx (as Erick Holdeman at 241,147,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21042bb8]
+ - Action: set_category {"category":"Clothing","subcategory":"Belts"}
+[2021-05-18 04:22:09.393] drcortexxx (as Erick Holdeman at 241,147,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21042bb8]
+ - Action: set_category {"category":"Misc","subcategory":"Burial & Execution"}
+[2021-05-18 04:22:10.720] drcortexxx (as Erick Holdeman at 241,147,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21042bb8]
+ - Action: set_category {"category":"Misc","subcategory":"Miscellaneous"}
+[2021-05-18 04:22:11.705] drcortexxx (as Erick Holdeman at 241,147,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21042bb8]
+ - Action: set_category {"category":"Misc","subcategory":"Miscellaneous"}
+[2021-05-18 04:22:12.075] drcortexxx (as Erick Holdeman at 241,147,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21042bb8]
+ - Action: set_category {"category":"Misc","subcategory":"Bottling"}
+[2021-05-18 04:22:13.316] drcortexxx (as Erick Holdeman at 241,147,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21042bb8]
+ - Action: set_category {"category":"Misc","subcategory":"Farming"}
+[2021-05-18 04:22:28.011] drcortexxx (as Erick Holdeman at 249,147,2)
+ - Using: /obj/machinery/vending/games [0x20061a0]
+ - new Vending fancy 1
+[2021-05-18 04:22:28.011] drcortexxx in tgui-window-2/initialize
+ - Using: /obj/machinery/vending/games [0x20061a0]
+[2021-05-18 04:22:30.634] drcortexxx in tgui-window-2/close (suspending)
+[2021-05-18 04:22:30.635] drcortexxx in tgui-window-2/close (suspending)
+[2021-05-18 04:23:25.104] drcortexxx (as Erick Holdeman at 213,127,2)
+ - Using: /obj/machinery/vending/coffee [0x2005aac]
+ - new Vending fancy 1
+[2021-05-18 04:23:28.466] drcortexxx in tgui-window-2/close (suspending)
+[2021-05-18 04:36:48.401] drcortexxx (as Unknown at 196,59,2)
+ - Using: /obj/item/paper [0x20055b7]
+ - new PaperSheet fancy 1
+[2021-05-18 04:36:49.919] drcortexxx in tgui-window-2/close (suspending)
+[2021-05-18 04:36:49.919] drcortexxx (as Unknown at 196,56,2)
+ - Using: /obj/item/paper [0x20055b7]
+ - new PaperSheet fancy 1
+[2021-05-18 04:37:21.017] addervfx in browseroutput/initialize
+[2021-05-18 04:37:33.172] drcortexxx in tgui-window-1/close (suspending)
+[2021-05-18 04:37:33.172] drcortexxx (as Unknown at 204,59,2)
+ - Using: /datum/component/personal_crafting [0x21042bb8]
+ - new PersonalCrafting fancy 1
+[2021-05-18 05:04:27.504] dropship27 in browseroutput/initialize
+[2021-05-18 06:03:44.092] jp0809 in browseroutput/initialize
+[2021-05-18 06:13:24.369] jp0809 (as Leonardo Bickerson at 170,107,3)
+ - Using: /obj/machinery/vending/medical [0x2007885]
+ - new Vending fancy 1
+[2021-05-18 06:13:24.370] jp0809 in tgui-window-1/initialize
+ - Using: /obj/machinery/vending/medical [0x2007885]
+[2021-05-18 06:13:28.882] jp0809 (as Leonardo Bickerson at 170,107,3) in tgui-window-1
+ - Using: /obj/machinery/vending/medical [0x2007885]
+ - Action: vend {"ref":"[0x2100f9e8]"}
+[2021-05-18 06:14:20.801] jp0809 in tgui-window-1/close (suspending)
+[2021-05-18 06:14:20.802] jp0809 in tgui-window-1/close (suspending)
+[2021-05-18 06:14:44.004] jp0809 (as Leonardo Bickerson at 170,107,3)
+ - Using: /obj/machinery/vending/medical [0x2007885]
+ - new Vending fancy 1
+[2021-05-18 06:14:46.206] jp0809 (as Leonardo Bickerson at 170,107,3) in tgui-window-1
+ - Using: /obj/machinery/vending/medical [0x2007885]
+ - Action: vend {"ref":"[0x2100f9d8]"}
+[2021-05-18 06:14:56.487] jp0809 in tgui-window-1/close (suspending)
+[2021-05-18 06:14:56.488] jp0809 in tgui-window-1/close (suspending)
+[2021-05-18 06:15:47.236] jp0809 (as Leonardo Bickerson at 170,107,3)
+ - Using: /obj/machinery/vending/medical [0x2007885]
+ - new Vending fancy 1
+[2021-05-18 06:15:56.867] jp0809 in tgui-window-1/close (suspending)
+[2021-05-18 06:15:56.867] jp0809 in tgui-window-1/close (suspending)

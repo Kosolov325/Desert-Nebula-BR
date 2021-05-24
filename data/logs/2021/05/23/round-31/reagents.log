@@ -1,0 +1,250 @@
+[2021-05-23 06:47:06.123] Starting up round ID 31.
+ - -------------------------
+[2021-05-23 11:40:36.934] MOB ADD: on_mob_add(): alexalbright/(Alex Magnus Primeiro) at Wasteland (234, 96, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-23 11:40:48.156] MOB DELETE: on_mob_delete: alexalbright/(Alex Magnus Primeiro) at Wasteland (234, 96, 2) - /datum/reagent/medicine/stimpak
+[2021-05-23 11:43:27.445] MOB ADD: on_mob_add(): Hue100/(Miller Mike) at Tunnel (2, 60, 2) - 10 of /datum/reagent/water with 1 purity
+[2021-05-23 11:43:28.561] MOB ADD: on_merge(): Hue100/(Miller Mike) at Tunnel (2, 60, 2) - 18 of /datum/reagent/water with 1 purity
+[2021-05-23 11:44:57.691] MOB DELETE: on_mob_delete: Hue100/(Miller Mike) at Wasteland (21, 61, 2) - /datum/reagent/water
+[2021-05-23 11:45:21.139] MOB ADD: on_mob_add(): Hue100/(Miller Mike) at Tunnel (2, 62, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-23 11:45:23.765] MOB DELETE: on_mob_delete: Hue100/(Miller Mike) at Tunnel (2, 62, 2) - /datum/reagent/medicine/stimpak
+[2021-05-23 11:47:22.630] MOB ADD: on_mob_add(): alexalbright/(Alex Magnus Primeiro) at Wasteland (232, 127, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-23 11:47:30.072] MOB ADD: on_mob_add(): alexalbright/(Alex Magnus Primeiro) at Wasteland (232, 116, 2) - 5 of /datum/reagent/toxin/cazador_venom with 1 purity
+[2021-05-23 11:47:32.073] MOB ADD: on_merge(): alexalbright/(Alex Magnus Primeiro) at Wasteland (233, 110, 2) - 9.6 of /datum/reagent/toxin/cazador_venom with 1 purity
+[2021-05-23 11:47:47.094] MOB ADD: on_merge(): alexalbright/(Alex Magnus Primeiro) at Wasteland (233, 98, 2) - 17.6 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-23 11:48:06.261] MOB ADD: on_mob_add(): Hue100/(Miller Mike) at Tunnel (2, 61, 2) - 6 of /datum/reagent/water with 1 purity
+[2021-05-23 11:48:07.123] MOB ADD: on_merge(): Hue100/(Miller Mike) at Tunnel (2, 61, 2) - 11 of /datum/reagent/water with 1 purity
+[2021-05-23 11:48:09.960] MOB DELETE: on_mob_delete: alexalbright/(Alex Magnus Primeiro) at Wasteland (226, 79, 2) - /datum/reagent/toxin/cazador_venom
+[2021-05-23 11:48:14.428] MOB ADD: on_mob_add(): Hue100/(Miller Mike) at Tunnel (2, 61, 2) - 20 of /datum/reagent/medicine/radx with 1 purity
+[2021-05-23 11:48:39.994] MOB DELETE: on_mob_delete: alexalbright/(Alex Magnus Primeiro) at Wasteland (211, 60, 2) - /datum/reagent/medicine/stimpak
+[2021-05-23 11:49:19.322] MOB ADD: on_mob_add(): alexalbright/(Alex Magnus Primeiro) at Building (191, 46, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-23 11:50:06.874] MOB DELETE: on_mob_delete: alexalbright/(Alex Magnus Primeiro) at Building (196, 53, 2) - /datum/reagent/medicine/stimpak
+[2021-05-23 12:01:56.872] MOB ADD: on_mob_add(): alexalbright/(Alex Magnus Primeiro) at Wasteland (249, 3, 4) - 1 of /datum/reagent/determination with 1 purity
+[2021-05-23 12:02:04.627] MOB DELETE: on_mob_delete: alexalbright/(Alex Magnus Primeiro) at Wasteland (249, 3, 4) - /datum/reagent/determination
+[2021-05-23 12:02:08.979] MOB ADD: on_mob_add(): alexalbright/(Alex Magnus Primeiro) at Wasteland (249, 3, 4) - 2.5 of /datum/reagent/determination with 1 purity
+[2021-05-23 12:02:14.471] MOB ADD: on_mob_add(): alexalbright/(Alex Magnus Primeiro) at Wasteland (244, 3, 4) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-23 12:02:17.519] MOB ADD: on_mob_add(): alexalbright/(Alex Magnus Primeiro) at Wasteland (244, 2, 4) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-23 12:02:26.668] MOB DELETE: on_mob_delete: alexalbright/(Alex Magnus Primeiro) at Wasteland (244, 2, 4) - /datum/reagent/determination
+[2021-05-23 12:03:34.687] MOB DELETE: on_mob_delete: alexalbright/(Alex Magnus Primeiro) at Wasteland (249, 3, 4) - /datum/reagent/medicine/stimpak
+[2021-05-23 12:03:36.687] MOB DELETE: on_mob_delete: alexalbright/(Alex Magnus Primeiro) at Wasteland (249, 3, 4) - /datum/reagent/medicine/healing_powder
+[2021-05-23 12:05:30.310] MOB ADD: on_mob_add(): alexalbright/(Alex Magnus Primeiro) at Legion (253, 42, 2) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-23 12:06:48.832] MOB DELETE: on_mob_delete: alexalbright/(Alex Magnus Primeiro) at Wasteland (244, 2, 4) - /datum/reagent/medicine/healing_powder
+[2021-05-23 12:06:58.062] MOB ADD: on_mob_add(): alexalbright/(Alex Magnus Primeiro) at Wasteland (244, 2, 4) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-23 12:07:18.875] MOB DELETE: on_mob_delete: alexalbright/(Alex Magnus Primeiro) at Wasteland (252, 5, 4) - /datum/reagent/medicine/stimpak
+[2021-05-23 13:05:31.034] TRANSFER: FROM The compost bin ([0x20039c0]) (93,51,2) TO The bucket ([0x2003a1a]) (0,0,0) - kaduh/(Erika Miller) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bucket 20 1 1 0 and reagents compost - 20
+[2021-05-23 13:05:31.290] TRANSFER: FROM The compost bin ([0x20039c0]) (93,51,2) TO The bucket ([0x2003a1a]) (0,0,0) - kaduh/(Erika Miller) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bucket 20 1 1 0 and reagents compost - 20
+[2021-05-23 13:05:31.533] TRANSFER: FROM The compost bin ([0x20039c0]) (93,51,2) TO The bucket ([0x2003a1a]) (0,0,0) - kaduh/(Erika Miller) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bucket 20 1 1 0 and reagents compost - 20
+[2021-05-23 13:05:32.107] TRANSFER: FROM The compost bin ([0x20039c0]) (93,51,2) TO The bucket ([0x2003a1a]) (0,0,0) - kaduh/(Erika Miller) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bucket 10 1 1 0 and reagents compost - 10
+[2021-05-23 13:06:37.801] MOB ADD: on_mob_add(): kaduh/(Erika Miller) at Followers of the Apocalypse (96, 52, 2) - 39.6 of /datum/reagent/water with 1 purity
+[2021-05-23 13:06:52.075] TRANSFER: FROM The compost bin ([0x20039c0]) (93,51,2) TO The bucket ([0x2003a1a]) (0,0,0) - kaduh/(Erika Miller) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bucket 20 1 1 0 and reagents compost - 20
+[2021-05-23 13:06:52.475] TRANSFER: FROM The compost bin ([0x20039c0]) (93,51,2) TO The bucket ([0x2003a1a]) (0,0,0) - kaduh/(Erika Miller) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bucket 2 1 1 0 and reagents compost - 2
+[2021-05-23 13:09:55.188] MOB DELETE: on_mob_delete: kaduh/(Erika Miller) at Followers of the Apocalypse (94, 52, 2) - /datum/reagent/water
+[2021-05-23 13:10:24.656] TRANSFER: FROM The compost bin ([0x20039c0]) (93,51,2) TO The bucket ([0x2003a1a]) (0,0,0) - kaduh/(Erika Miller) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bucket 14 1 1 0 and reagents compost - 14
+[2021-05-23 13:13:06.421] TRANSFER: FROM The compost bin ([0x20039c0]) (93,51,2) TO The bucket ([0x2003a1a]) (0,0,0) - kaduh/(Erika Miller) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bucket 20 1 1 0 and reagents compost - 20
+[2021-05-23 13:13:06.617] TRANSFER: FROM The compost bin ([0x20039c0]) (93,51,2) TO The bucket ([0x2003a1a]) (0,0,0) - kaduh/(Erika Miller) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bucket 20 1 1 0 and reagents compost - 20
+[2021-05-23 13:13:06.824] TRANSFER: FROM The compost bin ([0x20039c0]) (93,51,2) TO The bucket ([0x2003a1a]) (0,0,0) - kaduh/(Erika Miller) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bucket 20 1 1 0 and reagents compost - 20
+[2021-05-23 13:13:07.024] TRANSFER: FROM The compost bin ([0x20039c0]) (93,51,2) TO The bucket ([0x2003a1a]) (0,0,0) - kaduh/(Erika Miller) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bucket 10 1 1 0 and reagents compost - 10
+[2021-05-23 13:13:29.802] TRANSFER: FROM The compost bin ([0x20039c0]) (93,51,2) TO The bucket ([0x2003a1a]) (0,0,0) - kaduh/(Erika Miller) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bucket 20 1 1 0 and reagents compost - 20
+[2021-05-23 13:13:29.990] TRANSFER: FROM The compost bin ([0x20039c0]) (93,51,2) TO The bucket ([0x2003a1a]) (0,0,0) - kaduh/(Erika Miller) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bucket 20 1 1 0 and reagents compost - 20
+[2021-05-23 13:13:30.190] TRANSFER: FROM The compost bin ([0x20039c0]) (93,51,2) TO The bucket ([0x2003a1a]) (0,0,0) - kaduh/(Erika Miller) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bucket 20 1 1 0 and reagents compost - 20
+[2021-05-23 13:13:30.400] TRANSFER: FROM The compost bin ([0x20039c0]) (93,51,2) TO The bucket ([0x2003a1a]) (0,0,0) - kaduh/(Erika Miller) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bucket 10 1 1 0 and reagents compost - 10
+[2021-05-23 13:13:45.593] TRANSFER: FROM The compost bin ([0x20039c0]) (93,51,2) TO The bucket ([0x2003a1a]) (0,0,0) - kaduh/(Erika Miller) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bucket 20 1 1 0 and reagents compost - 20
+[2021-05-23 13:13:45.789] TRANSFER: FROM The compost bin ([0x20039c0]) (93,51,2) TO The bucket ([0x2003a1a]) (0,0,0) - kaduh/(Erika Miller) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bucket 20 1 1 0 and reagents compost - 20
+[2021-05-23 13:13:45.980] TRANSFER: FROM The compost bin ([0x20039c0]) (93,51,2) TO The bucket ([0x2003a1a]) (0,0,0) - kaduh/(Erika Miller) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bucket 20 1 1 0 and reagents compost - 20
+[2021-05-23 13:13:46.184] TRANSFER: FROM The compost bin ([0x20039c0]) (93,51,2) TO The bucket ([0x2003a1a]) (0,0,0) - kaduh/(Erika Miller) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bucket 10 1 1 0 and reagents compost - 10
+[2021-05-23 13:15:24.872] TRANSFER: FROM The compost bin ([0x20039c0]) (93,51,2) TO The bucket ([0x2003a1a]) (0,0,0) - kaduh/(Erika Miller) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bucket 17 1 1 0 and reagents compost - 17
+[2021-05-23 13:24:45.072] MOB ADD: on_mob_add(): Luiz20/(Luiz Borgos Primeiro) at Wasteland (105, 185, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-23 13:25:17.133] MOB DELETE: on_mob_delete: Luiz20/(Luiz Borgos Primeiro) at Wasteland (181, 187, 2) - /datum/reagent/medicine/stimpak
+[2021-05-23 13:30:25.277] MOB ADD: on_mob_add(): Luiz20/(Luiz Borgos Primeiro) at Wasteland (172, 213, 2) - 1.333 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-23 13:30:25.277] MOB ADD: on_mob_add(): Luiz20/(Luiz Borgos Primeiro) at Wasteland (172, 213, 2) - 0.167 of /datum/reagent/toxin with 1 purity
+[2021-05-23 13:30:25.277] MOB ADD: on_mob_add(): Luiz20/(Luiz Borgos Primeiro) at Wasteland (172, 213, 2) - 0.5 of /datum/reagent/consumable/nutriment/vitamin with 1 purity
+[2021-05-23 13:30:27.230] MOB DELETE: on_mob_delete: Luiz20/(Luiz Borgos Primeiro) at Wasteland (172, 213, 2) - /datum/reagent/toxin
+[2021-05-23 13:30:29.231] MOB DELETE: on_mob_delete: Luiz20/(Luiz Borgos Primeiro) at Wasteland (172, 213, 2) - /datum/reagent/consumable/nutriment/vitamin
+[2021-05-23 13:30:33.241] MOB DELETE: on_mob_delete: Luiz20/(Luiz Borgos Primeiro) at Wasteland (172, 213, 2) - /datum/reagent/consumable/nutriment
+[2021-05-23 13:30:37.294] MOB ADD: on_mob_add(): Luiz20/(Luiz Borgos Primeiro) at Wasteland (172, 213, 2) - 1.333 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-23 13:30:37.295] MOB ADD: on_mob_add(): Luiz20/(Luiz Borgos Primeiro) at Wasteland (172, 213, 2) - 0.167 of /datum/reagent/toxin with 1 purity
+[2021-05-23 13:30:37.295] MOB ADD: on_mob_add(): Luiz20/(Luiz Borgos Primeiro) at Wasteland (172, 213, 2) - 0.5 of /datum/reagent/consumable/nutriment/vitamin with 1 purity
+[2021-05-23 13:30:38.459] MOB ADD: on_merge(): Luiz20/(Luiz Borgos Primeiro) at Wasteland (172, 213, 2) - 0.334 of /datum/reagent/toxin with 1 purity
+[2021-05-23 13:30:39.248] MOB DELETE: on_mob_delete: Luiz20/(Luiz Borgos Primeiro) at Wasteland (172, 213, 2) - /datum/reagent/toxin
+[2021-05-23 13:30:40.363] MOB ADD: on_mob_add(): Luiz20/(Luiz Borgos Primeiro) at Wasteland (172, 213, 2) - 0.167 of /datum/reagent/toxin with 1 purity
+[2021-05-23 13:30:41.249] MOB DELETE: on_mob_delete: Luiz20/(Luiz Borgos Primeiro) at Wasteland (172, 213, 2) - /datum/reagent/toxin
+[2021-05-23 13:30:42.098] MOB ADD: on_mob_add(): Luiz20/(Luiz Borgos Primeiro) at Wasteland (172, 213, 2) - 0.167 of /datum/reagent/toxin with 1 purity
+[2021-05-23 13:30:43.307] MOB DELETE: on_mob_delete: Luiz20/(Luiz Borgos Primeiro) at Wasteland (172, 213, 2) - /datum/reagent/toxin
+[2021-05-23 13:30:43.981] MOB ADD: on_mob_add(): Luiz20/(Luiz Borgos Primeiro) at Wasteland (172, 213, 2) - 0.167 of /datum/reagent/toxin with 1 purity
+[2021-05-23 13:30:45.307] MOB DELETE: on_mob_delete: Luiz20/(Luiz Borgos Primeiro) at Wasteland (172, 213, 2) - /datum/reagent/toxin
+[2021-05-23 13:30:51.310] MOB DELETE: on_mob_delete: Luiz20/(Luiz Borgos Primeiro) at Wasteland (172, 213, 2) - /datum/reagent/consumable/nutriment/vitamin
+[2021-05-23 13:31:11.323] MOB DELETE: on_mob_delete: Luiz20/(Luiz Borgos Primeiro) at Wasteland (172, 213, 2) - /datum/reagent/consumable/nutriment
+[2021-05-23 13:32:38.228] MOB ADD: on_mob_add(): Kosolov325/(Lucas Calado) at Tunnel (133, 137, 3) - 0.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:32:40.228] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (133, 137, 3) - 0.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:32:42.228] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (133, 137, 3) - 0.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:32:44.230] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (133, 137, 3) - 1 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:32:46.236] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (133, 137, 3) - 1.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:32:48.236] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (133, 137, 3) - 1.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:32:50.248] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (133, 137, 3) - 1.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:32:52.249] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (133, 137, 3) - 1.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:32:54.257] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (133, 137, 3) - 2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:32:56.257] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (133, 137, 3) - 2.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:32:58.260] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (133, 138, 3) - 2.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:33:00.260] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (133, 137, 3) - 2.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:33:02.272] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (133, 139, 3) - 2.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:33:04.271] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (133, 137, 3) - 3 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:33:06.319] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (133, 137, 3) - 3.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:33:08.329] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (133, 137, 3) - 3.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:33:10.330] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (133, 136, 3) - 3.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:33:12.330] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (133, 136, 3) - 3.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:33:14.334] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (133, 136, 3) - 4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:33:16.335] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (133, 136, 3) - 4.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:33:18.336] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (133, 134, 3) - 4.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:33:20.335] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (132, 131, 3) - 4.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:33:22.335] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (132, 130, 3) - 4.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:33:24.338] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (132, 129, 3) - 5 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:33:26.338] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (130, 126, 3) - 5.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:33:28.355] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (128, 124, 3) - 5.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:33:30.355] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (132, 129, 3) - 5.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:33:32.357] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (128, 131, 3) - 5.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:33:34.355] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (121, 131, 3) - 6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:33:36.356] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (119, 131, 3) - 6.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:33:38.355] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (111, 131, 3) - 6.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:33:40.371] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (104, 131, 3) - 6.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:33:42.371] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (105, 131, 3) - 6.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:33:44.371] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (114, 131, 3) - 7 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:33:46.371] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (122, 131, 3) - 7.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:33:48.371] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (131, 131, 3) - 7.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:33:50.371] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (132, 127, 3) - 7.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:33:52.381] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (128, 123, 3) - 7.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:33:54.382] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (129, 122, 3) - 8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:33:56.382] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (127, 122, 3) - 8.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:33:58.382] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (128, 122, 3) - 8.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:34:00.381] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (128, 122, 3) - 8.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:34:02.382] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (128, 121, 3) - 8.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:34:04.385] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (128, 119, 3) - 9 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:34:06.410] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (128, 124, 3) - 9.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:34:08.410] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (128, 122, 3) - 9.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:34:10.411] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (128, 120, 3) - 9.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:34:12.410] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (128, 122, 3) - 9.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:34:14.412] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (128, 122, 3) - 10 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:34:16.413] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (128, 119, 3) - 10.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:34:18.421] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (128, 120, 3) - 10.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:34:20.420] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (128, 124, 3) - 10.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:34:22.420] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (128, 126, 3) - 10.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:34:24.420] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (128, 123, 3) - 11 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:34:26.423] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (129, 118, 3) - 11.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:34:28.420] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (128, 118, 3) - 11.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:34:30.469] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (128, 118, 3) - 11.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:34:32.470] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (128, 118, 3) - 11.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:34:34.470] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (129, 118, 3) - 12 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:34:36.470] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (130, 118, 3) - 12.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:34:38.472] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (130, 118, 3) - 12.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:34:40.472] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (129, 118, 3) - 12.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:34:42.472] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (128, 118, 3) - 12.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:34:44.473] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (128, 118, 3) - 13 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:34:46.473] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (128, 122, 3) - 13.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:34:48.473] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (124, 122, 3) - 13.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:34:50.473] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (124, 122, 3) - 13.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:34:52.473] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (127, 124, 3) - 13.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:34:54.473] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (129, 125, 3) - 14 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:34:56.485] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (130, 125, 3) - 14.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:34:58.484] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (129, 125, 3) - 14.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:35:00.484] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (129, 125, 3) - 14.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:35:02.484] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (128, 125, 3) - 14.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:35:04.490] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (133, 128, 3) - 15 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:35:06.490] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (133, 131, 3) - 15.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-23 13:37:38.661] MOB DELETE: on_mob_delete: Kosolov325/(Lucas Calado) at Tunnel (151, 116, 3) - /datum/reagent/drug/nicotine
+[2021-05-23 13:38:00.871] MOB ADD: on_mob_add(): Kosolov325/(Lucas Calado) at Tunnel (162, 116, 3) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-23 13:38:16.772] MOB ADD: on_merge(): Kosolov325/(Lucas Calado) at Tunnel (155, 116, 3) - 18.4 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-23 13:39:12.758] MOB DELETE: on_mob_delete: Kosolov325/(Lucas Calado) at Tunnel (136, 112, 3) - /datum/reagent/medicine/healing_powder
+[2021-05-23 13:42:23.944] MOB ADD: on_mob_add(): GabrielDoomBR/(Baam Frest) at City (36, 43, 2) - 2 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-23 13:42:41.878] MOB ADD: on_mob_add(): Kosolov325/(Lucas Calado) at Wasteland (165, 174, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-23 13:42:49.286] MOB DELETE: on_mob_delete: GabrielDoomBR/(Baam Frest) at Tunnel (76, 40, 3) - /datum/reagent/consumable/nutriment
+[2021-05-23 13:43:43.583] MOB DELETE: on_mob_delete: Kosolov325/(Lucas Calado) at Building (191, 196, 2) - /datum/reagent/medicine/stimpak
+[2021-05-23 13:44:59.260] MOB ADD: on_mob_add(): Kosolov325/(Lucas Calado) at Wasteland (223, 179, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-23 13:45:49.887] MOB DELETE: on_mob_delete: Kosolov325/(Lucas Calado) at Wasteland (175, 194, 2) - /datum/reagent/medicine/stimpak
+[2021-05-23 13:46:57.988] OVERDOSE STOP: Kosolov325/(Lucas Calado) at Building (169, 192, 2) got over their need for Nicotine.
+[2021-05-23 13:48:06.167] MOB ADD: on_mob_add(): Kosolov325/(Lucas Calado) at Village (169, 180, 2) - 6 of /datum/reagent/consumable/coffee with 1 purity
+[2021-05-23 13:48:36.142] MOB DELETE: on_mob_delete: Kosolov325/(Lucas Calado) at Wasteland (179, 181, 2) - /datum/reagent/consumable/coffee
+[2021-05-23 13:51:19.479] MOB ADD: on_mob_add(): GabrielDoomBR/(Baam Frest) at City (33, 43, 2) - 1 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-23 13:51:19.480] MOB ADD: on_mob_add(): GabrielDoomBR/(Baam Frest) at City (33, 43, 2) - 1 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-23 13:51:23.225] MOB DELETE: on_mob_delete: GabrielDoomBR/(Baam Frest) at City (30, 43, 2) - /datum/reagent/consumable/sugar
+[2021-05-23 13:51:23.372] MOB ADD: on_mob_add(): GabrielDoomBR/(Baam Frest) at City (30, 43, 2) - 1 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-23 13:51:24.217] MOB ADD: on_merge(): GabrielDoomBR/(Baam Frest) at City (32, 43, 2) - 2 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-23 13:51:28.430] MOB ADD: on_merge(): GabrielDoomBR/(Baam Frest) at City (42, 46, 2) - 1.4 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-23 13:51:31.258] MOB DELETE: on_mob_delete: GabrielDoomBR/(Baam Frest) at Wasteland (49, 41, 2) - /datum/reagent/consumable/sugar
+[2021-05-23 13:51:39.322] MOB DELETE: on_mob_delete: GabrielDoomBR/(Baam Frest) at Wasteland (66, 37, 2) - /datum/reagent/consumable/nutriment
+[2021-05-23 13:53:06.281] MOB ADD: on_mob_add(): Luiz20/(Luiz Borgos Primeiro) at Wasteland (94, 164, 2) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-23 13:53:13.693] MOB ADD: on_merge(): Luiz20/(Luiz Borgos Primeiro) at Wasteland (94, 179, 2) - 19.4 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-23 13:53:48.280] MOB ADD: on_mob_add(): Luiz20/(Luiz Borgos Primeiro) at North Bunker Elevator (44, 232, 4) - 5 of /datum/reagent/toxin with 1 purity
+[2021-05-23 13:53:48.283] MOB ADD: on_merge(): Luiz20/(Luiz Borgos Primeiro) at North Bunker Elevator (44, 232, 4) - 10 of /datum/reagent/toxin with 1 purity
+[2021-05-23 13:53:50.334] MOB ADD: on_merge(): Luiz20/(Luiz Borgos Primeiro) at North Bunker Elevator (44, 232, 4) - 14.6 of /datum/reagent/toxin with 1 purity
+[2021-05-23 13:53:50.338] MOB ADD: on_merge(): Luiz20/(Luiz Borgos Primeiro) at North Bunker Elevator (44, 232, 4) - 19.6 of /datum/reagent/toxin with 1 purity
+[2021-05-23 13:53:52.342] MOB ADD: on_merge(): Luiz20/(Luiz Borgos Primeiro) at North Bunker Elevator (44, 232, 4) - 24.2 of /datum/reagent/toxin with 1 purity
+[2021-05-23 13:53:52.346] MOB ADD: on_merge(): Luiz20/(Luiz Borgos Primeiro) at North Bunker Elevator (44, 232, 4) - 29.2 of /datum/reagent/toxin with 1 purity
+[2021-05-23 13:53:54.324] MOB ADD: on_merge(): Luiz20/(Luiz Borgos Primeiro) at North Bunker Elevator (43, 232, 4) - 33.8 of /datum/reagent/toxin with 1 purity
+[2021-05-23 13:53:54.327] MOB ADD: on_merge(): Luiz20/(Luiz Borgos Primeiro) at North Bunker Elevator (43, 232, 4) - 38.8 of /datum/reagent/toxin with 1 purity
+[2021-05-23 13:53:56.335] MOB ADD: on_merge(): Luiz20/(Luiz Borgos Primeiro) at North Bunker Elevator (43, 232, 4) - 43.4 of /datum/reagent/toxin with 1 purity
+[2021-05-23 13:53:56.340] MOB ADD: on_merge(): Luiz20/(Luiz Borgos Primeiro) at North Bunker Elevator (43, 232, 4) - 48.4 of /datum/reagent/toxin with 1 purity
+[2021-05-23 13:59:34.291] MOB ADD: on_mob_add(): Kosolov325/(Lucas Calado) at Wasteland (225, 216, 2) - 1.25 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-23 13:59:34.291] MOB ADD: on_mob_add(): Kosolov325/(Lucas Calado) at Wasteland (225, 216, 2) - 3.75 of /datum/reagent/consumable/vim with 1 purity
+[2021-05-23 13:59:37.910] MOB DELETE: on_mob_delete: Kosolov325/(Lucas Calado) at Wasteland (222, 206, 2) - /datum/reagent/consumable/sugar
+[2021-05-23 13:59:53.960] MOB DELETE: on_mob_delete: Kosolov325/(Lucas Calado) at Wasteland (208, 207, 2) - /datum/reagent/consumable/vim
+[2021-05-23 14:02:04.595] MOB ADD: on_mob_add(): luiz20/(Luiz Borgos Segundo) at City (40, 47, 2) - 5 of /datum/reagent/consumable/gibbfloats with 1 purity
+[2021-05-23 14:02:06.387] MOB ADD: on_merge(): luiz20/(Luiz Borgos Segundo) at City (40, 47, 2) - 9.6 of /datum/reagent/consumable/gibbfloats with 1 purity
+[2021-05-23 14:02:24.040] MOB ADD: on_merge(): luiz20/(Luiz Borgos Segundo) at City (40, 47, 2) - 11 of /datum/reagent/consumable/gibbfloats with 1 purity
+[2021-05-23 14:02:27.357] MOB ADD: on_merge(): luiz20/(Luiz Borgos Segundo) at City (40, 47, 2) - 15.2 of /datum/reagent/consumable/gibbfloats with 1 purity
+[2021-05-23 14:02:29.370] MOB ADD: on_merge(): luiz20/(Luiz Borgos Segundo) at City (40, 47, 2) - 19.8 of /datum/reagent/consumable/gibbfloats with 1 purity
+[2021-05-23 14:02:31.074] MOB ADD: on_merge(): luiz20/(Luiz Borgos Segundo) at City (40, 47, 2) - 24.8 of /datum/reagent/consumable/gibbfloats with 1 purity
+[2021-05-23 14:02:44.769] MOB ADD: on_merge(): luiz20/(Luiz Borgos Segundo) at City (40, 48, 2) - 27 of /datum/reagent/consumable/gibbfloats with 1 purity
+[2021-05-23 14:02:49.214] MOB ADD: on_merge(): luiz20/(Luiz Borgos Segundo) at City (40, 48, 2) - 30.8 of /datum/reagent/consumable/gibbfloats with 1 purity
+[2021-05-23 14:02:53.787] MOB ADD: on_merge(): luiz20/(Luiz Borgos Segundo) at City (40, 48, 2) - 35 of /datum/reagent/consumable/gibbfloats with 1 purity
+[2021-05-23 14:05:07.506] MOB ADD: on_mob_add(): ConteudoGenerico/(Thiagus Machado) at Wasteland (184, 136, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-23 14:05:26.650] MOB ADD: on_mob_add(): ConteudoGenerico/(Thiagus Machado) at Wasteland (184, 135, 2) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-23 14:05:49.597] MOB DELETE: on_mob_delete: luiz20/(Luiz Borgos Segundo) at Wasteland (177, 100, 2) - /datum/reagent/consumable/gibbfloats
+[2021-05-23 14:06:47.739] MOB DELETE: on_mob_delete: ConteudoGenerico[DC]/(Thiagus Machado) at Village (165, 124, 2) - /datum/reagent/medicine/stimpak
+[2021-05-23 14:07:06.015] MOB DELETE: on_mob_delete: ConteudoGenerico[DC]/(Thiagus Machado) at Village (165, 124, 2) - /datum/reagent/medicine/healing_powder
+[2021-05-23 14:11:30.150] MOB ADD: on_mob_add(): GabrielDoomBR/(Baam Frest) at City (59, 48, 2) - 1 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-23 14:11:30.150] MOB ADD: on_mob_add(): GabrielDoomBR/(Baam Frest) at City (59, 48, 2) - 1 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-23 14:11:31.103] MOB ADD: on_merge(): GabrielDoomBR/(Baam Frest) at City (59, 48, 2) - 1.2 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-23 14:11:31.931] MOB ADD: on_merge(): GabrielDoomBR/(Baam Frest) at City (59, 48, 2) - 2.2 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-23 14:11:32.860] MOB ADD: on_merge(): GabrielDoomBR/(Baam Frest) at City (59, 48, 2) - 3.2 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-23 14:11:33.829] MOB ADD: on_merge(): GabrielDoomBR/(Baam Frest) at City (59, 48, 2) - 3.4 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-23 14:11:42.976] MOB DELETE: on_mob_delete: GabrielDoomBR/(Baam Frest) at City (59, 48, 2) - /datum/reagent/consumable/sugar
+[2021-05-23 14:11:54.988] MOB DELETE: on_mob_delete: GabrielDoomBR/(Baam Frest) at City (59, 48, 2) - /datum/reagent/consumable/nutriment
+[2021-05-23 14:21:54.539] MOB ADD: on_mob_add(): luiz20/(Luiz Borgos Segundo) at City (41, 45, 2) - 5 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-23 14:21:54.539] MOB ADD: on_mob_add(): luiz20/(Luiz Borgos Segundo) at City (41, 45, 2) - 1 of /datum/reagent/radium with 1 purity
+[2021-05-23 14:22:00.392] MOB DELETE: on_mob_delete: luiz20/(Luiz Borgos Segundo) at City (40, 42, 2) - /datum/reagent/radium
+[2021-05-23 14:22:20.415] MOB DELETE: on_mob_delete: luiz20/(Luiz Borgos Segundo) at City (40, 42, 2) - /datum/reagent/consumable/nuka_cola
+[2021-05-23 14:23:27.013] MOB ADD: on_mob_add(): luiz20/(Luiz Borgos Segundo) at City (40, 42, 2) - 4.167 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-23 14:23:27.013] MOB ADD: on_mob_add(): luiz20/(Luiz Borgos Segundo) at City (40, 42, 2) - 0.833 of /datum/reagent/radium with 1 purity
+[2021-05-23 14:23:32.587] MOB DELETE: on_mob_delete: luiz20/(Luiz Borgos Segundo) at City (40, 43, 2) - /datum/reagent/radium
+[2021-05-23 14:23:49.099] MOB DELETE: on_mob_delete: luiz20/(Luiz Borgos Segundo) at City (47, 46, 2) - /datum/reagent/consumable/nuka_cola
+[2021-05-23 14:23:59.276] MOB ADD: on_mob_add(): luiz20/(Luiz Borgos Segundo) at City (48, 45, 2) - 4.167 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-23 14:23:59.276] MOB ADD: on_mob_add(): luiz20/(Luiz Borgos Segundo) at City (48, 45, 2) - 0.833 of /datum/reagent/radium with 1 purity
+[2021-05-23 14:24:05.085] MOB ADD: on_merge(): luiz20/(Luiz Borgos Segundo) at City (48, 45, 2) - 7.534 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-23 14:24:05.086] MOB ADD: on_merge(): luiz20/(Luiz Borgos Segundo) at City (48, 45, 2) - 0.866 of /datum/reagent/radium with 1 purity
+[2021-05-23 14:24:06.462] MOB ADD: on_merge(): luiz20/(Luiz Borgos Segundo) at City (48, 45, 2) - 11.301 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-23 14:24:06.462] MOB ADD: on_merge(): luiz20/(Luiz Borgos Segundo) at City (48, 45, 2) - 1.299 of /datum/reagent/radium with 1 purity
+[2021-05-23 14:24:07.684] MOB ADD: on_merge(): luiz20/(Luiz Borgos Segundo) at City (48, 45, 2) - 14.234 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-23 14:24:07.684] MOB ADD: on_merge(): luiz20/(Luiz Borgos Segundo) at City (48, 45, 2) - 1.566 of /datum/reagent/radium with 1 purity
+[2021-05-23 14:24:15.152] MOB DELETE: on_mob_delete: luiz20/(Luiz Borgos Segundo) at City (47, 46, 2) - /datum/reagent/radium
+[2021-05-23 14:25:19.381] MOB DELETE: on_mob_delete: luiz20/(Luiz Borgos Segundo) at Caves (42, 26, 3) - /datum/reagent/consumable/nuka_cola
+[2021-05-23 14:27:29.590] MOB ADD: on_mob_add(): AlbertoVinhofino/(Zion Focell) at Building (110, 90, 2) - 6 of /datum/reagent/consumable/ethanol/ale with 1 purity
+[2021-05-23 14:27:57.909] MOB DELETE: on_mob_delete: AlbertoVinhofino/(Zion Focell) at Wasteland (123, 83, 2) - /datum/reagent/consumable/ethanol/ale
+[2021-05-23 14:31:08.917] MOB ADD: on_mob_add(): Senhordosdoguinho/(Jose Neguinho) at Village (102, 166, 2) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-23 14:32:31.231] MOB DELETE: on_mob_delete: Senhordosdoguinho/(Jose Neguinho) at Wasteland (125, 183, 2) - /datum/reagent/medicine/healing_powder
+[2021-05-23 14:32:47.763] MOB ADD: on_mob_add(): AlbertoVinhofino/(Zion Focell) at Wasteland (113, 145, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-23 14:33:23.627] MOB DELETE: on_mob_delete: AlbertoVinhofino/(Zion Focell) at Wasteland (106, 148, 2) - /datum/reagent/medicine/stimpak
+[2021-05-23 14:34:08.374] MOB ADD: on_mob_add(): luiz20/(Luiz Borgos Segundo) at Wasteland (108, 96, 2) - 5 of /datum/reagent/toxin/cazador_venom with 1 purity
+[2021-05-23 14:34:10.362] MOB ADD: on_merge(): luiz20/(Luiz Borgos Segundo) at Wasteland (108, 103, 2) - 9.6 of /datum/reagent/toxin/cazador_venom with 1 purity
+[2021-05-23 14:34:48.523] MOB DELETE: on_mob_delete: luiz20/(Luiz Borgos Segundo) at Farm (107, 117, 2) - /datum/reagent/toxin/cazador_venom
+[2021-05-23 14:35:35.161] MOB ADD: on_mob_add(): luiz20/(Luiz Borgos Segundo) at Wasteland (89, 95, 2) - 5 of /datum/reagent/toxin/cazador_venom with 1 purity
+[2021-05-23 14:35:37.170] MOB ADD: on_merge(): luiz20/(Luiz Borgos Segundo) at Wasteland (87, 95, 2) - 9.6 of /datum/reagent/toxin/cazador_venom with 1 purity
+[2021-05-23 14:35:41.165] MOB ADD: on_merge(): luiz20/(Luiz Borgos Segundo) at Wasteland (83, 95, 2) - 13.8 of /datum/reagent/toxin/cazador_venom with 1 purity
+[2021-05-23 14:35:43.191] MOB ADD: on_merge(): luiz20/(Luiz Borgos Segundo) at Wasteland (83, 95, 2) - 18.4 of /datum/reagent/toxin/cazador_venom with 1 purity
+[2021-05-23 14:35:45.224] MOB ADD: on_merge(): luiz20/(Luiz Borgos Segundo) at Wasteland (83, 95, 2) - 23 of /datum/reagent/toxin/cazador_venom with 1 purity
+[2021-05-23 14:35:47.259] MOB ADD: on_merge(): luiz20/(Luiz Borgos Segundo) at Wasteland (83, 95, 2) - 27.6 of /datum/reagent/toxin/cazador_venom with 1 purity
+[2021-05-23 14:35:59.502] MOB ADD: on_mob_add(): GabrielDoomBR/(Baam Frest) at Tunnel (72, 37, 3) - 1 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-23 14:35:59.503] MOB ADD: on_mob_add(): GabrielDoomBR/(Baam Frest) at Tunnel (72, 37, 3) - 1 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-23 14:36:03.343] MOB DELETE: on_mob_delete: GabrielDoomBR/(Baam Frest) at Tunnel (70, 38, 3) - /datum/reagent/consumable/sugar
+[2021-05-23 14:36:05.347] MOB DELETE: on_mob_delete: GabrielDoomBR/(Baam Frest) at Tunnel (69, 38, 3) - /datum/reagent/consumable/nutriment
+[2021-05-23 14:42:26.712] MOB ADD: on_mob_add(): GabrielDoomBR/(Baam Frest) at City (34, 41, 2) - 2 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-23 14:43:15.305] MOB DELETE: on_mob_delete: GabrielDoomBR/(Baam Frest) at City (59, 48, 2) - /datum/reagent/consumable/nutriment
+[2021-05-23 14:45:20.148] MOB ADD: on_mob_add(): luiz20/(Luiz Borgos Segundor) at Wasteland (117, 148, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-23 14:45:26.813] MOB ADD: on_mob_add(): Senhordosdoguinho/(Jose Neguinho) at Wasteland (42, 174, 2) - 10 of /datum/reagent/medicine/healing_powder with 1 purity

@@ -1,0 +1,908 @@
+[2021-05-15 23:18:55.025] Starting up round ID 4.
+ - -------------------------
+[2021-05-15 23:18:55.046] Running /tg/ revision: 
+ - No commit information
+[2021-05-15 23:18:55.060] runtime error: Admin datum created without a rank
+ - proc name: New (/datum/admins/New)
+ -   source file: holder2.dm,45
+ -   usr: null
+ -   src: nobody\'s admin datum (no rank... (/datum/admins)
+ -   call stack:
+ - nobody\'s admin datum (no rank... (/datum/admins): New(null, "dantesousa", 0, 1)
+ - load admins(null)
+ - world: New()
+ - 
+[2021-05-15 23:18:56.325] Loading Yuma...
+[2021-05-15 23:19:07.149] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(200)
+ - the air vent (/obj/machinery/atmospherics/components/unary/vent_pump/on): New(the vault floor (235,194,3) (/turf/open/floor/plasteel/f13/vault_floor/plating))
+ - the air vent (/obj/machinery/atmospherics/components/unary/vent_pump/on): New(the vault floor (235,194,3) (/turf/open/floor/plasteel/f13/vault_floor/plating))
+ - /datum/parsed_map (/datum/parsed_map): create atom(/obj/machinery/atmospherics/co... (/obj/machinery/atmospherics/components/unary/vent_pump/on), the vault floor (235,194,3) (/turf/open/floor/plasteel/f13/vault_floor/plating))
+ - /datum/parsed_map (/datum/parsed_map): instance atom(/obj/machinery/atmospherics/co... (/obj/machinery/atmospherics/components/unary/vent_pump/on), /list (/list), the vault floor (235,194,3) (/turf/open/floor/plasteel/f13/vault_floor/plating), 1, 0, 0, 0, 0, 0)
+ - /datum/parsed_map (/datum/parsed_map): build coordinate(/list (/list), /list (/list), the vault floor (235,194,3) (/turf/open/floor/plasteel/f13/vault_floor/plating), 1, 0, 0, 0, 0, 0, 0)
+ - /datum/parsed_map (/datum/parsed_map):  load impl(1, 1, 3, 0, 1, -1e+031, 1e+031, -1e+031, 1e+031, 0, 2, 0, null)
+ - /datum/parsed_map (/datum/parsed_map): load(1, 1, 3, null, 1, null, null, null, null, null, 2, null, null)
+ - Mapping (/datum/controller/subsystem/mapping): LoadGroup(/list (/list), "Wasteland", "map_files/Pahrump", /list (/list), /list (/list), /list (/list), 0, 2)
+ - Mapping (/datum/controller/subsystem/mapping): loadWorld()
+ - Mapping (/datum/controller/subsystem/mapping): Initialize(839363)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:19:07.164] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(200)
+ - the air vent (/obj/machinery/atmospherics/components/unary/vent_pump/on): New(the metal floor (235,191,3) (/turf/open/floor/plating/tunnel))
+ - the air vent (/obj/machinery/atmospherics/components/unary/vent_pump/on): New(the metal floor (235,191,3) (/turf/open/floor/plating/tunnel))
+ - /datum/parsed_map (/datum/parsed_map): create atom(/obj/machinery/atmospherics/co... (/obj/machinery/atmospherics/components/unary/vent_pump/on), the metal floor (235,191,3) (/turf/open/floor/plating/tunnel))
+ - /datum/parsed_map (/datum/parsed_map): instance atom(/obj/machinery/atmospherics/co... (/obj/machinery/atmospherics/components/unary/vent_pump/on), /list (/list), the metal floor (235,191,3) (/turf/open/floor/plating/tunnel), 1, 0, 0, 0, 0, 0)
+ - /datum/parsed_map (/datum/parsed_map): build coordinate(/list (/list), /list (/list), the metal floor (235,191,3) (/turf/open/floor/plating/tunnel), 1, 0, 0, 0, 0, 0, 0)
+ - /datum/parsed_map (/datum/parsed_map):  load impl(1, 1, 3, 0, 1, -1e+031, 1e+031, -1e+031, 1e+031, 0, 2, 0, null)
+ - /datum/parsed_map (/datum/parsed_map): load(1, 1, 3, null, 1, null, null, null, null, null, 2, null, null)
+ - Mapping (/datum/controller/subsystem/mapping): LoadGroup(/list (/list), "Wasteland", "map_files/Pahrump", /list (/list), /list (/list), /list (/list), 0, 2)
+ - Mapping (/datum/controller/subsystem/mapping): loadWorld()
+ - Mapping (/datum/controller/subsystem/mapping): Initialize(839363)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:19:07.302] Loaded Wasteland in 11s!
+[2021-05-15 23:19:09.676] Loaded Dungeons in 2.3s!
+[2021-05-15 23:19:11.981] Ruin loader finished with 0 left to spend.
+[2021-05-15 23:19:12.660] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(70)
+ - the plasma tank (/obj/item/tank/internals/plasma): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the plasma tank (/obj/item/tank/internals/plasma), /list (/list))
+ - the plasma tank (/obj/item/tank/internals/plasma): New(1)
+ - the tank dispenser (/obj/structure/tank_dispenser/plasma): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the tank dispenser (/obj/structure/tank_dispenser/plasma), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(839521)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:19:12.674] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(70)
+ - the plasma tank (/obj/item/tank/internals/plasma): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the plasma tank (/obj/item/tank/internals/plasma), /list (/list))
+ - the plasma tank (/obj/item/tank/internals/plasma): New(1)
+ - the tank dispenser (/obj/structure/tank_dispenser/plasma): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the tank dispenser (/obj/structure/tank_dispenser/plasma), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(839521)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:19:12.686] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(70)
+ - the plasma tank (/obj/item/tank/internals/plasma): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the plasma tank (/obj/item/tank/internals/plasma), /list (/list))
+ - the plasma tank (/obj/item/tank/internals/plasma): New(1)
+ - the tank dispenser (/obj/structure/tank_dispenser/plasma): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the tank dispenser (/obj/structure/tank_dispenser/plasma), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(839521)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:19:12.699] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(70)
+ - the plasma tank (/obj/item/tank/internals/plasma): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the plasma tank (/obj/item/tank/internals/plasma), /list (/list))
+ - the plasma tank (/obj/item/tank/internals/plasma): New(1)
+ - the tank dispenser (/obj/structure/tank_dispenser/plasma): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the tank dispenser (/obj/structure/tank_dispenser/plasma), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(839521)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:19:12.712] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(70)
+ - the plasma tank (/obj/item/tank/internals/plasma): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the plasma tank (/obj/item/tank/internals/plasma), /list (/list))
+ - the plasma tank (/obj/item/tank/internals/plasma): New(1)
+ - the tank dispenser (/obj/structure/tank_dispenser/plasma): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the tank dispenser (/obj/structure/tank_dispenser/plasma), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(839521)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:19:12.723] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(70)
+ - the plasma tank (/obj/item/tank/internals/plasma): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the plasma tank (/obj/item/tank/internals/plasma), /list (/list))
+ - the plasma tank (/obj/item/tank/internals/plasma): New(1)
+ - the tank dispenser (/obj/structure/tank_dispenser/plasma): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the tank dispenser (/obj/structure/tank_dispenser/plasma), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(839521)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:19:12.736] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(70)
+ - the plasma tank (/obj/item/tank/internals/plasma): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the plasma tank (/obj/item/tank/internals/plasma), /list (/list))
+ - the plasma tank (/obj/item/tank/internals/plasma): New(1)
+ - the tank dispenser (/obj/structure/tank_dispenser/plasma): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the tank dispenser (/obj/structure/tank_dispenser/plasma), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(839521)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:19:12.748] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(70)
+ - the plasma tank (/obj/item/tank/internals/plasma): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the plasma tank (/obj/item/tank/internals/plasma), /list (/list))
+ - the plasma tank (/obj/item/tank/internals/plasma): New(1)
+ - the tank dispenser (/obj/structure/tank_dispenser/plasma): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the tank dispenser (/obj/structure/tank_dispenser/plasma), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(839521)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:19:12.759] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(70)
+ - the plasma tank (/obj/item/tank/internals/plasma): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the plasma tank (/obj/item/tank/internals/plasma), /list (/list))
+ - the plasma tank (/obj/item/tank/internals/plasma): New(1)
+ - the tank dispenser (/obj/structure/tank_dispenser/plasma): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the tank dispenser (/obj/structure/tank_dispenser/plasma), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(839521)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:19:12.770] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(70)
+ - the plasma tank (/obj/item/tank/internals/plasma): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the plasma tank (/obj/item/tank/internals/plasma), /list (/list))
+ - the plasma tank (/obj/item/tank/internals/plasma): New(1)
+ - the tank dispenser (/obj/structure/tank_dispenser/plasma): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the tank dispenser (/obj/structure/tank_dispenser/plasma), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(839521)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:19:12.785] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(70)
+ - the oxygen tank (/obj/item/tank/internals/oxygen): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the oxygen tank (/obj/item/tank/internals/oxygen), /list (/list))
+ - the oxygen tank (/obj/item/tank/internals/oxygen): New(1)
+ - the tank dispenser (/obj/structure/tank_dispenser/oxygen): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the tank dispenser (/obj/structure/tank_dispenser/oxygen), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(839521)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:19:12.797] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(70)
+ - the oxygen tank (/obj/item/tank/internals/oxygen): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the oxygen tank (/obj/item/tank/internals/oxygen), /list (/list))
+ - the oxygen tank (/obj/item/tank/internals/oxygen): New(1)
+ - the tank dispenser (/obj/structure/tank_dispenser/oxygen): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the tank dispenser (/obj/structure/tank_dispenser/oxygen), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(839521)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:19:12.808] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(70)
+ - the oxygen tank (/obj/item/tank/internals/oxygen): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the oxygen tank (/obj/item/tank/internals/oxygen), /list (/list))
+ - the oxygen tank (/obj/item/tank/internals/oxygen): New(1)
+ - the tank dispenser (/obj/structure/tank_dispenser/oxygen): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the tank dispenser (/obj/structure/tank_dispenser/oxygen), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(839521)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:19:12.821] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(70)
+ - the oxygen tank (/obj/item/tank/internals/oxygen): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the oxygen tank (/obj/item/tank/internals/oxygen), /list (/list))
+ - the oxygen tank (/obj/item/tank/internals/oxygen): New(1)
+ - the tank dispenser (/obj/structure/tank_dispenser/oxygen): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the tank dispenser (/obj/structure/tank_dispenser/oxygen), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(839521)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:19:12.832] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(70)
+ - the oxygen tank (/obj/item/tank/internals/oxygen): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the oxygen tank (/obj/item/tank/internals/oxygen), /list (/list))
+ - the oxygen tank (/obj/item/tank/internals/oxygen): New(1)
+ - the tank dispenser (/obj/structure/tank_dispenser/oxygen): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the tank dispenser (/obj/structure/tank_dispenser/oxygen), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(839521)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:19:12.843] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(70)
+ - the oxygen tank (/obj/item/tank/internals/oxygen): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the oxygen tank (/obj/item/tank/internals/oxygen), /list (/list))
+ - the oxygen tank (/obj/item/tank/internals/oxygen): New(1)
+ - the tank dispenser (/obj/structure/tank_dispenser/oxygen): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the tank dispenser (/obj/structure/tank_dispenser/oxygen), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(839521)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:19:12.855] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(70)
+ - the oxygen tank (/obj/item/tank/internals/oxygen): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the oxygen tank (/obj/item/tank/internals/oxygen), /list (/list))
+ - the oxygen tank (/obj/item/tank/internals/oxygen): New(1)
+ - the tank dispenser (/obj/structure/tank_dispenser/oxygen): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the tank dispenser (/obj/structure/tank_dispenser/oxygen), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(839521)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:19:12.866] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(70)
+ - the oxygen tank (/obj/item/tank/internals/oxygen): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the oxygen tank (/obj/item/tank/internals/oxygen), /list (/list))
+ - the oxygen tank (/obj/item/tank/internals/oxygen): New(1)
+ - the tank dispenser (/obj/structure/tank_dispenser/oxygen): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the tank dispenser (/obj/structure/tank_dispenser/oxygen), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(839521)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:19:12.877] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(70)
+ - the oxygen tank (/obj/item/tank/internals/oxygen): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the oxygen tank (/obj/item/tank/internals/oxygen), /list (/list))
+ - the oxygen tank (/obj/item/tank/internals/oxygen): New(1)
+ - the tank dispenser (/obj/structure/tank_dispenser/oxygen): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the tank dispenser (/obj/structure/tank_dispenser/oxygen), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(839521)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:19:12.889] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(70)
+ - the oxygen tank (/obj/item/tank/internals/oxygen): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the oxygen tank (/obj/item/tank/internals/oxygen), /list (/list))
+ - the oxygen tank (/obj/item/tank/internals/oxygen): New(1)
+ - the tank dispenser (/obj/structure/tank_dispenser/oxygen): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the tank dispenser (/obj/structure/tank_dispenser/oxygen), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(839521)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:19:13.151] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(70)
+ - the oxygen tank (/obj/item/tank/internals/oxygen/red): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the oxygen tank (/obj/item/tank/internals/oxygen/red), /list (/list))
+ - the oxygen tank (/obj/item/tank/internals/oxygen/red): New(1)
+ - the fire-safety closet (/obj/structure/closet/firecloset/full): PopulateContents()
+ - the fire-safety closet (/obj/structure/closet/firecloset/full): PopulateContents()
+ - the fire-safety closet (/obj/structure/closet/firecloset/full): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the fire-safety closet (/obj/structure/closet/firecloset/full), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(839521)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:19:13.165] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(70)
+ - the oxygen tank (/obj/item/tank/internals/oxygen/red): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the oxygen tank (/obj/item/tank/internals/oxygen/red), /list (/list))
+ - the oxygen tank (/obj/item/tank/internals/oxygen/red): New(1)
+ - the fire-safety closet (/obj/structure/closet/firecloset/full): PopulateContents()
+ - the fire-safety closet (/obj/structure/closet/firecloset/full): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the fire-safety closet (/obj/structure/closet/firecloset/full), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(839521)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:19:13.474] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(6)
+ - the extended-capacity emergenc... (/obj/item/tank/internals/emergency_oxygen/engi): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the extended-capacity emergenc... (/obj/item/tank/internals/emergency_oxygen/engi), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(839521)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:19:13.488] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(6)
+ - the extended-capacity emergenc... (/obj/item/tank/internals/emergency_oxygen/engi): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the extended-capacity emergenc... (/obj/item/tank/internals/emergency_oxygen/engi), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(839521)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:19:13.958] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(70)
+ - the air tank (/obj/item/tank/internals/air): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the air tank (/obj/item/tank/internals/air), /list (/list))
+ - the air tank (/obj/item/tank/internals/air): New(1)
+ - the emergency closet (/obj/structure/closet/emcloset): PopulateContents()
+ - the emergency closet (/obj/structure/closet/emcloset): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the emergency closet (/obj/structure/closet/emcloset), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(839521)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:19:13.966] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(6)
+ - the extended-capacity emergenc... (/obj/item/tank/internals/emergency_oxygen/engi): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the extended-capacity emergenc... (/obj/item/tank/internals/emergency_oxygen/engi), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(839521)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:19:13.976] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(6)
+ - the extended-capacity emergenc... (/obj/item/tank/internals/emergency_oxygen/engi): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the extended-capacity emergenc... (/obj/item/tank/internals/emergency_oxygen/engi), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(839521)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:19:13.985] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(6)
+ - the extended-capacity emergenc... (/obj/item/tank/internals/emergency_oxygen/engi): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the extended-capacity emergenc... (/obj/item/tank/internals/emergency_oxygen/engi), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(839521)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:19:14.249] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(3)
+ - the emergency oxygen tank (/obj/item/tank/internals/emergency_oxygen): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the emergency oxygen tank (/obj/item/tank/internals/emergency_oxygen), /list (/list))
+ - the emergency oxygen tank (/obj/item/tank/internals/emergency_oxygen): New(1)
+ - the emergency closet (/obj/structure/closet/emcloset): PopulateContents()
+ - the emergency closet (/obj/structure/closet/emcloset): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the emergency closet (/obj/structure/closet/emcloset), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(839521)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:19:14.260] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(6)
+ - the extended-capacity emergenc... (/obj/item/tank/internals/emergency_oxygen/engi): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the extended-capacity emergenc... (/obj/item/tank/internals/emergency_oxygen/engi), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(839521)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:19:14.269] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(6)
+ - the extended-capacity emergenc... (/obj/item/tank/internals/emergency_oxygen/engi): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the extended-capacity emergenc... (/obj/item/tank/internals/emergency_oxygen/engi), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(839521)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:19:14.278] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(6)
+ - the extended-capacity emergenc... (/obj/item/tank/internals/emergency_oxygen/engi): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the extended-capacity emergenc... (/obj/item/tank/internals/emergency_oxygen/engi), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(839521)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:19:14.661] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(6)
+ - the extended-capacity emergenc... (/obj/item/tank/internals/emergency_oxygen/engi): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the extended-capacity emergenc... (/obj/item/tank/internals/emergency_oxygen/engi), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(839521)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:19:14.747] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(3)
+ - the emergency oxygen tank (/obj/item/tank/internals/emergency_oxygen): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the emergency oxygen tank (/obj/item/tank/internals/emergency_oxygen), /list (/list))
+ - the emergency oxygen tank (/obj/item/tank/internals/emergency_oxygen): New(1)
+ - quartermaster\'s locker (/obj/structure/closet/secure_closet/quartermaster): PopulateContents()
+ - quartermaster\'s locker (/obj/structure/closet/secure_closet/quartermaster): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(quartermaster\'s locker (/obj/structure/closet/secure_closet/quartermaster), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(839521)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:19:15.256] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(3)
+ - the emergency oxygen tank (/obj/item/tank/internals/emergency_oxygen): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the emergency oxygen tank (/obj/item/tank/internals/emergency_oxygen), /list (/list))
+ - the emergency oxygen tank (/obj/item/tank/internals/emergency_oxygen): New(1)
+ - the emergency closet (/obj/structure/closet/emcloset): PopulateContents()
+ - the emergency closet (/obj/structure/closet/emcloset): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the emergency closet (/obj/structure/closet/emcloset), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(839521)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:19:15.268] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(3)
+ - the emergency oxygen tank (/obj/item/tank/internals/emergency_oxygen): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the emergency oxygen tank (/obj/item/tank/internals/emergency_oxygen), /list (/list))
+ - the emergency oxygen tank (/obj/item/tank/internals/emergency_oxygen): New(1)
+ - the emergency closet (/obj/structure/closet/emcloset): PopulateContents()
+ - the emergency closet (/obj/structure/closet/emcloset): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the emergency closet (/obj/structure/closet/emcloset), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(839521)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:19:15.465] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(3)
+ - the emergency oxygen tank (/obj/item/tank/internals/emergency_oxygen): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the emergency oxygen tank (/obj/item/tank/internals/emergency_oxygen), /list (/list))
+ - the emergency oxygen tank (/obj/item/tank/internals/emergency_oxygen): New(1)
+ - the emergency closet (/obj/structure/closet/emcloset): PopulateContents()
+ - the emergency closet (/obj/structure/closet/emcloset): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the emergency closet (/obj/structure/closet/emcloset), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(839521)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:19:15.566] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(70)
+ - the air tank (/obj/item/tank/internals/air): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the air tank (/obj/item/tank/internals/air), /list (/list))
+ - the air tank (/obj/item/tank/internals/air): New(1)
+ - the emergency closet (/obj/structure/closet/emcloset): PopulateContents()
+ - the emergency closet (/obj/structure/closet/emcloset): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the emergency closet (/obj/structure/closet/emcloset), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(839521)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:19:15.635] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(3)
+ - the emergency oxygen tank (/obj/item/tank/internals/emergency_oxygen): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the emergency oxygen tank (/obj/item/tank/internals/emergency_oxygen), /list (/list))
+ - the emergency oxygen tank (/obj/item/tank/internals/emergency_oxygen): New(1)
+ - the emergency closet (/obj/structure/closet/emcloset): PopulateContents()
+ - the emergency closet (/obj/structure/closet/emcloset): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the emergency closet (/obj/structure/closet/emcloset), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(839521)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:19:15.647] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(3)
+ - the emergency oxygen tank (/obj/item/tank/internals/emergency_oxygen): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the emergency oxygen tank (/obj/item/tank/internals/emergency_oxygen), /list (/list))
+ - the emergency oxygen tank (/obj/item/tank/internals/emergency_oxygen): New(1)
+ - the emergency closet (/obj/structure/closet/emcloset): PopulateContents()
+ - the emergency closet (/obj/structure/closet/emcloset): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the emergency closet (/obj/structure/closet/emcloset), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(839521)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:19:16.918] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(70)
+ - the anesthetic tank (/obj/item/tank/internals/anesthetic): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the anesthetic tank (/obj/item/tank/internals/anesthetic), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(839521)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:19:16.927] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(70)
+ - the anesthetic tank (/obj/item/tank/internals/anesthetic): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the anesthetic tank (/obj/item/tank/internals/anesthetic), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(839521)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:19:17.075] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(70)
+ - the anesthetic tank (/obj/item/tank/internals/anesthetic): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the anesthetic tank (/obj/item/tank/internals/anesthetic), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(839521)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:19:17.084] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(70)
+ - the anesthetic tank (/obj/item/tank/internals/anesthetic): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the anesthetic tank (/obj/item/tank/internals/anesthetic), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(839521)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:19:17.949] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(70)
+ - the anesthetic tank (/obj/item/tank/internals/anesthetic): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the anesthetic tank (/obj/item/tank/internals/anesthetic), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(839521)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:19:17.958] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(70)
+ - the anesthetic tank (/obj/item/tank/internals/anesthetic): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the anesthetic tank (/obj/item/tank/internals/anesthetic), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(839521)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:19:17.967] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(70)
+ - the anesthetic tank (/obj/item/tank/internals/anesthetic): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the anesthetic tank (/obj/item/tank/internals/anesthetic), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(839521)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:20:41.892] runtime error: Division by zero
+ - proc name: create gas (/obj/machinery/portable_atmospherics/canister/proc/create_gas)
+ -   source file: canister.dm,220
+ -   usr: null
+ -   src: the o2 canister (/obj/machinery/portable_atmospherics/canister/oxygen)
+ -   src.loc: the floor (57,22,5) (/turf/open/floor/plasteel/dark)
+ -   call stack:
+ - the o2 canister (/obj/machinery/portable_atmospherics/canister/oxygen): create gas()
+ - the o2 canister (/obj/machinery/portable_atmospherics/canister/oxygen): New(the floor (57,22,5) (/turf/open/floor/plasteel/dark), null)
+ - /datum/parsed_map (/datum/parsed_map): create atom(/obj/machinery/portable_atmosp... (/obj/machinery/portable_atmospherics/canister/oxygen), the floor (57,22,5) (/turf/open/floor/plasteel/dark))
+ - /datum/parsed_map (/datum/parsed_map): instance atom(/obj/machinery/portable_atmosp... (/obj/machinery/portable_atmospherics/canister/oxygen), /list (/list), the floor (57,22,5) (/turf/open/floor/plasteel/dark), 0, 1, 0, 0, 0, 0)
+ - /datum/parsed_map (/datum/parsed_map): build coordinate(/list (/list), /list (/list), the floor (57,22,5) (/turf/open/floor/plasteel/dark), 0, 1, 0, 0, 0, 0, 0)
+ - /datum/parsed_map (/datum/parsed_map):  load impl(52, 10, 5, 1, 0, -1e+031, 1e+031, -1e+031, 1e+031, 1, 2, 0, null)
+ - /datum/parsed_map (/datum/parsed_map): load(52, 10, 5, 1, 0, null, null, null, null, 1, 2, 0, null)
+ - basic syndicate infiltrator (/datum/map_template/shuttle/infiltrator/basic): load(the hull (52,10,5) (/turf/closed/wall/r_wall/syndicate), 0, 2, 0, 0, 0, 0)
+ - basic syndicate infiltrator (/datum/map_template/shuttle/infiltrator/basic): load(the hull (52,10,5) (/turf/closed/wall/r_wall/syndicate), 0, 2, 0, 0, 0, 0)
+ - Shuttle (/datum/controller/subsystem/shuttle): load template(basic syndicate infiltrator (/datum/map_template/shuttle/infiltrator/basic))
+ - Shuttle (/datum/controller/subsystem/shuttle): action load(basic syndicate infiltrator (/datum/map_template/shuttle/infiltrator/basic), the syndicate recon outpost (/obj/docking_port/stationary))
+ - the syndicate recon outpost (/obj/docking_port/stationary): load roundstart()
+ - Shuttle (/datum/controller/subsystem/shuttle): initial load()
+ - Shuttle (/datum/controller/subsystem/shuttle): Initialize(840396)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:20:42.964] ## WARNING: No /obj/docking_port/mobile/arrivals placed on the map! in code/controllers/subsystem/shuttle.dm at line 80 src: Shuttle usr: .
+[2021-05-15 23:20:47.957] Initializations complete within 111.9 seconds!
+[2021-05-15 23:20:48.169] runtime error: Auxtools not found! Callback subsystem shutting itself off.
+ - proc name: process callbacks (/proc/process_callbacks)
+ -   source file: callback.dm,10
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - process callbacks(null, 46.5)
+ - Auxtools Callbacks (/datum/controller/subsystem/callbacks): fire(0)
+ - Auxtools Callbacks (/datum/controller/subsystem/callbacks): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 

@@ -1,0 +1,93 @@
+[2021-05-15 23:11:21.166] Starting up round ID 3.
+ - -------------------------
+[2021-05-15 23:13:49.857] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ready
+[2021-05-15 23:13:51.173] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A0%7D
+[2021-05-15 23:13:52.669] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=telemetry&payload=%7B%22connections%22%3A%5B%7B%22ckey%22%3A%22dantesousa%22%2C%22address%22%3A%22177.208.168.171%22%2C%22computer_id%22%3A%222479746605%22%7D%2C%7B%22ckey%22%3A%22dantesousa%22%2C%22address%22%3A%22186.241.205.11%22%2C%22computer_id%22%3A%222479746605%22%7D%2C%7B%22ckey%22%3A%22dantesousa%22%2C%22address%22%3A%22187.14.90.175%22%2C%22computer_id%22%3A%222479746605%22%7D%2C%7B%22ckey%22%3A%22dantesousa%22%2C%22address%22%3A%22187.126.229.115%22%2C%22computer_id%22%3A%223010063259%22%7D%2C%7B%22ckey%22%3A%22dantesousa%22%2C%22address%22%3A%22187.126.229.115%22%2C%22computer_id%22%3A%222479746605%22%7D%5D%7D
+[2021-05-15 23:13:53.797] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A1%7D
+[2021-05-15 23:13:54.724] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : 
+[2021-05-15 23:13:54.726] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : 
+[2021-05-15 23:13:56.292] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A2%7D
+[2021-05-15 23:13:58.830] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A3%7D
+[2021-05-15 23:14:00.956] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A4%7D
+[2021-05-15 23:14:03.476] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A5%7D
+[2021-05-15 23:14:11.379] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A6%7D
+[2021-05-15 23:14:11.380] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A7%7D
+[2021-05-15 23:14:11.380] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A0%7D
+[2021-05-15 23:14:13.542] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A1%7D
+[2021-05-15 23:14:16.061] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A2%7D
+[2021-05-15 23:14:18.552] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A3%7D
+[2021-05-15 23:14:21.090] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A4%7D
+[2021-05-15 23:14:23.578] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A5%7D
+[2021-05-15 23:14:26.053] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A6%7D
+[2021-05-15 23:14:28.558] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A7%7D
+[2021-05-15 23:14:31.054] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A0%7D
+[2021-05-15 23:14:33.553] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A1%7D
+[2021-05-15 23:14:36.052] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A2%7D
+[2021-05-15 23:14:38.560] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A3%7D
+[2021-05-15 23:14:41.060] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A4%7D
+[2021-05-15 23:14:43.582] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A5%7D
+[2021-05-15 23:14:46.091] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A6%7D
+[2021-05-15 23:14:48.983] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A7%7D
+[2021-05-15 23:14:51.389] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A0%7D
+[2021-05-15 23:14:53.926] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A1%7D
+[2021-05-15 23:14:56.641] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A2%7D
+[2021-05-15 23:14:59.152] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A3%7D
+[2021-05-15 23:15:01.484] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A4%7D
+[2021-05-15 23:15:03.904] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A5%7D
+[2021-05-15 23:15:06.470] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A6%7D
+[2021-05-15 23:15:09.175] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A7%7D
+[2021-05-15 23:15:11.690] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A0%7D
+[2021-05-15 23:15:14.099] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A1%7D
+[2021-05-15 23:15:16.658] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A2%7D
+[2021-05-15 23:15:19.238] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A3%7D
+[2021-05-15 23:15:21.759] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A4%7D
+[2021-05-15 23:15:24.182] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A5%7D
+[2021-05-15 23:15:26.834] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A6%7D
+[2021-05-15 23:15:29.218] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A7%7D
+[2021-05-15 23:15:31.669] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A0%7D
+[2021-05-15 23:15:34.198] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A1%7D
+[2021-05-15 23:15:36.715] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A2%7D
+[2021-05-15 23:15:38.992] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A3%7D
+[2021-05-15 23:15:41.494] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A4%7D
+[2021-05-15 23:15:44.029] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A5%7D
+[2021-05-15 23:15:46.741] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A6%7D
+[2021-05-15 23:15:49.180] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A7%7D
+[2021-05-15 23:15:51.552] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A0%7D
+[2021-05-15 23:15:54.136] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A1%7D
+[2021-05-15 23:15:56.536] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A2%7D
+[2021-05-15 23:15:59.109] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A3%7D
+[2021-05-15 23:16:01.383] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A4%7D
+[2021-05-15 23:16:03.906] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A5%7D
+[2021-05-15 23:16:06.422] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A6%7D
+[2021-05-15 23:16:08.933] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A7%7D
+[2021-05-15 23:16:11.474] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A0%7D
+[2021-05-15 23:16:13.928] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A1%7D
+[2021-05-15 23:16:16.430] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A2%7D
+[2021-05-15 23:16:18.925] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A3%7D
+[2021-05-15 23:16:21.486] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A4%7D
+[2021-05-15 23:16:23.994] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A5%7D
+[2021-05-15 23:16:26.485] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A6%7D
+[2021-05-15 23:16:28.987] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A7%7D
+[2021-05-15 23:16:31.484] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A0%7D
+[2021-05-15 23:16:33.990] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A1%7D
+[2021-05-15 23:16:36.741] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A2%7D
+[2021-05-15 23:16:39.248] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A3%7D
+[2021-05-15 23:16:40.503] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : Dantesousa src=[mob_570];late_join=1
+[2021-05-15 23:16:41.567] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A4%7D
+[2021-05-15 23:16:44.035] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A5%7D
+[2021-05-15 23:16:46.505] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A6%7D
+[2021-05-15 23:16:49.025] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A7%7D
+[2021-05-15 23:16:51.546] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A0%7D
+[2021-05-15 23:16:54.005] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A1%7D
+[2021-05-15 23:16:56.057] HREF: Dantesousa (usr:Dantesousa[(180,247,1)]) : Dantesousa src=[mob_570];SelectedJob=Detective
+[2021-05-15 23:16:57.060] HREF: Dantesousa (usr:[(49,42,3)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A2%7D
+[2021-05-15 23:16:59.863] HREF: Dantesousa (usr:Andres Kepplinger[(49,42,3)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A3%7D
+[2021-05-15 23:17:02.318] HREF: Dantesousa (usr:Andres Kepplinger[(49,42,3)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A4%7D
+[2021-05-15 23:17:04.812] HREF: Dantesousa (usr:Andres Kepplinger[(49,42,3)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A5%7D
+[2021-05-15 23:17:07.300] HREF: Dantesousa (usr:Andres Kepplinger[(49,42,3)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A6%7D
+[2021-05-15 23:17:09.800] HREF: Dantesousa (usr:Andres Kepplinger[(49,42,3)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A7%7D
+[2021-05-15 23:17:12.321] HREF: Dantesousa (usr:Andres Kepplinger[(49,42,3)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A0%7D
+[2021-05-15 23:17:14.968] HREF: Dantesousa (usr:Andres Kepplinger[(49,42,3)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A1%7D
+[2021-05-15 23:17:17.421] HREF: Dantesousa (usr:Andres Kepplinger[(49,42,3)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A2%7D
+[2021-05-15 23:17:19.930] HREF: Dantesousa (usr:Andres Kepplinger[(49,42,3)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A3%7D
+[2021-05-15 23:17:22.442] HREF: Dantesousa (usr:Andres Kepplinger[(49,42,3)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A4%7D

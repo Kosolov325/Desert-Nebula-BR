@@ -1,0 +1,16 @@
+[2021-05-17 01:50:59.195] SQL: Undeleted query: "SELECT ckey FROM mentor" LA: NextRow LAT: 0
+[2021-05-17 06:44:24.844] SQL: MySqlError { ERROR 1264 (22003): Out of range value for column 'flags' at row 7 } | Query used: INSERT INTO admin_ranks
+ - (rank, flags, exclude_flags, can_edit_flags)
+ - VALUES
+ -   (:p0, :p1, :p2, :p3),
+ -   (:p4, :p5, :p6, :p7),
+ -   (:p8, :p9, :p10, :p11),
+ -   (:p12, :p13, :p14, :p15),
+ -   (:p16, :p17, :p18, :p19),
+ -   (:p20, :p21, :p22, :p23),
+ -   (:p24, :p25, :p26, :p27),
+ -   (:p28, :p29, :p30, :p31),
+ -   (:p32, :p33, :p34, :p35),
+ -   (:p36, :p37, :p38, :p39)
+ - ON DUPLICATE KEY UPDATE rank = VALUES(rank), flags = VALUES(flags), exclude_flags = VALUES(exclude_flags), can_edit_flags = VALUES(can_edit_flags)
+[2021-05-17 06:44:24.862] SQL: MySqlError { ERROR 1264 (22003): Out of range value for column 'flags' at row 1 } | Query used: UPDATE admin_ranks SET flags = 1.67772e+007, can_edit_flags = 1.67772e+007 WHERE rank = :rank

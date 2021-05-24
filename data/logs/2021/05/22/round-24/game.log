@@ -1,0 +1,21 @@
+[2021-05-22 01:54:24.195] Starting up round ID 24.
+ - -------------------------
+[2021-05-22 01:54:24.226] GAME: Round ID: 24
+[2021-05-22 01:54:24.491] ADMIN: Errored custom_items_whitelist line: JayEhh|ALL|ALL|/obj/item/custom/ceb_soap=1 - Path/number for item missing or invalid.
+[2021-05-22 01:54:27.139] GAME: Saved mode is 'extended'
+[2021-05-22 01:55:21.531] ACCESS: Login: N0fun from 8.36.217.190-2062831805 || BYOND v513.1542
+[2021-05-22 01:55:23.048] ACCESS: Mob Login: N0fun/(N0fun) was assigned to a /mob/dead/new_player
+[2021-05-22 01:55:25.178] ACCESS: Failed Login: N0fun 2062831805 8.36.217.190 - CID randomizer check
+[2021-05-22 01:55:25.772] GAME: N0fun/(N0fun) Client N0fun/(N0fun) has taken ownership of mob N0fun(/mob/dead/new_player) (start area (180, 247, 1))
+[2021-05-22 01:55:29.623] ACCESS: Logout: N0fun/(N0fun)
+[2021-05-22 01:55:29.623] GAME: N0fun[DC]/(N0fun) N0fun[DC]/(N0fun) is no longer owning mob N0fun(/mob/dead/new_player) (start area (180, 247, 1))
+[2021-05-22 01:55:57.308] ACCESS: Login: Baeiou from 191.189.14.4-598825671 || BYOND v513.1542
+[2021-05-22 01:55:58.098] ACCESS: Mob Login: Baeiou/(Baeiou) was assigned to a /mob/dead/new_player
+[2021-05-22 01:56:02.507] GAME: Baeiou/(Baeiou) Client Baeiou/(Baeiou) has taken ownership of mob Baeiou(/mob/dead/new_player) (start area (180, 247, 1))
+[2021-05-22 01:56:49.873] ACCESS: Login: AnotherGenericPlayer from 189.101.117.234-2213424377 || BYOND v513.1542
+[2021-05-22 01:56:51.922] ACCESS: Mob Login: AnotherGenericPlayer/(AnotherGenericPlayer) was assigned to a /mob/dead/new_player
+[2021-05-22 01:56:52.183] ACCESS: Logout: Dantesousa
+[2021-05-22 01:56:53.727] ACCESS: Failed Login: AnotherGenericPlayer 2213424377 189.101.117.234 - CID randomizer check
+[2021-05-22 01:56:54.494] GAME: AnotherGenericPlayer/(AnotherGenericPlayer) Client AnotherGenericPlayer/(AnotherGenericPlayer) has taken ownership of mob AnotherGenericPlayer(/mob/dead/new_player) (start area (180, 247, 1))
+[2021-05-22 01:57:00.918] ACCESS: Logout: AnotherGenericPlayer/(AnotherGenericPlayer)
+[2021-05-22 01:57:00.919] GAME: AnotherGenericPlayer[DC]/(AnotherGenericPlayer) AnotherGenericPlayer[DC]/(AnotherGenericPlayer) is no longer owning mob AnotherGenericPlayer(/mob/dead/new_player) (start area (180, 247, 1))

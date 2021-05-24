@@ -1,0 +1,1276 @@
+[2021-05-16 13:07:20.873] Starting up round ID 9.
+ - -------------------------
+[2021-05-16 13:07:20.918] Running /tg/ revision: 
+ - No commit information
+[2021-05-16 13:07:20.950] runtime error: Admin datum created without a rank
+ - proc name: New (/datum/admins/New)
+ -   source file: holder2.dm,45
+ -   usr: null
+ -   src: nobody\'s admin datum (no rank... (/datum/admins)
+ -   call stack:
+ - nobody\'s admin datum (no rank... (/datum/admins): New(null, "dantesousa", 0, 1)
+ - load admins(null)
+ - world: New()
+ - 
+[2021-05-16 13:07:22.317] Loading Yuma...
+[2021-05-16 13:07:33.858] Loaded Wasteland in 11.5s!
+[2021-05-16 13:07:37.449] Loaded Dungeons in 3.6s!
+[2021-05-16 13:07:43.182] Ruin loader finished with 0 left to spend.
+[2021-05-16 13:09:06.472] ## WARNING: No /obj/docking_port/mobile/arrivals placed on the map! in code/controllers/subsystem/shuttle.dm at line 80 src: Shuttle usr: .
+[2021-05-16 13:09:12.593] Loaded 0 engraved messages on map Yuma
+[2021-05-16 13:09:12.600] Initializations complete within 110.6 seconds!
+[2021-05-16 13:11:15.171] Game start took 0s
+[2021-05-16 13:24:01.116] ### VarEdit by Dantesousa/(Dante Sousa): /datum/component/nanites regen_rate=0.5 => 10
+[2021-05-16 13:25:32.590] ### VarEdit by Dantesousa/(Dante Sousa): /obj/item/flashlight/flare/torch light_range=5 => 30
+[2021-05-16 13:25:41.577] ### VarEdit by Dantesousa/(Dante Sousa): /obj/item/flashlight/flare/torch light_power=0.8 => 5
+[2021-05-16 13:33:20.343] runtime error: undefined variable /turf/open/floor/plating/wooden/var/hardness
+ - proc name: attackby (/turf/closed/wall/attackby)
+ -   source file: wall_damage.dm,41
+ -   usr: Unknown (/mob/living/carbon/human)
+ -   src: the house base (156,151,2) (/turf/open/floor/plating/wooden)
+ -   usr.loc: sidewalk (156,150,2) (/turf/open/indestructible/ground/outside/sidewalk)
+ -   call stack:
+ - the house base (156,151,2) (/turf/open/floor/plating/wooden): attackby(the welding tool (/obj/item/weldingtool), Unknown (/mob/living/carbon/human), "icon-x=239;icon-y=267;left=1;s...", 0, 1)
+ - the house base (156,151,2) (/turf/open/floor/plating/wooden): attackby(the welding tool (/obj/item/weldingtool), Unknown (/mob/living/carbon/human), "icon-x=239;icon-y=267;left=1;s...", 0, 1)
+ - the welding tool (/obj/item/weldingtool): melee attack chain(Unknown (/mob/living/carbon/human), the house base (156,151,2) (/turf/open/floor/plating/wooden), "icon-x=239;icon-y=267;left=1;s...", null, 1)
+ - Unknown (/mob/living/carbon/human): ClickOn(the house base (156,151,2) (/turf/open/floor/plating/wooden), "icon-x=239;icon-y=267;left=1;s...")
+ - Unknown (/mob/living/carbon/human): CommonClickOn(the house base (156,151,2) (/turf/open/floor/plating/wooden), "icon-x=239;icon-y=267;left=1;s...")
+ - the house base (156,151,2) (/turf/open/floor/plating/wooden): Click(null, "mapwindow.map", "icon-x=239;icon-y=267;left=1;s...")
+ -  (/obj/screen/click_catcher): Click(null, "mapwindow.map", "icon-x=239;icon-y=267;left=1;s...", 0)
+ - 
+[2021-05-16 13:34:18.203] runtime error: type mismatch: null -= the target stake (/obj/structure/target_stake)
+ - proc name: on target qdel (/datum/component/pellet_cloud/proc/on_target_qdel)
+ -   source file: pellet_cloud.dm,317
+ -   usr: 0
+ -   src: /datum/component/pellet_cloud (/datum/component/pellet_cloud)
+ -   call stack:
+ - /datum/component/pellet_cloud (/datum/component/pellet_cloud): on target qdel(the target stake (/obj/structure/target_stake), 0)
+ - CallAsync(/datum/component/pellet_cloud (/datum/component/pellet_cloud), /datum/component/pellet_cloud/... (/datum/component/pellet_cloud/proc/on_target_qdel), /list (/list))
+ - the target stake (/obj/structure/target_stake):  SendSignal("parent_qdeleting", /list (/list))
+ - qdel(the target stake (/obj/structure/target_stake), 0)
+ - the target stake (/obj/structure/target_stake): deconstruct(0)
+ - the target stake (/obj/structure/target_stake): obj destruction("laser")
+ - the target stake (/obj/structure/target_stake): take damage(21, "fire", "laser", 0, 2, 0.25)
+ - the target stake (/obj/structure/target_stake): bullet act(the tribeam laser (/obj/item/projectile/beam/laser/tribeam), "chest")
+ - the target stake (/obj/structure/target_stake): bullet act(the tribeam laser (/obj/item/projectile/beam/laser/tribeam), "chest")
+ - the tribeam laser (/obj/item/projectile/beam/laser/tribeam): process hit(the floor (250,250,3) (/turf/open/floor/f13), the target stake (/obj/structure/target_stake), null, 1)
+ - the tribeam laser (/obj/item/projectile/beam/laser/tribeam): process hit(the floor (250,250,3) (/turf/open/floor/f13), the shooting target (/obj/item/target), null, 0)
+ - the tribeam laser (/obj/item/projectile/beam/laser/tribeam): Bump(the shooting target (/obj/item/target))
+ - the tribeam laser (/obj/item/projectile/beam/laser/tribeam): Move(the floor (250,250,3) (/turf/open/floor/f13), 1)
+ - the tribeam laser (/obj/item/projectile/beam/laser/tribeam): pixel move(7, 0, 0.5, 1, 1)
+ - the tribeam laser (/obj/item/projectile/beam/laser/tribeam): process(1)
+ - Projectiles (/datum/controller/subsystem/processing/projectiles): fire(0)
+ - Projectiles (/datum/controller/subsystem/processing/projectiles): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-16 13:42:55.433] runtime error: Invalid target given
+ - proc name: New (/datum/progressbar/New)
+ -   source file: progressbar.dm,14
+ -   usr: Adrian Reichard (/mob/living/carbon/human)
+ -   src: /datum/progressbar (/datum/progressbar)
+ -   usr.loc: road (212,71,2) (/turf/open/indestructible/ground/outside/road)
+ -   call stack:
+ - /datum/progressbar (/datum/progressbar): New(Adrian Reichard (/mob/living/carbon/human), 10, null)
+ - do after(Adrian Reichard (/mob/living/carbon/human), 10, 1, null, 1, null, 9, 0)
+ - Toggle Scope (/datum/action/item_action/toggle_scope_zoom): Trigger()
+ - Toggle Scope (/obj/screen/movable/action_button): Click(null, "mapwindow.map", "icon-x=10;icon-y=14;left=1;scr...", 0)
+ - 2006F (/client): Click(Toggle Scope (/obj/screen/movable/action_button), null, "mapwindow.map", "icon-x=10;icon-y=14;left=1;scr...", 0)
+ - 
+[2021-05-16 13:42:56.412] runtime error: Cannot read null.progressbars
+ - proc name: Destroy (/datum/progressbar/Destroy)
+ -   source file: progressbar.dm,52
+ -   usr: Adrian Reichard (/mob/living/carbon/human)
+ -   src: /datum/progressbar (/datum/progressbar)
+ -   usr.loc: road (212,71,2) (/turf/open/indestructible/ground/outside/road)
+ -   call stack:
+ - /datum/progressbar (/datum/progressbar): Destroy(0)
+ - qdel(/datum/progressbar (/datum/progressbar), 0)
+ - do after(Adrian Reichard (/mob/living/carbon/human), 10, 1, null, 1, null, 9, 0)
+ - Toggle Scope (/datum/action/item_action/toggle_scope_zoom): Trigger()
+ - Toggle Scope (/obj/screen/movable/action_button): Click(null, "mapwindow.map", "icon-x=10;icon-y=14;left=1;scr...", 0)
+ - 
+[2021-05-16 13:42:58.602] runtime error: Invalid target given
+ - proc name: New (/datum/progressbar/New)
+ -   source file: progressbar.dm,14
+ -   usr: Adrian Reichard (/mob/living/carbon/human)
+ -   src: /datum/progressbar (/datum/progressbar)
+ -   usr.loc: road (211,71,2) (/turf/open/indestructible/ground/outside/road)
+ -   call stack:
+ - /datum/progressbar (/datum/progressbar): New(Adrian Reichard (/mob/living/carbon/human), 9, null)
+ - do after(Adrian Reichard (/mob/living/carbon/human), 9, 1, null, 1, null, 9, 0)
+ - Toggle Scope (/datum/action/item_action/toggle_scope_zoom): Trigger()
+ - Toggle Scope (/obj/screen/movable/action_button): Click(null, "mapwindow.map", "icon-x=11;icon-y=20;left=1;scr...", 0)
+ - 2006F (/client): Click(Toggle Scope (/obj/screen/movable/action_button), null, "mapwindow.map", "icon-x=11;icon-y=20;left=1;scr...", 0)
+ - 
+[2021-05-16 13:42:59.163] runtime error: Cannot read null.progressbars
+ - proc name: Destroy (/datum/progressbar/Destroy)
+ -   source file: progressbar.dm,52
+ -   usr: Adrian Reichard (/mob/living/carbon/human)
+ -   src: /datum/progressbar (/datum/progressbar)
+ -   usr.loc: road (210,71,2) (/turf/open/indestructible/ground/outside/road)
+ -   call stack:
+ - /datum/progressbar (/datum/progressbar): Destroy(0)
+ - qdel(/datum/progressbar (/datum/progressbar), 0)
+ - do after(Adrian Reichard (/mob/living/carbon/human), 9, 1, null, 1, null, 9, 0)
+ - Toggle Scope (/datum/action/item_action/toggle_scope_zoom): Trigger()
+ - Toggle Scope (/obj/screen/movable/action_button): Click(null, "mapwindow.map", "icon-x=11;icon-y=20;left=1;scr...", 0)
+ - 
+[2021-05-16 13:43:02.192] runtime error: Invalid target given
+ - proc name: New (/datum/progressbar/New)
+ -   source file: progressbar.dm,14
+ -   usr: Adrian Reichard (/mob/living/carbon/human)
+ -   src: /datum/progressbar (/datum/progressbar)
+ -   usr.loc: road (210,68,2) (/turf/open/indestructible/ground/outside/road)
+ -   call stack:
+ - /datum/progressbar (/datum/progressbar): New(Adrian Reichard (/mob/living/carbon/human), 10, null)
+ - do after(Adrian Reichard (/mob/living/carbon/human), 10, 1, null, 1, null, 9, 0)
+ - Toggle Scope (/datum/action/item_action/toggle_scope_zoom): Trigger()
+ - Toggle Scope (/obj/screen/movable/action_button): Click(null, "mapwindow.map", "icon-x=11;icon-y=20;left=1;scr...", 0)
+ - 2006F (/client): Click(Toggle Scope (/obj/screen/movable/action_button), null, "mapwindow.map", "icon-x=11;icon-y=20;left=1;scr...", 0)
+ - 
+[2021-05-16 13:43:03.069] runtime error: Cannot read null.progressbars
+ - proc name: Destroy (/datum/progressbar/Destroy)
+ -   source file: progressbar.dm,52
+ -   usr: Adrian Reichard (/mob/living/carbon/human)
+ -   src: /datum/progressbar (/datum/progressbar)
+ -   usr.loc: road (210,67,2) (/turf/open/indestructible/ground/outside/road)
+ -   call stack:
+ - /datum/progressbar (/datum/progressbar): Destroy(0)
+ - qdel(/datum/progressbar (/datum/progressbar), 0)
+ - do after(Adrian Reichard (/mob/living/carbon/human), 10, 1, null, 1, null, 9, 0)
+ - Toggle Scope (/datum/action/item_action/toggle_scope_zoom): Trigger()
+ - Toggle Scope (/obj/screen/movable/action_button): Click(null, "mapwindow.map", "icon-x=11;icon-y=20;left=1;scr...", 0)
+ - 
+[2021-05-16 13:43:04.675] runtime error: Invalid target given
+ - proc name: New (/datum/progressbar/New)
+ -   source file: progressbar.dm,14
+ -   usr: Adrian Reichard (/mob/living/carbon/human)
+ -   src: /datum/progressbar (/datum/progressbar)
+ -   usr.loc: road (210,66,2) (/turf/open/indestructible/ground/outside/road)
+ -   call stack:
+ - /datum/progressbar (/datum/progressbar): New(Adrian Reichard (/mob/living/carbon/human), 10, null)
+ - do after(Adrian Reichard (/mob/living/carbon/human), 10, 1, null, 1, null, 9, 0)
+ - Toggle Scope (/datum/action/item_action/toggle_scope_zoom): Trigger()
+ - Toggle Scope (/obj/screen/movable/action_button): Click(null, "mapwindow.map", "icon-x=11;icon-y=20;left=1;scr...", 0)
+ - 2006F (/client): Click(Toggle Scope (/obj/screen/movable/action_button), null, "mapwindow.map", "icon-x=11;icon-y=20;left=1;scr...", 0)
+ - 
+[2021-05-16 13:43:04.970] runtime error: Cannot read null.progressbars
+ - proc name: Destroy (/datum/progressbar/Destroy)
+ -   source file: progressbar.dm,52
+ -   usr: Adrian Reichard (/mob/living/carbon/human)
+ -   src: /datum/progressbar (/datum/progressbar)
+ -   usr.loc: road (210,65,2) (/turf/open/indestructible/ground/outside/road)
+ -   call stack:
+ - /datum/progressbar (/datum/progressbar): Destroy(0)
+ - qdel(/datum/progressbar (/datum/progressbar), 0)
+ - do after(Adrian Reichard (/mob/living/carbon/human), 10, 1, null, 1, null, 9, 0)
+ - Toggle Scope (/datum/action/item_action/toggle_scope_zoom): Trigger()
+ - Toggle Scope (/obj/screen/movable/action_button): Click(null, "mapwindow.map", "icon-x=11;icon-y=20;left=1;scr...", 0)
+ - 
+[2021-05-16 13:43:20.094] runtime error: Invalid target given
+ - proc name: New (/datum/progressbar/New)
+ -   source file: progressbar.dm,14
+ -   usr: Adrian Reichard (/mob/living/carbon/human)
+ -   src: /datum/progressbar (/datum/progressbar)
+ -   usr.loc: the dirt (218,43,2) (/turf/open/indestructible/ground/outside/dirt)
+ -   call stack:
+ - /datum/progressbar (/datum/progressbar): New(Adrian Reichard (/mob/living/carbon/human), 10, null)
+ - do after(Adrian Reichard (/mob/living/carbon/human), 10, 1, null, 1, null, 9, 0)
+ - Toggle Scope (/datum/action/item_action/toggle_scope_zoom): Trigger()
+ - Toggle Scope (/obj/screen/movable/action_button): Click(null, "mapwindow.map", "icon-x=17;icon-y=15;left=1;scr...", 0)
+ - 2006F (/client): Click(Toggle Scope (/obj/screen/movable/action_button), null, "mapwindow.map", "icon-x=17;icon-y=15;left=1;scr...", 0)
+ - 
+[2021-05-16 13:43:21.043] runtime error: Cannot read null.progressbars
+ - proc name: Destroy (/datum/progressbar/Destroy)
+ -   source file: progressbar.dm,52
+ -   usr: Adrian Reichard (/mob/living/carbon/human)
+ -   src: /datum/progressbar (/datum/progressbar)
+ -   usr.loc: the dirt (218,43,2) (/turf/open/indestructible/ground/outside/dirt)
+ -   call stack:
+ - /datum/progressbar (/datum/progressbar): Destroy(0)
+ - qdel(/datum/progressbar (/datum/progressbar), 0)
+ - do after(Adrian Reichard (/mob/living/carbon/human), 10, 1, null, 1, null, 9, 0)
+ - Toggle Scope (/datum/action/item_action/toggle_scope_zoom): Trigger()
+ - Toggle Scope (/obj/screen/movable/action_button): Click(null, "mapwindow.map", "icon-x=17;icon-y=15;left=1;scr...", 0)
+ - 
+[2021-05-16 13:43:22.351] runtime error: Invalid target given
+ - proc name: New (/datum/progressbar/New)
+ -   source file: progressbar.dm,14
+ -   usr: Adrian Reichard (/mob/living/carbon/human)
+ -   src: /datum/progressbar (/datum/progressbar)
+ -   usr.loc: the dirt (218,43,2) (/turf/open/indestructible/ground/outside/dirt)
+ -   call stack:
+ - /datum/progressbar (/datum/progressbar): New(Adrian Reichard (/mob/living/carbon/human), 10, null)
+ - do after(Adrian Reichard (/mob/living/carbon/human), 10, 1, null, 1, null, 9, 0)
+ - Toggle Scope (/datum/action/item_action/toggle_scope_zoom): Trigger()
+ - Toggle Scope (/obj/screen/movable/action_button): Click(null, "mapwindow.map", "icon-x=17;icon-y=15;left=1;scr...", 0)
+ - 2006F (/client): Click(Toggle Scope (/obj/screen/movable/action_button), null, "mapwindow.map", "icon-x=17;icon-y=15;left=1;scr...", 0)
+ - 
+[2021-05-16 13:43:23.344] runtime error: Cannot read null.progressbars
+ - proc name: Destroy (/datum/progressbar/Destroy)
+ -   source file: progressbar.dm,52
+ -   usr: Adrian Reichard (/mob/living/carbon/human)
+ -   src: /datum/progressbar (/datum/progressbar)
+ -   usr.loc: the dirt (218,43,2) (/turf/open/indestructible/ground/outside/dirt)
+ -   call stack:
+ - /datum/progressbar (/datum/progressbar): Destroy(0)
+ - qdel(/datum/progressbar (/datum/progressbar), 0)
+ - do after(Adrian Reichard (/mob/living/carbon/human), 10, 1, null, 1, null, 9, 0)
+ - Toggle Scope (/datum/action/item_action/toggle_scope_zoom): Trigger()
+ - Toggle Scope (/obj/screen/movable/action_button): Click(null, "mapwindow.map", "icon-x=17;icon-y=15;left=1;scr...", 0)
+ - 
+[2021-05-16 13:44:30.740] runtime error: Invalid target given
+ - proc name: New (/datum/progressbar/New)
+ -   source file: progressbar.dm,14
+ -   usr: Adrian Reichard (/mob/living/carbon/human)
+ -   src: /datum/progressbar (/datum/progressbar)
+ -   usr.loc: road (211,58,2) (/turf/open/indestructible/ground/outside/road)
+ -   call stack:
+ - /datum/progressbar (/datum/progressbar): New(Adrian Reichard (/mob/living/carbon/human), 10, null)
+ - do after(Adrian Reichard (/mob/living/carbon/human), 10, 1, null, 1, null, 9, 0)
+ - Toggle Scope (/datum/action/item_action/toggle_scope_zoom): Trigger()
+ - Toggle Scope (/obj/screen/movable/action_button): Click(null, "mapwindow.map", "icon-x=20;icon-y=14;left=1;scr...", 0)
+ - 2006F (/client): Click(Toggle Scope (/obj/screen/movable/action_button), null, "mapwindow.map", "icon-x=20;icon-y=14;left=1;scr...", 0)
+ - 
+[2021-05-16 13:44:31.712] runtime error: Cannot read null.progressbars
+ - proc name: Destroy (/datum/progressbar/Destroy)
+ -   source file: progressbar.dm,52
+ -   usr: Adrian Reichard (/mob/living/carbon/human)
+ -   src: /datum/progressbar (/datum/progressbar)
+ -   usr.loc: road (211,58,2) (/turf/open/indestructible/ground/outside/road)
+ -   call stack:
+ - /datum/progressbar (/datum/progressbar): Destroy(0)
+ - qdel(/datum/progressbar (/datum/progressbar), 0)
+ - do after(Adrian Reichard (/mob/living/carbon/human), 10, 1, null, 1, null, 9, 0)
+ - Toggle Scope (/datum/action/item_action/toggle_scope_zoom): Trigger()
+ - Toggle Scope (/obj/screen/movable/action_button): Click(null, "mapwindow.map", "icon-x=20;icon-y=14;left=1;scr...", 0)
+ - 
+[2021-05-16 13:44:48.791] runtime error: Invalid target given
+ - proc name: New (/datum/progressbar/New)
+ -   source file: progressbar.dm,14
+ -   usr: Adrian Reichard (/mob/living/carbon/human)
+ -   src: /datum/progressbar (/datum/progressbar)
+ -   usr.loc: road (211,58,2) (/turf/open/indestructible/ground/outside/road)
+ -   call stack:
+ - /datum/progressbar (/datum/progressbar): New(Adrian Reichard (/mob/living/carbon/human), 9, null)
+ - do after(Adrian Reichard (/mob/living/carbon/human), 9, 1, null, 1, null, 9, 0)
+ - Toggle Scope (/datum/action/item_action/toggle_scope_zoom): Trigger()
+ - Toggle Scope (/obj/screen/movable/action_button): Click(null, "mapwindow.map", "icon-x=17;icon-y=18;left=1;scr...", 0)
+ - 2006F (/client): Click(Toggle Scope (/obj/screen/movable/action_button), null, "mapwindow.map", "icon-x=17;icon-y=18;left=1;scr...", 0)
+ - 
+[2021-05-16 13:44:49.686] runtime error: Cannot read null.progressbars
+ - proc name: Destroy (/datum/progressbar/Destroy)
+ -   source file: progressbar.dm,52
+ -   usr: Adrian Reichard (/mob/living/carbon/human)
+ -   src: /datum/progressbar (/datum/progressbar)
+ -   usr.loc: road (211,58,2) (/turf/open/indestructible/ground/outside/road)
+ -   call stack:
+ - /datum/progressbar (/datum/progressbar): Destroy(0)
+ - qdel(/datum/progressbar (/datum/progressbar), 0)
+ - do after(Adrian Reichard (/mob/living/carbon/human), 9, 1, null, 1, null, 9, 0)
+ - Toggle Scope (/datum/action/item_action/toggle_scope_zoom): Trigger()
+ - Toggle Scope (/obj/screen/movable/action_button): Click(null, "mapwindow.map", "icon-x=17;icon-y=18;left=1;scr...", 0)
+ - 
+[2021-05-16 13:51:15.572] runtime error: type mismatch: null -= the mr. handy (/mob/living/simple_animal/hostile/handy)
+ - proc name: on target qdel (/datum/component/pellet_cloud/proc/on_target_qdel)
+ -   source file: pellet_cloud.dm,317
+ -   usr: 0
+ -   src: /datum/component/pellet_cloud (/datum/component/pellet_cloud)
+ -   call stack:
+ - /datum/component/pellet_cloud (/datum/component/pellet_cloud): on target qdel(the mr. handy (/mob/living/simple_animal/hostile/handy), 0)
+ - CallAsync(/datum/component/pellet_cloud (/datum/component/pellet_cloud), /datum/component/pellet_cloud/... (/datum/component/pellet_cloud/proc/on_target_qdel), /list (/list))
+ - the mr. handy (/mob/living/simple_animal/hostile/handy):  SendSignal("parent_qdeleting", /list (/list))
+ - qdel(the mr. handy (/mob/living/simple_animal/hostile/handy), 0)
+ - the mr. handy (/mob/living/simple_animal/hostile/handy): death(null)
+ - the mr. handy (/mob/living/simple_animal/hostile/handy): death(null)
+ - the mr. handy (/mob/living/simple_animal/hostile/handy): update stat()
+ - the mr. handy (/mob/living/simple_animal/hostile/handy): updatehealth()
+ - the mr. handy (/mob/living/simple_animal/hostile/handy): updatehealth()
+ - the mr. handy (/mob/living/simple_animal/hostile/handy): adjustHealth(10.55, 1, 0)
+ - ...
+ - the mr. handy (/mob/living/simple_animal/hostile/handy): bullet act(the buckshot pellet (/obj/item/projectile/bullet/pellet/shotgun_buckshot), "chest")
+ - the buckshot pellet (/obj/item/projectile/bullet/pellet/shotgun_buckshot): process hit(sidewalk (112,136,2) (/turf/open/indestructible/ground/outside/sidewalk), the mr. handy (/mob/living/simple_animal/hostile/handy), null, 0)
+ - the buckshot pellet (/obj/item/projectile/bullet/pellet/shotgun_buckshot): Bump(the mr. handy (/mob/living/simple_animal/hostile/handy))
+ - sidewalk (112,136,2) (/turf/open/indestructible/ground/outside/sidewalk): Enter(the buckshot pellet (/obj/item/projectile/bullet/pellet/shotgun_buckshot), sidewalk (113,136,2) (/turf/open/indestructible/ground/outside/sidewalk))
+ - the buckshot pellet (/obj/item/projectile/bullet/pellet/shotgun_buckshot): Move(sidewalk (112,136,2) (/turf/open/indestructible/ground/outside/sidewalk), 8, 0)
+ - the buckshot pellet (/obj/item/projectile/bullet/pellet/shotgun_buckshot): Move(sidewalk (112,136,2) (/turf/open/indestructible/ground/outside/sidewalk), 8)
+ - the buckshot pellet (/obj/item/projectile/bullet/pellet/shotgun_buckshot): process(1)
+ - Projectiles (/datum/controller/subsystem/processing/projectiles): ignite(0)
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-16 13:55:31.591] runtime error: type mismatch: null -= the mr. handy (/mob/living/simple_animal/hostile/handy)
+ - proc name: on target qdel (/datum/component/pellet_cloud/proc/on_target_qdel)
+ -   source file: pellet_cloud.dm,317
+ -   usr: 0
+ -   src: /datum/component/pellet_cloud (/datum/component/pellet_cloud)
+ -   call stack:
+ - /datum/component/pellet_cloud (/datum/component/pellet_cloud): on target qdel(the mr. handy (/mob/living/simple_animal/hostile/handy), 0)
+ - CallAsync(/datum/component/pellet_cloud (/datum/component/pellet_cloud), /datum/component/pellet_cloud/... (/datum/component/pellet_cloud/proc/on_target_qdel), /list (/list))
+ - the mr. handy (/mob/living/simple_animal/hostile/handy):  SendSignal("parent_qdeleting", /list (/list))
+ - qdel(the mr. handy (/mob/living/simple_animal/hostile/handy), 0)
+ - the mr. handy (/mob/living/simple_animal/hostile/handy): death(null)
+ - the mr. handy (/mob/living/simple_animal/hostile/handy): death(null)
+ - the mr. handy (/mob/living/simple_animal/hostile/handy): update stat()
+ - the mr. handy (/mob/living/simple_animal/hostile/handy): updatehealth()
+ - the mr. handy (/mob/living/simple_animal/hostile/handy): updatehealth()
+ - the mr. handy (/mob/living/simple_animal/hostile/handy): adjustHealth(21, 1, 0)
+ - ...
+ - the mr. handy (/mob/living/simple_animal/hostile/handy): bullet act(the tribeam laser (/obj/item/projectile/beam/laser/tribeam), "chest")
+ - the tribeam laser (/obj/item/projectile/beam/laser/tribeam): process hit(the floor (157,180,2) (/turf/open/floor/f13/wood), the mr. handy (/mob/living/simple_animal/hostile/handy), null, 0)
+ - the tribeam laser (/obj/item/projectile/beam/laser/tribeam): Bump(the mr. handy (/mob/living/simple_animal/hostile/handy))
+ - the floor (157,180,2) (/turf/open/floor/f13/wood): Enter(the tribeam laser (/obj/item/projectile/beam/laser/tribeam), the floor (157,181,2) (/turf/open/floor/f13/wood))
+ - the tribeam laser (/obj/item/projectile/beam/laser/tribeam): Move(the floor (157,180,2) (/turf/open/floor/f13/wood), 2, 0)
+ - the tribeam laser (/obj/item/projectile/beam/laser/tribeam): Move(the floor (157,180,2) (/turf/open/floor/f13/wood), 2)
+ - the tribeam laser (/obj/item/projectile/beam/laser/tribeam): process(1)
+ - Projectiles (/datum/controller/subsystem/processing/projectiles): ignite(0)
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-16 13:55:56.051] runtime error: Cannot execute null.update equipment speed mods().
+ - proc name: dropped (/obj/item/proc/dropped)
+ -   source file: items.dm,447
+ -   usr: Makenna Coldsmith (/mob/living/carbon/human)
+ -   src: the microfusion cell (/obj/item/stock_parts/cell/ammo/mfc)
+ -   usr.loc: road (150,179,2) (/turf/open/indestructible/ground/outside/road)
+ -   src.loc: the tribeam laser rifle (/obj/item/gun/energy/laser/scatter)
+ -   call stack:
+ - the microfusion cell (/obj/item/stock_parts/cell/ammo/mfc): dropped(null)
+ - the tribeam laser rifle (/obj/item/gun/energy/laser/scatter): attackby(the microfusion cell (/obj/item/stock_parts/cell/ammo/mfc), Makenna Coldsmith (/mob/living/carbon/human), "icon-x=23;icon-y=19;left=1;scr...", 0, 1)
+ - the microfusion cell (/obj/item/stock_parts/cell/ammo/mfc): melee attack chain(Makenna Coldsmith (/mob/living/carbon/human), the tribeam laser rifle (/obj/item/gun/energy/laser/scatter), "icon-x=23;icon-y=19;left=1;scr...", null, 1)
+ - Makenna Coldsmith (/mob/living/carbon/human): ClickOn(the tribeam laser rifle (/obj/item/gun/energy/laser/scatter), "icon-x=23;icon-y=19;left=1;scr...")
+ - Makenna Coldsmith (/mob/living/carbon/human): CommonClickOn(the tribeam laser rifle (/obj/item/gun/energy/laser/scatter), "icon-x=23;icon-y=19;left=1;scr...")
+ - the tribeam laser rifle (/obj/item/gun/energy/laser/scatter): Click(null, "mapwindow.map", "icon-x=23;icon-y=19;left=1;scr...", 0)
+ - N0fun (/client): Click(the tribeam laser rifle (/obj/item/gun/energy/laser/scatter), null, "mapwindow.map", "icon-x=23;icon-y=19;left=1;scr...", 0)
+ - 
+[2021-05-16 14:15:12.824] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: Tomas Miller (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: road (248,64,2) (/turf/open/indestructible/ground/outside/road)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - Tomas Miller (/mob/living/carbon/human): Move(road (248,64,2) (/turf/open/indestructible/ground/outside/road), 1)
+ - Tomas Miller (/mob/living/carbon/human): Move(road (249,64,2) (/turf/open/indestructible/ground/outside/road), 5, 0)
+ - Tomas Miller (/mob/living/carbon/human): Move(road (249,64,2) (/turf/open/indestructible/ground/outside/road), 5, null)
+ - Tomas Miller (/mob/living/carbon/human): Move(road (249,64,2) (/turf/open/indestructible/ground/outside/road), 5, null)
+ - Tomas Miller (/mob/living/carbon/human): Move(road (249,64,2) (/turf/open/indestructible/ground/outside/road), 5)
+ - Kaduh (/client): Move(road (249,64,2) (/turf/open/indestructible/ground/outside/road), 5)
+ - Tomas Miller (/mob/living/carbon/human): keyLoop(Kaduh (/client))
+ - Kaduh (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-16 14:41:10.495] runtime error: undefined variable /turf/open/floor/plating/var/hardness
+ - proc name: attackby (/turf/closed/wall/attackby)
+ -   source file: wall_damage.dm,41
+ -   usr: Josef Polson (/mob/living/carbon/human)
+ -   src: the plating (139,19,3) (/turf/open/floor/plating)
+ -   usr.loc: the floor (139,20,3) (/turf/open/floor/f13)
+ -   call stack:
+ - the plating (139,19,3) (/turf/open/floor/plating): attackby(the welding tool (/obj/item/weldingtool), Josef Polson (/mob/living/carbon/human), "icon-x=12;icon-y=8;left=1;scre...", 0, 1)
+ - the welding tool (/obj/item/weldingtool): melee attack chain(Josef Polson (/mob/living/carbon/human), the plating (139,19,3) (/turf/open/floor/plating), "icon-x=12;icon-y=8;left=1;scre...", null, 1)
+ - Josef Polson (/mob/living/carbon/human): ClickOn(the plating (139,19,3) (/turf/open/floor/plating), "icon-x=12;icon-y=8;left=1;scre...")
+ - Josef Polson (/mob/living/carbon/human): CommonClickOn(the plating (139,19,3) (/turf/open/floor/plating), "icon-x=12;icon-y=8;left=1;scre...")
+ - the plating (139,19,3) (/turf/open/floor/plating): Click(the plating (139,19,3) (/turf/open/floor/plating), "mapwindow.map", "icon-x=12;icon-y=8;left=1;scre...", 0)
+ - 
+[2021-05-16 14:47:21.584] runtime error: Cannot create objects of type null.
+ - proc name: break wall (/turf/closed/wall/proc/break_wall)
+ -   source file: walls.dm,64
+ -   usr: Unknown (/mob/living/carbon/human)
+ -   src: the store wall (180,178,2) (/turf/closed/wall/f13/store)
+ -   usr.loc: sidewalk (180,179,2) (/turf/open/indestructible/ground/outside/sidewalk)
+ -   call stack:
+ - the store wall (180,178,2) (/turf/closed/wall/f13/store): break wall()
+ - the store wall (180,178,2) (/turf/closed/wall/f13/store): dismantle wall(0, 0)
+ - the store wall (180,178,2) (/turf/closed/wall/f13/store): try decon(the welding tool (/obj/item/weldingtool), Unknown (/mob/living/carbon/human), sidewalk (180,179,2) (/turf/open/indestructible/ground/outside/sidewalk))
+ - the store wall (180,178,2) (/turf/closed/wall/f13/store): attackby(the welding tool (/obj/item/weldingtool), Unknown (/mob/living/carbon/human), "icon-x=13;icon-y=15;left=1;scr...", 0, 1)
+ - the store wall (180,178,2) (/turf/closed/wall/f13/store): attackby(the welding tool (/obj/item/weldingtool), Unknown (/mob/living/carbon/human), "icon-x=13;icon-y=15;left=1;scr...", 0, 1)
+ - the welding tool (/obj/item/weldingtool): melee attack chain(Unknown (/mob/living/carbon/human), the store wall (180,178,2) (/turf/closed/wall/f13/store), "icon-x=13;icon-y=15;left=1;scr...", null, 1)
+ - Unknown (/mob/living/carbon/human): ClickOn(the store wall (180,178,2) (/turf/closed/wall/f13/store), "icon-x=13;icon-y=15;left=1;scr...")
+ - Unknown (/mob/living/carbon/human): CommonClickOn(the store wall (180,178,2) (/turf/closed/wall/f13/store), "icon-x=13;icon-y=15;left=1;scr...")
+ - the store wall (180,178,2) (/turf/closed/wall/f13/store): Click(the store wall (180,178,2) (/turf/closed/wall/f13/store), "mapwindow.map", "icon-x=13;icon-y=15;left=1;scr...", 0)
+ - 
+[2021-05-16 14:47:21.706] runtime error: undefined variable /turf/open/indestructible/ground/outside/ruins/var/hardness
+ - proc name: attackby (/turf/closed/wall/attackby)
+ -   source file: wall_damage.dm,41
+ -   usr: Unknown (/mob/living/carbon/human)
+ -   src: the ruins (180,178,2) (/turf/open/indestructible/ground/outside/ruins)
+ -   usr.loc: sidewalk (180,179,2) (/turf/open/indestructible/ground/outside/sidewalk)
+ -   call stack:
+ - the ruins (180,178,2) (/turf/open/indestructible/ground/outside/ruins): attackby(the welding tool (/obj/item/weldingtool), Unknown (/mob/living/carbon/human), "icon-x=13;icon-y=15;left=1;scr...", 0, 1)
+ - the welding tool (/obj/item/weldingtool): melee attack chain(Unknown (/mob/living/carbon/human), the ruins (180,178,2) (/turf/open/indestructible/ground/outside/ruins), "icon-x=13;icon-y=15;left=1;scr...", null, 1)
+ - Unknown (/mob/living/carbon/human): ClickOn(the ruins (180,178,2) (/turf/open/indestructible/ground/outside/ruins), "icon-x=13;icon-y=15;left=1;scr...")
+ - Unknown (/mob/living/carbon/human): CommonClickOn(the ruins (180,178,2) (/turf/open/indestructible/ground/outside/ruins), "icon-x=13;icon-y=15;left=1;scr...")
+ - the ruins (180,178,2) (/turf/open/indestructible/ground/outside/ruins): Click(the ruins (180,178,2) (/turf/open/indestructible/ground/outside/ruins), "mapwindow.map", "icon-x=13;icon-y=15;left=1;scr...", 0)
+ - 
+[2021-05-16 15:00:59.267] runtime error: Cannot execute null.update equipment speed mods().
+ - proc name: dropped (/obj/item/proc/dropped)
+ -   source file: items.dm,447
+ -   usr: Josef Polson (/mob/living/carbon/human)
+ -   src: the microfusion cell (/obj/item/stock_parts/cell/ammo/mfc)
+ -   usr.loc: the reinforced floor (43,233,4) (/turf/open/floor/engine)
+ -   src.loc: the plasma carbine (/obj/item/gun/energy/laser/plasma/carbine)
+ -   call stack:
+ - the microfusion cell (/obj/item/stock_parts/cell/ammo/mfc): dropped(null)
+ - the plasma carbine (/obj/item/gun/energy/laser/plasma/carbine): attackby(the microfusion cell (/obj/item/stock_parts/cell/ammo/mfc), Josef Polson (/mob/living/carbon/human), "icon-x=20;icon-y=16;left=1;scr...", 0, 1)
+ - the microfusion cell (/obj/item/stock_parts/cell/ammo/mfc): melee attack chain(Josef Polson (/mob/living/carbon/human), the plasma carbine (/obj/item/gun/energy/laser/plasma/carbine), "icon-x=20;icon-y=16;left=1;scr...", null, 1)
+ - Josef Polson (/mob/living/carbon/human): ClickOn(the plasma carbine (/obj/item/gun/energy/laser/plasma/carbine), "icon-x=20;icon-y=16;left=1;scr...")
+ - Josef Polson (/mob/living/carbon/human): CommonClickOn(the plasma carbine (/obj/item/gun/energy/laser/plasma/carbine), "icon-x=20;icon-y=16;left=1;scr...")
+ - the plasma carbine (/obj/item/gun/energy/laser/plasma/carbine): Click(null, "mapwindow.map", "icon-x=20;icon-y=16;left=1;scr...", 0)
+ - Italos (/client): Click(the plasma carbine (/obj/item/gun/energy/laser/plasma/carbine), null, "mapwindow.map", "icon-x=20;icon-y=16;left=1;scr...", 0)
+ - 
+[2021-05-16 15:02:24.393] runtime error: Cannot execute null.update equipment speed mods().
+ - proc name: dropped (/obj/item/proc/dropped)
+ -   source file: items.dm,447
+ -   usr: Josef Polson (/mob/living/carbon/human)
+ -   src: the microfusion cell (/obj/item/stock_parts/cell/ammo/mfc)
+ -   usr.loc: the reinforced floor (44,234,4) (/turf/open/floor/engine)
+ -   src.loc: the plasma carbine (/obj/item/gun/energy/laser/plasma/carbine)
+ -   call stack:
+ - the microfusion cell (/obj/item/stock_parts/cell/ammo/mfc): dropped(null)
+ - the plasma carbine (/obj/item/gun/energy/laser/plasma/carbine): attackby(the microfusion cell (/obj/item/stock_parts/cell/ammo/mfc), Josef Polson (/mob/living/carbon/human), "icon-x=17;icon-y=15;left=1;scr...", 0, 1)
+ - the microfusion cell (/obj/item/stock_parts/cell/ammo/mfc): melee attack chain(Josef Polson (/mob/living/carbon/human), the plasma carbine (/obj/item/gun/energy/laser/plasma/carbine), "icon-x=17;icon-y=15;left=1;scr...", null, 1)
+ - Josef Polson (/mob/living/carbon/human): ClickOn(the plasma carbine (/obj/item/gun/energy/laser/plasma/carbine), "icon-x=17;icon-y=15;left=1;scr...")
+ - Josef Polson (/mob/living/carbon/human): CommonClickOn(the plasma carbine (/obj/item/gun/energy/laser/plasma/carbine), "icon-x=17;icon-y=15;left=1;scr...")
+ - the plasma carbine (/obj/item/gun/energy/laser/plasma/carbine): Click(null, "mapwindow.map", "icon-x=17;icon-y=15;left=1;scr...", 0)
+ - Italos (/client): Click(the plasma carbine (/obj/item/gun/energy/laser/plasma/carbine), null, "mapwindow.map", "icon-x=17;icon-y=15;left=1;scr...", 0)
+ - 
+[2021-05-16 15:11:57.680] runtime error: type mismatch: null -= the fuel barrel (/obj/structure/reagent_dispensers/barrel/explosive)
+ - proc name: on target qdel (/datum/component/pellet_cloud/proc/on_target_qdel)
+ -   source file: pellet_cloud.dm,317
+ -   usr: 0
+ -   src: /datum/component/pellet_cloud (/datum/component/pellet_cloud)
+ -   call stack:
+ - /datum/component/pellet_cloud (/datum/component/pellet_cloud): on target qdel(the fuel barrel (/obj/structure/reagent_dispensers/barrel/explosive), 0)
+ - CallAsync(/datum/component/pellet_cloud (/datum/component/pellet_cloud), /datum/component/pellet_cloud/... (/datum/component/pellet_cloud/proc/on_target_qdel), /list (/list))
+ - the fuel barrel (/obj/structure/reagent_dispensers/barrel/explosive):  SendSignal("parent_qdeleting", /list (/list))
+ - qdel(the fuel barrel (/obj/structure/reagent_dispensers/barrel/explosive), 0)
+ - the fuel barrel (/obj/structure/reagent_dispensers/barrel/explosive): boom()
+ - the fuel barrel (/obj/structure/reagent_dispensers/barrel/explosive): take damage(9.65, "brute", "bullet", 0, 2, 0)
+ - the fuel barrel (/obj/structure/reagent_dispensers/barrel/explosive): bullet act(the buckshot pellet (/obj/item/projectile/bullet/pellet/shotgun_buckshot), "chest")
+ - the fuel barrel (/obj/structure/reagent_dispensers/barrel/explosive): bullet act(the buckshot pellet (/obj/item/projectile/bullet/pellet/shotgun_buckshot), "chest")
+ - the buckshot pellet (/obj/item/projectile/bullet/pellet/shotgun_buckshot): process hit(sidewalk (203,57,2) (/turf/open/indestructible/ground/outside/sidewalk), the fuel barrel (/obj/structure/reagent_dispensers/barrel/explosive), null, 0)
+ - the buckshot pellet (/obj/item/projectile/bullet/pellet/shotgun_buckshot): Bump(the fuel barrel (/obj/structure/reagent_dispensers/barrel/explosive))
+ - sidewalk (203,57,2) (/turf/open/indestructible/ground/outside/sidewalk): Enter(the buckshot pellet (/obj/item/projectile/bullet/pellet/shotgun_buckshot), sidewalk (203,56,2) (/turf/open/indestructible/ground/outside/sidewalk))
+ - the buckshot pellet (/obj/item/projectile/bullet/pellet/shotgun_buckshot): Move(sidewalk (203,57,2) (/turf/open/indestructible/ground/outside/sidewalk), 1, 0)
+ - the buckshot pellet (/obj/item/projectile/bullet/pellet/shotgun_buckshot): Move(sidewalk (203,57,2) (/turf/open/indestructible/ground/outside/sidewalk), 1, 0)
+ - the buckshot pellet (/obj/item/projectile/bullet/pellet/shotgun_buckshot): Move(sidewalk (203,57,2) (/turf/open/indestructible/ground/outside/sidewalk), 1)
+ - the buckshot pellet (/obj/item/projectile/bullet/pellet/shotgun_buckshot): pixel move(7, 0, 0.5, 1, 1)
+ - the buckshot pellet (/obj/item/projectile/bullet/pellet/shotgun_buckshot): process(1)
+ - Projectiles (/datum/controller/subsystem/processing/projectiles): fire(0)
+ - Projectiles (/datum/controller/subsystem/processing/projectiles): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-16 15:11:57.697] runtime error: Cannot create objects of type null.
+ - proc name: break wall (/turf/closed/wall/proc/break_wall)
+ -   source file: walls.dm,64
+ -   usr: 0
+ -   src: the store wall (201,57,2) (/turf/closed/wall/f13/store)
+ -   call stack:
+ - the store wall (201,57,2) (/turf/closed/wall/f13/store): break wall()
+ - the store wall (201,57,2) (/turf/closed/wall/f13/store): dismantle wall(0, 1)
+ - the store wall (201,57,2) (/turf/closed/wall/f13/store): ex act(3, null)
+ - /datum/explosion (/datum/explosion): New(sidewalk (203,57,2) (/turf/open/indestructible/ground/outside/sidewalk), 0, 1, 2.5, 0, 1, 0, 2.5, 0, 0)
+ - 
+[2021-05-16 15:13:00.890] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: Nykix Nywt (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: the floor (192,52,2) (/turf/open/floor/f13)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - Nykix Nywt (/mob/living/carbon/human): Move(the floor (192,52,2) (/turf/open/floor/f13), 4)
+ - Matheusgp9999 (/client): Move(the floor (192,52,2) (/turf/open/floor/f13), 4)
+ - Nykix Nywt (/mob/living/carbon/human): keyLoop(Matheusgp9999 (/client))
+ - Matheusgp9999 (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-16 15:13:01.150] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: Nykix Nywt (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: the floor (193,52,2) (/turf/open/floor/f13)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - Nykix Nywt (/mob/living/carbon/human): Move(the floor (193,52,2) (/turf/open/floor/f13), 4)
+ - Matheusgp9999 (/client): Move(the floor (193,52,2) (/turf/open/floor/f13), 4)
+ - Nykix Nywt (/mob/living/carbon/human): keyLoop(Matheusgp9999 (/client))
+ - Matheusgp9999 (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-16 15:14:13.120] runtime error: type mismatch: null -= the wooden barricade (/obj/structure/barricade/wooden/planks/pregame)
+ - proc name: on target qdel (/datum/component/pellet_cloud/proc/on_target_qdel)
+ -   source file: pellet_cloud.dm,317
+ -   usr: 0
+ -   src: /datum/component/pellet_cloud (/datum/component/pellet_cloud)
+ -   call stack:
+ - /datum/component/pellet_cloud (/datum/component/pellet_cloud): on target qdel(the wooden barricade (/obj/structure/barricade/wooden/planks/pregame), 0)
+ - CallAsync(/datum/component/pellet_cloud (/datum/component/pellet_cloud), /datum/component/pellet_cloud/... (/datum/component/pellet_cloud/proc/on_target_qdel), /list (/list))
+ - the wooden barricade (/obj/structure/barricade/wooden/planks/pregame):  SendSignal("parent_qdeleting", /list (/list))
+ - qdel(the wooden barricade (/obj/structure/barricade/wooden/planks/pregame), 0)
+ - the wooden barricade (/obj/structure/barricade/wooden/planks/pregame): deconstruct(0)
+ - the wooden barricade (/obj/structure/barricade/wooden/planks/pregame): obj destruction("bullet")
+ - the wooden barricade (/obj/structure/barricade/wooden/planks/pregame): take damage(10.55, "brute", "bullet", 0, 1, 0)
+ - the wooden barricade (/obj/structure/barricade/wooden/planks/pregame): take damage(10.55, "brute", "bullet", 0, 1, 0)
+ - the wooden barricade (/obj/structure/barricade/wooden/planks/pregame): bullet act(the buckshot pellet (/obj/item/projectile/bullet/pellet/shotgun_buckshot), "l_arm")
+ - the buckshot pellet (/obj/item/projectile/bullet/pellet/shotgun_buckshot): process hit(the desert (180,39,2) (/turf/open/indestructible/ground/outside/desert), the wooden barricade (/obj/structure/barricade/wooden/planks/pregame), null, 0)
+ - ...
+ - the buckshot pellet (/obj/item/projectile/bullet/pellet/shotgun_buckshot): Move(the desert (180,39,2) (/turf/open/indestructible/ground/outside/desert), 2, 0)
+ - the buckshot pellet (/obj/item/projectile/bullet/pellet/shotgun_buckshot): Move(the desert (180,39,2) (/turf/open/indestructible/ground/outside/desert), 2, 0)
+ - the buckshot pellet (/obj/item/projectile/bullet/pellet/shotgun_buckshot): Move(the desert (180,39,2) (/turf/open/indestructible/ground/outside/desert), 2)
+ - the buckshot pellet (/obj/item/projectile/bullet/pellet/shotgun_buckshot): pixel move(7, 0, 0.5, 1, 1)
+ - the buckshot pellet (/obj/item/projectile/bullet/pellet/shotgun_buckshot): process(1)
+ - Projectiles (/datum/controller/subsystem/processing/projectiles): fire(0)
+ - Projectiles (/datum/controller/subsystem/processing/projectiles): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-16 15:15:52.968] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: Phillip Brinigh (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: the desert (180,40,2) (/turf/open/indestructible/ground/outside/desert)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - Phillip Brinigh (/mob/living/carbon/human): Move(the desert (180,40,2) (/turf/open/indestructible/ground/outside/desert), 8)
+ - Phillip Brinigh (/mob/living/carbon/human): Move(the desert (180,39,2) (/turf/open/indestructible/ground/outside/desert), 10, 0)
+ - Phillip Brinigh (/mob/living/carbon/human): Move(the desert (180,39,2) (/turf/open/indestructible/ground/outside/desert), 10, null)
+ - Phillip Brinigh (/mob/living/carbon/human): Move(the desert (180,39,2) (/turf/open/indestructible/ground/outside/desert), 10, null)
+ - Phillip Brinigh (/mob/living/carbon/human): Move(the desert (180,39,2) (/turf/open/indestructible/ground/outside/desert), 10)
+ - Corvopimpolho (/client): Move(the desert (180,39,2) (/turf/open/indestructible/ground/outside/desert), 10)
+ - Phillip Brinigh (/mob/living/carbon/human): keyLoop(Corvopimpolho (/client))
+ - Corvopimpolho (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-16 15:15:52.985] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: Phillip Brinigh (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: the desert (180,39,2) (/turf/open/indestructible/ground/outside/desert)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - Phillip Brinigh (/mob/living/carbon/human): Move(the desert (180,39,2) (/turf/open/indestructible/ground/outside/desert), 2)
+ - Phillip Brinigh (/mob/living/carbon/human): Move(the desert (180,39,2) (/turf/open/indestructible/ground/outside/desert), 10, 0)
+ - Phillip Brinigh (/mob/living/carbon/human): Move(the desert (180,39,2) (/turf/open/indestructible/ground/outside/desert), 10, null)
+ - Phillip Brinigh (/mob/living/carbon/human): Move(the desert (180,39,2) (/turf/open/indestructible/ground/outside/desert), 10, null)
+ - Phillip Brinigh (/mob/living/carbon/human): Move(the desert (180,39,2) (/turf/open/indestructible/ground/outside/desert), 10)
+ - Corvopimpolho (/client): Move(the desert (180,39,2) (/turf/open/indestructible/ground/outside/desert), 10)
+ - Phillip Brinigh (/mob/living/carbon/human): keyLoop(Corvopimpolho (/client))
+ - Corvopimpolho (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-16 15:15:52.999] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: Phillip Brinigh (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: the desert (180,39,2) (/turf/open/indestructible/ground/outside/desert)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - Phillip Brinigh (/mob/living/carbon/human): Move(the desert (180,39,2) (/turf/open/indestructible/ground/outside/desert), 10)
+ - Corvopimpolho (/client): Move(the desert (180,39,2) (/turf/open/indestructible/ground/outside/desert), 10)
+ - Phillip Brinigh (/mob/living/carbon/human): keyLoop(Corvopimpolho (/client))
+ - Corvopimpolho (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-16 15:15:54.120] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: Phillip Brinigh (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: the floor (180,38,2) (/turf/open/floor/f13/wood)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - Phillip Brinigh (/mob/living/carbon/human): Move(the floor (180,38,2) (/turf/open/floor/f13/wood), 2)
+ - Corvopimpolho (/client): Move(the floor (180,38,2) (/turf/open/floor/f13/wood), 2)
+ - Phillip Brinigh (/mob/living/carbon/human): keyLoop(Corvopimpolho (/client))
+ - Corvopimpolho (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-16 15:15:54.670] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: Phillip Brinigh (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: the floor (180,37,2) (/turf/open/floor/f13/wood)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - Phillip Brinigh (/mob/living/carbon/human): Move(the floor (180,37,2) (/turf/open/floor/f13/wood), 2)
+ - Corvopimpolho (/client): Move(the floor (180,37,2) (/turf/open/floor/f13/wood), 2)
+ - Phillip Brinigh (/mob/living/carbon/human): keyLoop(Corvopimpolho (/client))
+ - Corvopimpolho (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-16 15:15:55.126] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: Phillip Brinigh (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: the floor (180,36,2) (/turf/open/floor/f13/wood)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - Phillip Brinigh (/mob/living/carbon/human): Move(the floor (180,36,2) (/turf/open/floor/f13/wood), 2)
+ - Corvopimpolho (/client): Move(the floor (180,36,2) (/turf/open/floor/f13/wood), 2)
+ - Phillip Brinigh (/mob/living/carbon/human): keyLoop(Corvopimpolho (/client))
+ - Corvopimpolho (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-16 15:15:55.976] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: Phillip Brinigh (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: the floor (179,35,2) (/turf/open/floor/f13/wood)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - Phillip Brinigh (/mob/living/carbon/human): Move(the floor (179,35,2) (/turf/open/floor/f13/wood), 8)
+ - Corvopimpolho (/client): Move(the floor (179,35,2) (/turf/open/floor/f13/wood), 8)
+ - Phillip Brinigh (/mob/living/carbon/human): keyLoop(Corvopimpolho (/client))
+ - Corvopimpolho (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-16 15:16:07.024] runtime error: type mismatch: null -= the old barrel (/obj/structure/reagent_dispensers/barrel/old)
+ - proc name: on target qdel (/datum/component/pellet_cloud/proc/on_target_qdel)
+ -   source file: pellet_cloud.dm,317
+ -   usr: 0
+ -   src: /datum/component/pellet_cloud (/datum/component/pellet_cloud)
+ -   call stack:
+ - /datum/component/pellet_cloud (/datum/component/pellet_cloud): on target qdel(the old barrel (/obj/structure/reagent_dispensers/barrel/old), 0)
+ - CallAsync(/datum/component/pellet_cloud (/datum/component/pellet_cloud), /datum/component/pellet_cloud/... (/datum/component/pellet_cloud/proc/on_target_qdel), /list (/list))
+ - the old barrel (/obj/structure/reagent_dispensers/barrel/old):  SendSignal("parent_qdeleting", /list (/list))
+ - qdel(the old barrel (/obj/structure/reagent_dispensers/barrel/old), 0)
+ - the old barrel (/obj/structure/reagent_dispensers/barrel/old): boom()
+ - the old barrel (/obj/structure/reagent_dispensers/barrel/old): take damage(9.65, "brute", "bullet", 0, 2, 0)
+ - the old barrel (/obj/structure/reagent_dispensers/barrel/old): bullet act(the buckshot pellet (/obj/item/projectile/bullet/pellet/shotgun_buckshot), "head")
+ - the buckshot pellet (/obj/item/projectile/bullet/pellet/shotgun_buckshot): process hit(the cave (172,14,2) (/turf/open/indestructible/ground/inside/mountain), the old barrel (/obj/structure/reagent_dispensers/barrel/old), null, 0)
+ - the buckshot pellet (/obj/item/projectile/bullet/pellet/shotgun_buckshot): Bump(the old barrel (/obj/structure/reagent_dispensers/barrel/old))
+ - the cave (172,14,2) (/turf/open/indestructible/ground/inside/mountain): Enter(the buckshot pellet (/obj/item/projectile/bullet/pellet/shotgun_buckshot), the cave (172,13,2) (/turf/open/indestructible/ground/inside/mountain))
+ - the buckshot pellet (/obj/item/projectile/bullet/pellet/shotgun_buckshot): Move(the cave (172,14,2) (/turf/open/indestructible/ground/inside/mountain), 1, 0)
+ - the buckshot pellet (/obj/item/projectile/bullet/pellet/shotgun_buckshot): Move(the cave (172,14,2) (/turf/open/indestructible/ground/inside/mountain), 1, 0)
+ - the buckshot pellet (/obj/item/projectile/bullet/pellet/shotgun_buckshot): Move(the cave (172,14,2) (/turf/open/indestructible/ground/inside/mountain), 1)
+ - the buckshot pellet (/obj/item/projectile/bullet/pellet/shotgun_buckshot): pixel move(7, 0, 0.5, 1, 1)
+ - the buckshot pellet (/obj/item/projectile/bullet/pellet/shotgun_buckshot): process(1)
+ - Projectiles (/datum/controller/subsystem/processing/projectiles): fire(0)
+ - Projectiles (/datum/controller/subsystem/processing/projectiles): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-16 15:16:42.732] runtime error: Cannot read null.player_details
+ - proc name: Login (/mob/Login)
+ -   source file: login.dm,46
+ -   usr: (src)
+ -   src: Baam Frest (/mob/living/brain)
+ -   src.loc: null
+ -   call stack:
+ - Baam Frest (/mob/living/brain): Login()
+ - Baam Frest (/mob/living/brain): Login()
+ - 
+[2021-05-16 15:20:13.179] runtime error: Cannot read null.icon
+ - proc name: rotate vis overlay (/datum/controller/subsystem/vis_overlays/proc/rotate_vis_overlay)
+ -   source file: vis_overlays.dm,74
+ -   usr: null
+ -   src: Vis contents overlays (/datum/controller/subsystem/vis_overlays)
+ -   call stack:
+ - Vis contents overlays (/datum/controller/subsystem/vis_overlays): rotate vis overlay(the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper), 1, 2)
+ - CallAsync(Vis contents overlays (/datum/controller/subsystem/vis_overlays), /datum/controller/subsystem/vi... (/datum/controller/subsystem/vis_overlays/proc/rotate_vis_overlay), /list (/list))
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper):  SendSignal("atom_dir_change", /list (/list))
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): setDir(2, 0)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): setDir(2, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the floor (53,229,4) (/turf/open/floor/plasteel/barber), 2, 0, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the floor (53,229,4) (/turf/open/floor/plasteel/barber), 2, 0, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the floor (53,229,4) (/turf/open/floor/plasteel/barber), 2, null, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the floor (53,229,4) (/turf/open/floor/plasteel/barber), 2, null, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the floor (53,229,4) (/turf/open/floor/plasteel/barber), 2, null, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): handle automated movement()
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): handle automated movement()
+ - Idling NPC Pool (/datum/controller/subsystem/idlenpcpool): fire(1)
+ - Idling NPC Pool (/datum/controller/subsystem/idlenpcpool): ignite(1)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-16 15:22:00.583] runtime error: Cannot read null.icon
+ - proc name: rotate vis overlay (/datum/controller/subsystem/vis_overlays/proc/rotate_vis_overlay)
+ -   source file: vis_overlays.dm,74
+ -   usr: null
+ -   src: Vis contents overlays (/datum/controller/subsystem/vis_overlays)
+ -   call stack:
+ - Vis contents overlays (/datum/controller/subsystem/vis_overlays): rotate vis overlay(the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper), 2, 4)
+ - CallAsync(Vis contents overlays (/datum/controller/subsystem/vis_overlays), /datum/controller/subsystem/vi... (/datum/controller/subsystem/vis_overlays/proc/rotate_vis_overlay), /list (/list))
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper):  SendSignal("atom_dir_change", /list (/list))
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): setDir(4, 0)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): setDir(4, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the floor (54,229,4) (/turf/open/floor/plasteel/barber), 4, 0, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the floor (54,229,4) (/turf/open/floor/plasteel/barber), 4, 0, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the floor (54,229,4) (/turf/open/floor/plasteel/barber), 4, null, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the floor (54,229,4) (/turf/open/floor/plasteel/barber), 4, null, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the floor (54,229,4) (/turf/open/floor/plasteel/barber), 4, null, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): handle automated movement()
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): handle automated movement()
+ - Idling NPC Pool (/datum/controller/subsystem/idlenpcpool): fire(0)
+ - Idling NPC Pool (/datum/controller/subsystem/idlenpcpool): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-16 15:23:10.976] runtime error: Cannot read null.icon
+ - proc name: rotate vis overlay (/datum/controller/subsystem/vis_overlays/proc/rotate_vis_overlay)
+ -   source file: vis_overlays.dm,74
+ -   usr: null
+ -   src: Vis contents overlays (/datum/controller/subsystem/vis_overlays)
+ -   call stack:
+ - Vis contents overlays (/datum/controller/subsystem/vis_overlays): rotate vis overlay(the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper), 4, 1)
+ - CallAsync(Vis contents overlays (/datum/controller/subsystem/vis_overlays), /datum/controller/subsystem/vi... (/datum/controller/subsystem/vis_overlays/proc/rotate_vis_overlay), /list (/list))
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper):  SendSignal("atom_dir_change", /list (/list))
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): setDir(1, 0)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): setDir(1, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the floor (54,230,4) (/turf/open/floor/plasteel/barber), 1, 0, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the floor (54,230,4) (/turf/open/floor/plasteel/barber), 1, 0, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the floor (54,230,4) (/turf/open/floor/plasteel/barber), 1, null, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the floor (54,230,4) (/turf/open/floor/plasteel/barber), 1, null, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the floor (54,230,4) (/turf/open/floor/plasteel/barber), 1, null, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): handle automated movement()
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): handle automated movement()
+ - Idling NPC Pool (/datum/controller/subsystem/idlenpcpool): fire(0)
+ - Idling NPC Pool (/datum/controller/subsystem/idlenpcpool): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-16 15:23:30.259] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: Phillip Brinigh (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: the dirt (108,23,2) (/turf/open/indestructible/ground/outside/dirt)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - Phillip Brinigh (/mob/living/carbon/human): Move(the dirt (108,23,2) (/turf/open/indestructible/ground/outside/dirt), 8)
+ - Corvopimpolho (/client): Move(the dirt (108,23,2) (/turf/open/indestructible/ground/outside/dirt), 8)
+ - Phillip Brinigh (/mob/living/carbon/human): keyLoop(Corvopimpolho (/client))
+ - Corvopimpolho (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-16 15:23:30.560] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: Phillip Brinigh (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: the dirt (108,24,2) (/turf/open/indestructible/ground/outside/dirt)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - Phillip Brinigh (/mob/living/carbon/human): Move(the dirt (108,24,2) (/turf/open/indestructible/ground/outside/dirt), 1)
+ - Corvopimpolho (/client): Move(the dirt (108,24,2) (/turf/open/indestructible/ground/outside/dirt), 1)
+ - Phillip Brinigh (/mob/living/carbon/human): keyLoop(Corvopimpolho (/client))
+ - Corvopimpolho (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-16 15:24:02.299] runtime error: Cannot read null.icon
+ - proc name: rotate vis overlay (/datum/controller/subsystem/vis_overlays/proc/rotate_vis_overlay)
+ -   source file: vis_overlays.dm,74
+ -   usr: null
+ -   src: Vis contents overlays (/datum/controller/subsystem/vis_overlays)
+ -   call stack:
+ - Vis contents overlays (/datum/controller/subsystem/vis_overlays): rotate vis overlay(the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper), 1, 2)
+ - CallAsync(Vis contents overlays (/datum/controller/subsystem/vis_overlays), /datum/controller/subsystem/vi... (/datum/controller/subsystem/vis_overlays/proc/rotate_vis_overlay), /list (/list))
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper):  SendSignal("atom_dir_change", /list (/list))
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): setDir(2, 0)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): setDir(2, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the floor (54,228,4) (/turf/open/floor/plasteel/barber), 2, 0, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the floor (54,228,4) (/turf/open/floor/plasteel/barber), null, 0, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the floor (54,228,4) (/turf/open/floor/plasteel/barber), null, null, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the floor (54,228,4) (/turf/open/floor/plasteel/barber), null, null, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the floor (54,228,4) (/turf/open/floor/plasteel/barber), null, null, null)
+ - ...
+ - the giant spider (947) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter): Move(the floor (54,229,4) (/turf/open/floor/plasteel/barber), 1, 0, null)
+ - the giant spider (947) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter): Move(the floor (54,229,4) (/turf/open/floor/plasteel/barber), 1, 0, null)
+ - the giant spider (947) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter): Move(the floor (54,229,4) (/turf/open/floor/plasteel/barber), 1, null, null)
+ - the giant spider (947) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter): Move(the floor (54,229,4) (/turf/open/floor/plasteel/barber), 1, null, null)
+ - the giant spider (947) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter): Move(the floor (54,229,4) (/turf/open/floor/plasteel/barber), 1, null, null)
+ - the giant spider (947) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter): handle automated movement()
+ - the giant spider (947) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter): handle automated movement()
+ - Idling NPC Pool (/datum/controller/subsystem/idlenpcpool): ignite(0)
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-16 15:24:02.324] runtime error: Cannot read null.icon
+ - proc name: rotate vis overlay (/datum/controller/subsystem/vis_overlays/proc/rotate_vis_overlay)
+ -   source file: vis_overlays.dm,74
+ -   usr: null
+ -   src: Vis contents overlays (/datum/controller/subsystem/vis_overlays)
+ -   call stack:
+ - Vis contents overlays (/datum/controller/subsystem/vis_overlays): rotate vis overlay(the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper), 2, null)
+ - CallAsync(Vis contents overlays (/datum/controller/subsystem/vis_overlays), /datum/controller/subsystem/vi... (/datum/controller/subsystem/vis_overlays/proc/rotate_vis_overlay), /list (/list))
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper):  SendSignal("atom_dir_change", /list (/list))
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): setDir(null, 0)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): setDir(null, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the floor (54,228,4) (/turf/open/floor/plasteel/barber), null, 0, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the floor (54,228,4) (/turf/open/floor/plasteel/barber), null, null, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the floor (54,228,4) (/turf/open/floor/plasteel/barber), null, null, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the floor (54,228,4) (/turf/open/floor/plasteel/barber), null, null, null)
+ - the giant spider (947) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter): MobBump(the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper))
+ - ...
+ - the giant spider (947) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter): Move(the floor (54,229,4) (/turf/open/floor/plasteel/barber), 1, 0, null)
+ - the giant spider (947) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter): Move(the floor (54,229,4) (/turf/open/floor/plasteel/barber), 1, null, null)
+ - the giant spider (947) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter): Move(the floor (54,229,4) (/turf/open/floor/plasteel/barber), 1, null, null)
+ - the giant spider (947) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter): Move(the floor (54,229,4) (/turf/open/floor/plasteel/barber), 1, null, null)
+ - the giant spider (947) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter): handle automated movement()
+ - the giant spider (947) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter): handle automated movement()
+ - Idling NPC Pool (/datum/controller/subsystem/idlenpcpool): fire(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-16 15:24:43.483] runtime error: Cannot read null.icon
+ - proc name: rotate vis overlay (/datum/controller/subsystem/vis_overlays/proc/rotate_vis_overlay)
+ -   source file: vis_overlays.dm,74
+ -   usr: null
+ -   src: Vis contents overlays (/datum/controller/subsystem/vis_overlays)
+ -   call stack:
+ - Vis contents overlays (/datum/controller/subsystem/vis_overlays): rotate vis overlay(the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper), 2, 4)
+ - CallAsync(Vis contents overlays (/datum/controller/subsystem/vis_overlays), /datum/controller/subsystem/vi... (/datum/controller/subsystem/vis_overlays/proc/rotate_vis_overlay), /list (/list))
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper):  SendSignal("atom_dir_change", /list (/list))
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): setDir(4, 0)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): setDir(4, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the rusted reinforced wall (55,228,4) (/turf/closed/wall/r_wall/rust), 4, 0, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the rusted reinforced wall (55,228,4) (/turf/closed/wall/r_wall/rust), 4, 0, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the rusted reinforced wall (55,228,4) (/turf/closed/wall/r_wall/rust), 4, null, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the rusted reinforced wall (55,228,4) (/turf/closed/wall/r_wall/rust), 4, null, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the rusted reinforced wall (55,228,4) (/turf/closed/wall/r_wall/rust), 4, null, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): handle automated movement()
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): handle automated movement()
+ - NPC Pool (/datum/controller/subsystem/npcpool): fire(0)
+ - NPC Pool (/datum/controller/subsystem/npcpool): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-16 15:25:45.597] runtime error: Cannot read null.icon
+ - proc name: rotate vis overlay (/datum/controller/subsystem/vis_overlays/proc/rotate_vis_overlay)
+ -   source file: vis_overlays.dm,74
+ -   usr: null
+ -   src: Vis contents overlays (/datum/controller/subsystem/vis_overlays)
+ -   call stack:
+ - Vis contents overlays (/datum/controller/subsystem/vis_overlays): rotate vis overlay(the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper), 4, 2)
+ - CallAsync(Vis contents overlays (/datum/controller/subsystem/vis_overlays), /datum/controller/subsystem/vi... (/datum/controller/subsystem/vis_overlays/proc/rotate_vis_overlay), /list (/list))
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper):  SendSignal("atom_dir_change", /list (/list))
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): setDir(2, 0)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): setDir(2, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the floor (54,227,4) (/turf/open/floor/plasteel/barber), 2, 0, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the floor (54,227,4) (/turf/open/floor/plasteel/barber), 2, 0, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the floor (54,227,4) (/turf/open/floor/plasteel/barber), 2, null, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the floor (54,227,4) (/turf/open/floor/plasteel/barber), 2, null, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the floor (54,227,4) (/turf/open/floor/plasteel/barber), 2, null, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): handle automated movement()
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): handle automated movement()
+ - Idling NPC Pool (/datum/controller/subsystem/idlenpcpool): fire(0)
+ - Idling NPC Pool (/datum/controller/subsystem/idlenpcpool): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-16 15:33:24.551] runtime error: Cannot read null.icon
+ - proc name: rotate vis overlay (/datum/controller/subsystem/vis_overlays/proc/rotate_vis_overlay)
+ -   source file: vis_overlays.dm,74
+ -   usr: null
+ -   src: Vis contents overlays (/datum/controller/subsystem/vis_overlays)
+ -   call stack:
+ - Vis contents overlays (/datum/controller/subsystem/vis_overlays): rotate vis overlay(the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper), 2, 4)
+ - CallAsync(Vis contents overlays (/datum/controller/subsystem/vis_overlays), /datum/controller/subsystem/vi... (/datum/controller/subsystem/vis_overlays/proc/rotate_vis_overlay), /list (/list))
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper):  SendSignal("atom_dir_change", /list (/list))
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): setDir(4, 0)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): setDir(4, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the rusted reinforced wall (55,227,4) (/turf/closed/wall/r_wall/rust), 4, 0, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the rusted reinforced wall (55,227,4) (/turf/closed/wall/r_wall/rust), 4, 0, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the rusted reinforced wall (55,227,4) (/turf/closed/wall/r_wall/rust), 4, null, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the rusted reinforced wall (55,227,4) (/turf/closed/wall/r_wall/rust), 4, null, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the rusted reinforced wall (55,227,4) (/turf/closed/wall/r_wall/rust), 4, null, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): handle automated movement()
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): handle automated movement()
+ - Idling NPC Pool (/datum/controller/subsystem/idlenpcpool): fire(0)
+ - Idling NPC Pool (/datum/controller/subsystem/idlenpcpool): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-16 15:34:28.419] runtime error: Cannot read null.icon
+ - proc name: rotate vis overlay (/datum/controller/subsystem/vis_overlays/proc/rotate_vis_overlay)
+ -   source file: vis_overlays.dm,74
+ -   usr: null
+ -   src: Vis contents overlays (/datum/controller/subsystem/vis_overlays)
+ -   call stack:
+ - Vis contents overlays (/datum/controller/subsystem/vis_overlays): rotate vis overlay(the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper), 4, 8)
+ - CallAsync(Vis contents overlays (/datum/controller/subsystem/vis_overlays), /datum/controller/subsystem/vi... (/datum/controller/subsystem/vis_overlays/proc/rotate_vis_overlay), /list (/list))
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper):  SendSignal("atom_dir_change", /list (/list))
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): setDir(8, 0)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): setDir(8, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the floor (53,227,4) (/turf/open/floor/plasteel/barber), 8, 0, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the floor (53,227,4) (/turf/open/floor/plasteel/barber), 8, 0, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the floor (53,227,4) (/turf/open/floor/plasteel/barber), 8, null, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the floor (53,227,4) (/turf/open/floor/plasteel/barber), 8, null, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the floor (53,227,4) (/turf/open/floor/plasteel/barber), 8, null, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): handle automated movement()
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): handle automated movement()
+ - Idling NPC Pool (/datum/controller/subsystem/idlenpcpool): fire(1)
+ - Idling NPC Pool (/datum/controller/subsystem/idlenpcpool): ignite(1)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-16 15:35:33.002] runtime error: Cannot read null.icon
+ - proc name: rotate vis overlay (/datum/controller/subsystem/vis_overlays/proc/rotate_vis_overlay)
+ -   source file: vis_overlays.dm,74
+ -   usr: null
+ -   src: Vis contents overlays (/datum/controller/subsystem/vis_overlays)
+ -   call stack:
+ - Vis contents overlays (/datum/controller/subsystem/vis_overlays): rotate vis overlay(the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper), 8, 1)
+ - CallAsync(Vis contents overlays (/datum/controller/subsystem/vis_overlays), /datum/controller/subsystem/vi... (/datum/controller/subsystem/vis_overlays/proc/rotate_vis_overlay), /list (/list))
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper):  SendSignal("atom_dir_change", /list (/list))
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): setDir(1, 0)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): setDir(1, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the floor (53,228,4) (/turf/open/floor/plasteel/barber), 1, 0, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the floor (53,228,4) (/turf/open/floor/plasteel/barber), 1, 0, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the floor (53,228,4) (/turf/open/floor/plasteel/barber), 1, null, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the floor (53,228,4) (/turf/open/floor/plasteel/barber), 1, null, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the floor (53,228,4) (/turf/open/floor/plasteel/barber), 1, null, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): handle automated movement()
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): handle automated movement()
+ - Idling NPC Pool (/datum/controller/subsystem/idlenpcpool): fire(1)
+ - Idling NPC Pool (/datum/controller/subsystem/idlenpcpool): ignite(1)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-16 15:35:33.026] runtime error: Cannot read null.icon
+ - proc name: rotate vis overlay (/datum/controller/subsystem/vis_overlays/proc/rotate_vis_overlay)
+ -   source file: vis_overlays.dm,74
+ -   usr: null
+ -   src: Vis contents overlays (/datum/controller/subsystem/vis_overlays)
+ -   call stack:
+ - Vis contents overlays (/datum/controller/subsystem/vis_overlays): rotate vis overlay(the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper), 1, null)
+ - CallAsync(Vis contents overlays (/datum/controller/subsystem/vis_overlays), /datum/controller/subsystem/vi... (/datum/controller/subsystem/vis_overlays/proc/rotate_vis_overlay), /list (/list))
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper):  SendSignal("atom_dir_change", /list (/list))
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): setDir(null, 0)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): setDir(null, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the floor (53,228,4) (/turf/open/floor/plasteel/barber), null, 0, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the floor (53,228,4) (/turf/open/floor/plasteel/barber), null, null, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the floor (53,228,4) (/turf/open/floor/plasteel/barber), null, null, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the floor (53,228,4) (/turf/open/floor/plasteel/barber), null, null, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): MobBump(the giant spider (947) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter))
+ - ...
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the floor (53,228,4) (/turf/open/floor/plasteel/barber), 1, 0, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the floor (53,228,4) (/turf/open/floor/plasteel/barber), 1, null, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the floor (53,228,4) (/turf/open/floor/plasteel/barber), 1, null, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the floor (53,228,4) (/turf/open/floor/plasteel/barber), 1, null, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): handle automated movement()
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): handle automated movement()
+ - Idling NPC Pool (/datum/controller/subsystem/idlenpcpool): fire(1)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-16 15:36:24.408] runtime error: Cannot read null.icon
+ - proc name: rotate vis overlay (/datum/controller/subsystem/vis_overlays/proc/rotate_vis_overlay)
+ -   source file: vis_overlays.dm,74
+ -   usr: null
+ -   src: Vis contents overlays (/datum/controller/subsystem/vis_overlays)
+ -   call stack:
+ - Vis contents overlays (/datum/controller/subsystem/vis_overlays): rotate vis overlay(the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper), 1, 2)
+ - CallAsync(Vis contents overlays (/datum/controller/subsystem/vis_overlays), /datum/controller/subsystem/vi... (/datum/controller/subsystem/vis_overlays/proc/rotate_vis_overlay), /list (/list))
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper):  SendSignal("atom_dir_change", /list (/list))
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): setDir(2, 0)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): setDir(2, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the floor (53,227,4) (/turf/open/floor/plasteel/barber), 2, 0, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the floor (53,227,4) (/turf/open/floor/plasteel/barber), null, 0, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the floor (53,227,4) (/turf/open/floor/plasteel/barber), null, null, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the floor (53,227,4) (/turf/open/floor/plasteel/barber), null, null, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the floor (53,227,4) (/turf/open/floor/plasteel/barber), null, null, null)
+ - ...
+ - the giant spider (947) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter): Move(the floor (53,228,4) (/turf/open/floor/plasteel/barber), 1, 0, null)
+ - the giant spider (947) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter): Move(the floor (53,228,4) (/turf/open/floor/plasteel/barber), 1, 0, null)
+ - the giant spider (947) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter): Move(the floor (53,228,4) (/turf/open/floor/plasteel/barber), 1, null, null)
+ - the giant spider (947) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter): Move(the floor (53,228,4) (/turf/open/floor/plasteel/barber), 1, null, null)
+ - the giant spider (947) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter): Move(the floor (53,228,4) (/turf/open/floor/plasteel/barber), 1, null, null)
+ - the giant spider (947) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter): handle automated movement()
+ - the giant spider (947) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter): handle automated movement()
+ - Idling NPC Pool (/datum/controller/subsystem/idlenpcpool): ignite(1)
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-16 15:36:24.430] runtime error: Cannot read null.icon
+ - proc name: rotate vis overlay (/datum/controller/subsystem/vis_overlays/proc/rotate_vis_overlay)
+ -   source file: vis_overlays.dm,74
+ -   usr: null
+ -   src: Vis contents overlays (/datum/controller/subsystem/vis_overlays)
+ -   call stack:
+ - Vis contents overlays (/datum/controller/subsystem/vis_overlays): rotate vis overlay(the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper), 2, null)
+ - CallAsync(Vis contents overlays (/datum/controller/subsystem/vis_overlays), /datum/controller/subsystem/vi... (/datum/controller/subsystem/vis_overlays/proc/rotate_vis_overlay), /list (/list))
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper):  SendSignal("atom_dir_change", /list (/list))
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): setDir(null, 0)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): setDir(null, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the floor (53,227,4) (/turf/open/floor/plasteel/barber), null, 0, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the floor (53,227,4) (/turf/open/floor/plasteel/barber), null, null, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the floor (53,227,4) (/turf/open/floor/plasteel/barber), null, null, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the floor (53,227,4) (/turf/open/floor/plasteel/barber), null, null, null)
+ - the giant spider (947) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter): MobBump(the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper))
+ - ...
+ - the giant spider (947) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter): Move(the floor (53,228,4) (/turf/open/floor/plasteel/barber), 1, 0, null)
+ - the giant spider (947) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter): Move(the floor (53,228,4) (/turf/open/floor/plasteel/barber), 1, null, null)
+ - the giant spider (947) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter): Move(the floor (53,228,4) (/turf/open/floor/plasteel/barber), 1, null, null)
+ - the giant spider (947) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter): Move(the floor (53,228,4) (/turf/open/floor/plasteel/barber), 1, null, null)
+ - the giant spider (947) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter): handle automated movement()
+ - the giant spider (947) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter): handle automated movement()
+ - Idling NPC Pool (/datum/controller/subsystem/idlenpcpool): fire(1)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-16 15:37:47.838] runtime error: Cannot read null.icon
+ - proc name: rotate vis overlay (/datum/controller/subsystem/vis_overlays/proc/rotate_vis_overlay)
+ -   source file: vis_overlays.dm,74
+ -   usr: null
+ -   src: Vis contents overlays (/datum/controller/subsystem/vis_overlays)
+ -   call stack:
+ - Vis contents overlays (/datum/controller/subsystem/vis_overlays): rotate vis overlay(the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper), 2, 4)
+ - CallAsync(Vis contents overlays (/datum/controller/subsystem/vis_overlays), /datum/controller/subsystem/vi... (/datum/controller/subsystem/vis_overlays/proc/rotate_vis_overlay), /list (/list))
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper):  SendSignal("atom_dir_change", /list (/list))
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): setDir(4, 0)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): setDir(4, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the floor (54,227,4) (/turf/open/floor/plasteel/barber), 4, 0, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the floor (54,227,4) (/turf/open/floor/plasteel/barber), 4, 0, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the floor (54,227,4) (/turf/open/floor/plasteel/barber), 4, null, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the floor (54,227,4) (/turf/open/floor/plasteel/barber), 4, null, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the floor (54,227,4) (/turf/open/floor/plasteel/barber), 4, null, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): handle automated movement()
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): handle automated movement()
+ - Idling NPC Pool (/datum/controller/subsystem/idlenpcpool): fire(1)
+ - Idling NPC Pool (/datum/controller/subsystem/idlenpcpool): ignite(1)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-16 15:38:52.805] runtime error: Cannot read null.icon
+ - proc name: rotate vis overlay (/datum/controller/subsystem/vis_overlays/proc/rotate_vis_overlay)
+ -   source file: vis_overlays.dm,74
+ -   usr: null
+ -   src: Vis contents overlays (/datum/controller/subsystem/vis_overlays)
+ -   call stack:
+ - Vis contents overlays (/datum/controller/subsystem/vis_overlays): rotate vis overlay(the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper), 4, 2)
+ - CallAsync(Vis contents overlays (/datum/controller/subsystem/vis_overlays), /datum/controller/subsystem/vi... (/datum/controller/subsystem/vis_overlays/proc/rotate_vis_overlay), /list (/list))
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper):  SendSignal("atom_dir_change", /list (/list))
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): setDir(2, 0)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): setDir(2, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the rusted reinforced wall (54,226,4) (/turf/closed/wall/r_wall/rust), 2, 0, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the rusted reinforced wall (54,226,4) (/turf/closed/wall/r_wall/rust), 2, 0, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the rusted reinforced wall (54,226,4) (/turf/closed/wall/r_wall/rust), 2, null, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the rusted reinforced wall (54,226,4) (/turf/closed/wall/r_wall/rust), 2, null, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the rusted reinforced wall (54,226,4) (/turf/closed/wall/r_wall/rust), 2, null, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): handle automated movement()
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): handle automated movement()
+ - Idling NPC Pool (/datum/controller/subsystem/idlenpcpool): fire(1)
+ - Idling NPC Pool (/datum/controller/subsystem/idlenpcpool): ignite(1)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-16 15:39:58.021] runtime error: Cannot read null.icon
+ - proc name: rotate vis overlay (/datum/controller/subsystem/vis_overlays/proc/rotate_vis_overlay)
+ -   source file: vis_overlays.dm,74
+ -   usr: null
+ -   src: Vis contents overlays (/datum/controller/subsystem/vis_overlays)
+ -   call stack:
+ - Vis contents overlays (/datum/controller/subsystem/vis_overlays): rotate vis overlay(the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper), 2, 8)
+ - CallAsync(Vis contents overlays (/datum/controller/subsystem/vis_overlays), /datum/controller/subsystem/vi... (/datum/controller/subsystem/vis_overlays/proc/rotate_vis_overlay), /list (/list))
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper):  SendSignal("atom_dir_change", /list (/list))
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): setDir(8, 0)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): setDir(8, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the floor (53,227,4) (/turf/open/floor/plasteel/barber), 8, 0, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the floor (53,227,4) (/turf/open/floor/plasteel/barber), 8, 0, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the floor (53,227,4) (/turf/open/floor/plasteel/barber), 8, null, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the floor (53,227,4) (/turf/open/floor/plasteel/barber), 8, null, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the floor (53,227,4) (/turf/open/floor/plasteel/barber), 8, null, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): handle automated movement()
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): handle automated movement()
+ - Idling NPC Pool (/datum/controller/subsystem/idlenpcpool): fire(1)
+ - Idling NPC Pool (/datum/controller/subsystem/idlenpcpool): ignite(1)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-16 15:41:02.731] runtime error: Cannot read null.icon
+ - proc name: rotate vis overlay (/datum/controller/subsystem/vis_overlays/proc/rotate_vis_overlay)
+ -   source file: vis_overlays.dm,74
+ -   usr: null
+ -   src: Vis contents overlays (/datum/controller/subsystem/vis_overlays)
+ -   call stack:
+ - Vis contents overlays (/datum/controller/subsystem/vis_overlays): rotate vis overlay(the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper), 8, 1)
+ - CallAsync(Vis contents overlays (/datum/controller/subsystem/vis_overlays), /datum/controller/subsystem/vi... (/datum/controller/subsystem/vis_overlays/proc/rotate_vis_overlay), /list (/list))
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper):  SendSignal("atom_dir_change", /list (/list))
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): setDir(1, 0)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): setDir(1, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the floor (53,228,4) (/turf/open/floor/plasteel/barber), 1, 0, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the floor (53,228,4) (/turf/open/floor/plasteel/barber), 1, 0, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the floor (53,228,4) (/turf/open/floor/plasteel/barber), 1, null, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the floor (53,228,4) (/turf/open/floor/plasteel/barber), 1, null, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): Move(the floor (53,228,4) (/turf/open/floor/plasteel/barber), 1, null, null)
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): handle automated movement()
+ - the viper (245) (/mob/living/simple_animal/hostile/poison/giant_spider/hunter/viper): handle automated movement()
+ - Idling NPC Pool (/datum/controller/subsystem/idlenpcpool): fire(1)
+ - Idling NPC Pool (/datum/controller/subsystem/idlenpcpool): ignite(1)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-16 15:43:52.004] Shutting down Chat subsystem...
+[2021-05-16 15:43:52.005] Shutting down Persistence subsystem...
+[2021-05-16 15:43:52.007] Shutting down Pathfinder subsystem...
+[2021-05-16 15:43:52.008] Shutting down Minor Mapping subsystem...
+[2021-05-16 15:43:52.009] Shutting down Shuttle subsystem...
+[2021-05-16 15:43:52.010] Shutting down Lighting subsystem...
+[2021-05-16 15:43:52.011] Shutting down XKeyScore subsystem...
+[2021-05-16 15:43:52.012] Shutting down Sticky Ban subsystem...
+[2021-05-16 15:43:52.013] Shutting down Overlay subsystem...
+[2021-05-16 15:43:52.161] Shutting down Icon Smoothing subsystem...
+[2021-05-16 15:43:52.162] Shutting down Assets subsystem...
+[2021-05-16 15:43:52.163] Shutting down Atmospherics subsystem...
+[2021-05-16 15:43:52.164] Shutting down Wet floors subsystem...
+[2021-05-16 15:43:52.165] Shutting down Weather subsystem...
+[2021-05-16 15:43:52.166] Shutting down Vote subsystem...
+[2021-05-16 15:43:52.167] Shutting down Traumas subsystem...
+[2021-05-16 15:43:52.168] Shutting down Time Tracking subsystem...
+[2021-05-16 15:43:52.169] Shutting down Throwing subsystem...
+[2021-05-16 15:43:52.169] Shutting down tgui subsystem...
+[2021-05-16 15:43:52.170] Shutting down Sun subsystem...
+[2021-05-16 15:43:52.171] Shutting down Status Effects subsystem...
+[2021-05-16 15:43:52.172] Shutting down Space Drift subsystem...
+[2021-05-16 15:43:52.173] Shutting down Radio subsystem...
+[2021-05-16 15:43:52.174] Shutting down Radiation subsystem...
+[2021-05-16 15:43:52.175] Shutting down Projectiles subsystem...
+[2021-05-16 15:43:52.175] Shutting down Processing subsystem...
+[2021-05-16 15:43:52.176] Shutting down Parallax subsystem...
+[2021-05-16 15:43:52.177] Shutting down pAI subsystem...
+[2021-05-16 15:43:52.178] Shutting down Objects subsystem...
+[2021-05-16 15:43:52.179] Shutting down NPC Pool subsystem...
+[2021-05-16 15:43:52.180] Shutting down Night Shift subsystem...
+[2021-05-16 15:43:52.181] Shutting down Nanites subsystem...
+[2021-05-16 15:43:52.182] Shutting down Monster Wave subsystem...
+[2021-05-16 15:43:52.183] Shutting down Mobs subsystem...
+[2021-05-16 15:43:52.183] Shutting down Mob Spawners subsystem...
+[2021-05-16 15:43:52.184] Shutting down Minimaps subsystem...
+[2021-05-16 15:43:52.185] Shutting down Medals subsystem...
+[2021-05-16 15:43:52.186] Shutting down Materials subsystem...
+[2021-05-16 15:43:52.187] Shutting down Jukeboxes subsystem...
+[2021-05-16 15:43:52.188] Shutting down Item Spawners subsystem...
+[2021-05-16 15:43:52.189] Shutting down Idling NPC Pool subsystem...
+[2021-05-16 15:43:52.190] Shutting down HUD updates subsystem...
+[2021-05-16 15:43:52.191] Shutting down Fluids subsystem...
+[2021-05-16 15:43:52.192] Shutting down Fire Burning subsystem...
+[2021-05-16 15:43:52.193] Shutting down Fields subsystem...
+[2021-05-16 15:43:52.193] Shutting down Fast Processing subsystem...
+[2021-05-16 15:43:52.194] Shutting down Disease subsystem...
+[2021-05-16 15:43:52.195] Shutting down Day/Night Cycle subsystem...
+[2021-05-16 15:43:52.196] Shutting down Datum Component System subsystem...
+[2021-05-16 15:43:52.197] Shutting down Communications subsystem...
+[2021-05-16 15:43:52.198] Shutting down Chemistry subsystem...
+[2021-05-16 15:43:52.199] Shutting down Auxtools Callbacks subsystem...
+[2021-05-16 15:43:52.200] Shutting down Autotransfer Vote subsystem...
+[2021-05-16 15:43:52.200] Shutting down Augury subsystem...
+[2021-05-16 15:43:52.201] Shutting down Atmos Adjacency subsystem...
+[2021-05-16 15:43:52.202] Shutting down Acid subsystem...
+[2021-05-16 15:43:52.203] Shutting down Timer subsystem...
+[2021-05-16 15:43:52.204] Shutting down Circuit subsystem...
+[2021-05-16 15:43:52.205] Shutting down Machines subsystem...
+[2021-05-16 15:43:52.206] Shutting down Language subsystem...
+[2021-05-16 15:43:52.207] Shutting down Atoms subsystem...
+[2021-05-16 15:43:52.217] Shutting down Holodeck subsystem...
+[2021-05-16 15:43:52.218] Shutting down Networks subsystem...
+[2021-05-16 15:43:52.219] Shutting down Economy subsystem...
+[2021-05-16 15:43:52.219] Shutting down Mapping subsystem...
+[2021-05-16 15:43:52.220] Shutting down Instruments subsystem...
+[2021-05-16 15:43:52.221] Shutting down Ticker subsystem...
+[2021-05-16 15:43:52.268] runtime error: Admin datum created without a rank
+ - proc name: New (/datum/admins/New)
+ -   source file: holder2.dm,45
+ -   usr: null
+ -   src: nobody\'s admin datum (no rank... (/datum/admins)
+ -   call stack:
+ - nobody\'s admin datum (no rank... (/datum/admins): New(null, "dantesousa", 0, 1)
+ - load admins(1)
+ - Ticker (/datum/controller/subsystem/ticker): save admin data()
+ - Ticker (/datum/controller/subsystem/ticker): Shutdown()
+ - Master (/datum/controller/master): Shutdown()
+ - world: Reboot(0, 0)
+ - Ticker (/datum/controller/subsystem/ticker): Reboot("Restart vote successful.", "restart vote", 600)
+ - 
+[2021-05-16 15:43:52.530] Shutting down Quirks subsystem...
+[2021-05-16 15:43:52.532] Shutting down Jobs subsystem...
+[2021-05-16 15:43:52.532] Shutting down Events subsystem...
+[2021-05-16 15:43:52.533] Shutting down Research subsystem...
+[2021-05-16 15:43:52.534] Shutting down Vis contents overlays subsystem...
+[2021-05-16 15:43:52.535] Shutting down Sounds subsystem...
+[2021-05-16 15:43:52.536] Shutting down Input subsystem...
+[2021-05-16 15:43:52.537] Shutting down Server Tasks subsystem...
+[2021-05-16 15:43:52.539] Shutting down Blackbox subsystem...
+[2021-05-16 15:43:52.559] Shutting down Stat Panels subsystem...
+[2021-05-16 15:43:52.560] Shutting down Database subsystem...
+[2021-05-16 15:43:52.570] Shutting down Garbage subsystem...
+[2021-05-16 15:43:52.912] Shutting down Title Screen subsystem...
+[2021-05-16 15:43:52.917] Shutting down Fail2Topic subsystem...
+[2021-05-16 15:43:53.152] Shutting down Profiler subsystem...
+[2021-05-16 15:43:53.153] Shutdown complete
+[2021-05-16 15:43:53.154] World rebooted at 15:43:53

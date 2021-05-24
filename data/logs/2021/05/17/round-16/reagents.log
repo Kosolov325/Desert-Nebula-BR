@@ -1,0 +1,982 @@
+[2021-05-17 19:44:17.219] Starting up round ID 16.
+ - -------------------------
+[2021-05-17 19:51:15.374] MOB ADD: on_mob_add(): Degusta00/(Bob Loureiro) at Wasteland (158, 69, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 19:51:27.130] MOB ADD: on_merge(): Degusta00/(Bob Loureiro) at Wasteland (162, 75, 2) - 19 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 19:51:38.310] MOB ADD: on_mob_add(): Nickenzo12345/(Sabrina Overstreet) at Wasteland (252, 5, 4) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 19:51:45.125] MOB ADD: on_mob_add(): Corvopimpolho/(Goddard Osterweis) at Tunnel (148, 134, 3) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-17 19:52:10.972] MOB DELETE: on_mob_delete: Degusta00/(Bob Loureiro) at Building (205, 80, 2) - /datum/reagent/medicine/stimpak
+[2021-05-17 19:52:46.195] MOB DELETE: on_mob_delete: Corvopimpolho/(Goddard Osterweis) at Tunnel (150, 127, 3) - /datum/reagent/medicine/healing_powder
+[2021-05-17 19:53:23.738] MOB ADD: on_mob_add(): Luciam/(Dav Jones) at Wasteland (87, 118, 2) - 5 of /datum/reagent/toxin/cazador_venom with 1 purity
+[2021-05-17 19:53:27.808] MOB ADD: on_merge(): Luciam/(Dav Jones) at Wasteland (99, 118, 2) - 9.2 of /datum/reagent/toxin/cazador_venom with 1 purity
+[2021-05-17 19:54:04.494] MOB DELETE: on_mob_delete: Luciam/(Dav Jones) at Wasteland (95, 220, 2) - /datum/reagent/toxin/cazador_venom
+[2021-05-17 19:54:36.877] MOB ADD: on_mob_add(): Luciam/(Dav Jones) at Wasteland (72, 189, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 19:55:03.577] MOB ADD: on_mob_add(): Corvopimpolho/(Goddard Osterweis) at Tunnel (135, 116, 3) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-17 19:55:18.076] MOB DELETE: on_mob_delete: Luciam/(Dav Jones) at Wasteland (46, 163, 2) - /datum/reagent/medicine/stimpak
+[2021-05-17 19:55:30.202] MOB DELETE: on_mob_delete: Corvopimpolho/(Goddard Osterweis) at Tunnel (128, 119, 3) - /datum/reagent/medicine/healing_powder
+[2021-05-17 19:55:32.455] MOB ADD: on_mob_add(): Dfrenando/(Cecilia Stange) at Wasteland (223, 132, 2) - 5 of /datum/reagent/toxin/cazador_venom with 1 purity
+[2021-05-17 19:55:49.915] MOB DELETE: on_mob_delete: Dfrenando/(Cecilia Stange) at Wasteland (230, 109, 2) - /datum/reagent/toxin/cazador_venom
+[2021-05-17 19:56:12.268] MOB ADD: on_mob_add(): AlexAlbright/(Rebeka Marinho) at Tunnel (132, 129, 3) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 19:56:30.384] MOB DELETE: on_mob_delete: AlexAlbright/(Rebeka Marinho) at Tunnel (142, 134, 3) - /datum/reagent/medicine/stimpak
+[2021-05-17 19:56:37.514] MOB ADD: on_mob_add(): Luciam/(Dav Jones) at Wasteland (152, 183, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 19:56:43.277] MOB ADD: on_mob_add(): Bruno-Asbahr/(Montagne Marshall) at Village (151, 179, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 19:57:08.589] MOB DELETE: on_mob_delete: Luciam/(Dav Jones) at Village (151, 181, 2) - /datum/reagent/medicine/stimpak
+[2021-05-17 19:57:10.608] MOB DELETE: on_mob_delete: Bruno-Asbahr/(Montagne Marshall) at Village (151, 179, 2) - /datum/reagent/medicine/stimpak
+[2021-05-17 19:58:23.506] MOB ADD: on_mob_add(): Dfrenando/(Cecilia Stange) at Legion (205, 45, 2) - 1.6 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-17 19:58:23.506] MOB ADD: on_mob_add(): Dfrenando/(Cecilia Stange) at Legion (205, 45, 2) - 1 of /datum/reagent/consumable/doctor_delight with 1 purity
+[2021-05-17 19:58:23.506] MOB ADD: on_mob_add(): Dfrenando/(Cecilia Stange) at Legion (205, 45, 2) - 0.4 of /datum/reagent/consumable/nutriment/vitamin with 1 purity
+[2021-05-17 19:58:24.172] MOB DELETE: on_mob_delete: Dfrenando/(Cecilia Stange) at Legion (205, 45, 2) - /datum/reagent/consumable/nutriment/vitamin
+[2021-05-17 19:58:26.792] MOB ADD: on_merge(): Dfrenando/(Cecilia Stange) at Legion (205, 45, 2) - 1.2 of /datum/reagent/consumable/doctor_delight with 1 purity
+[2021-05-17 19:58:26.792] MOB ADD: on_mob_add(): Dfrenando/(Cecilia Stange) at Legion (205, 45, 2) - 0.4 of /datum/reagent/consumable/nutriment/vitamin with 1 purity
+[2021-05-17 19:58:27.307] MOB ADD: on_mob_add(): Guilhty/(Guilherme Evan) at Tunnel (173, 134, 3) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 19:58:27.975] MOB ADD: on_merge(): Dfrenando/(Cecilia Stange) at Legion (205, 45, 2) - 2.2 of /datum/reagent/consumable/doctor_delight with 1 purity
+[2021-05-17 19:58:28.768] MOB ADD: on_merge(): Dfrenando/(Cecilia Stange) at Legion (205, 45, 2) - 2.8 of /datum/reagent/consumable/doctor_delight with 1 purity
+[2021-05-17 19:58:30.200] MOB ADD: on_merge(): Dfrenando/(Cecilia Stange) at Legion (205, 45, 2) - 3.8 of /datum/reagent/consumable/doctor_delight with 1 purity
+[2021-05-17 19:58:34.184] MOB ADD: on_mob_add(): Dfrenando/(Cecilia Stange) at Legion (205, 45, 2) - 1.4 of /datum/reagent/medicine/oculine with 1 purity
+[2021-05-17 19:58:34.184] MOB ADD: on_mob_add(): Dfrenando/(Cecilia Stange) at Legion (205, 45, 2) - 1.4 of /datum/reagent/consumable/tomatojuice with 1 purity
+[2021-05-17 19:58:35.130] MOB ADD: on_merge(): Dfrenando/(Cecilia Stange) at Legion (205, 45, 2) - 2.72 of /datum/reagent/medicine/oculine with 1 purity
+[2021-05-17 19:58:35.130] MOB ADD: on_merge(): Dfrenando/(Cecilia Stange) at Legion (205, 45, 2) - 2.4 of /datum/reagent/consumable/tomatojuice with 1 purity
+[2021-05-17 19:58:36.011] MOB ADD: on_merge(): Dfrenando/(Cecilia Stange) at Legion (205, 45, 2) - 4.12 of /datum/reagent/medicine/oculine with 1 purity
+[2021-05-17 19:58:36.011] MOB ADD: on_merge(): Dfrenando/(Cecilia Stange) at Legion (205, 45, 2) - 3.8 of /datum/reagent/consumable/tomatojuice with 1 purity
+[2021-05-17 19:58:40.839] MOB ADD: on_mob_add(): InicialPlayss/(Rayan Lindgrey) at Wasteland (97, 72, 2) - 5 of /datum/reagent/toxin/cazador_venom with 1 purity
+[2021-05-17 19:58:40.843] MOB ADD: on_merge(): InicialPlayss/(Rayan Lindgrey) at Wasteland (97, 72, 2) - 10 of /datum/reagent/toxin/cazador_venom with 1 purity
+[2021-05-17 19:58:46.015] MOB ADD: on_merge(): InicialPlayss/(Rayan Lindgrey) at Wasteland (97, 61, 2) - 14.2 of /datum/reagent/toxin/cazador_venom with 1 purity
+[2021-05-17 19:58:50.349] MOB DELETE: on_mob_delete: Dfrenando/(Cecilia Stange) at Legion (210, 41, 2) - /datum/reagent/consumable/doctor_delight
+[2021-05-17 19:58:56.572] MOB DELETE: on_mob_delete: Dfrenando/(Cecilia Stange) at Legion (210, 44, 2) - /datum/reagent/consumable/tomatojuice
+[2021-05-17 19:58:56.584] MOB DELETE: on_mob_delete: Guilhty/(Guilherme Evan) at Wasteland (147, 143, 2) - /datum/reagent/medicine/stimpak
+[2021-05-17 19:58:58.581] MOB DELETE: on_mob_delete: Dfrenando/(Cecilia Stange) at Legion (210, 44, 2) - /datum/reagent/consumable/nutriment/vitamin
+[2021-05-17 19:58:58.623] MOB ADD: on_mob_add(): InicialPlayss/(Rayan Lindgrey) at Wasteland (90, 60, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 19:59:27.140] MOB ADD: on_mob_add(): nickenzo12345/(Fabian Bashline) at Wasteland (178, 70, 2) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-17 19:59:36.247] MOB ADD: on_mob_add(): Bruno-Asbahr/(Montagne Marshall) at Wasteland (147, 181, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 19:59:38.265] MOB ADD: on_mob_add(): nickenzo12345/(Fabian Bashline) at Wasteland (178, 77, 2) - 1 of /datum/reagent/determination with 1 purity
+[2021-05-17 19:59:39.591] MOB ADD: on_merge(): nickenzo12345/(Fabian Bashline) at Wasteland (178, 78, 2) - 3.2 of /datum/reagent/determination with 1 purity
+[2021-05-17 19:59:44.827] MOB ADD: on_mob_add(): MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (179, 77, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 19:59:49.598] MOB DELETE: on_mob_delete: Dfrenando/(Cecilia Stange) at Wasteland (211, 53, 2) - /datum/reagent/consumable/nutriment
+[2021-05-17 19:59:51.795] MOB DELETE: on_mob_delete: InicialPlayss/(Rayan Lindgrey) at Wasteland (60, 61, 2) - /datum/reagent/toxin/cazador_venom
+[2021-05-17 20:00:12.937] MOB DELETE: on_mob_delete: InicialPlayss/(Rayan Lindgrey) at Wasteland (115, 71, 2) - /datum/reagent/medicine/stimpak
+[2021-05-17 20:00:14.566] MOB ADD: on_mob_add(): Degusta00/(Bob Loureiro) at Tunnel (122, 121, 3) - 10 of /datum/reagent/water with 1 purity
+[2021-05-17 20:00:15.642] MOB ADD: on_merge(): Degusta00/(Bob Loureiro) at Tunnel (122, 121, 3) - 17.6 of /datum/reagent/water with 1 purity
+[2021-05-17 20:00:18.415] MOB DELETE: on_mob_delete: Bruno-Asbahr/(Montagne Marshall) at Wasteland (161, 182, 2) - /datum/reagent/medicine/stimpak
+[2021-05-17 20:00:19.581] MOB ADD: on_mob_add(): Luciam/(Dav Jones) at Wasteland (147, 177, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 20:00:20.420] MOB DELETE: on_mob_delete: Dfrenando/(Cecilia Stange) at Wasteland (207, 61, 2) - /datum/reagent/medicine/oculine
+[2021-05-17 20:00:24.534] MOB DELETE: on_mob_delete: MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (172, 79, 2) - /datum/reagent/medicine/stimpak
+[2021-05-17 20:00:35.049] MOB ADD: on_mob_add(): *no key*/(Fabian Bashline) at Wasteland (172, 80, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 20:00:39.966] MOB ADD: on_mob_add(): Guilhty/(Guilherme Evan) at Tunnel (163, 172, 3) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-17 20:00:46.393] MOB ADD: on_mob_add(): Bruno-Asbahr/(Montagne Marshall) at Village (157, 179, 2) - 1 of /datum/reagent/determination with 1 purity
+[2021-05-17 20:00:46.796] MOB ADD: on_merge(): Bruno-Asbahr/(Montagne Marshall) at Village (157, 179, 2) - 3.5 of /datum/reagent/determination with 1 purity
+[2021-05-17 20:01:01.794] MOB DELETE: on_mob_delete: Luciam/(Dav Jones) at Wasteland (157, 182, 2) - /datum/reagent/medicine/stimpak
+[2021-05-17 20:01:10.579] MOB DELETE: on_mob_delete: Bruno-Asbahr/(Montagne Marshall) at Village (160, 179, 2) - /datum/reagent/determination
+[2021-05-17 20:01:17.451] MOB ADD: on_merge(): *no key*/(Fabian Bashline) at Wasteland (177, 79, 2) - 3.3 of /datum/reagent/determination with 1 purity
+[2021-05-17 20:01:18.440] MOB ADD: on_merge(): *no key*/(Fabian Bashline) at Wasteland (177, 79, 2) - 8.3 of /datum/reagent/determination with 1 purity
+[2021-05-17 20:01:19.461] MOB ADD: on_merge(): *no key*/(Fabian Bashline) at Wasteland (177, 79, 2) - 13.3 of /datum/reagent/determination with 1 purity
+[2021-05-17 20:01:20.312] MOB ADD: on_merge(): *no key*/(Fabian Bashline) at Wasteland (177, 79, 2) - 20.8 of /datum/reagent/determination with 1 purity
+[2021-05-17 20:01:30.687] MOB ADD: on_mob_add(): Zircony/(Zak Waldron) at Village (160, 177, 2) - 1 of /datum/reagent/determination with 1 purity
+[2021-05-17 20:01:34.349] MOB ADD: on_mob_add(): Bruno-Asbahr/(Montagne Marshall) at Village (160, 179, 2) - 5 of /datum/reagent/determination with 1 purity
+[2021-05-17 20:01:46.728] MOB ADD: on_mob_add(): nickenzo12345/(Cooper Curry) at Wasteland (167, 69, 2) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-17 20:01:48.911] MOB DELETE: on_mob_delete: Degusta00/(Bob Loureiro) at Tunnel (129, 118, 3) - /datum/reagent/water
+[2021-05-17 20:01:55.156] MOB ADD: on_mob_add(): Luciam/(Dav Jones) at Village (160, 178, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 20:02:05.280] MOB DELETE: on_mob_delete: nickenzo12345/(Cooper Curry) at Wasteland (178, 67, 2) - /datum/reagent/medicine/healing_powder
+[2021-05-17 20:02:08.275] MOB ADD: on_mob_add(): Corvopimpolho/(Goddard Osterweis) at Wasteland (184, 69, 2) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-17 20:02:15.970] MOB ADD: on_mob_add(): Degusta00/(Bob Loureiro) at Tunnel (130, 122, 3) - 2 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-17 20:02:26.900] MOB ADD: on_mob_add(): Dfrenando/(Cecilia Stange) at Wasteland (183, 13, 2) - 1.179 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-17 20:02:26.900] MOB ADD: on_mob_add(): Dfrenando/(Cecilia Stange) at Wasteland (183, 13, 2) - 0.643 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-17 20:02:26.900] MOB ADD: on_mob_add(): Dfrenando/(Cecilia Stange) at Wasteland (183, 13, 2) - 1.179 of /datum/reagent/consumable/nutriment/vitamin with 1 purity
+[2021-05-17 20:02:28.535] MOB DELETE: on_mob_delete: Dfrenando/(Cecilia Stange) at Wasteland (183, 13, 2) - /datum/reagent/consumable/sugar
+[2021-05-17 20:02:32.837] MOB DELETE: on_mob_delete: Dfrenando/(Cecilia Stange) at Wasteland (183, 5, 2) - /datum/reagent/consumable/nutriment
+[2021-05-17 20:02:32.838] MOB DELETE: on_mob_delete: Dfrenando/(Cecilia Stange) at Wasteland (183, 5, 2) - /datum/reagent/consumable/nutriment/vitamin
+[2021-05-17 20:02:45.563] MOB DELETE: on_mob_delete: Luciam/(Dav Jones) at Village (159, 178, 2) - /datum/reagent/medicine/stimpak
+[2021-05-17 20:02:59.795] MOB DELETE: on_mob_delete: Corvopimpolho/(Goddard Osterweis) at Legion (221, 39, 2) - /datum/reagent/medicine/healing_powder
+[2021-05-17 20:03:10.404] MOB DELETE: on_mob_delete: Degusta00/(Bob Loureiro) at Tunnel (132, 130, 3) - /datum/reagent/consumable/nutriment
+[2021-05-17 20:03:15.969] MOB ADD: on_mob_add(): InicialPlayss/(Rayan Lindgrey) at Wasteland (119, 122, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 20:03:22.886] MOB ADD: on_mob_add(): Dfrenando/(Cecilia Stange) at Tunnel (171, 11, 2) - 20 of /datum/reagent/consumable/ethanol/gin with 1 purity
+[2021-05-17 20:03:30.212] MOB ADD: on_mob_add(): GabrielDoomBR/(Baam Frest) at City (34, 41, 2) - 1 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-17 20:03:30.212] MOB ADD: on_mob_add(): GabrielDoomBR/(Baam Frest) at City (34, 41, 2) - 1 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-17 20:03:31.023] MOB ADD: on_merge(): GabrielDoomBR/(Baam Frest) at City (34, 41, 2) - 1.2 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-17 20:03:33.153] MOB ADD: on_merge(): GabrielDoomBR/(Baam Frest) at City (34, 41, 2) - 2.2 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-17 20:03:33.999] MOB ADD: on_merge(): GabrielDoomBR/(Baam Frest) at City (34, 41, 2) - 2.4 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-17 20:03:40.318] MOB DELETE: on_mob_delete: GabrielDoomBR/(Baam Frest) at City (34, 41, 2) - /datum/reagent/consumable/sugar
+[2021-05-17 20:03:41.762] MOB ADD: on_mob_add(): GabrielDoomBR/(Baam Frest) at City (34, 41, 2) - 1 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-17 20:03:44.348] MOB DELETE: on_mob_delete: GabrielDoomBR/(Baam Frest) at City (33, 43, 2) - /datum/reagent/consumable/sugar
+[2021-05-17 20:03:44.579] MOB ADD: on_mob_add(): MastrodontePlays/(Rodrigo Weisgarber) at Legion (223, 23, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 20:03:44.782] MOB ADD: on_mob_add(): Degusta00/(Bob Loureiro) at Tunnel (135, 127, 3) - 2 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-17 20:03:46.385] MOB DELETE: on_mob_delete: InicialPlayss/(Rayan Lindgrey) at Village (105, 151, 2) - /datum/reagent/medicine/stimpak
+[2021-05-17 20:03:56.529] MOB DELETE: on_mob_delete: GabrielDoomBR/(Baam Frest) at Wasteland (54, 41, 2) - /datum/reagent/consumable/nutriment
+[2021-05-17 20:04:29.888] MOB ADD: on_mob_add(): InicialPlayss/(Rayan Lindgrey) at Village (103, 155, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 20:04:31.629] MOB DELETE: on_mob_delete: MastrodontePlays/(Rodrigo Weisgarber) at Legion (215, 44, 2) - /datum/reagent/medicine/stimpak
+[2021-05-17 20:04:37.939] MOB ADD: on_mob_add(): Luciam/(Dav Jones) at Wasteland (120, 200, 2) - 5 of /datum/reagent/toxin/cazador_venom with 1 purity
+[2021-05-17 20:04:45.445] MOB ADD: on_mob_add(): nickenzo12345/(Cooper Curry) at Legion (222, 33, 2) - 1 of /datum/reagent/determination with 1 purity
+[2021-05-17 20:04:45.911] MOB DELETE: on_mob_delete: Degusta00/(Bob Loureiro) at Tunnel (146, 123, 3) - /datum/reagent/consumable/nutriment
+[2021-05-17 20:04:50.187] MOB ADD: on_merge(): nickenzo12345/(Cooper Curry) at Legion (222, 33, 2) - 5.1 of /datum/reagent/determination with 1 purity
+[2021-05-17 20:04:50.466] MOB ADD: on_merge(): nickenzo12345/(Cooper Curry) at Legion (222, 33, 2) - 7.6 of /datum/reagent/determination with 1 purity
+[2021-05-17 20:04:53.976] MOB DELETE: on_mob_delete: Luciam/(Dav Jones) at Tunnel (120, 178, 3) - /datum/reagent/toxin/cazador_venom
+[2021-05-17 20:04:55.040] MOB ADD: on_merge(): nickenzo12345/(Cooper Curry) at Legion (222, 33, 2) - 14.5 of /datum/reagent/determination with 1 purity
+[2021-05-17 20:05:06.491] MOB DELETE: on_mob_delete: Dfrenando/(Cecilia Stange) at Tunnel (122, 87, 3) - /datum/reagent/consumable/ethanol/gin
+[2021-05-17 20:05:06.534] MOB DELETE: on_mob_delete: InicialPlayss/(Rayan Lindgrey) at Village (104, 155, 2) - /datum/reagent/medicine/stimpak
+[2021-05-17 20:06:05.959] MOB ADD: on_mob_add(): Dfrenando/(Cecilia Stange) at Tunnel (119, 110, 3) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 20:06:17.137] MOB ADD: on_mob_add(): Dfrenando/(Cecilia Stange) at Tunnel (122, 117, 3) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-17 20:06:39.134] MOB ADD: on_mob_add(): *no key*/(Savanna Cypret) at Tunnel (157, 124, 3) - 2.5 of /datum/reagent/determination with 1 purity
+[2021-05-17 20:06:49.632] MOB DELETE: on_mob_delete: Dfrenando/(Cecilia Stange) at Tunnel (129, 134, 3) - /datum/reagent/medicine/stimpak
+[2021-05-17 20:06:49.633] MOB DELETE: on_mob_delete: Dfrenando/(Cecilia Stange) at Tunnel (129, 134, 3) - /datum/reagent/medicine/healing_powder
+[2021-05-17 20:07:33.762] MOB ADD: on_mob_add(): Luciam/(Dav Jones) at Wasteland (159, 183, 2) - 20 of /datum/reagent/medicine/radx with 1 purity
+[2021-05-17 20:08:28.297] MOB ADD: on_mob_add(): Degusta00/(Bob Loureiro) at Tunnel (140, 138, 3) - 2 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-17 20:08:37.180] MOB DELETE: on_mob_delete: Degusta00/(Bob Loureiro) at Tunnel (142, 157, 3) - /datum/reagent/consumable/nutriment
+[2021-05-17 20:10:23.562] MOB ADD: on_mob_add(): Dfrenando/(Cecilia Stange) at Tunnel (145, 128, 3) - 0.3 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 20:10:23.563] MOB ADD: on_mob_add(): Dfrenando/(Cecilia Stange) at Tunnel (145, 128, 3) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-17 20:10:24.427] MOB DELETE: on_mob_delete: Dfrenando/(Cecilia Stange) at Tunnel (146, 129, 3) - /datum/reagent/medicine/synaptizine
+[2021-05-17 20:10:25.561] MOB ADD: on_merge(): Dfrenando/(Cecilia Stange) at Tunnel (146, 131, 3) - 0.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 20:10:25.561] MOB ADD: on_mob_add(): Dfrenando/(Cecilia Stange) at Tunnel (146, 131, 3) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-17 20:10:26.426] MOB DELETE: on_mob_delete: Dfrenando/(Cecilia Stange) at Tunnel (149, 131, 3) - /datum/reagent/medicine/synaptizine
+[2021-05-17 20:10:27.572] MOB ADD: on_merge(): Dfrenando/(Cecilia Stange) at Tunnel (152, 131, 3) - 0.5 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 20:10:27.572] MOB ADD: on_mob_add(): Dfrenando/(Cecilia Stange) at Tunnel (152, 131, 3) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-17 20:10:28.448] MOB DELETE: on_mob_delete: Dfrenando/(Cecilia Stange) at Tunnel (155, 131, 3) - /datum/reagent/medicine/synaptizine
+[2021-05-17 20:10:29.579] MOB ADD: on_merge(): Dfrenando/(Cecilia Stange) at Tunnel (158, 131, 3) - 0.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 20:10:29.580] MOB ADD: on_mob_add(): Dfrenando/(Cecilia Stange) at Tunnel (158, 131, 3) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-17 20:10:30.464] MOB DELETE: on_mob_delete: Dfrenando/(Cecilia Stange) at Tunnel (161, 131, 3) - /datum/reagent/medicine/synaptizine
+[2021-05-17 20:10:31.606] MOB ADD: on_merge(): Dfrenando/(Cecilia Stange) at Tunnel (163, 131, 3) - 0.7 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 20:10:31.606] MOB ADD: on_mob_add(): Dfrenando/(Cecilia Stange) at Tunnel (163, 131, 3) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-17 20:10:32.463] MOB DELETE: on_mob_delete: Dfrenando/(Cecilia Stange) at Tunnel (163, 131, 3) - /datum/reagent/medicine/synaptizine
+[2021-05-17 20:10:33.605] MOB ADD: on_merge(): Dfrenando/(Cecilia Stange) at Tunnel (162, 131, 3) - 0.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 20:10:33.605] MOB ADD: on_mob_add(): Dfrenando/(Cecilia Stange) at Tunnel (162, 131, 3) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-17 20:10:34.468] MOB DELETE: on_mob_delete: Dfrenando/(Cecilia Stange) at Tunnel (162, 131, 3) - /datum/reagent/medicine/synaptizine
+[2021-05-17 20:10:35.628] MOB ADD: on_merge(): Dfrenando/(Cecilia Stange) at Tunnel (161, 131, 3) - 0.9 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 20:10:35.628] MOB ADD: on_mob_add(): Dfrenando/(Cecilia Stange) at Tunnel (161, 131, 3) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-17 20:10:36.579] MOB DELETE: on_mob_delete: Dfrenando/(Cecilia Stange) at Tunnel (159, 131, 3) - /datum/reagent/medicine/synaptizine
+[2021-05-17 20:10:37.711] MOB ADD: on_merge(): Dfrenando/(Cecilia Stange) at Tunnel (155, 131, 3) - 1 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 20:10:37.711] MOB ADD: on_mob_add(): Dfrenando/(Cecilia Stange) at Tunnel (155, 131, 3) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-17 20:10:38.572] MOB DELETE: on_mob_delete: Dfrenando/(Cecilia Stange) at Tunnel (153, 131, 3) - /datum/reagent/medicine/synaptizine
+[2021-05-17 20:10:39.825] MOB ADD: on_merge(): Dfrenando/(Cecilia Stange) at Tunnel (152, 131, 3) - 1.1 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 20:10:39.825] MOB ADD: on_mob_add(): Dfrenando/(Cecilia Stange) at Tunnel (152, 131, 3) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-17 20:10:40.644] MOB DELETE: on_mob_delete: Dfrenando/(Cecilia Stange) at Tunnel (152, 131, 3) - /datum/reagent/medicine/synaptizine
+[2021-05-17 20:10:41.833] MOB ADD: on_merge(): Dfrenando/(Cecilia Stange) at Tunnel (152, 131, 3) - 1.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 20:10:41.833] MOB ADD: on_mob_add(): Dfrenando/(Cecilia Stange) at Tunnel (152, 131, 3) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-17 20:10:42.647] MOB DELETE: on_mob_delete: Dfrenando/(Cecilia Stange) at Tunnel (152, 131, 3) - /datum/reagent/medicine/synaptizine
+[2021-05-17 20:10:43.836] MOB ADD: on_merge(): Dfrenando/(Cecilia Stange) at Tunnel (152, 131, 3) - 1.3 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 20:10:43.836] MOB ADD: on_mob_add(): Dfrenando/(Cecilia Stange) at Tunnel (152, 131, 3) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-17 20:10:44.666] MOB DELETE: on_mob_delete: Dfrenando/(Cecilia Stange) at Tunnel (152, 131, 3) - /datum/reagent/medicine/synaptizine
+[2021-05-17 20:10:45.838] MOB ADD: on_merge(): Dfrenando/(Cecilia Stange) at Tunnel (155, 131, 3) - 1.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 20:10:45.838] MOB ADD: on_mob_add(): Dfrenando/(Cecilia Stange) at Tunnel (155, 131, 3) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-17 20:10:46.670] MOB DELETE: on_mob_delete: Dfrenando/(Cecilia Stange) at Tunnel (157, 131, 3) - /datum/reagent/medicine/synaptizine
+[2021-05-17 20:10:47.849] MOB ADD: on_merge(): Dfrenando/(Cecilia Stange) at Tunnel (160, 131, 3) - 1.5 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 20:10:47.849] MOB ADD: on_mob_add(): Dfrenando/(Cecilia Stange) at Tunnel (160, 131, 3) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-17 20:10:48.784] MOB DELETE: on_mob_delete: Dfrenando/(Cecilia Stange) at Tunnel (161, 132, 3) - /datum/reagent/medicine/synaptizine
+[2021-05-17 20:10:50.006] MOB ADD: on_merge(): Dfrenando/(Cecilia Stange) at Tunnel (162, 134, 3) - 1.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 20:10:50.006] MOB ADD: on_mob_add(): Dfrenando/(Cecilia Stange) at Tunnel (162, 134, 3) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-17 20:10:50.800] MOB DELETE: on_mob_delete: Dfrenando/(Cecilia Stange) at Tunnel (162, 134, 3) - /datum/reagent/medicine/synaptizine
+[2021-05-17 20:10:51.988] MOB ADD: on_merge(): Dfrenando/(Cecilia Stange) at Tunnel (162, 134, 3) - 1.7 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 20:10:51.989] MOB ADD: on_mob_add(): Dfrenando/(Cecilia Stange) at Tunnel (162, 134, 3) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-17 20:10:52.814] MOB DELETE: on_mob_delete: Dfrenando/(Cecilia Stange) at Tunnel (162, 134, 3) - /datum/reagent/medicine/synaptizine
+[2021-05-17 20:10:53.992] MOB ADD: on_merge(): Dfrenando/(Cecilia Stange) at Tunnel (162, 134, 3) - 1.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 20:10:53.992] MOB ADD: on_mob_add(): Dfrenando/(Cecilia Stange) at Tunnel (162, 134, 3) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-17 20:10:54.812] MOB DELETE: on_mob_delete: Dfrenando/(Cecilia Stange) at Tunnel (162, 134, 3) - /datum/reagent/medicine/synaptizine
+[2021-05-17 20:10:56.828] MOB ADD: on_merge(): Dfrenando/(Cecilia Stange) at Tunnel (161, 134, 3) - 1.9 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 20:10:56.828] MOB ADD: on_mob_add(): Dfrenando/(Cecilia Stange) at Tunnel (161, 134, 3) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-17 20:10:57.640] MOB DELETE: on_mob_delete: Dfrenando/(Cecilia Stange) at Tunnel (160, 134, 3) - /datum/reagent/medicine/synaptizine
+[2021-05-17 20:10:58.829] MOB ADD: on_merge(): Dfrenando/(Cecilia Stange) at Tunnel (158, 134, 3) - 2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 20:10:58.829] MOB ADD: on_mob_add(): Dfrenando/(Cecilia Stange) at Tunnel (158, 134, 3) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-17 20:10:59.647] MOB DELETE: on_mob_delete: Dfrenando/(Cecilia Stange) at Tunnel (158, 134, 3) - /datum/reagent/medicine/synaptizine
+[2021-05-17 20:11:00.836] MOB ADD: on_merge(): Dfrenando/(Cecilia Stange) at Tunnel (158, 134, 3) - 2.1 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 20:11:00.836] MOB ADD: on_mob_add(): Dfrenando/(Cecilia Stange) at Tunnel (158, 134, 3) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-17 20:11:01.663] MOB DELETE: on_mob_delete: Dfrenando/(Cecilia Stange) at Tunnel (158, 134, 3) - /datum/reagent/medicine/synaptizine
+[2021-05-17 20:11:03.189] MOB ADD: on_merge(): Dfrenando/(Cecilia Stange) at Tunnel (159, 134, 3) - 2.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 20:11:03.189] MOB ADD: on_mob_add(): Dfrenando/(Cecilia Stange) at Tunnel (159, 134, 3) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-17 20:11:04.038] MOB DELETE: on_mob_delete: Dfrenando/(Cecilia Stange) at Tunnel (159, 134, 3) - /datum/reagent/medicine/synaptizine
+[2021-05-17 20:11:04.041] MOB DELETE: on_mob_delete: Luciam/(Dav Jones) at Enclave (133, 25, 3) - /datum/reagent/medicine/radx
+[2021-05-17 20:11:05.226] MOB ADD: on_merge(): Dfrenando/(Cecilia Stange) at Tunnel (156, 134, 3) - 2.3 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 20:11:05.226] MOB ADD: on_mob_add(): Dfrenando/(Cecilia Stange) at Tunnel (156, 134, 3) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-17 20:11:06.040] MOB DELETE: on_mob_delete: Dfrenando/(Cecilia Stange) at Tunnel (155, 134, 3) - /datum/reagent/medicine/synaptizine
+[2021-05-17 20:11:07.226] MOB ADD: on_merge(): Dfrenando/(Cecilia Stange) at Tunnel (155, 136, 3) - 2.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 20:11:07.227] MOB ADD: on_mob_add(): Dfrenando/(Cecilia Stange) at Tunnel (155, 136, 3) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-17 20:11:08.048] MOB DELETE: on_mob_delete: Dfrenando/(Cecilia Stange) at Tunnel (155, 136, 3) - /datum/reagent/medicine/synaptizine
+[2021-05-17 20:11:09.238] MOB ADD: on_merge(): Dfrenando/(Cecilia Stange) at Tunnel (156, 137, 3) - 2.5 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 20:11:09.239] MOB ADD: on_mob_add(): Dfrenando/(Cecilia Stange) at Tunnel (156, 137, 3) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-17 20:11:10.066] MOB DELETE: on_mob_delete: Dfrenando/(Cecilia Stange) at Tunnel (156, 138, 3) - /datum/reagent/medicine/synaptizine
+[2021-05-17 20:11:11.257] MOB ADD: on_merge(): Dfrenando/(Cecilia Stange) at Tunnel (156, 138, 3) - 2.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 20:11:11.257] MOB ADD: on_mob_add(): Dfrenando/(Cecilia Stange) at Tunnel (156, 138, 3) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-17 20:11:12.072] MOB DELETE: on_mob_delete: Dfrenando/(Cecilia Stange) at Tunnel (156, 138, 3) - /datum/reagent/medicine/synaptizine
+[2021-05-17 20:11:13.260] MOB ADD: on_merge(): Dfrenando/(Cecilia Stange) at Tunnel (156, 138, 3) - 2.7 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 20:11:13.260] MOB ADD: on_mob_add(): Dfrenando/(Cecilia Stange) at Tunnel (156, 138, 3) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-17 20:11:14.079] MOB DELETE: on_mob_delete: Dfrenando/(Cecilia Stange) at Tunnel (156, 138, 3) - /datum/reagent/medicine/synaptizine
+[2021-05-17 20:11:15.341] MOB ADD: on_merge(): Dfrenando/(Cecilia Stange) at Tunnel (156, 138, 3) - 2.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 20:11:15.342] MOB ADD: on_mob_add(): Dfrenando/(Cecilia Stange) at Tunnel (156, 138, 3) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-17 20:11:17.305] MOB DELETE: on_mob_delete: Dfrenando/(Cecilia Stange) at Tunnel (156, 138, 3) - /datum/reagent/medicine/synaptizine
+[2021-05-17 20:11:18.955] MOB ADD: on_merge(): Dfrenando/(Cecilia Stange) at Tunnel (156, 138, 3) - 2.9 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 20:11:18.956] MOB ADD: on_mob_add(): Dfrenando/(Cecilia Stange) at Tunnel (156, 138, 3) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-17 20:11:20.605] MOB DELETE: on_mob_delete: Dfrenando/(Cecilia Stange) at Tunnel (156, 138, 3) - /datum/reagent/medicine/synaptizine
+[2021-05-17 20:11:22.928] MOB ADD: on_merge(): Dfrenando/(Cecilia Stange) at Tunnel (156, 138, 3) - 3 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 20:11:22.929] MOB ADD: on_mob_add(): Dfrenando/(Cecilia Stange) at Tunnel (156, 138, 3) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-17 20:11:23.765] MOB DELETE: on_mob_delete: Dfrenando/(Cecilia Stange) at Tunnel (156, 138, 3) - /datum/reagent/medicine/synaptizine
+[2021-05-17 20:11:24.955] MOB ADD: on_merge(): Dfrenando/(Cecilia Stange) at Tunnel (156, 138, 3) - 3.1 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 20:11:24.955] MOB ADD: on_mob_add(): Dfrenando/(Cecilia Stange) at Tunnel (156, 138, 3) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-17 20:11:25.808] MOB DELETE: on_mob_delete: Dfrenando/(Cecilia Stange) at Tunnel (156, 138, 3) - /datum/reagent/medicine/synaptizine
+[2021-05-17 20:11:27.021] MOB ADD: on_merge(): Dfrenando/(Cecilia Stange) at Tunnel (156, 138, 3) - 3.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 20:11:27.021] MOB ADD: on_mob_add(): Dfrenando/(Cecilia Stange) at Tunnel (156, 138, 3) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-17 20:11:27.840] MOB DELETE: on_mob_delete: Dfrenando/(Cecilia Stange) at Tunnel (156, 138, 3) - /datum/reagent/medicine/synaptizine
+[2021-05-17 20:11:29.027] MOB ADD: on_merge(): Dfrenando/(Cecilia Stange) at Tunnel (156, 138, 3) - 3.3 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 20:11:29.028] MOB ADD: on_mob_add(): Dfrenando/(Cecilia Stange) at Tunnel (156, 138, 3) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-17 20:11:29.855] MOB DELETE: on_mob_delete: Dfrenando/(Cecilia Stange) at Tunnel (156, 138, 3) - /datum/reagent/medicine/synaptizine
+[2021-05-17 20:11:31.032] MOB ADD: on_merge(): Dfrenando/(Cecilia Stange) at Tunnel (156, 138, 3) - 3.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 20:11:31.033] MOB ADD: on_mob_add(): Dfrenando/(Cecilia Stange) at Tunnel (156, 138, 3) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-17 20:11:31.845] MOB DELETE: on_mob_delete: Dfrenando/(Cecilia Stange) at Tunnel (156, 138, 3) - /datum/reagent/medicine/synaptizine
+[2021-05-17 20:11:33.037] MOB ADD: on_merge(): Dfrenando/(Cecilia Stange) at Tunnel (156, 138, 3) - 3.5 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 20:11:33.037] MOB ADD: on_mob_add(): Dfrenando/(Cecilia Stange) at Tunnel (156, 138, 3) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-17 20:11:33.913] MOB DELETE: on_mob_delete: Dfrenando/(Cecilia Stange) at Tunnel (156, 138, 3) - /datum/reagent/medicine/synaptizine
+[2021-05-17 20:11:35.101] MOB ADD: on_merge(): Dfrenando/(Cecilia Stange) at Tunnel (156, 138, 3) - 3.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 20:11:35.101] MOB ADD: on_mob_add(): Dfrenando/(Cecilia Stange) at Tunnel (156, 138, 3) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-17 20:11:35.913] MOB DELETE: on_mob_delete: Dfrenando/(Cecilia Stange) at Tunnel (156, 138, 3) - /datum/reagent/medicine/synaptizine
+[2021-05-17 20:11:37.104] MOB ADD: on_merge(): Dfrenando/(Cecilia Stange) at Tunnel (157, 139, 3) - 3.7 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 20:11:37.104] MOB ADD: on_mob_add(): Dfrenando/(Cecilia Stange) at Tunnel (157, 139, 3) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-17 20:11:37.942] MOB DELETE: on_mob_delete: Dfrenando/(Cecilia Stange) at Tunnel (159, 139, 3) - /datum/reagent/medicine/synaptizine
+[2021-05-17 20:11:39.133] MOB ADD: on_merge(): Dfrenando/(Cecilia Stange) at Tunnel (160, 139, 3) - 3.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 20:11:39.133] MOB ADD: on_mob_add(): Dfrenando/(Cecilia Stange) at Tunnel (160, 139, 3) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-17 20:11:39.949] MOB DELETE: on_mob_delete: Dfrenando/(Cecilia Stange) at Tunnel (161, 139, 3) - /datum/reagent/medicine/synaptizine
+[2021-05-17 20:11:41.134] MOB ADD: on_merge(): Dfrenando/(Cecilia Stange) at Tunnel (161, 139, 3) - 3.9 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 20:11:41.135] MOB ADD: on_mob_add(): Dfrenando/(Cecilia Stange) at Tunnel (161, 139, 3) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-17 20:11:41.951] MOB DELETE: on_mob_delete: Dfrenando/(Cecilia Stange) at Tunnel (161, 138, 3) - /datum/reagent/medicine/synaptizine
+[2021-05-17 20:11:43.139] MOB ADD: on_merge(): Dfrenando/(Cecilia Stange) at Tunnel (161, 138, 3) - 4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 20:11:43.139] MOB ADD: on_mob_add(): Dfrenando/(Cecilia Stange) at Tunnel (161, 138, 3) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-17 20:11:43.959] MOB DELETE: on_mob_delete: Dfrenando/(Cecilia Stange) at Tunnel (161, 138, 3) - /datum/reagent/medicine/synaptizine
+[2021-05-17 20:11:45.148] MOB ADD: on_merge(): Dfrenando/(Cecilia Stange) at Tunnel (161, 138, 3) - 4.1 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 20:11:45.148] MOB ADD: on_mob_add(): Dfrenando/(Cecilia Stange) at Tunnel (161, 138, 3) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-17 20:11:46.004] MOB DELETE: on_mob_delete: Dfrenando/(Cecilia Stange) at Tunnel (161, 138, 3) - /datum/reagent/medicine/synaptizine
+[2021-05-17 20:11:46.306] MOB ADD: on_mob_add(): Dfrenando/(Cecilia Stange) at Tunnel (161, 138, 3) - 10 of /datum/reagent/drug/jet with 1 purity
+[2021-05-17 20:11:47.242] MOB ADD: on_merge(): Dfrenando/(Cecilia Stange) at Tunnel (161, 138, 3) - 4.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 20:11:47.242] MOB ADD: on_mob_add(): Dfrenando/(Cecilia Stange) at Tunnel (161, 138, 3) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-17 20:11:48.070] MOB DELETE: on_mob_delete: Dfrenando/(Cecilia Stange) at Tunnel (161, 138, 3) - /datum/reagent/medicine/synaptizine
+[2021-05-17 20:11:49.592] MOB ADD: on_merge(): Dfrenando/(Cecilia Stange) at Tunnel (161, 137, 3) - 4.3 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 20:11:49.592] MOB ADD: on_mob_add(): Dfrenando/(Cecilia Stange) at Tunnel (161, 137, 3) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-17 20:11:50.414] MOB DELETE: on_mob_delete: Dfrenando/(Cecilia Stange) at Tunnel (161, 137, 3) - /datum/reagent/medicine/synaptizine
+[2021-05-17 20:11:51.613] MOB ADD: on_merge(): Dfrenando/(Cecilia Stange) at Tunnel (161, 137, 3) - 4.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 20:11:51.613] MOB ADD: on_mob_add(): Dfrenando/(Cecilia Stange) at Tunnel (161, 137, 3) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-17 20:11:52.459] MOB DELETE: on_mob_delete: Dfrenando/(Cecilia Stange) at Tunnel (161, 137, 3) - /datum/reagent/medicine/synaptizine
+[2021-05-17 20:11:53.899] MOB ADD: on_merge(): Dfrenando/(Cecilia Stange) at Tunnel (161, 137, 3) - 4.5 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 20:11:53.899] MOB ADD: on_mob_add(): Dfrenando/(Cecilia Stange) at Tunnel (161, 137, 3) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-17 20:11:54.727] MOB DELETE: on_mob_delete: Dfrenando/(Cecilia Stange) at Tunnel (161, 137, 3) - /datum/reagent/medicine/synaptizine
+[2021-05-17 20:11:55.900] MOB ADD: on_merge(): Dfrenando/(Cecilia Stange) at Tunnel (161, 137, 3) - 4.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 20:11:55.900] MOB ADD: on_mob_add(): Dfrenando/(Cecilia Stange) at Tunnel (161, 137, 3) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-17 20:11:56.721] MOB DELETE: on_mob_delete: Dfrenando/(Cecilia Stange) at Tunnel (161, 137, 3) - /datum/reagent/medicine/synaptizine
+[2021-05-17 20:11:57.905] MOB ADD: on_merge(): Dfrenando/(Cecilia Stange) at Tunnel (161, 137, 3) - 4.7 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 20:11:57.905] MOB ADD: on_mob_add(): Dfrenando/(Cecilia Stange) at Tunnel (161, 137, 3) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-17 20:11:58.721] MOB DELETE: on_mob_delete: Dfrenando/(Cecilia Stange) at Tunnel (161, 137, 3) - /datum/reagent/medicine/synaptizine
+[2021-05-17 20:11:59.908] MOB ADD: on_merge(): Dfrenando/(Cecilia Stange) at Tunnel (161, 137, 3) - 4.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 20:11:59.908] MOB ADD: on_mob_add(): Dfrenando/(Cecilia Stange) at Tunnel (161, 137, 3) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-17 20:12:00.908] MOB DELETE: on_mob_delete: Dfrenando/(Cecilia Stange) at Tunnel (160, 138, 3) - /datum/reagent/medicine/synaptizine
+[2021-05-17 20:12:02.002] MOB ADD: on_merge(): Dfrenando/(Cecilia Stange) at Tunnel (159, 139, 3) - 4.9 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 20:12:02.002] MOB ADD: on_mob_add(): Dfrenando/(Cecilia Stange) at Tunnel (159, 139, 3) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-17 20:12:02.836] MOB DELETE: on_mob_delete: Dfrenando/(Cecilia Stange) at Tunnel (157, 139, 3) - /datum/reagent/medicine/synaptizine
+[2021-05-17 20:12:04.049] MOB ADD: on_merge(): Dfrenando/(Cecilia Stange) at Tunnel (156, 137, 3) - 5 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 20:12:04.049] MOB ADD: on_mob_add(): Dfrenando/(Cecilia Stange) at Tunnel (156, 137, 3) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-17 20:12:04.870] MOB DELETE: on_mob_delete: Dfrenando/(Cecilia Stange) at Tunnel (155, 136, 3) - /datum/reagent/medicine/synaptizine
+[2021-05-17 20:12:06.057] MOB ADD: on_merge(): Dfrenando/(Cecilia Stange) at Tunnel (155, 134, 3) - 5.1 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 20:12:06.057] MOB ADD: on_mob_add(): Dfrenando/(Cecilia Stange) at Tunnel (155, 134, 3) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-17 20:12:06.874] MOB DELETE: on_mob_delete: Dfrenando/(Cecilia Stange) at Tunnel (158, 134, 3) - /datum/reagent/medicine/synaptizine
+[2021-05-17 20:12:08.060] MOB ADD: on_merge(): Dfrenando/(Cecilia Stange) at Tunnel (161, 134, 3) - 5.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 20:12:08.061] MOB ADD: on_mob_add(): Dfrenando/(Cecilia Stange) at Tunnel (161, 134, 3) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-17 20:12:08.878] MOB DELETE: on_mob_delete: Dfrenando/(Cecilia Stange) at Tunnel (164, 134, 3) - /datum/reagent/medicine/synaptizine
+[2021-05-17 20:12:58.930] MOB ADD: on_mob_add(): degusta00/(Monte Ehret) at Building (215, 215, 2) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-17 20:13:00.536] MOB DELETE: on_mob_delete: Dfrenando/(Cecilia Stange) at Wasteland (152, 147, 2) - /datum/reagent/drug/nicotine
+[2021-05-17 20:13:08.583] MOB DELETE: on_mob_delete: degusta00/(Monte Ehret) at Building (215, 214, 2) - /datum/reagent/medicine/healing_powder
+[2021-05-17 20:13:11.127] MOB ADD: on_mob_add(): AlexAlbright/(Rebeka Marinho) at Wasteland (113, 130, 2) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-17 20:13:26.195] MOB ADD: on_mob_add(): AlexAlbright/(Rebeka Marinho) at Tunnel (131, 131, 3) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 20:13:28.832] MOB DELETE: on_mob_delete: Dfrenando/(Cecilia Stange) at Wasteland (143, 184, 2) - /datum/reagent/drug/jet
+[2021-05-17 20:14:24.103] MOB ADD: on_mob_add(): guilhty/(Guilherme Evans) at City (45, 49, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 20:14:40.254] MOB DELETE: on_mob_delete: AlexAlbright/(Rebeka Marinho) at Wasteland (120, 110, 2) - /datum/reagent/medicine/stimpak
+[2021-05-17 20:14:42.341] MOB DELETE: on_mob_delete: AlexAlbright/(Rebeka Marinho) at Wasteland (120, 110, 2) - /datum/reagent/medicine/healing_powder
+[2021-05-17 20:15:21.664] MOB DELETE: on_mob_delete: guilhty/(Guilherme Evans) at Tunnel (60, 43, 3) - /datum/reagent/medicine/stimpak
+[2021-05-17 20:16:35.141] MOB ADD: on_mob_add(): AdderVFX/(Gordon Magroni) at NCR (51, 229, 2) - 2.25 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-17 20:16:35.141] MOB ADD: on_mob_add(): AdderVFX/(Gordon Magroni) at NCR (51, 229, 2) - 0.75 of /datum/reagent/consumable/nutriment/vitamin with 1 purity
+[2021-05-17 20:16:44.019] MOB DELETE: on_mob_delete: AdderVFX/(Gordon Magroni) at Wasteland (48, 210, 2) - /datum/reagent/consumable/nutriment/vitamin
+[2021-05-17 20:17:05.258] MOB DELETE: on_mob_delete: AdderVFX/(Gordon Magroni) at Wasteland (5, 197, 2) - /datum/reagent/consumable/nutriment
+[2021-05-17 20:18:55.619] MOB ADD: on_mob_add(): DropShip27/(Maya Tireman) at Building (108, 31, 2) - 10 of /datum/reagent/medicine/super_stimpak with 1 purity
+[2021-05-17 20:19:08.147] MOB DELETE: on_mob_delete: DropShip27/(Maya Tireman) at Wasteland (101, 23, 2) - /datum/reagent/medicine/super_stimpak
+[2021-05-17 20:19:19.678] MOB ADD: on_mob_add(): Luciam/(Dav Jones) at Tunnel (122, 114, 3) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 20:19:23.303] MOB ADD: on_mob_add(): Jhonatan lima/(Luicio Notav) at NCR (5, 224, 2) - 1 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-17 20:19:23.303] MOB ADD: on_mob_add(): Jhonatan lima/(Luicio Notav) at NCR (5, 224, 2) - 1 of /datum/reagent/consumable/nutriment/vitamin with 1 purity
+[2021-05-17 20:19:39.998] MOB DELETE: on_mob_delete: Jhonatan lima/(Luicio Notav) at NCR (17, 215, 2) - /datum/reagent/consumable/nutriment
+[2021-05-17 20:19:39.998] MOB DELETE: on_mob_delete: Jhonatan lima/(Luicio Notav) at NCR (17, 215, 2) - /datum/reagent/consumable/nutriment/vitamin
+[2021-05-17 20:19:50.520] MOB DELETE: on_mob_delete: Luciam/(Dav Jones) at Tunnel (133, 131, 3) - /datum/reagent/medicine/stimpak
+[2021-05-17 20:21:34.368] MOB ADD: on_mob_add(): MastrodontePlays/(Rodrigo Weisgarber) at Building (203, 193, 2) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-17 20:22:24.021] MOB ADD: on_mob_add(): Luciam/(Dav Jones) at Tunnel (129, 122, 3) - 2.571 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-17 20:22:24.021] MOB ADD: on_mob_add(): Luciam/(Dav Jones) at Tunnel (129, 122, 3) - 0.429 of /datum/reagent/consumable/nutriment/vitamin with 1 purity
+[2021-05-17 20:22:25.016] MOB DELETE: on_mob_delete: MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (188, 184, 2) - /datum/reagent/medicine/healing_powder
+[2021-05-17 20:22:29.098] MOB DELETE: on_mob_delete: Luciam/(Dav Jones) at Tunnel (131, 118, 3) - /datum/reagent/consumable/nutriment/vitamin
+[2021-05-17 20:22:37.405] MOB ADD: on_mob_add(): Jhonatan lima/(Luicio Notav) at Wasteland (184, 9, 4) - 5 of /datum/reagent/toxin/cazador_venom with 1 purity
+[2021-05-17 20:22:49.589] MOB ADD: on_merge(): Jhonatan lima/(Luicio Notav) at Wasteland (178, 2, 4) - 7.6 of /datum/reagent/toxin/cazador_venom with 1 purity
+[2021-05-17 20:22:53.559] MOB DELETE: on_mob_delete: Luciam/(Dav Jones) at Tunnel (136, 119, 3) - /datum/reagent/consumable/nutriment
+[2021-05-17 20:23:18.174] MOB DELETE: on_mob_delete: Jhonatan lima/(Luicio Notav) at Bunker (188, 11, 4) - /datum/reagent/toxin/cazador_venom
+[2021-05-17 20:25:28.734] MOB ADD: on_mob_add(): DropShip27/(Maya Tireman) at Wasteland (157, 184, 2) - 2.5 of /datum/reagent/determination with 1 purity
+[2021-05-17 20:25:34.814] MOB ADD: on_merge(): DropShip27/(Maya Tireman) at Wasteland (156, 184, 2) - 6.9 of /datum/reagent/determination with 1 purity
+[2021-05-17 20:25:35.704] MOB ADD: on_merge(): DropShip27/(Maya Tireman) at Wasteland (156, 184, 2) - 11.9 of /datum/reagent/determination with 1 purity
+[2021-05-17 20:25:36.509] MOB ADD: on_merge(): DropShip27/(Maya Tireman) at Wasteland (156, 184, 2) - 19.4 of /datum/reagent/determination with 1 purity
+[2021-05-17 20:26:03.222] MOB ADD: on_mob_add(): InicialPlayss/(Rayan Lindgrey) at Wasteland (55, 17, 2) - 2 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-17 20:26:50.521] MOB ADD: on_mob_add(): Luciam/(Dav Jones) at Tunnel (184, 87, 3) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 20:26:50.604] MOB ADD: on_mob_add(): Jhonatan lima/(Luicio Notav) at Caves (181, 15, 4) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 20:27:08.949] MOB ADD: on_mob_add(): Corvopimpolho/(Goddard Osterweis) at Wasteland (151, 184, 2) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-17 20:27:12.399] MOB ADD: on_mob_add(): *no key*/(Valeria Schrader) at Bunker (173, 105, 3) - 1 of /datum/reagent/determination with 1 purity
+[2021-05-17 20:27:14.034] MOB ADD: on_merge(): *no key*/(Valeria Schrader) at Bunker (173, 105, 3) - 3.5 of /datum/reagent/determination with 1 purity
+[2021-05-17 20:27:24.256] MOB ADD: on_mob_add(): Luciam/(Dav Jones) at Bunker (175, 106, 3) - 20 of /datum/reagent/medicine/radx with 1 purity
+[2021-05-17 20:27:27.878] MOB DELETE: on_mob_delete: InicialPlayss/(Rayan Lindgrey) at City (81, 38, 2) - /datum/reagent/consumable/nutriment
+[2021-05-17 20:27:34.615] MOB DELETE: on_mob_delete: Jhonatan lima/(Luicio Notav) at Bunker (180, 19, 4) - /datum/reagent/medicine/stimpak
+[2021-05-17 20:27:53.885] MOB DELETE: on_mob_delete: Corvopimpolho/(Goddard Osterweis) at Wasteland (163, 183, 2) - /datum/reagent/medicine/healing_powder
+[2021-05-17 20:27:55.948] MOB DELETE: on_mob_delete: Luciam/(Dav Jones) at Bunker (175, 105, 3) - /datum/reagent/medicine/stimpak
+[2021-05-17 20:28:12.104] MOB ADD: on_mob_add(): Jhonatan lima/(Luicio Notav) at Bunker (181, 11, 4) - 10 of /datum/reagent/medicine/super_stimpak with 1 purity
+[2021-05-17 20:28:21.089] MOB ADD: on_mob_add(): Jhonatan lima/(Luicio Notav) at Bunker (181, 11, 4) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 20:28:41.899] MOB ADD: on_merge(): Jhonatan lima/(Luicio Notav) at Bunker (181, 11, 4) - 18.2 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 20:29:22.021] MOB DELETE: on_mob_delete: Jhonatan lima/(Luicio Notav) at Bunker (188, 20, 4) - /datum/reagent/medicine/super_stimpak
+[2021-05-17 20:29:22.024] MOB DELETE: on_mob_delete: Jhonatan lima/(Luicio Notav) at Bunker (188, 20, 4) - /datum/reagent/medicine/stimpak
+[2021-05-17 20:31:14.526] MOB ADD: on_mob_add(): degusta00/(Monte Ehret) at Building (131, 199, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 20:31:20.855] MOB DELETE: on_mob_delete: degusta00/(Monte Ehret) at Building (132, 197, 2) - /datum/reagent/medicine/stimpak
+[2021-05-17 20:31:38.756] MOB ADD: on_mob_add(): AlexAlbright/(Rebeka Marinho) at Wasteland (78, 106, 2) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-17 20:32:18.177] MOB ADD: on_mob_add(): guilhty/(Guilherme Eva) at Wasteland (205, 136, 2) - 1 of /datum/reagent/determination with 1 purity
+[2021-05-17 20:32:18.728] MOB ADD: on_merge(): guilhty/(Guilherme Eva) at Wasteland (205, 135, 2) - 3.5 of /datum/reagent/determination with 1 purity
+[2021-05-17 20:32:24.252] MOB ADD: on_mob_add(): InicialPlayss/(Rayan Lindgrey) at Wasteland (56, 45, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 20:32:30.249] MOB ADD: on_mob_add(): guilhty/(Guilherme Eva) at Wasteland (205, 134, 2) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-17 20:32:31.012] MOB ADD: on_merge(): AlexAlbright/(Rebeka Marinho) at Wasteland (183, 35, 2) - 15 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-17 20:32:44.532] MOB DELETE: on_mob_delete: InicialPlayss/(Rayan Lindgrey) at City (79, 35, 2) - /datum/reagent/medicine/stimpak
+[2021-05-17 20:32:52.464] MOB ADD: on_mob_add(): luciam/(Victoria Valentine) at Tunnel (184, 101, 3) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 20:33:04.497] MOB DELETE: on_mob_delete: AlexAlbright/(Rebeka Marinho) at Wasteland (222, 76, 2) - /datum/reagent/medicine/healing_powder
+[2021-05-17 20:33:08.716] MOB DELETE: on_mob_delete: luciam/(Victoria Valentine) at Bunker (173, 102, 3) - /datum/reagent/medicine/stimpak
+[2021-05-17 20:33:30.645] MOB ADD: on_mob_add(): luciam/(Victoria Valentine) at Bunker (171, 103, 3) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 20:34:20.767] MOB ADD: on_merge(): luciam/(Victoria Valentine) at Bunker (171, 103, 3) - 15.2 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 20:35:25.564] MOB ADD: on_merge(): luciam/(Victoria Valentine) at Bunker (169, 103, 3) - 19.4 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 20:35:58.860] MOB ADD: on_mob_add(): luciam/(Victoria Valentine) at Bunker (174, 101, 3) - 5 of /datum/reagent/drug/turbo with 1 purity
+[2021-05-17 20:36:06.764] MOB DELETE: on_mob_delete: luciam/(Victoria Valentine) at Bunker (170, 105, 3) - /datum/reagent/medicine/stimpak
+[2021-05-17 20:36:15.094] MOB ADD: on_mob_add(): *no key*/(Troy Walker) at Bunker (170, 105, 3) - 1 of /datum/reagent/determination with 1 purity
+[2021-05-17 20:36:38.040] MOB ADD: on_mob_add(): nickenzo12345/(Moises Harshman) at Bunker (250, 19, 4) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 20:36:54.317] MOB ADD: on_mob_add(): nickenzo12345[DC]/(Moises Harshman) at Bunker (248, 21, 4) - 1 of /datum/reagent/determination with 1 purity
+[2021-05-17 20:36:57.507] MOB DELETE: on_mob_delete: luciam/(Victoria Valentine) at Bunker (169, 107, 3) - /datum/reagent/drug/turbo
+[2021-05-17 20:36:58.134] MOB ADD: on_merge(): nickenzo12345[DC]/(Moises Harshman) at Bunker (248, 21, 4) - 2.9 of /datum/reagent/determination with 1 purity
+[2021-05-17 20:37:18.010] MOB DELETE: on_mob_delete: nickenzo12345[DC]/(Moises Harshman) at Bunker (248, 21, 4) - /datum/reagent/determination
+[2021-05-17 20:37:43.393] MOB ADD: on_mob_add(): DarkPudding/(John Wick) at NCR (33, 192, 2) - 4.9 of /datum/reagent/toxin/coffeepowder with 1 purity
+[2021-05-17 20:37:43.394] MOB ADD: on_mob_add(): DarkPudding/(John Wick) at NCR (33, 192, 2) - 0.1 of /datum/reagent/radium with 1 purity
+[2021-05-17 20:37:45.224] MOB DELETE: on_mob_delete: DarkPudding/(John Wick) at NCR (33, 192, 2) - /datum/reagent/radium
+[2021-05-17 20:37:47.410] MOB ADD: on_mob_add(): DarkPudding/(John Wick) at NCR (33, 192, 2) - 1 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-17 20:37:49.371] MOB ADD: on_merge(): DarkPudding/(John Wick) at NCR (33, 192, 2) - 9 of /datum/reagent/toxin/coffeepowder with 1 purity
+[2021-05-17 20:37:49.371] MOB ADD: on_mob_add(): DarkPudding/(John Wick) at NCR (33, 192, 2) - 0.1 of /datum/reagent/radium with 1 purity
+[2021-05-17 20:37:50.037] MOB DELETE: on_mob_delete: DarkPudding/(John Wick) at NCR (33, 192, 2) - /datum/reagent/radium
+[2021-05-17 20:37:52.053] MOB DELETE: on_mob_delete: DarkPudding/(John Wick) at NCR (33, 191, 2) - /datum/reagent/consumable/nutriment
+[2021-05-17 20:37:54.143] MOB ADD: on_mob_add(): Coffee_MasterOri/(Nickolas Priebe) at Caves (213, 150, 2) - 1 of /datum/reagent/determination with 1 purity
+[2021-05-17 20:37:55.263] MOB ADD: on_merge(): Coffee_MasterOri/(Nickolas Priebe) at Caves (212, 149, 2) - 3.2 of /datum/reagent/determination with 1 purity
+[2021-05-17 20:38:26.282] MOB DELETE: on_mob_delete: DarkPudding/(John Wick) at Wasteland (47, 217, 2) - /datum/reagent/toxin/coffeepowder
+[2021-05-17 20:38:30.610] MOB ADD: on_mob_add(): SondTheAnime/(Courier) at Brotherhood of Steel Leisure Areas (218, 235, 3) - 2 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-17 20:38:32.420] MOB DELETE: on_mob_delete: Nickenzo12345/(Moises Harshman) at Bunker (248, 21, 4) - /datum/reagent/medicine/stimpak
+[2021-05-17 20:39:13.585] MOB ADD: on_mob_add(): AlexAlbright/(Rebeka Marinho) at Wasteland (239, 154, 2) - 5 of /datum/reagent/toxin/cazador_venom with 1 purity
+[2021-05-17 20:39:29.313] MOB ADD: on_mob_add(): *no key*/(Gary Hook) at Bunker (244, 21, 4) - 2.5 of /datum/reagent/determination with 1 purity
+[2021-05-17 20:39:31.086] MOB ADD: on_merge(): *no key*/(Gary Hook) at Bunker (244, 21, 4) - 7.5 of /datum/reagent/determination with 1 purity
+[2021-05-17 20:39:35.184] MOB DELETE: on_mob_delete: AlexAlbright/(Rebeka Marinho) at Wasteland (228, 173, 2) - /datum/reagent/toxin/cazador_venom
+[2021-05-17 20:40:44.716] MOB ADD: on_mob_add(): degusta00/(Monte Ehret) at Wasteland (70, 156, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 20:41:03.719] MOB ADD: on_merge(): *no key*/(Gary Hook) at Bunker (244, 21, 4) - 12.5 of /datum/reagent/determination with 1 purity
+[2021-05-17 20:41:04.568] MOB ADD: on_merge(): *no key*/(Gary Hook) at Bunker (244, 21, 4) - 20 of /datum/reagent/determination with 1 purity
+[2021-05-17 20:41:08.986] MOB DELETE: on_mob_delete: SondTheAnime/(Courier) at Caves (197, 137, 3) - /datum/reagent/consumable/nutriment
+[2021-05-17 20:41:17.441] MOB DELETE: on_mob_delete: degusta00/(Monte Ehret) at Village (74, 164, 2) - /datum/reagent/medicine/stimpak
+[2021-05-17 20:41:28.637] MOB ADD: on_mob_add(): *no key*/(Roman Teagarden) at Wasteland (251, 13, 4) - 1 of /datum/reagent/determination with 1 purity
+[2021-05-17 20:41:29.781] MOB ADD: on_merge(): *no key*/(Roman Teagarden) at Wasteland (251, 13, 4) - 3.5 of /datum/reagent/determination with 1 purity
+[2021-05-17 20:41:30.769] MOB ADD: on_merge(): *no key*/(Roman Teagarden) at Wasteland (251, 13, 4) - 8.5 of /datum/reagent/determination with 1 purity
+[2021-05-17 20:41:31.684] MOB ADD: on_merge(): *no key*/(Roman Teagarden) at Wasteland (251, 13, 4) - 13.5 of /datum/reagent/determination with 1 purity
+[2021-05-17 20:41:32.594] MOB ADD: on_merge(): *no key*/(Roman Teagarden) at Wasteland (251, 13, 4) - 21 of /datum/reagent/determination with 1 purity
+[2021-05-17 20:43:37.485] MOB ADD: on_mob_add(): degusta00/(Monte Ehret) at Village (110, 167, 2) - 1 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-17 20:43:37.486] MOB ADD: on_mob_add(): degusta00/(Monte Ehret) at Village (110, 167, 2) - 1 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-17 20:43:38.367] MOB ADD: on_merge(): degusta00/(Monte Ehret) at Village (110, 167, 2) - 2 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-17 20:43:39.128] MOB ADD: on_merge(): degusta00/(Monte Ehret) at Village (110, 167, 2) - 2.2 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-17 20:43:40.017] MOB ADD: on_merge(): degusta00/(Monte Ehret) at Village (110, 167, 2) - 3.2 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-17 20:43:40.821] MOB ADD: on_merge(): degusta00/(Monte Ehret) at Village (110, 167, 2) - 3.4 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-17 20:43:41.722] MOB ADD: on_merge(): degusta00/(Monte Ehret) at Village (110, 167, 2) - 4.4 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-17 20:43:42.599] MOB ADD: on_merge(): degusta00/(Monte Ehret) at Village (110, 167, 2) - 4.6 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-17 20:43:43.627] MOB ADD: on_merge(): degusta00/(Monte Ehret) at Village (110, 167, 2) - 5.6 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-17 20:43:44.528] MOB ADD: on_merge(): degusta00/(Monte Ehret) at Village (111, 167, 2) - 6.6 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-17 20:43:48.129] MOB ADD: on_merge(): degusta00/(Monte Ehret) at Village (117, 169, 2) - 6 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-17 20:44:03.437] MOB DELETE: on_mob_delete: degusta00/(Monte Ehret) at Village (133, 171, 2) - /datum/reagent/consumable/sugar
+[2021-05-17 20:44:21.507] MOB ADD: on_mob_add(): Zero9e1/(Garrety Wells) at Wasteland (124, 52, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 20:44:21.931] MOB ADD: on_mob_add(): AlexAlbright/(Rebeka Marinho) at Building (30, 95, 2) - 5 of /datum/reagent/toxin with 1 purity
+[2021-05-17 20:44:27.946] MOB DELETE: on_mob_delete: degusta00/(Monte Ehret) at Village (131, 172, 2) - /datum/reagent/consumable/nutriment
+[2021-05-17 20:44:36.096] MOB ADD: on_merge(): AlexAlbright/(Rebeka Marinho) at Wasteland (37, 81, 2) - 7.76 of /datum/reagent/toxin with 1 purity
+[2021-05-17 20:44:38.117] MOB ADD: on_merge(): AlexAlbright/(Rebeka Marinho) at Wasteland (38, 80, 2) - 12.44 of /datum/reagent/toxin with 1 purity
+[2021-05-17 20:44:39.888] MOB ADD: on_mob_add(): guilhty/(Jorginho) at Clinic (166, 43, 2) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-17 20:44:45.801] MOB ADD: on_merge(): guilhty/(Jorginho) at Clinic (166, 43, 2) - 19.4 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-17 20:44:50.596] MOB ADD: on_mob_add(): AlexAlbright/(Rebeka Marinho) at Wasteland (35, 67, 2) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-17 20:44:55.354] MOB ADD: on_mob_add(): AlexAlbright/(Rebeka Marinho) at Wasteland (37, 70, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 20:45:06.421] MOB ADD: on_mob_add(): AlexAlbright/(Rebeka Marinho) at Wasteland (30, 76, 2) - 20 of /datum/reagent/medicine/radx with 1 purity
+[2021-05-17 20:45:10.756] MOB ADD: on_mob_add(): Zero9e1/(Garrety Wells) at Wasteland (202, 74, 2) - 1 of /datum/reagent/determination with 1 purity
+[2021-05-17 20:45:14.929] MOB ADD: on_mob_add(): luciam/(Victoria Valentine) at Tunnel (122, 43, 3) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 20:45:17.189] MOB DELETE: on_mob_delete: Zero9e1/(Garrety Wells) at Wasteland (191, 92, 2) - /datum/reagent/determination
+[2021-05-17 20:45:19.194] MOB DELETE: on_mob_delete: guilhty/(Jorginho) at Clinic (166, 42, 2) - /datum/reagent/medicine/healing_powder
+[2021-05-17 20:45:29.652] MOB DELETE: on_mob_delete: luciam/(Victoria Valentine) at Tunnel (141, 47, 3) - /datum/reagent/medicine/stimpak
+[2021-05-17 20:45:46.315] MOB DELETE: on_mob_delete: AlexAlbright/(Rebeka Marinho) at Building (32, 96, 2) - /datum/reagent/toxin
+[2021-05-17 20:45:48.410] MOB DELETE: on_mob_delete: Zero9e1/(Garrety Wells) at Radiation (192, 111, 2) - /datum/reagent/medicine/stimpak
+[2021-05-17 20:46:10.525] MOB ADD: on_mob_add(): degusta00/(Monte Ehret) at Village (150, 179, 2) - 10 of /datum/reagent/medicine/synthflesh with 1 purity
+[2021-05-17 20:46:13.320] MOB DELETE: on_mob_delete: AlexAlbright/(Rebeka Marinho) at Building (36, 98, 2) - /datum/reagent/medicine/healing_powder
+[2021-05-17 20:46:17.858] MOB DELETE: on_mob_delete: AlexAlbright/(Rebeka Marinho) at Building (36, 94, 2) - /datum/reagent/medicine/stimpak
+[2021-05-17 20:46:20.006] MOB DELETE: on_mob_delete: degusta00/(Monte Ehret) at Village (148, 180, 2) - /datum/reagent/medicine/synthflesh
+[2021-05-17 20:46:32.710] MOB ADD: on_mob_add(): AlexAlbright/(Rebeka Marinho) at Building (28, 91, 2) - 5 of /datum/reagent/toxin with 1 purity
+[2021-05-17 20:46:34.791] MOB ADD: on_merge(): AlexAlbright/(Rebeka Marinho) at Building (28, 91, 2) - 9.68 of /datum/reagent/toxin with 1 purity
+[2021-05-17 20:46:35.181] MOB ADD: on_mob_add(): Zero9e1/(Garrety Wells) at Wasteland (144, 180, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 20:46:48.969] MOB ADD: on_mob_add(): Zero9e1/(Garrety Wells) at Village (152, 178, 2) - 10 of /datum/reagent/medicine/synthflesh with 1 purity
+[2021-05-17 20:46:52.924] MOB ADD: on_merge(): Zero9e1/(Garrety Wells) at Village (152, 178, 2) - 16 of /datum/reagent/medicine/synthflesh with 1 purity
+[2021-05-17 20:47:08.102] MOB DELETE: on_mob_delete: Zero9e1/(Garrety Wells) at Village (152, 178, 2) - /datum/reagent/medicine/synthflesh
+[2021-05-17 20:47:22.432] MOB ADD: on_merge(): Zero9e1/(Garrety Wells) at Village (152, 178, 2) - 15.6 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 20:47:36.067] MOB DELETE: on_mob_delete: Zero9e1/(Garrety Wells) at Wasteland (141, 190, 2) - /datum/reagent/medicine/stimpak
+[2021-05-17 20:47:54.810] MOB ADD: on_mob_add(): guilhty/(Jorginho) at Followers of the Apocalypse (84, 56, 2) - 2.5 of /datum/reagent/determination with 1 purity
+[2021-05-17 20:48:19.674] MOB ADD: on_mob_add(): Corvopimpolho/(Goddard Osterweis) at Wasteland (184, 14, 2) - 1.179 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-17 20:48:19.674] MOB ADD: on_mob_add(): Corvopimpolho/(Goddard Osterweis) at Wasteland (184, 14, 2) - 0.643 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-17 20:48:19.675] MOB ADD: on_mob_add(): Corvopimpolho/(Goddard Osterweis) at Wasteland (184, 14, 2) - 1.179 of /datum/reagent/consumable/nutriment/vitamin with 1 purity
+[2021-05-17 20:48:20.473] MOB ADD: on_merge(): Corvopimpolho/(Goddard Osterweis) at Wasteland (184, 14, 2) - 1.286 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-17 20:48:21.452] MOB ADD: on_merge(): Corvopimpolho/(Goddard Osterweis) at Wasteland (184, 14, 2) - 1.129 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-17 20:48:22.377] MOB ADD: on_merge(): Corvopimpolho/(Goddard Osterweis) at Wasteland (184, 14, 2) - 1.772 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-17 20:48:23.447] MOB ADD: on_merge(): Corvopimpolho/(Goddard Osterweis) at Wasteland (184, 14, 2) - 1.615 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-17 20:48:24.383] MOB ADD: on_merge(): Corvopimpolho/(Goddard Osterweis) at Wasteland (184, 14, 2) - 2.258 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-17 20:48:25.299] MOB ADD: on_merge(): Corvopimpolho/(Goddard Osterweis) at Wasteland (184, 14, 2) - 2.901 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-17 20:48:26.372] MOB ADD: on_merge(): Corvopimpolho/(Goddard Osterweis) at Wasteland (184, 14, 2) - 2.744 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-17 20:48:27.016] MOB ADD: on_mob_add(): luciam/(Victoria Valentine) at Tunnel (132, 68, 3) - 20 of /datum/reagent/medicine/radx with 1 purity
+[2021-05-17 20:48:27.416] MOB ADD: on_merge(): Corvopimpolho/(Goddard Osterweis) at Wasteland (184, 14, 2) - 2.958 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-17 20:48:34.575] MOB DELETE: on_mob_delete: Corvopimpolho/(Goddard Osterweis) at Building (176, 7, 2) - /datum/reagent/consumable/sugar
+[2021-05-17 20:48:52.051] MOB ADD: on_mob_add(): degusta00/(Monte Ehret) at Village (151, 179, 2) - 10 of /datum/reagent/medicine/synthflesh with 1 purity
+[2021-05-17 20:49:00.334] MOB ADD: on_merge(): degusta00/(Monte Ehret) at Village (151, 179, 2) - 12 of /datum/reagent/medicine/synthflesh with 1 purity
+[2021-05-17 20:49:00.649] MOB ADD: on_merge(): *no key*/(Jorginho) at Wasteland (43, 61, 2) - 1.7 of /datum/reagent/determination with 1 purity
+[2021-05-17 20:49:11.772] MOB DELETE: on_mob_delete: degusta00/(Monte Ehret) at Village (152, 177, 2) - /datum/reagent/medicine/synthflesh
+[2021-05-17 20:49:11.808] MOB DELETE: on_mob_delete: Corvopimpolho/(Goddard Osterweis) at Wasteland (118, 34, 2) - /datum/reagent/consumable/nutriment
+[2021-05-17 20:49:11.808] MOB DELETE: on_mob_delete: Corvopimpolho/(Goddard Osterweis) at Wasteland (118, 34, 2) - /datum/reagent/consumable/nutriment/vitamin
+[2021-05-17 20:49:35.337] MOB ADD: on_mob_add(): nickenzo12345/(Collin Zalack) at Bunker (248, 231, 4) - 5 of /datum/reagent/toxin with 1 purity
+[2021-05-17 20:49:37.418] MOB ADD: on_merge(): nickenzo12345/(Collin Zalack) at Bunker (244, 229, 4) - 9.6 of /datum/reagent/toxin with 1 purity
+[2021-05-17 20:49:37.426] MOB ADD: on_merge(): nickenzo12345/(Collin Zalack) at Bunker (244, 229, 4) - 14.6 of /datum/reagent/toxin with 1 purity
+[2021-05-17 20:49:37.465] MOB ADD: on_merge(): nickenzo12345/(Collin Zalack) at Bunker (244, 229, 4) - 19.6 of /datum/reagent/toxin with 1 purity
+[2021-05-17 20:49:39.488] MOB ADD: on_merge(): nickenzo12345/(Collin Zalack) at Bunker (249, 231, 4) - 24.2 of /datum/reagent/toxin with 1 purity
+[2021-05-17 20:49:39.496] MOB ADD: on_merge(): nickenzo12345/(Collin Zalack) at Bunker (249, 231, 4) - 29.2 of /datum/reagent/toxin with 1 purity
+[2021-05-17 20:50:49.093] MOB ADD: on_mob_add(): luciam/(Victoria Valentine) at Bunker (170, 108, 3) - 10 of /datum/reagent/fermi/BEsmaller_hypo with 1 purity
+[2021-05-17 20:51:04.771] MOB ADD: on_mob_add(): *no key*/(Micah Larson) at Bar (62, 98, 2) - 1 of /datum/reagent/determination with 1 purity
+[2021-05-17 20:51:05.186] MOB ADD: on_merge(): *no key*/(Micah Larson) at Bar (62, 98, 2) - 3.5 of /datum/reagent/determination with 1 purity
+[2021-05-17 20:51:32.761] TRANSFER: FROM The orange hypovial (kelotane) ([0x204c050]) (0,0,0) TO The red hypovial (bicaridine) ([0x2003b9d]) (171,106,3) - luciam/(Victoria Valentine) - reagentcontainer-glass afterattack transfer to: trans_to with arguments the red hypovial (bicaridine) 10 1 1 0 and reagents Kelotane - 10
+[2021-05-17 20:51:38.318] TRANSFER: FROM The red hypovial (bicaridine) ([0x200c463]) (0,0,0) TO The orange hypovial (kelotane) ([0x204c050]) (171,106,3) - luciam/(Victoria Valentine) - reagentcontainer-glass afterattack transfer to: trans_to with arguments the orange hypovial (kelotane) 10 1 1 0 and reagents Bicaridine - 10
+[2021-05-17 20:51:38.861] MOB ADD: on_mob_add(): degusta00/(Monte Ehret) at Wasteland (135, 190, 2) - 2 of /datum/reagent/consumable/coffee with 1 purity
+[2021-05-17 20:51:38.861] MOB ADD: on_mob_add(): degusta00/(Monte Ehret) at Wasteland (135, 190, 2) - 3 of /datum/reagent/consumable/bawls with 1 purity
+[2021-05-17 20:51:39.980] MOB ADD: on_merge(): degusta00/(Monte Ehret) at Wasteland (136, 190, 2) - 4 of /datum/reagent/consumable/coffee with 1 purity
+[2021-05-17 20:51:39.981] MOB ADD: on_merge(): degusta00/(Monte Ehret) at Wasteland (136, 190, 2) - 6 of /datum/reagent/consumable/bawls with 1 purity
+[2021-05-17 20:51:40.565] MOB ADD: on_mob_add(): *no key*/(Reagan Staymates) at Bar (58, 93, 2) - 2.5 of /datum/reagent/determination with 1 purity
+[2021-05-17 20:51:42.963] TRANSFER: FROM The orange hypovial (kelotane) ([0x204c04f]) (0,0,0) TO The red hypovial (bicaridine) ([0x200c463]) (171,106,3) - luciam/(Victoria Valentine) - reagentcontainer-glass afterattack transfer to: trans_to with arguments the red hypovial (bicaridine) 10 1 1 0 and reagents Kelotane - 10
+[2021-05-17 20:51:43.166] MOB ADD: on_merge(): *no key*/(Reagan Staymates) at Bar (58, 93, 2) - 7.5 of /datum/reagent/determination with 1 purity
+[2021-05-17 20:51:44.847] MOB ADD: on_merge(): *no key*/(Reagan Staymates) at Bar (58, 93, 2) - 12.5 of /datum/reagent/determination with 1 purity
+[2021-05-17 20:51:45.687] MOB ADD: on_merge(): *no key*/(Reagan Staymates) at Bar (58, 93, 2) - 20 of /datum/reagent/determination with 1 purity
+[2021-05-17 20:51:46.874] TRANSFER: FROM The orange hypovial (kelotane) ([0x204c04f]) (0,0,0) TO The red hypovial (bicaridine) ([0x2003b9d]) (171,106,3) - luciam/(Victoria Valentine) - reagentcontainer-glass afterattack transfer to: trans_to with arguments the red hypovial (bicaridine) 10 1 1 0 and reagents Kelotane - 10
+[2021-05-17 20:51:51.649] TRANSFER: FROM The red hypovial (bicaridine) ([0x200c463]) (0,0,0) TO The orange hypovial (kelotane) ([0x204c04f]) (171,107,3) - luciam/(Victoria Valentine) - reagentcontainer-glass afterattack transfer to: trans_to with arguments the orange hypovial (kelotane) 10 1 1 0 and reagents Bicaridine - 6.66667 and Kelotane - 3.33333
+[2021-05-17 20:51:54.340] MOB DELETE: on_mob_delete: luciam/(Victoria Valentine) at Bunker (170, 107, 3) - /datum/reagent/medicine/radx
+[2021-05-17 20:51:56.027] TRANSFER: FROM The red hypovial (bicaridine) ([0x2003b9d]) (0,0,0) TO The orange hypovial (kelotane) ([0x204c04f]) (171,107,3) - luciam/(Victoria Valentine) - reagentcontainer-glass afterattack transfer to: trans_to with arguments the orange hypovial (kelotane) 10 1 1 0 and reagents Bicaridine - 6 and Kelotane - 4
+[2021-05-17 20:51:57.731] TRANSFER: FROM The red hypovial (bicaridine) ([0x2003b9d]) (0,0,0) TO The red hypovial (bicaridine) ([0x200c463]) (171,106,3) - luciam/(Victoria Valentine) - reagentcontainer-glass afterattack transfer to: trans_to with arguments the red hypovial (bicaridine) 10 1 1 0 and reagents Bicaridine - 6 and Kelotane - 4
+[2021-05-17 20:51:58.360] MOB DELETE: on_mob_delete: degusta00/(Monte Ehret) at Wasteland (140, 183, 2) - /datum/reagent/consumable/coffee
+[2021-05-17 20:52:02.292] MOB ADD: on_mob_add(): MastrodontePlays/(Rodrigo Weisgarber) at Bar (57, 89, 2) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-17 20:52:08.590] MOB DELETE: on_mob_delete: luciam/(Victoria Valentine) at Bunker (170, 107, 3) - /datum/reagent/fermi/BEsmaller_hypo
+[2021-05-17 20:52:08.600] MOB DELETE: on_mob_delete: degusta00/(Monte Ehret) at Wasteland (169, 189, 2) - /datum/reagent/consumable/bawls
+[2021-05-17 20:52:14.949] MOB ADD: on_mob_add(): luciam/(Victoria Valentine) at Bunker (170, 107, 3) - 10 of /datum/reagent/medicine/kelotane with 1 purity
+[2021-05-17 20:52:30.164] MOB ADD: on_mob_add(): luciam/(Victoria Valentine) at Bunker (170, 107, 3) - 6 of /datum/reagent/medicine/bicaridine with 1 purity
+[2021-05-17 20:52:30.165] MOB ADD: on_merge(): luciam/(Victoria Valentine) at Bunker (170, 107, 3) - 11.2 of /datum/reagent/medicine/kelotane with 1 purity
+[2021-05-17 20:52:47.915] MOB ADD: on_mob_add(): luciam/(Victoria Valentine) at Bunker (169, 107, 3) - 2 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-17 20:52:59.687] MOB DELETE: on_mob_delete: luciam/(Victoria Valentine) at Bunker (170, 108, 3) - /datum/reagent/medicine/bicaridine
+[2021-05-17 20:53:03.738] MOB DELETE: on_mob_delete: MastrodontePlays/(Rodrigo Weisgarber) at Bar (61, 95, 2) - /datum/reagent/medicine/healing_powder
+[2021-05-17 20:53:07.159] MOB ADD: on_merge(): *no key*/(Reagan Staymates) at Bar (58, 93, 2) - 22.5 of /datum/reagent/determination with 1 purity
+[2021-05-17 20:53:08.944] MOB ADD: on_merge(): *no key*/(Micah Larson) at Bar (62, 98, 2) - 8.5 of /datum/reagent/determination with 1 purity
+[2021-05-17 20:53:13.891] MOB DELETE: on_mob_delete: luciam/(Victoria Valentine) at Bunker (172, 102, 3) - /datum/reagent/consumable/nutriment
+[2021-05-17 20:53:26.295] MOB DELETE: on_mob_delete: luciam/(Victoria Valentine) at Bunker (176, 101, 3) - /datum/reagent/medicine/kelotane
+[2021-05-17 20:53:36.112] MOB ADD: on_mob_add(): Jhonatan lima/(Luicio Notav) at NCR (6, 226, 2) - 2 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-17 20:54:14.065] MOB ADD: on_mob_add(): guilhty/(Carlinhos) at Wasteland (121, 89, 2) - 12.5 of /datum/reagent/drug/mushroomhallucinogen with 1 purity
+[2021-05-17 20:54:14.065] MOB ADD: on_mob_add(): guilhty/(Carlinhos) at Wasteland (121, 89, 2) - 12.5 of /datum/reagent/toxin/mindbreaker with 1 purity
+[2021-05-17 20:54:18.111] MOB ADD: on_mob_add(): *no key*/(Marvin Goebbles) at Bar (59, 107, 2) - 1 of /datum/reagent/determination with 1 purity
+[2021-05-17 20:54:19.084] MOB ADD: on_merge(): *no key*/(Marvin Goebbles) at Bar (59, 107, 2) - 3.5 of /datum/reagent/determination with 1 purity
+[2021-05-17 20:54:20.001] MOB ADD: on_merge(): *no key*/(Marvin Goebbles) at Bar (59, 107, 2) - 8.5 of /datum/reagent/determination with 1 purity
+[2021-05-17 20:54:20.784] MOB ADD: on_merge(): *no key*/(Marvin Goebbles) at Bar (59, 107, 2) - 13.5 of /datum/reagent/determination with 1 purity
+[2021-05-17 20:54:22.524] MOB ADD: on_merge(): *no key*/(Marvin Goebbles) at Bar (59, 107, 2) - 16 of /datum/reagent/determination with 1 purity
+[2021-05-17 20:54:24.356] MOB ADD: on_merge(): *no key*/(Marvin Goebbles) at Bar (59, 107, 2) - 18.5 of /datum/reagent/determination with 1 purity
+[2021-05-17 20:54:25.243] MOB ADD: on_merge(): *no key*/(Marvin Goebbles) at Bar (59, 107, 2) - 26 of /datum/reagent/determination with 1 purity
+[2021-05-17 20:54:37.697] MOB ADD: on_mob_add(): Corvopimpolho/(Goddard Osterweis) at Caves (54, 107, 2) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-17 20:54:50.056] MOB ADD: on_mob_add(): guilhty/(Carlinhos) at Village (114, 122, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 20:55:09.090] MOB DELETE: on_mob_delete: guilhty/(Carlinhos) at Village (112, 117, 2) - /datum/reagent/toxin/mindbreaker
+[2021-05-17 20:55:10.564] MOB ADD: on_mob_add(): *no key*/(Stella Miller) at Bar (64, 105, 2) - 2.5 of /datum/reagent/determination with 1 purity
+[2021-05-17 20:55:12.700] MOB ADD: on_merge(): *no key*/(Stella Miller) at Bar (64, 105, 2) - 7.5 of /datum/reagent/determination with 1 purity
+[2021-05-17 20:55:13.109] MOB DELETE: on_mob_delete: guilhty/(Carlinhos) at Village (112, 117, 2) - /datum/reagent/medicine/stimpak
+[2021-05-17 20:55:13.493] MOB ADD: on_merge(): *no key*/(Stella Miller) at Bar (64, 105, 2) - 12.5 of /datum/reagent/determination with 1 purity
+[2021-05-17 20:55:14.430] MOB ADD: on_merge(): *no key*/(Stella Miller) at Bar (64, 105, 2) - 20 of /datum/reagent/determination with 1 purity
+[2021-05-17 20:55:17.154] MOB DELETE: on_mob_delete: Jhonatan lima/(Luicio Notav) at NCR (31, 191, 2) - /datum/reagent/consumable/nutriment
+[2021-05-17 20:55:21.344] MOB DELETE: on_mob_delete: Corvopimpolho/(Goddard Osterweis) at Bar (64, 106, 2) - /datum/reagent/medicine/healing_powder
+[2021-05-17 20:55:35.685] MOB ADD: on_mob_add(): Eversonblr/(Miguel Hastings) at Brotherhood of Steel Leisure Areas (221, 234, 3) - 2 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-17 20:56:16.393] MOB DELETE: on_mob_delete: Eversonblr/(Miguel Hastings) at Brotherhood of Steel RnD Department (238, 193, 3) - /datum/reagent/consumable/nutriment
+[2021-05-17 20:56:26.973] SPLASH - the wooden bucket object SplashReagents() onto the floor at the floor (NCR (36, 207, 2)) THROWN BY AdderVFX/(Gordon Magroni) at the floor (NCR (34, 207, 2)) - /datum/reagent/ammonia (30.001u), /datum/reagent/chlorine (15u), /datum/reagent/oxygen (10u) and /datum/reagent/nitrogen (14.999u)
+[2021-05-17 20:59:30.135] MOB ADD: on_mob_add(): dfrenando/(Fernando Araujo) at Caves (197, 136, 3) - 10 of /datum/reagent/medicine/super_stimpak with 1 purity
+[2021-05-17 20:59:32.297] MOB DELETE: on_mob_delete: guilhty/(Carlinhos) at Wasteland (17, 63, 2) - /datum/reagent/drug/mushroomhallucinogen
+[2021-05-17 20:59:48.524] MOB DELETE: on_mob_delete: dfrenando/(Fernando Araujo) at Caves (196, 136, 3) - /datum/reagent/medicine/super_stimpak
+[2021-05-17 21:00:40.175] MOB ADD: on_mob_add(): DarkPudding/(John Wick) at NCR (32, 192, 2) - 4.9 of /datum/reagent/toxin/coffeepowder with 1 purity
+[2021-05-17 21:00:40.176] MOB ADD: on_mob_add(): DarkPudding/(John Wick) at NCR (32, 192, 2) - 0.1 of /datum/reagent/radium with 1 purity
+[2021-05-17 21:00:41.208] MOB ADD: on_merge(): DarkPudding/(John Wick) at NCR (32, 192, 2) - 9.8 of /datum/reagent/toxin/coffeepowder with 1 purity
+[2021-05-17 21:00:41.208] MOB ADD: on_merge(): DarkPudding/(John Wick) at NCR (32, 192, 2) - 0.2 of /datum/reagent/radium with 1 purity
+[2021-05-17 21:00:41.228] MOB DELETE: on_mob_delete: DarkPudding/(John Wick) at NCR (32, 192, 2) - /datum/reagent/radium
+[2021-05-17 21:00:42.007] MOB ADD: on_merge(): DarkPudding/(John Wick) at NCR (32, 192, 2) - 14.3 of /datum/reagent/toxin/coffeepowder with 1 purity
+[2021-05-17 21:00:42.008] MOB ADD: on_mob_add(): DarkPudding/(John Wick) at NCR (32, 192, 2) - 0.1 of /datum/reagent/radium with 1 purity
+[2021-05-17 21:00:42.807] MOB ADD: on_merge(): DarkPudding/(John Wick) at NCR (32, 192, 2) - 19.2 of /datum/reagent/toxin/coffeepowder with 1 purity
+[2021-05-17 21:00:42.807] MOB ADD: on_merge(): DarkPudding/(John Wick) at NCR (32, 192, 2) - 0.2 of /datum/reagent/radium with 1 purity
+[2021-05-17 21:00:43.270] MOB DELETE: on_mob_delete: DarkPudding/(John Wick) at NCR (32, 192, 2) - /datum/reagent/radium
+[2021-05-17 21:00:43.649] MOB ADD: on_merge(): DarkPudding/(John Wick) at NCR (32, 192, 2) - 23.7 of /datum/reagent/toxin/coffeepowder with 1 purity
+[2021-05-17 21:00:43.649] MOB ADD: on_mob_add(): DarkPudding/(John Wick) at NCR (32, 192, 2) - 0.1 of /datum/reagent/radium with 1 purity
+[2021-05-17 21:00:44.485] MOB ADD: on_merge(): DarkPudding/(John Wick) at NCR (32, 192, 2) - 28.6 of /datum/reagent/toxin/coffeepowder with 1 purity
+[2021-05-17 21:00:44.486] MOB ADD: on_merge(): DarkPudding/(John Wick) at NCR (32, 192, 2) - 0.2 of /datum/reagent/radium with 1 purity
+[2021-05-17 21:00:45.327] MOB ADD: on_merge(): DarkPudding/(John Wick) at NCR (32, 192, 2) - 33.5 of /datum/reagent/toxin/coffeepowder with 1 purity
+[2021-05-17 21:00:45.327] MOB ADD: on_merge(): DarkPudding/(John Wick) at NCR (32, 192, 2) - 0.3 of /datum/reagent/radium with 1 purity
+[2021-05-17 21:00:45.355] MOB DELETE: on_mob_delete: DarkPudding/(John Wick) at NCR (32, 192, 2) - /datum/reagent/radium
+[2021-05-17 21:00:46.263] MOB ADD: on_merge(): DarkPudding/(John Wick) at NCR (32, 192, 2) - 38 of /datum/reagent/toxin/coffeepowder with 1 purity
+[2021-05-17 21:00:46.263] MOB ADD: on_mob_add(): DarkPudding/(John Wick) at NCR (32, 192, 2) - 0.1 of /datum/reagent/radium with 1 purity
+[2021-05-17 21:00:47.355] MOB DELETE: on_mob_delete: DarkPudding/(John Wick) at NCR (32, 192, 2) - /datum/reagent/radium
+[2021-05-17 21:00:50.168] MOB ADD: on_mob_add(): DarkPudding/(John Wick) at NCR (32, 192, 2) - 1 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-17 21:00:59.542] MOB DELETE: on_mob_delete: DarkPudding/(John Wick) at NCR (33, 191, 2) - /datum/reagent/consumable/nutriment
+[2021-05-17 21:01:08.871] SPLASH - the glass of ...what? object SplashReagents() onto the floor at the floor (NCR (35, 202, 2)) THROWN BY AdderVFX/(Gordon Magroni) at the floor (NCR (37, 204, 2)) - /datum/reagent/ammonia (10u), /datum/reagent/hydrogen (20u) and /datum/reagent/toxin/acid (10u)
+[2021-05-17 21:02:20.763] MOB ADD: on_mob_add(): Corvopimpolho/(Goddard Osterweis) at Ruins (4, 93, 4) - 5 of /datum/reagent/toxin with 1 purity
+[2021-05-17 21:02:32.791] MOB DELETE: on_mob_delete: Corvopimpolho/(Goddard Osterweis) at Ruins (8, 99, 4) - /datum/reagent/toxin
+[2021-05-17 21:02:38.361] MOB ADD: on_mob_add(): MastrodontePlays/(Rodrigo Weisgarber) at Ruins (7, 100, 4) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 21:02:44.069] MOB ADD: on_mob_add(): Corvopimpolho/(Goddard Osterweis) at Ruins (7, 97, 4) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-17 21:02:46.875] MOB DELETE: on_mob_delete: MastrodontePlays/(Rodrigo Weisgarber) at Ruins (7, 99, 4) - /datum/reagent/medicine/stimpak
+[2021-05-17 21:03:03.311] MOB DELETE: on_mob_delete: Corvopimpolho/(Goddard Osterweis) at Ruins (7, 102, 4) - /datum/reagent/medicine/healing_powder
+[2021-05-17 21:03:17.753] MOB ADD: on_mob_add(): InicialPlayss/(Rayan Lindgrey) at Wasteland (110, 216, 2) - 5 of /datum/reagent/toxin with 1 purity
+[2021-05-17 21:03:33.862] MOB DELETE: on_mob_delete: InicialPlayss/(Rayan Lindgrey) at Wasteland (117, 216, 2) - /datum/reagent/toxin
+[2021-05-17 21:03:48.135] MOB DELETE: on_mob_delete: DarkPudding/(John Wick) at NCR (33, 191, 2) - /datum/reagent/toxin/coffeepowder
+[2021-05-17 21:04:14.583] MOB ADD: on_mob_add(): Corvopimpolho/(Goddard Osterweis) at Ruins (13, 115, 4) - 5 of /datum/reagent/toxin with 1 purity
+[2021-05-17 21:04:26.888] MOB DELETE: on_mob_delete: Corvopimpolho/(Goddard Osterweis) at Ruins (15, 115, 4) - /datum/reagent/toxin
+[2021-05-17 21:04:41.911] MOB ADD: on_mob_add(): Zero9e1/(Garrety Wells) at Wasteland (94, 215, 2) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-17 21:04:43.461] MOB ADD: on_mob_add(): Corvopimpolho/(Goddard Osterweis) at Ruins (15, 114, 4) - 20 of /datum/reagent/medicine/radx with 1 purity
+[2021-05-17 21:04:49.569] MOB ADD: on_mob_add(): DarkPudding/(John Wick) at NCR (36, 206, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 21:05:01.659] MOB ADD: on_merge(): Zero9e1/(Garrety Wells) at Wasteland (91, 221, 2) - 18.2 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-17 21:05:06.409] MOB ADD: on_mob_add(): MastrodontePlays/(Rodrigo Weisgarber) at Ruins (22, 117, 4) - 5 of /datum/reagent/toxin with 1 purity
+[2021-05-17 21:05:20.619] MOB ADD: on_mob_add(): DarkPudding/(John Wick) at NCR (36, 206, 2) - 3 of /datum/reagent/medicine/radaway with 1 purity
+[2021-05-17 21:05:21.285] MOB DELETE: on_mob_delete: MastrodontePlays/(Rodrigo Weisgarber) at Ruins (15, 121, 4) - /datum/reagent/toxin
+[2021-05-17 21:05:27.249] MOB DELETE: on_mob_delete: DarkPudding/(John Wick) at NCR (36, 206, 2) - /datum/reagent/medicine/radaway
+[2021-05-17 21:05:31.871] MOB ADD: on_mob_add(): AlexAlbright/(Stella Earl) at Tunnel (122, 23, 3) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 21:05:32.748] MOB ADD: on_mob_add(): DarkPudding/(John Wick) at NCR (36, 206, 2) - 3 of /datum/reagent/medicine/radaway with 1 purity
+[2021-05-17 21:05:36.307] MOB ADD: on_merge(): DarkPudding/(John Wick) at NCR (36, 206, 2) - 4.4 of /datum/reagent/medicine/radaway with 1 purity
+[2021-05-17 21:05:37.349] MOB DELETE: on_mob_delete: Zero9e1/(Garrety Wells) at Wasteland (95, 189, 2) - /datum/reagent/medicine/healing_powder
+[2021-05-17 21:05:38.301] MOB ADD: on_mob_add(): 2006f/(Hunter Sinurman) at Enclave (144, 21, 3) - 10 of /datum/reagent/medicine/super_stimpak with 1 purity
+[2021-05-17 21:05:39.248] MOB ADD: on_mob_add(): InicialPlayss/(Rayan Lindgrey) at Wasteland (95, 193, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 21:05:39.982] MOB ADD: on_merge(): DarkPudding/(John Wick) at NCR (36, 206, 2) - 5.8 of /datum/reagent/medicine/radaway with 1 purity
+[2021-05-17 21:05:42.332] MOB ADD: on_merge(): DarkPudding/(John Wick) at NCR (36, 206, 2) - 8 of /datum/reagent/medicine/radaway with 1 purity
+[2021-05-17 21:05:47.546] MOB DELETE: on_mob_delete: DarkPudding/(John Wick) at NCR (36, 206, 2) - /datum/reagent/medicine/stimpak
+[2021-05-17 21:05:47.555] MOB ADD: on_mob_add(): Corvopimpolho/(Goddard Osterweis) at Ruins (12, 118, 4) - 1 of /datum/reagent/determination with 1 purity
+[2021-05-17 21:05:51.940] MOB DELETE: on_mob_delete: Corvopimpolho/(Goddard Osterweis) at Ruins (5, 120, 4) - /datum/reagent/determination
+[2021-05-17 21:05:53.846] MOB DELETE: on_mob_delete: 2006f/(Hunter Sinurman) at Enclave (139, 22, 3) - /datum/reagent/medicine/super_stimpak
+[2021-05-17 21:05:55.833] MOB DELETE: on_mob_delete: AlexAlbright/(Stella Earl) at Tunnel (122, 19, 3) - /datum/reagent/medicine/stimpak
+[2021-05-17 21:05:56.960] MOB ADD: on_mob_add(): Corvopimpolho/(Goddard Osterweis) at Ruins (9, 118, 4) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-17 21:06:02.921] MOB DELETE: on_mob_delete: DarkPudding/(John Wick) at Wasteland (33, 197, 2) - /datum/reagent/medicine/radaway
+[2021-05-17 21:06:04.929] MOB DELETE: on_mob_delete: InicialPlayss/(Rayan Lindgrey) at Wasteland (120, 191, 2) - /datum/reagent/medicine/stimpak
+[2021-05-17 21:06:19.976] MOB ADD: on_mob_add(): dfrenando/(Fernando Araujo) at Enclave (139, 23, 3) - 1 of /datum/reagent/determination with 1 purity
+[2021-05-17 21:06:20.907] MOB ADD: on_merge(): dfrenando/(Fernando Araujo) at Enclave (139, 24, 3) - 3.5 of /datum/reagent/determination with 1 purity
+[2021-05-17 21:06:23.952] MOB ADD: on_merge(): dfrenando/(Fernando Araujo) at Enclave (139, 25, 3) - 7.9 of /datum/reagent/determination with 1 purity
+[2021-05-17 21:06:24.905] MOB ADD: on_merge(): dfrenando/(Fernando Araujo) at Enclave (139, 25, 3) - 12.9 of /datum/reagent/determination with 1 purity
+[2021-05-17 21:06:24.994] MOB ADD: on_merge(): Corvopimpolho/(Goddard Osterweis) at Ruins (6, 120, 4) - 17.92 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-17 21:06:25.716] MOB ADD: on_merge(): *no key*/(Fernando Araujo) at Enclave (139, 25, 3) - 20.4 of /datum/reagent/determination with 1 purity
+[2021-05-17 21:06:26.560] MOB ADD: on_merge(): *no key*/(Fernando Araujo) at Enclave (139, 25, 3) - 27.9 of /datum/reagent/determination with 1 purity
+[2021-05-17 21:06:27.489] MOB ADD: on_merge(): *no key*/(Fernando Araujo) at Enclave (139, 25, 3) - 35.4 of /datum/reagent/determination with 1 purity
+[2021-05-17 21:06:27.773] MOB ADD: on_mob_add(): Corvopimpolho/(Goddard Osterweis) at Ruins (6, 120, 4) - 10 of /datum/reagent/medicine/super_stimpak with 1 purity
+[2021-05-17 21:06:32.266] MOB ADD: on_mob_add(): MastrodontePlays/(Rodrigo Weisgarber) at Ruins (5, 120, 4) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-17 21:06:56.071] MOB ADD: on_mob_add(): luciam/(Victoria Valentine) at Enclave (136, 24, 3) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 21:06:57.799] MOB DELETE: on_mob_delete: MastrodontePlays/(Rodrigo Weisgarber) at Ruins (10, 117, 4) - /datum/reagent/medicine/healing_powder
+[2021-05-17 21:07:12.662] MOB ADD: on_mob_add(): guilhty/(Carlinhos) at Wasteland (51, 162, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 21:07:14.204] MOB ADD: on_mob_add(): MastrodontePlays/(Rodrigo Weisgarber) at Ruins (10, 117, 4) - 20 of /datum/reagent/medicine/radx with 1 purity
+[2021-05-17 21:07:24.624] MOB ADD: on_merge(): Corvopimpolho/(Goddard Osterweis) at Ruins (8, 118, 4) - 22.76 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-17 21:07:34.775] MOB ADD: on_mob_add(): Corvopimpolho/(Goddard Osterweis) at Ruins (14, 120, 4) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 21:07:35.211] MOB ADD: on_mob_add(): luciam/(Victoria Valentine) at Enclave (140, 21, 3) - 6 of /datum/reagent/medicine/bicaridine with 1 purity
+[2021-05-17 21:07:35.211] MOB ADD: on_mob_add(): luciam/(Victoria Valentine) at Enclave (140, 21, 3) - 4 of /datum/reagent/medicine/kelotane with 1 purity
+[2021-05-17 21:07:42.908] MOB DELETE: on_mob_delete: guilhty/(Carlinhos) at Wasteland (58, 166, 2) - /datum/reagent/medicine/stimpak
+[2021-05-17 21:07:45.524] MOB ADD: on_merge(): Corvopimpolho/(Goddard Osterweis) at Ruins (16, 117, 4) - 30.56 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-17 21:07:47.020] OVERDOSE START: Corvopimpolho/(Goddard Osterweis) at Ruins (17, 118, 4) started overdosing on 30.56 units of healing powder.
+[2021-05-17 21:07:48.994] MOB DELETE: on_mob_delete: luciam/(Victoria Valentine) at Enclave (141, 21, 3) - /datum/reagent/medicine/stimpak
+[2021-05-17 21:07:55.137] MOB DELETE: on_mob_delete: luciam/(Victoria Valentine) at Enclave (141, 21, 3) - /datum/reagent/medicine/kelotane
+[2021-05-17 21:08:05.534] MOB DELETE: on_mob_delete: luciam/(Victoria Valentine) at Enclave (141, 21, 3) - /datum/reagent/medicine/bicaridine
+[2021-05-17 21:08:15.566] MOB DELETE: on_mob_delete: Corvopimpolho/(Goddard Osterweis) at Ruins (7, 99, 4) - /datum/reagent/medicine/super_stimpak
+[2021-05-17 21:08:27.774] MOB DELETE: on_mob_delete: Corvopimpolho/(Goddard Osterweis) at Ruins (12, 101, 4) - /datum/reagent/medicine/healing_powder
+[2021-05-17 21:08:35.881] MOB DELETE: on_mob_delete: Corvopimpolho/(Goddard Osterweis) at Ruins (16, 111, 4) - /datum/reagent/medicine/radx
+[2021-05-17 21:08:49.533] MOB ADD: on_mob_add(): Corvopimpolho/(Goddard Osterweis) at Wasteland (21, 130, 2) - 20 of /datum/reagent/medicine/radx with 1 purity
+[2021-05-17 21:09:25.233] MOB DELETE: on_mob_delete: Corvopimpolho/(Goddard Osterweis) at Wasteland (57, 130, 2) - /datum/reagent/medicine/stimpak
+[2021-05-17 21:10:15.757] MOB ADD: on_mob_add(): degusta00/(Monte Ehret) at Wasteland (96, 224, 2) - 10 of /datum/reagent/medicine/synthflesh with 1 purity
+[2021-05-17 21:10:24.011] MOB DELETE: on_mob_delete: degusta00/(Monte Ehret) at Wasteland (97, 217, 2) - /datum/reagent/medicine/synthflesh
+[2021-05-17 21:10:36.933] MOB ADD: on_mob_add(): degusta00/(Monte Ehret) at Wasteland (96, 202, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 21:10:46.211] MOB DELETE: on_mob_delete: MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (84, 121, 2) - /datum/reagent/medicine/radx
+[2021-05-17 21:10:48.382] MOB ADD: on_mob_add(): degusta00/(Monte Ehret) at Wasteland (96, 208, 2) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-17 21:11:34.861] MOB DELETE: on_mob_delete: degusta00/(Monte Ehret) at Wasteland (86, 202, 2) - /datum/reagent/medicine/stimpak
+[2021-05-17 21:11:34.862] MOB DELETE: on_mob_delete: degusta00/(Monte Ehret) at Wasteland (86, 202, 2) - /datum/reagent/medicine/healing_powder
+[2021-05-17 21:12:21.348] MOB DELETE: on_mob_delete: Corvopimpolho/(Goddard Osterweis) at Farm (130, 152, 2) - /datum/reagent/medicine/radx
+[2021-05-17 21:14:20.976] MOB ADD: on_mob_add(): MastrodontePlays/(Rodrigo Weisgarber) at Building (135, 196, 2) - 0.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:14:22.984] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Building (134, 197, 2) - 0.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:14:24.993] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Building (132, 198, 2) - 0.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:14:26.999] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Building (131, 198, 2) - 1 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:14:28.993] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Building (131, 198, 2) - 1.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:14:31.034] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Building (132, 198, 2) - 1.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:14:33.048] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Building (133, 197, 2) - 1.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:14:35.903] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Building (135, 196, 2) - 1.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:14:37.902] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Building (136, 195, 2) - 2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:14:39.923] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Building (136, 195, 2) - 2.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:14:41.963] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Building (136, 197, 2) - 2.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:14:43.979] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Building (137, 194, 2) - 2.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:14:46.053] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Building (138, 193, 2) - 2.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:14:48.061] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Building (133, 193, 2) - 3 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:14:50.071] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Building (127, 193, 2) - 3.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:14:52.064] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Building (128, 191, 2) - 3.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:14:54.069] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Building (128, 187, 2) - 3.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:14:56.078] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Building (128, 187, 2) - 3.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:14:58.106] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (132, 185, 2) - 4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:15:00.148] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (133, 183, 2) - 4.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:15:02.173] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (132, 183, 2) - 4.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:15:04.167] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (132, 183, 2) - 4.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:15:08.699] MOB ADD: on_mob_add(): degusta00/(Monte Ehret) at Wasteland (99, 144, 2) - 10 of /datum/reagent/medicine/synthflesh with 1 purity
+[2021-05-17 21:15:08.706] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (132, 184, 2) - 4.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:15:10.698] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (134, 186, 2) - 5 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:15:12.749] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (136, 187, 2) - 5.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:15:12.947] MOB ADD: on_merge(): degusta00/(Monte Ehret) at Wasteland (99, 144, 2) - 16 of /datum/reagent/medicine/synthflesh with 1 purity
+[2021-05-17 21:15:14.759] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (136, 187, 2) - 5.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:15:16.743] MOB ADD: on_mob_add(): MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (132, 185, 2) - 2 of /datum/reagent/consumable/coffee with 1 purity
+[2021-05-17 21:15:16.743] MOB ADD: on_mob_add(): MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (132, 185, 2) - 3 of /datum/reagent/consumable/bawls with 1 purity
+[2021-05-17 21:15:16.760] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (132, 185, 2) - 5.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:15:17.006] MOB ADD: on_merge(): degusta00/(Monte Ehret) at Wasteland (99, 144, 2) - 22 of /datum/reagent/medicine/synthflesh with 1 purity
+[2021-05-17 21:15:17.767] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (134, 183, 2) - 3.6 of /datum/reagent/consumable/coffee with 1 purity
+[2021-05-17 21:15:17.768] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (134, 183, 2) - 5.6 of /datum/reagent/consumable/bawls with 1 purity
+[2021-05-17 21:15:18.755] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (137, 183, 2) - 5.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:15:18.776] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (137, 183, 2) - 5.6 of /datum/reagent/consumable/coffee with 1 purity
+[2021-05-17 21:15:18.776] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (137, 183, 2) - 8.6 of /datum/reagent/consumable/bawls with 1 purity
+[2021-05-17 21:15:20.847] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (144, 183, 2) - 6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:15:22.988] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (148, 185, 2) - 6.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:15:24.994] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (155, 185, 2) - 6.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:15:27.051] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (155, 185, 2) - 6.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:15:29.046] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (154, 185, 2) - 6.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:15:31.059] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (156, 186, 2) - 7 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:15:31.963] MOB ADD: on_mob_add(): *no key*/(Cecilia Stange) at Wasteland (157, 185, 2) - 1 of /datum/reagent/determination with 1 purity
+[2021-05-17 21:15:32.856] MOB ADD: on_merge(): *no key*/(Cecilia Stange) at Wasteland (157, 185, 2) - 3.5 of /datum/reagent/determination with 1 purity
+[2021-05-17 21:15:32.937] MOB ADD: on_mob_add(): degusta00/(Monte Ehret) at Wasteland (96, 134, 2) - 2 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-17 21:15:33.065] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (156, 186, 2) - 7.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:15:33.358] MOB ADD: on_merge(): *no key*/(Cecilia Stange) at Wasteland (157, 185, 2) - 4.5 of /datum/reagent/determination with 1 purity
+[2021-05-17 21:15:33.731] MOB ADD: on_merge(): *no key*/(Cecilia Stange) at Wasteland (157, 185, 2) - 7 of /datum/reagent/determination with 1 purity
+[2021-05-17 21:15:34.633] MOB ADD: on_merge(): *no key*/(Cecilia Stange) at Wasteland (157, 185, 2) - 12 of /datum/reagent/determination with 1 purity
+[2021-05-17 21:15:34.882] MOB ADD: on_merge(): *no key*/(Cecilia Stange) at Wasteland (157, 185, 2) - 17 of /datum/reagent/determination with 1 purity
+[2021-05-17 21:15:35.421] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (156, 186, 2) - 7.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:15:35.594] MOB ADD: on_merge(): *no key*/(Cecilia Stange) at Wasteland (157, 185, 2) - 24.5 of /datum/reagent/determination with 1 purity
+[2021-05-17 21:15:37.063] MOB ADD: on_merge(): *no key*/(Cecilia Stange) at Wasteland (157, 185, 2) - 25.5 of /datum/reagent/determination with 1 purity
+[2021-05-17 21:15:38.791] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (157, 187, 2) - 7.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:15:39.089] MOB DELETE: on_mob_delete: degusta00/(Monte Ehret) at Wasteland (96, 133, 2) - /datum/reagent/medicine/synthflesh
+[2021-05-17 21:15:39.709] MOB ADD: on_merge(): *no key*/(Zak Waldron) at Wasteland (156, 186, 2) - 2 of /datum/reagent/determination with 1 purity
+[2021-05-17 21:15:40.632] MOB ADD: on_merge(): *no key*/(Zak Waldron) at Wasteland (156, 186, 2) - 4.5 of /datum/reagent/determination with 1 purity
+[2021-05-17 21:15:40.892] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (157, 187, 2) - 7.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:15:41.284] MOB ADD: on_merge(): *no key*/(Montagne Marshall) at Wasteland (157, 186, 2) - 7.5 of /datum/reagent/determination with 1 purity
+[2021-05-17 21:15:41.731] MOB ADD: on_merge(): *no key*/(Zak Waldron) at Wasteland (156, 186, 2) - 9.5 of /datum/reagent/determination with 1 purity
+[2021-05-17 21:15:42.209] MOB ADD: on_merge(): *no key*/(Montagne Marshall) at Wasteland (157, 186, 2) - 12.5 of /datum/reagent/determination with 1 purity
+[2021-05-17 21:15:44.038] MOB ADD: on_merge(): *no key*/(Zak Waldron) at Wasteland (156, 186, 2) - 14.5 of /datum/reagent/determination with 1 purity
+[2021-05-17 21:15:44.165] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (157, 187, 2) - 8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:15:44.316] MOB ADD: on_merge(): *no key*/(Montagne Marshall) at Wasteland (157, 186, 2) - 17.5 of /datum/reagent/determination with 1 purity
+[2021-05-17 21:15:44.910] MOB ADD: on_merge(): *no key*/(Zak Waldron) at Wasteland (156, 186, 2) - 22 of /datum/reagent/determination with 1 purity
+[2021-05-17 21:15:45.113] MOB ADD: on_merge(): *no key*/(Montagne Marshall) at Wasteland (157, 186, 2) - 25 of /datum/reagent/determination with 1 purity
+[2021-05-17 21:15:46.027] MOB ADD: on_merge(): *no key*/(Montagne Marshall) at Wasteland (157, 186, 2) - 30 of /datum/reagent/determination with 1 purity
+[2021-05-17 21:15:46.478] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (157, 187, 2) - 8.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:15:50.092] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (158, 184, 2) - 8.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:15:50.442] MOB DELETE: on_mob_delete: MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (158, 184, 2) - /datum/reagent/consumable/coffee
+[2021-05-17 21:15:52.795] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (157, 184, 2) - 8.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:15:54.796] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (150, 184, 2) - 8.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:15:56.999] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (147, 184, 2) - 9 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:15:59.257] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (143, 183, 2) - 9.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:16:01.272] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (142, 183, 2) - 9.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:16:03.476] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (136, 183, 2) - 9.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:16:05.686] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (129, 183, 2) - 9.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:16:07.947] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (122, 183, 2) - 10 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:16:08.315] MOB DELETE: on_mob_delete: MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (121, 183, 2) - /datum/reagent/consumable/bawls
+[2021-05-17 21:16:10.170] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (120, 179, 2) - 10.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:16:12.180] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (123, 174, 2) - 10.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:16:14.240] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (124, 169, 2) - 10.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:16:16.248] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (123, 164, 2) - 10.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:16:18.265] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (119, 163, 2) - 11 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:16:20.271] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (118, 160, 2) - 11.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:16:22.300] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (120, 159, 2) - 11.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:16:24.325] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (122, 154, 2) - 11.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:16:26.398] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (121, 149, 2) - 11.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:16:28.419] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (122, 145, 2) - 12 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:16:30.433] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (119, 146, 2) - 12.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:16:32.440] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (122, 145, 2) - 12.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:16:34.492] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (122, 145, 2) - 12.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:16:36.508] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (122, 139, 2) - 12.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:16:38.556] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (123, 133, 2) - 13 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:16:40.594] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (123, 133, 2) - 13.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:16:42.632] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (123, 130, 2) - 13.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:16:44.627] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (122, 125, 2) - 13.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:16:46.647] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (121, 120, 2) - 13.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:16:48.670] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (120, 114, 2) - 14 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:16:50.694] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (120, 108, 2) - 14.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:16:52.693] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (119, 105, 2) - 14.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:16:54.751] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (121, 105, 2) - 14.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:16:56.745] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (121, 105, 2) - 14.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:16:59.320] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (121, 108, 2) - 15 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:17:01.322] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (121, 106, 2) - 15.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-17 21:17:19.835] MOB DELETE: on_mob_delete: degusta00/(Monte Ehret) at Wasteland (120, 121, 2) - /datum/reagent/consumable/nutriment
+[2021-05-17 21:19:29.565] MOB ADD: on_mob_add(): *no key*/(Armando Hujsak) at Wasteland (206, 60, 2) - 2.5 of /datum/reagent/determination with 1 purity
+[2021-05-17 21:19:30.564] MOB ADD: on_merge(): *no key*/(Armando Hujsak) at Wasteland (206, 60, 2) - 7.5 of /datum/reagent/determination with 1 purity
+[2021-05-17 21:19:34.658] MOB DELETE: on_mob_delete: MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (207, 60, 2) - /datum/reagent/drug/nicotine
+[2021-05-17 21:19:38.353] MOB ADD: on_merge(): *no key*/(Armando Hujsak) at Wasteland (206, 60, 2) - 12.5 of /datum/reagent/determination with 1 purity
+[2021-05-17 21:19:39.241] MOB ADD: on_merge(): *no key*/(Armando Hujsak) at Wasteland (206, 60, 2) - 20 of /datum/reagent/determination with 1 purity
+[2021-05-17 21:19:44.179] MOB ADD: on_mob_add(): *no key*/(Alejandra Catherina) at Wasteland (205, 56, 2) - 1 of /datum/reagent/determination with 1 purity
+[2021-05-17 21:19:45.219] MOB ADD: on_merge(): *no key*/(Alejandra Catherina) at Wasteland (205, 56, 2) - 6 of /datum/reagent/determination with 1 purity
+[2021-05-17 21:19:45.227] MOB ADD: on_merge(): *no key*/(Alejandra Catherina) at Wasteland (205, 56, 2) - 7 of /datum/reagent/determination with 1 purity
+[2021-05-17 21:19:46.001] MOB ADD: on_merge(): *no key*/(Alejandra Catherina) at Wasteland (205, 56, 2) - 12 of /datum/reagent/determination with 1 purity
+[2021-05-17 21:19:46.211] MOB ADD: on_merge(): *no key*/(Alejandra Catherina) at Wasteland (205, 56, 2) - 19.5 of /datum/reagent/determination with 1 purity
+[2021-05-17 21:20:29.230] MOB ADD: on_mob_add(): DarkPudding/(John Wick) at Wasteland (74, 170, 2) - 10 of /datum/reagent/medicine/super_stimpak with 1 purity
+[2021-05-17 21:20:41.250] MOB DELETE: on_mob_delete: DarkPudding/(John Wick) at Wasteland (85, 169, 2) - /datum/reagent/medicine/super_stimpak
+[2021-05-17 21:21:04.517] MOB ADD: on_mob_add(): MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (206, 55, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 21:21:07.618] MOB ADD: on_mob_add(): degusta00/(Monte Ehret) at Village (138, 127, 2) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-17 21:21:18.876] MOB DELETE: on_mob_delete: MastrodontePlays/(Rodrigo Weisgarber) at Legion (221, 41, 2) - /datum/reagent/medicine/stimpak
+[2021-05-17 21:21:57.573] MOB DELETE: on_mob_delete: degusta00/(Monte Ehret) at Wasteland (130, 135, 2) - /datum/reagent/medicine/healing_powder
+[2021-05-17 21:24:14.413] MOB ADD: on_mob_add(): InicialPlayss/(Rayan Lindgrey) at Legion (224, 31, 2) - 2.5 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-17 21:24:14.413] MOB ADD: on_mob_add(): InicialPlayss/(Rayan Lindgrey) at Legion (224, 31, 2) - 0.5 of /datum/reagent/consumable/nutriment/vitamin with 1 purity
+[2021-05-17 21:24:24.331] MOB DELETE: on_mob_delete: InicialPlayss/(Rayan Lindgrey) at Legion (224, 31, 2) - /datum/reagent/consumable/nutriment/vitamin
+[2021-05-17 21:25:05.948] MOB DELETE: on_mob_delete: InicialPlayss/(Rayan Lindgrey) at Legion (221, 38, 2) - /datum/reagent/consumable/nutriment
+[2021-05-17 21:26:10.831] MOB ADD: on_mob_add(): Jhonatan lima/(Luicio Notav) at NCR (37, 206, 2) - 10 of /datum/reagent/medicine/mentat with 1 purity
+[2021-05-17 21:26:16.912] MOB ADD: on_mob_add(): Eversonblr/(Miguel Hastings) at Brotherhood of Steel 1st Floor Offices (238, 250, 3) - 10 of /datum/reagent/medicine/super_stimpak with 1 purity
+[2021-05-17 21:26:39.063] MOB DELETE: on_mob_delete: Eversonblr/(Miguel Hastings) at Brotherhood of Steel 1st Floor Offices (238, 250, 3) - /datum/reagent/medicine/super_stimpak
+[2021-05-17 21:27:01.543] MOB DELETE: on_mob_delete: Jhonatan lima/(Luicio Notav) at Caves (53, 237, 3) - /datum/reagent/medicine/mentat
+[2021-05-17 21:27:38.341] MOB ADD: on_mob_add(): AdderVFX/(Gordon Magroni) at NCR (51, 229, 2) - 2.25 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-17 21:27:38.341] MOB ADD: on_mob_add(): AdderVFX/(Gordon Magroni) at NCR (51, 229, 2) - 0.75 of /datum/reagent/consumable/nutriment/vitamin with 1 purity
+[2021-05-17 21:27:41.728] MOB DELETE: on_mob_delete: AdderVFX/(Gordon Magroni) at NCR (51, 229, 2) - /datum/reagent/consumable/nutriment/vitamin
+[2021-05-17 21:27:43.948] MOB ADD: on_mob_add(): AdderVFX/(Gordon Magroni) at NCR (51, 229, 2) - 0.75 of /datum/reagent/consumable/nutriment/vitamin with 1 purity
+[2021-05-17 21:28:16.344] MOB ADD: on_mob_add(): luciam/(Victoria Valentine) at Brotherhood of Steel Operations Department (232, 219, 3) - 1 of /datum/reagent/determination with 1 purity
+[2021-05-17 21:28:24.019] MOB DELETE: on_mob_delete: AdderVFX/(Gordon Magroni) at NCR (50, 228, 2) - /datum/reagent/consumable/nutriment/vitamin
+[2021-05-17 21:28:58.168] MOB ADD: on_mob_add(): Corvopimpolho/(Goddard Osterweis) at Brotherhood of Steel RnD Department (229, 210, 3) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-17 21:29:07.766] OVERDOSE STOP: MastrodontePlays/(Rodrigo Weisgarber) at Brotherhood of Steel RnD Department (230, 209, 3) got over their need for Nicotine.
+[2021-05-17 21:29:12.426] MOB ADD: on_mob_add(): AlexAlbright/(Stella Earl) at Brotherhood of Steel RnD Department (230, 209, 3) - 1 of /datum/reagent/determination with 1 purity
+[2021-05-17 21:29:19.005] MOB ADD: on_merge(): AlexAlbright/(Stella Earl) at Brotherhood of Steel RnD Department (231, 210, 3) - 2.6 of /datum/reagent/determination with 1 purity
+[2021-05-17 21:29:30.777] MOB ADD: on_mob_add(): degusta00/(Monte Ehret) at North Bunker Elevator (44, 232, 4) - 5 of /datum/reagent/toxin with 1 purity
+[2021-05-17 21:29:31.763] MOB ADD: on_mob_add(): MastrodontePlays/(Rodrigo Weisgarber) at Brotherhood of Steel RnD Department (231, 209, 3) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 21:29:32.847] MOB ADD: on_merge(): degusta00/(Monte Ehret) at North Bunker Elevator (44, 232, 4) - 9.6 of /datum/reagent/toxin with 1 purity
+[2021-05-17 21:29:32.885] MOB ADD: on_merge(): degusta00/(Monte Ehret) at North Bunker Elevator (44, 232, 4) - 14.6 of /datum/reagent/toxin with 1 purity
+[2021-05-17 21:29:34.673] MOB ADD: on_mob_add(): Corvopimpolho/(Goddard Osterweis) at Brotherhood of Steel RnD Department (230, 210, 3) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 21:29:34.827] MOB ADD: on_merge(): degusta00/(Monte Ehret) at North Bunker Elevator (43, 232, 4) - 19.6 of /datum/reagent/toxin with 1 purity
+[2021-05-17 21:29:34.832] MOB ADD: on_merge(): degusta00/(Monte Ehret) at North Bunker Elevator (43, 232, 4) - 24.6 of /datum/reagent/toxin with 1 purity
+[2021-05-17 21:29:37.003] MOB ADD: on_merge(): degusta00/(Monte Ehret) at North Bunker Elevator (43, 232, 4) - 28.8 of /datum/reagent/toxin with 1 purity
+[2021-05-17 21:29:38.944] MOB ADD: on_mob_add(): MastrodontePlays/(Rodrigo Weisgarber) at Brotherhood of Steel RnD Department (231, 209, 3) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-17 21:29:42.735] MOB ADD: on_mob_add(): degusta00/(Monte Ehret) at North Bunker Elevator (43, 232, 4) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 21:29:43.232] MOB DELETE: on_mob_delete: AdderVFX/(Gordon Magroni) at NCR (35, 202, 2) - /datum/reagent/consumable/nutriment
+[2021-05-17 21:29:43.701] MOB ADD: on_mob_add(): Corvopimpolho/(Goddard Osterweis) at Brotherhood of Steel Operations Department (231, 217, 3) - 10 of /datum/reagent/medicine/super_stimpak with 1 purity
+[2021-05-17 21:29:44.821] MOB ADD: on_merge(): *no key*/(Stella Earl) at Brotherhood of Steel RnD Department (231, 210, 3) - 7.6 of /datum/reagent/determination with 1 purity
+[2021-05-17 21:29:45.834] MOB ADD: on_merge(): degusta00/(Monte Ehret) at North Bunker Elevator (43, 232, 4) - 19.6 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 21:29:46.042] MOB ADD: on_merge(): *no key*/(Stella Earl) at Brotherhood of Steel RnD Department (231, 210, 3) - 12.6 of /datum/reagent/determination with 1 purity
+[2021-05-17 21:29:46.811] MOB ADD: on_merge(): *no key*/(Victoria Valentine) at Brotherhood of Steel Operations Department (232, 219, 3) - 3.5 of /datum/reagent/determination with 1 purity
+[2021-05-17 21:29:46.921] MOB ADD: on_merge(): *no key*/(Stella Earl) at Brotherhood of Steel RnD Department (231, 210, 3) - 20.1 of /datum/reagent/determination with 1 purity
+[2021-05-17 21:29:47.120] MOB ADD: on_merge(): *no key*/(Stella Earl) at Brotherhood of Steel RnD Department (231, 210, 3) - 21.1 of /datum/reagent/determination with 1 purity
+[2021-05-17 21:29:47.699] MOB ADD: on_merge(): *no key*/(Victoria Valentine) at Brotherhood of Steel Operations Department (232, 219, 3) - 8.5 of /datum/reagent/determination with 1 purity
+[2021-05-17 21:29:47.870] MOB ADD: on_merge(): *no key*/(Stella Earl) at Brotherhood of Steel RnD Department (231, 210, 3) - 23.6 of /datum/reagent/determination with 1 purity
+[2021-05-17 21:29:48.505] MOB ADD: on_merge(): *no key*/(Victoria Valentine) at Brotherhood of Steel Operations Department (232, 219, 3) - 13.5 of /datum/reagent/determination with 1 purity
+[2021-05-17 21:30:40.653] MOB DELETE: on_mob_delete: Corvopimpolho/(Goddard Osterweis) at Brotherhood of Steel Operations Department (230, 219, 3) - /datum/reagent/medicine/healing_powder
+[2021-05-17 21:30:48.754] MOB DELETE: on_mob_delete: Corvopimpolho/(Goddard Osterweis) at Brotherhood of Steel Operations Department (231, 219, 3) - /datum/reagent/medicine/super_stimpak
+[2021-05-17 21:30:50.706] MOB DELETE: on_mob_delete: Corvopimpolho/(Goddard Osterweis) at Brotherhood of Steel Operations Department (231, 219, 3) - /datum/reagent/medicine/stimpak
+[2021-05-17 21:30:52.714] MOB DELETE: on_mob_delete: MastrodontePlays/(Rodrigo Weisgarber) at Brotherhood of Steel RnD Department (231, 209, 3) - /datum/reagent/medicine/stimpak
+[2021-05-17 21:30:52.715] MOB DELETE: on_mob_delete: MastrodontePlays/(Rodrigo Weisgarber) at Brotherhood of Steel RnD Department (231, 209, 3) - /datum/reagent/medicine/healing_powder
+[2021-05-17 21:30:57.147] MOB ADD: on_merge(): *no key*/(Victoria Valentine) at Brotherhood of Steel Operations Department (232, 219, 3) - 14.5 of /datum/reagent/determination with 1 purity
+[2021-05-17 21:30:59.049] MOB ADD: on_merge(): *no key*/(Victoria Valentine) at Brotherhood of Steel Operations Department (232, 219, 3) - 17 of /datum/reagent/determination with 1 purity
+[2021-05-17 21:30:59.859] MOB ADD: on_merge(): *no key*/(Victoria Valentine) at Brotherhood of Steel Operations Department (232, 219, 3) - 19.5 of /datum/reagent/determination with 1 purity
+[2021-05-17 21:31:13.345] MOB ADD: on_merge(): *no key*/(Victoria Valentine) at Brotherhood of Steel Operations Department (232, 219, 3) - 24.5 of /datum/reagent/determination with 1 purity
+[2021-05-17 21:31:14.191] MOB ADD: on_merge(): *no key*/(Victoria Valentine) at Brotherhood of Steel Operations Department (232, 219, 3) - 29.5 of /datum/reagent/determination with 1 purity
+[2021-05-17 21:31:15.096] MOB ADD: on_merge(): *no key*/(Victoria Valentine) at Brotherhood of Steel Operations Department (232, 219, 3) - 37 of /datum/reagent/determination with 1 purity
+[2021-05-17 21:31:54.562] MOB DELETE: on_mob_delete: degusta00/(Monte Ehret) at Bunker (45, 236, 4) - /datum/reagent/toxin
+[2021-05-17 21:31:56.247] MOB ADD: on_mob_add(): Eversonblr/(Miguel Hastings) at Wasteland (163, 174, 2) - 2 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-17 21:32:10.161] MOB ADD: on_mob_add(): degusta00/(Monte Ehret) at North Bunker Elevator (45, 232, 4) - 5 of /datum/reagent/toxin with 1 purity
+[2021-05-17 21:32:12.181] MOB ADD: on_merge(): degusta00/(Monte Ehret) at North Bunker Elevator (46, 232, 4) - 9.6 of /datum/reagent/toxin with 1 purity
+[2021-05-17 21:32:26.631] MOB DELETE: on_mob_delete: Eversonblr/(Miguel Hastings) at Wasteland (122, 152, 2) - /datum/reagent/consumable/nutriment
+[2021-05-17 21:32:41.328] MOB ADD: on_mob_add(): InicialPlayss/(Rayan Lindgrey) at Wasteland (131, 64, 2) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-17 21:32:46.508] MOB DELETE: on_mob_delete: InicialPlayss/(Rayan Lindgrey) at Wasteland (122, 62, 2) - /datum/reagent/medicine/healing_powder
+[2021-05-17 21:32:52.477] MOB DELETE: on_mob_delete: degusta00/(Monte Ehret) at North Bunker Elevator (44, 234, 4) - /datum/reagent/toxin
+[2021-05-17 21:33:09.700] MOB DELETE: on_mob_delete: degusta00/(Monte Ehret) at Bunker (42, 239, 4) - /datum/reagent/medicine/stimpak
+[2021-05-17 21:34:12.367] MOB ADD: on_mob_add(): Eversonblr/(Miguel Hastings) at Bunker (45, 235, 4) - 5 of /datum/reagent/toxin with 1 purity
+[2021-05-17 21:34:14.454] MOB ADD: on_merge(): Eversonblr/(Miguel Hastings) at North Bunker Elevator (43, 233, 4) - 9.2 of /datum/reagent/toxin with 1 purity
+[2021-05-17 21:34:14.494] MOB ADD: on_merge(): Eversonblr/(Miguel Hastings) at North Bunker Elevator (43, 233, 4) - 14.2 of /datum/reagent/toxin with 1 purity
+[2021-05-17 21:34:16.499] MOB ADD: on_merge(): Eversonblr/(Miguel Hastings) at North Bunker Elevator (100, 233, 2) - 18.8 of /datum/reagent/toxin with 1 purity
+[2021-05-17 21:34:16.503] MOB ADD: on_merge(): Eversonblr/(Miguel Hastings) at North Bunker Elevator (100, 233, 2) - 23.8 of /datum/reagent/toxin with 1 purity
+[2021-05-17 21:34:20.757] MOB ADD: on_mob_add(): degusta00/(Monte Ehret) at Bunker (46, 237, 4) - 5 of /datum/reagent/toxin with 1 purity
+[2021-05-17 21:34:37.310] MOB DELETE: on_mob_delete: degusta00/(Monte Ehret) at Bunker (44, 236, 4) - /datum/reagent/toxin
+[2021-05-17 21:34:40.527] MOB ADD: on_mob_add(): SondTheAnime[DC]/(Courier) at Enclave (139, 20, 3) - 1 of /datum/reagent/determination with 1 purity
+[2021-05-17 21:34:43.772] MOB ADD: on_merge(): SondTheAnime[DC]/(Courier) at Enclave (140, 21, 3) - 3.5 of /datum/reagent/determination with 1 purity
+[2021-05-17 21:34:50.977] MOB ADD: on_merge(): SondTheAnime[DC]/(Courier) at Enclave (140, 21, 3) - 6 of /datum/reagent/determination with 1 purity
+[2021-05-17 21:34:53.078] MOB ADD: on_merge(): SondTheAnime[DC]/(Courier) at Enclave (140, 21, 3) - 11 of /datum/reagent/determination with 1 purity
+[2021-05-17 21:35:45.948] MOB ADD: on_mob_add(): DarkPudding/(John Wick) at NCR (32, 192, 2) - 1 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-17 21:36:00.270] MOB DELETE: on_mob_delete: DarkPudding/(John Wick) at NCR (32, 190, 2) - /datum/reagent/consumable/nutriment
+[2021-05-17 21:36:12.802] MOB DELETE: on_mob_delete: Eversonblr[DC]/(Miguel Hastings) at North Bunker Elevator (43, 233, 4) - /datum/reagent/toxin
+[2021-05-17 21:36:27.821] MOB ADD: on_mob_add(): Eversonblr[DC]/(Miguel Hastings) at North Bunker Elevator (43, 233, 4) - 10 of /datum/reagent/medicine/super_stimpak with 1 purity
+[2021-05-17 21:37:39.898] MOB DELETE: on_mob_delete: Eversonblr[DC]/(Miguel Hastings) at North Bunker Elevator (43, 233, 4) - /datum/reagent/medicine/super_stimpak
+[2021-05-17 21:38:00.185] MOB ADD: on_mob_add(): Rzyka/(Marilene Bashline) at Wasteland (157, 31, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 21:38:28.284] MOB DELETE: on_mob_delete: Rzyka/(Marilene Bashline) at Clinic (160, 44, 2) - /datum/reagent/medicine/stimpak
+[2021-05-17 21:40:41.750] MOB ADD: on_mob_add(): Zero9e1/(Garrety Wells) at Bunker (47, 248, 4) - 5 of /datum/reagent/toxin with 1 purity
+[2021-05-17 21:41:01.816] MOB DELETE: on_mob_delete: Zero9e1/(Garrety Wells) at Bunker (43, 252, 4) - /datum/reagent/toxin
+[2021-05-17 21:41:59.222] MOB ADD: on_mob_add(): Zero9e1/(Garrety Wells) at Wasteland (99, 229, 2) - 10 of /datum/reagent/medicine/super_stimpak with 1 purity
+[2021-05-17 21:43:20.167] MOB DELETE: on_mob_delete: zero9e1/(Garrety Wells) at North Bunker Elevator (45, 234, 4) - /datum/reagent/medicine/super_stimpak
+[2021-05-17 21:43:51.870] MOB ADD: on_mob_add(): degusta00/(Monte Ehret) at Wasteland (100, 227, 2) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-17 21:44:09.002] MOB DELETE: on_mob_delete: degusta00/(Monte Ehret) at Wasteland (97, 224, 2) - /datum/reagent/medicine/healing_powder
+[2021-05-17 21:44:28.347] MOB ADD: on_mob_add(): zero9e1[DC]/(Garrety Wells) at Wasteland (94, 224, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 21:44:57.161] MOB ADD: on_mob_add(): zero9e1[DC]/(Garrety Wells) at Wasteland (94, 224, 2) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-17 21:45:49.493] MOB DELETE: on_mob_delete: zero9e1[DC]/(Garrety Wells) at Wasteland (94, 224, 2) - /datum/reagent/medicine/stimpak
+[2021-05-17 21:46:14.044] MOB DELETE: on_mob_delete: zero9e1[DC]/(Garrety Wells) at Wasteland (94, 224, 2) - /datum/reagent/medicine/healing_powder
+[2021-05-17 21:46:35.299] MOB ADD: on_mob_add(): 2006f/(Hunter Sinurman) at Brotherhood of Steel RnD Department (231, 198, 3) - 10 of /datum/reagent/medicine/epinephrine with 1 purity
+[2021-05-17 21:46:36.268] MOB ADD: on_mob_add(): degusta00/(Monte Ehret) at Wasteland (99, 228, 2) - 20 of /datum/reagent/medicine/radx with 1 purity
+[2021-05-17 21:47:04.367] MOB ADD: on_mob_add(): Rzyka/(Marilene Bashline) at Village (139, 173, 2) - 1 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-17 21:47:04.367] MOB ADD: on_mob_add(): Rzyka/(Marilene Bashline) at Village (139, 173, 2) - 2 of /datum/reagent/radium with 1 purity
+[2021-05-17 21:47:06.931] MOB ADD: on_merge(): Rzyka/(Marilene Bashline) at Village (138, 174, 2) - 3.6 of /datum/reagent/radium with 1 purity
+[2021-05-17 21:47:11.628] MOB ADD: on_mob_add(): degusta00/(Monte Ehret) at Wasteland (99, 228, 2) - 3 of /datum/reagent/medicine/radaway with 1 purity
+[2021-05-17 21:47:13.967] MOB DELETE: on_mob_delete: Rzyka/(Marilene Bashline) at Village (140, 177, 2) - /datum/reagent/consumable/nutriment
+[2021-05-17 21:47:15.065] MOB ADD: on_merge(): degusta00/(Monte Ehret) at Wasteland (99, 228, 2) - 4.4 of /datum/reagent/medicine/radaway with 1 purity
+[2021-05-17 21:47:17.570] MOB ADD: on_merge(): degusta00/(Monte Ehret) at Wasteland (99, 228, 2) - 6.6 of /datum/reagent/medicine/radaway with 1 purity
+[2021-05-17 21:47:24.109] MOB DELETE: on_mob_delete: Rzyka/(Marilene Bashline) at Village (140, 177, 2) - /datum/reagent/radium
+[2021-05-17 21:47:34.335] MOB DELETE: on_mob_delete: degusta00/(Monte Ehret) at Wasteland (101, 230, 2) - /datum/reagent/medicine/radaway
+[2021-05-17 21:48:32.386] MOB ADD: on_mob_add(): *no key*/(Hunter Sinurman) at Brotherhood of Steel RnD Department (234, 193, 3) - 1 of /datum/reagent/determination with 1 purity
+[2021-05-17 21:48:40.402] MOB DELETE: on_mob_delete: *no key*/(Hunter Sinurman) at Brotherhood of Steel RnD Department (232, 193, 3) - /datum/reagent/determination
+[2021-05-17 21:49:06.225] MOB ADD: on_mob_add(): *no key*/(Hunter Sinurman) at Brotherhood of Steel RnD Department (232, 193, 3) - 2.5 of /datum/reagent/determination with 1 purity
+[2021-05-17 21:49:27.822] MOB DELETE: on_mob_delete: *no key*/(Hunter Sinurman) at Brotherhood of Steel RnD Department (232, 193, 3) - /datum/reagent/determination
+[2021-05-17 21:49:30.203] MOB ADD: on_mob_add(): *no key*/(Hunter Sinurman) at Brotherhood of Steel RnD Department (232, 193, 3) - 2.5 of /datum/reagent/determination with 1 purity
+[2021-05-17 21:49:31.084] MOB ADD: on_merge(): *no key*/(Hunter Sinurman) at Brotherhood of Steel RnD Department (232, 193, 3) - 7.5 of /datum/reagent/determination with 1 purity
+[2021-05-17 21:49:36.208] MOB ADD: on_merge(): *no key*/(Hunter Sinurman) at Brotherhood of Steel RnD Department (232, 193, 3) - 8.5 of /datum/reagent/determination with 1 purity
+[2021-05-17 21:49:48.101] MOB ADD: on_merge(): *no key*/(Hunter Sinurman) at Brotherhood of Steel RnD Department (232, 199, 3) - 11 of /datum/reagent/determination with 1 purity
+[2021-05-17 21:50:10.267] MOB DELETE: on_mob_delete: degusta00/(Monte Ehret) at North Bunker Elevator (101, 233, 2) - /datum/reagent/medicine/radx
+[2021-05-17 21:51:19.874] MOB ADD: on_mob_add(): Corvopimpolho/(Goddard Osterweis) at Brotherhood of Steel RnD Department (230, 196, 3) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 21:51:39.242] MOB DELETE: on_mob_delete: Corvopimpolho/(Goddard Osterweis) at Brotherhood of Steel RnD Department (232, 199, 3) - /datum/reagent/medicine/stimpak
+[2021-05-17 21:52:10.310] MOB ADD: on_mob_add(): degusta00/(Monte Ehret) at North Bunker Elevator (45, 234, 4) - 3 of /datum/reagent/medicine/radaway with 1 purity
+[2021-05-17 21:52:12.612] MOB ADD: on_merge(): degusta00/(Monte Ehret) at North Bunker Elevator (45, 234, 4) - 5.2 of /datum/reagent/medicine/radaway with 1 purity
+[2021-05-17 21:52:14.777] MOB ADD: on_merge(): degusta00/(Monte Ehret) at North Bunker Elevator (45, 234, 4) - 7.4 of /datum/reagent/medicine/radaway with 1 purity
+[2021-05-17 21:52:17.141] MOB ADD: on_merge(): degusta00/(Monte Ehret) at North Bunker Elevator (45, 234, 4) - 9.6 of /datum/reagent/medicine/radaway with 1 purity
+[2021-05-17 21:52:39.798] MOB DELETE: on_mob_delete: degusta00/(Monte Ehret) at Bunker (43, 246, 4) - /datum/reagent/medicine/radaway
+[2021-05-17 21:53:23.879] MOB ADD: on_mob_add(): Zero9e1/(Garrety Wells) at Wasteland (96, 199, 2) - 1 of /datum/reagent/determination with 1 purity
+[2021-05-17 21:53:24.822] MOB ADD: on_merge(): Zero9e1/(Garrety Wells) at Wasteland (96, 196, 2) - 3.5 of /datum/reagent/determination with 1 purity
+[2021-05-17 21:54:11.795] MOB ADD: on_mob_add(): degusta00/(Monte Ehret) at North Bunker Elevator (44, 234, 4) - 10 of /datum/reagent/medicine/synthflesh with 1 purity
+[2021-05-17 21:54:16.553] MOB ADD: on_merge(): degusta00/(Monte Ehret) at North Bunker Elevator (44, 234, 4) - 16 of /datum/reagent/medicine/synthflesh with 1 purity
+[2021-05-17 21:54:20.416] MOB ADD: on_merge(): degusta00/(Monte Ehret) at North Bunker Elevator (44, 234, 4) - 22 of /datum/reagent/medicine/synthflesh with 1 purity
+[2021-05-17 21:54:24.830] MOB ADD: on_mob_add(): 2006f/(Hunter Sinurmano) at Tunnel (17, 84, 2) - 5 of /datum/reagent/toxin with 1 purity
+[2021-05-17 21:54:30.136] MOB ADD: on_mob_add(): degusta00/(Monte Ehret) at North Bunker Elevator (44, 234, 4) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 21:54:43.004] MOB DELETE: on_mob_delete: 2006f/(Hunter Sinurmano) at Tunnel (9, 92, 2) - /datum/reagent/toxin
+[2021-05-17 21:54:45.112] MOB DELETE: on_mob_delete: degusta00/(Monte Ehret) at Bunker (48, 250, 4) - /datum/reagent/medicine/synthflesh
+[2021-05-17 21:54:45.153] MOB ADD: on_mob_add(): 2006f/(Hunter Sinurmano) at Tunnel (9, 93, 2) - 5 of /datum/reagent/toxin with 1 purity
+[2021-05-17 21:54:49.237] MOB DELETE: on_mob_delete: degusta00/(Monte Ehret) at Bunker (48, 250, 4) - /datum/reagent/medicine/stimpak
+[2021-05-17 21:54:55.494] MOB ADD: on_mob_add(): 2006f/(Hunter Sinurmano) at Tunnel (6, 97, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 21:54:57.634] MOB ADD: on_merge(): 2006f/(Hunter Sinurmano) at Tunnel (6, 96, 2) - 7.6 of /datum/reagent/toxin with 1 purity
+[2021-05-17 21:54:59.785] MOB ADD: on_merge(): 2006f/(Hunter Sinurmano) at Tunnel (6, 96, 2) - 12.2 of /datum/reagent/toxin with 1 purity
+[2021-05-17 21:55:01.780] MOB ADD: on_merge(): 2006f/(Hunter Sinurmano) at Tunnel (6, 96, 2) - 16.8 of /datum/reagent/toxin with 1 purity
+[2021-05-17 21:55:08.270] MOB ADD: on_mob_add(): 2006f/(Hunter Sinurmano) at Tunnel (6, 97, 2) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-17 21:55:15.343] MOB ADD: on_merge(): 2006f/(Hunter Sinurmano) at Tunnel (6, 97, 2) - 19.4 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-17 21:55:35.391] MOB ADD: on_mob_add(): degusta00/(Monte Ehret) at Bunker (47, 248, 4) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 21:56:07.680] MOB DELETE: on_mob_delete: degusta00/(Monte Ehret) at Bunker (48, 250, 4) - /datum/reagent/medicine/stimpak
+[2021-05-17 21:56:17.882] MOB DELETE: on_mob_delete: 2006f/(Hunter Sinurmano) at Wasteland (15, 63, 2) - /datum/reagent/toxin
+[2021-05-17 21:56:18.238] MOB ADD: on_mob_add(): degusta00/(Monte Ehret) at Bunker (37, 250, 4) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-17 21:56:32.083] MOB DELETE: on_mob_delete: 2006f/(Hunter Sinurmano) at Wasteland (11, 63, 2) - /datum/reagent/medicine/healing_powder
+[2021-05-17 21:56:36.128] MOB DELETE: on_mob_delete: 2006f/(Hunter Sinurmano) at Wasteland (11, 63, 2) - /datum/reagent/medicine/stimpak
+[2021-05-17 21:57:00.930] MOB DELETE: on_mob_delete: degusta00/(Monte Ehret) at Bunker (42, 245, 4) - /datum/reagent/medicine/healing_powder
+[2021-05-17 21:57:42.094] MOB ADD: on_mob_add(): 2006f/(Hunter Sinurmano) at Wasteland (22, 62, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 21:57:55.133] MOB ADD: on_merge(): 2006f[DC]/(Hunter Sinurmano) at Wasteland (22, 62, 2) - 18.8 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 22:00:08.809] MOB DELETE: on_mob_delete: 2006f[DC]/(Hunter Sinurmano) at Wasteland (125, 111, 2) - /datum/reagent/medicine/stimpak
+[2021-05-17 22:00:17.814] MOB ADD: on_mob_add(): zero9e1/(Jack) at Wasteland (169, 102, 2) - 0.667 of /datum/reagent/medicine/kelotane with 1 purity
+[2021-05-17 22:00:17.814] MOB ADD: on_mob_add(): zero9e1/(Jack) at Wasteland (169, 102, 2) - 0.667 of /datum/reagent/toxin/lipolicide with 1 purity
+[2021-05-17 22:00:17.814] MOB ADD: on_mob_add(): zero9e1/(Jack) at Wasteland (169, 102, 2) - 0.667 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-17 22:00:19.004] MOB DELETE: on_mob_delete: zero9e1/(Jack) at Wasteland (174, 102, 2) - /datum/reagent/toxin/lipolicide
+[2021-05-17 22:00:21.073] MOB DELETE: on_mob_delete: zero9e1/(Jack) at Wasteland (180, 101, 2) - /datum/reagent/medicine/kelotane
+[2021-05-17 22:00:21.074] MOB DELETE: on_mob_delete: zero9e1/(Jack) at Wasteland (180, 101, 2) - /datum/reagent/consumable/nutriment
+[2021-05-17 22:00:36.713] MOB ADD: on_mob_add(): Rzyka/(Marilene Bashline) at Wasteland (112, 215, 2) - 10 of /datum/reagent/water with 1 purity
+[2021-05-17 22:01:03.122] MOB ADD: on_mob_add(): zero9e1/(Jack) at Wasteland (186, 79, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 22:01:09.881] MOB DELETE: on_mob_delete: zero9e1/(Jack) at Wasteland (165, 69, 2) - /datum/reagent/medicine/stimpak
+[2021-05-17 22:01:26.502] MOB DELETE: on_mob_delete: Rzyka/(Marilene Bashline) at North Bunker Elevator (101, 233, 2) - /datum/reagent/water
+[2021-05-17 22:01:28.495] MOB ADD: on_mob_add(): degusta00/(Monte Ehret) at North Bunker Elevator (102, 234, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 22:01:59.909] MOB ADD: on_mob_add(): Rzyka/(Marilene Bashline) at North Bunker Elevator (45, 234, 4) - 1 of /datum/reagent/determination with 1 purity
+[2021-05-17 22:02:07.879] MOB DELETE: on_mob_delete: Rzyka/(Marilene Bashline) at Bunker (45, 236, 4) - /datum/reagent/determination
+[2021-05-17 22:02:54.667] MOB DELETE: on_mob_delete: degusta00/(Monte Ehret) at Wasteland (100, 227, 2) - /datum/reagent/medicine/stimpak
+[2021-05-17 22:03:15.948] SPLASH: attack(target mob MastrodontePlays/(Rodrigo Weisgarber) at Brotherhood of Steel (153, 235, 2), from user MastrodontePlays/(Rodrigo Weisgarber) at Brotherhood of Steel (153, 235, 2), target object 0 at nonexistent location) - /datum/reagent/water (49.5u) and /datum/reagent/fluorine (0.5u)
+[2021-05-17 22:03:38.078] MOB ADD: on_mob_add(): MastrodontePlays/(Rodrigo Weisgarber) at Brotherhood of Steel (152, 250, 2) - 2 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-17 22:03:47.317] MOB ADD: on_mob_add(): MastrodontePlays/(Rodrigo Weisgarber) at Brotherhood of Steel (149, 248, 2) - 19.6 of /datum/reagent/toxin/coffeepowder with 1 purity
+[2021-05-17 22:03:47.317] MOB ADD: on_mob_add(): MastrodontePlays/(Rodrigo Weisgarber) at Brotherhood of Steel (149, 248, 2) - 0.4 of /datum/reagent/radium with 1 purity
+[2021-05-17 22:03:48.461] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Brotherhood of Steel (149, 247, 2) - 35.28 of /datum/reagent/toxin/coffeepowder with 1 purity
+[2021-05-17 22:03:48.461] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Brotherhood of Steel (149, 247, 2) - 0.72 of /datum/reagent/radium with 1 purity
+[2021-05-17 22:03:49.373] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Brotherhood of Steel (152, 247, 2) - 46.72 of /datum/reagent/toxin/coffeepowder with 1 purity
+[2021-05-17 22:03:49.373] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Brotherhood of Steel (152, 247, 2) - 0.64 of /datum/reagent/radium with 1 purity
+[2021-05-17 22:03:50.153] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Brotherhood of Steel (154, 247, 2) - 56.52 of /datum/reagent/toxin/coffeepowder with 1 purity
+[2021-05-17 22:03:50.153] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Brotherhood of Steel (154, 247, 2) - 0.84 of /datum/reagent/radium with 1 purity
+[2021-05-17 22:03:51.261] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Brotherhood of Steel (154, 249, 2) - 64.04 of /datum/reagent/toxin/coffeepowder with 1 purity
+[2021-05-17 22:03:51.261] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Brotherhood of Steel (154, 249, 2) - 0.68 of /datum/reagent/radium with 1 purity
+[2021-05-17 22:03:52.133] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Brotherhood of Steel (154, 248, 2) - 69.92 of /datum/reagent/toxin/coffeepowder with 1 purity
+[2021-05-17 22:03:52.133] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Brotherhood of Steel (154, 248, 2) - 0.8 of /datum/reagent/radium with 1 purity
+[2021-05-17 22:03:53.007] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Brotherhood of Steel (154, 249, 2) - 74.82 of /datum/reagent/toxin/coffeepowder with 1 purity
+[2021-05-17 22:03:53.007] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Brotherhood of Steel (154, 249, 2) - 0.9 of /datum/reagent/radium with 1 purity
+[2021-05-17 22:03:54.228] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Brotherhood of Steel (154, 246, 2) - 79.4 of /datum/reagent/toxin/coffeepowder with 1 purity
+[2021-05-17 22:03:54.229] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Brotherhood of Steel (154, 246, 2) - 0.68 of /datum/reagent/radium with 1 purity
+[2021-05-17 22:03:55.768] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Brotherhood of Steel (153, 241, 2) - 83.98 of /datum/reagent/toxin/coffeepowder with 1 purity
+[2021-05-17 22:03:55.768] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Brotherhood of Steel (153, 241, 2) - 0.46 of /datum/reagent/radium with 1 purity
+[2021-05-17 22:03:57.104] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Brotherhood of Steel (151, 241, 2) - 88.88 of /datum/reagent/toxin/coffeepowder with 1 purity
+[2021-05-17 22:03:57.105] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Brotherhood of Steel (151, 241, 2) - 0.56 of /datum/reagent/radium with 1 purity
+[2021-05-17 22:03:58.248] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Brotherhood of Steel (152, 239, 2) - 93.46 of /datum/reagent/toxin/coffeepowder with 1 purity
+[2021-05-17 22:03:58.248] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Brotherhood of Steel (152, 239, 2) - 0.34 of /datum/reagent/radium with 1 purity
+[2021-05-17 22:03:59.124] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Brotherhood of Steel (153, 239, 2) - 96.4 of /datum/reagent/toxin/coffeepowder with 1 purity
+[2021-05-17 22:03:59.125] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Brotherhood of Steel (153, 239, 2) - 0.4 of /datum/reagent/radium with 1 purity
+[2021-05-17 22:04:01.141] MOB DELETE: on_mob_delete: MastrodontePlays/(Rodrigo Weisgarber) at Brotherhood of Steel (157, 238, 2) - /datum/reagent/radium
+[2021-05-17 22:04:06.796] MOB ADD: on_mob_add(): Zero9e1/(Jack) at Wasteland (57, 62, 2) - 1 of /datum/reagent/determination with 1 purity
+[2021-05-17 22:04:07.150] MOB ADD: on_merge(): Zero9e1/(Jack) at Wasteland (57, 62, 2) - 3.2 of /datum/reagent/determination with 1 purity
+[2021-05-17 22:04:08.613] MOB ADD: on_merge(): Zero9e1/(Jack) at Wasteland (57, 62, 2) - 8.2 of /datum/reagent/determination with 1 purity
+[2021-05-17 22:04:09.118] MOB ADD: on_merge(): Zero9e1/(Jack) at Wasteland (57, 62, 2) - 13.2 of /datum/reagent/determination with 1 purity
+[2021-05-17 22:04:09.618] MOB ADD: on_merge(): Zero9e1/(Jack) at Wasteland (57, 62, 2) - 20.7 of /datum/reagent/determination with 1 purity
+[2021-05-17 22:04:18.379] MOB ADD: on_mob_add(): MastrodontePlays/(Rodrigo Weisgarber) at Brotherhood of Steel (168, 228, 2) - 7.333 of /datum/reagent/medicine/oculine with 1 purity
+[2021-05-17 22:04:18.379] MOB ADD: on_mob_add(): MastrodontePlays/(Rodrigo Weisgarber) at Brotherhood of Steel (168, 228, 2) - 1.571 of /datum/reagent/consumable/nutriment/vitamin with 1 purity
+[2021-05-17 22:04:19.421] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Brotherhood of Steel (168, 228, 2) - 13.875 of /datum/reagent/medicine/oculine with 1 purity
+[2021-05-17 22:04:21.604] MOB ADD: on_mob_add(): MastrodontePlays/(Rodrigo Weisgarber) at Brotherhood of Steel (168, 227, 2) - 3.2 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-17 22:04:22.777] MOB ADD: on_merge(): MastrodontePlays/(Rodrigo Weisgarber) at Brotherhood of Steel (168, 224, 2) - 6 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-17 22:04:37.439] MOB DELETE: on_mob_delete: MastrodontePlays/(Rodrigo Weisgarber) at Brotherhood of Steel (172, 220, 2) - /datum/reagent/consumable/sugar
+[2021-05-17 22:04:47.449] MOB DELETE: on_mob_delete: MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (170, 212, 2) - /datum/reagent/consumable/nutriment/vitamin
+[2021-05-17 22:05:11.453] MOB ADD: on_mob_add(): n0fun/(Kyra Taggart) at Wasteland (58, 63, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 22:05:17.649] MOB DELETE: on_mob_delete: MastrodontePlays/(Rodrigo Weisgarber) at Village (177, 181, 2) - /datum/reagent/consumable/nutriment
+[2021-05-17 22:05:27.615] MOB DELETE: on_mob_delete: n0fun/(Kyra Taggart) at Wasteland (54, 60, 2) - /datum/reagent/medicine/stimpak
+[2021-05-17 22:08:19.749] MOB ADD: on_mob_add(): MastrodontePlays/(Rodrigo Weisgarber) at Village (176, 176, 2) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-17 22:08:21.196] MOB DELETE: on_mob_delete: MastrodontePlays/(Rodrigo Weisgarber) at Village (176, 176, 2) - /datum/reagent/medicine/healing_powder
+[2021-05-17 22:09:59.992] MOB DELETE: on_mob_delete: MastrodontePlays/(Rodrigo Weisgarber) at Village (170, 180, 2) - /datum/reagent/medicine/oculine
+[2021-05-17 22:10:06.566] MOB ADD: on_mob_add(): MastrodontePlays/(Rodrigo Weisgarber) at Village (171, 180, 2) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-17 22:10:08.006] MOB DELETE: on_mob_delete: MastrodontePlays/(Rodrigo Weisgarber) at Village (171, 180, 2) - /datum/reagent/medicine/healing_powder
+[2021-05-17 22:10:42.774] MOB ADD: on_mob_add(): sondtheanime/(John Lens) at Wasteland (168, 184, 2) - 2.5 of /datum/reagent/determination with 1 purity
+[2021-05-17 22:10:51.006] MOB ADD: on_merge(): sondtheanime/(John Lens) at Wasteland (168, 184, 2) - 7.5 of /datum/reagent/determination with 1 purity
+[2021-05-17 22:10:54.253] MOB DELETE: on_mob_delete: MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (169, 183, 2) - /datum/reagent/toxin/coffeepowder
+[2021-05-17 22:10:58.276] MOB ADD: on_mob_add(): MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (169, 183, 2) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-17 22:10:58.330] MOB DELETE: on_mob_delete: MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (169, 183, 2) - /datum/reagent/medicine/healing_powder
+[2021-05-17 22:11:22.436] MOB ADD: on_mob_add(): MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (169, 183, 2) - 20 of /datum/reagent/medicine/radx with 1 purity
+[2021-05-17 22:12:00.021] MOB ADD: on_mob_add(): OvelhaCosmica/(Adam Alves) at Wasteland (233, 74, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 22:12:22.390] MOB ADD: on_mob_add(): degusta00/(Nick Menza) at Wasteland (215, 66, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 22:12:31.920] MOB DELETE: on_mob_delete: OvelhaCosmica/(Adam Alves) at Wasteland (204, 63, 2) - /datum/reagent/medicine/stimpak
+[2021-05-17 22:12:33.961] MOB ADD: on_mob_add(): DarkPudding/(John Wick) at NCR (52, 228, 2) - 2.25 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-17 22:12:33.962] MOB ADD: on_mob_add(): DarkPudding/(John Wick) at NCR (52, 228, 2) - 0.75 of /datum/reagent/consumable/nutriment/vitamin with 1 purity
+[2021-05-17 22:12:34.042] MOB ADD: on_merge(): degusta00/(Nick Menza) at Wasteland (212, 64, 2) - 18.8 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 22:12:34.061] MOB ADD: on_mob_add(): MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (162, 174, 2) - 10 of /datum/reagent/medicine/super_stimpak with 1 purity
+[2021-05-17 22:12:42.643] MOB ADD: on_mob_add(): Shirozinha/(Joseph Joestar) at Wasteland (197, 183, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 22:12:52.132] MOB ADD: on_merge(): degusta00/(Nick Menza) at Wasteland (209, 58, 2) - 27 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 22:12:54.117] MOB DELETE: on_mob_delete: DarkPudding/(John Wick) at Wasteland (23, 197, 2) - /datum/reagent/consumable/nutriment/vitamin
+[2021-05-17 22:13:02.241] MOB DELETE: on_mob_delete: Shirozinha/(Joseph Joestar) at Wasteland (228, 157, 2) - /datum/reagent/medicine/stimpak
+[2021-05-17 22:13:06.242] MOB DELETE: on_mob_delete: degusta00/(Nick Menza) at Wasteland (222, 64, 2) - /datum/reagent/medicine/stimpak
+[2021-05-17 22:13:35.106] MOB DELETE: on_mob_delete: DarkPudding/(John Wick) at NCR (22, 191, 2) - /datum/reagent/consumable/nutriment
+[2021-05-17 22:13:41.157] MOB DELETE: on_mob_delete: MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (240, 185, 2) - /datum/reagent/medicine/super_stimpak
+[2021-05-17 22:14:30.193] MOB ADD: on_mob_add(): Corvopimpolho/(Goddard Osterweis) at Wasteland (238, 177, 2) - 2 of /datum/reagent/consumable/eggyolk with 1 purity
+[2021-05-17 22:14:31.118] MOB ADD: on_merge(): Corvopimpolho/(Goddard Osterweis) at Wasteland (238, 176, 2) - 4 of /datum/reagent/consumable/eggyolk with 1 purity
+[2021-05-17 22:14:32.987] MOB ADD: on_merge(): Corvopimpolho/(Goddard Osterweis) at Wasteland (238, 176, 2) - 5.6 of /datum/reagent/consumable/eggyolk with 1 purity
+[2021-05-17 22:14:44.188] MOB DELETE: on_mob_delete: MastrodontePlays/(Rodrigo Weisgarber) at Wasteland (207, 184, 2) - /datum/reagent/medicine/radx
+[2021-05-17 22:15:00.395] MOB DELETE: on_mob_delete: Corvopimpolho/(Goddard Osterweis) at Wasteland (169, 182, 2) - /datum/reagent/consumable/eggyolk
+[2021-05-17 22:16:30.922] MOB ADD: on_mob_add(): John_egbert3/(Borgos Comiamaedoluiz) at Wasteland (6, 185, 2) - 20 of /datum/reagent/medicine/radx with 1 purity
+[2021-05-17 22:17:05.073] MOB ADD: on_mob_add(): InicialPlayss/(Rayan Lindgrey) at Wasteland (97, 115, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 22:17:33.321] MOB DELETE: on_mob_delete: InicialPlayss/(Rayan Lindgrey) at Wasteland (139, 75, 2) - /datum/reagent/medicine/stimpak
+[2021-05-17 22:18:51.392] MOB ADD: on_mob_add(): DarkPudding/(John Wick) at NCR (30, 191, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 22:19:07.210] MOB DELETE: on_mob_delete: DarkPudding/(John Wick) at NCR (32, 190, 2) - /datum/reagent/medicine/stimpak
+[2021-05-17 22:20:01.135] MOB DELETE: on_mob_delete: John_egbert3/(Borgos Comiamaedoluiz) at Wasteland (94, 224, 2) - /datum/reagent/medicine/radx
+[2021-05-17 22:21:00.727] MOB ADD: on_mob_add(): *no key*/(Joseph Joestar) at Wasteland (132, 133, 2) - 2.5 of /datum/reagent/determination with 1 purity
+[2021-05-17 22:21:01.696] MOB ADD: on_merge(): *no key*/(Joseph Joestar) at Wasteland (132, 133, 2) - 10 of /datum/reagent/determination with 1 purity
+[2021-05-17 22:21:20.379] MOB ADD: on_mob_add(): Corvopimpolho/(Goddard Osterweis) at Wasteland (133, 133, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 22:21:28.101] MOB DELETE: on_mob_delete: Corvopimpolho/(Goddard Osterweis) at Wasteland (133, 133, 2) - /datum/reagent/medicine/stimpak
+[2021-05-17 22:22:36.528] MOB ADD: on_mob_add(): John_egbert3/(Borgos Comiamaedoluiz) at Wasteland (237, 182, 2) - 2 of /datum/reagent/consumable/eggyolk with 1 purity
+[2021-05-17 22:22:39.576] MOB ADD: on_merge(): John_egbert3/(Borgos Comiamaedoluiz) at Wasteland (238, 188, 2) - 3.6 of /datum/reagent/consumable/eggyolk with 1 purity
+[2021-05-17 22:22:40.368] MOB ADD: on_merge(): John_egbert3/(Borgos Comiamaedoluiz) at Wasteland (238, 192, 2) - 5.6 of /datum/reagent/consumable/eggyolk with 1 purity
+[2021-05-17 22:22:47.228] OVERDOSE STOP: degusta00/(Nick Menza) at Wasteland (168, 185, 2) got over their need for Stimpak Fluid.
+[2021-05-17 22:23:08.083] MOB DELETE: on_mob_delete: John_egbert3/(Borgos Comiamaedoluiz) at Wasteland (178, 184, 2) - /datum/reagent/consumable/eggyolk
+[2021-05-17 22:23:48.557] MOB ADD: on_mob_add(): SpookyPineapple/(Tonhao Vermelho) at Building (201, 161, 2) - 2.571 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-17 22:23:48.558] MOB ADD: on_mob_add(): SpookyPineapple/(Tonhao Vermelho) at Building (201, 161, 2) - 0.429 of /datum/reagent/consumable/nutriment/vitamin with 1 purity
+[2021-05-17 22:23:51.589] MOB ADD: on_mob_add(): Comicao1/(Bashar Al-Assad) at Wasteland (84, 62, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 22:23:52.673] MOB DELETE: on_mob_delete: SpookyPineapple/(Tonhao Vermelho) at Caves (209, 165, 2) - /datum/reagent/consumable/nutriment/vitamin
+[2021-05-17 22:24:17.042] MOB DELETE: on_mob_delete: SpookyPineapple/(Tonhao Vermelho) at Building (220, 163, 2) - /datum/reagent/consumable/nutriment
+[2021-05-17 22:24:19.049] MOB DELETE: on_mob_delete: Comicao1/(Bashar Al-Assad) at Wasteland (86, 63, 2) - /datum/reagent/medicine/stimpak
+[2021-05-17 22:28:23.060] MOB ADD: on_mob_add(): OvelhaCosmica/(Adam Alves) at Wasteland (192, 132, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 22:28:28.420] MOB ADD: on_mob_add(): degusta00[DC]/(Nick Menza) at Wasteland (193, 132, 2) - 20 of /datum/reagent/medicine/radx with 1 purity
+[2021-05-17 22:28:42.071] MOB ADD: on_merge(): degusta00[DC]/(Nick Menza) at Wasteland (170, 133, 2) - 38.6 of /datum/reagent/medicine/radx with 1 purity
+[2021-05-17 22:28:59.595] MOB DELETE: on_mob_delete: OvelhaCosmica/(Adam Alves) at Wasteland (146, 134, 2) - /datum/reagent/medicine/stimpak
+[2021-05-17 22:29:58.994] MOB ADD: on_mob_add(): Comicao1/(Bashar Al-Assad) at Wasteland (33, 61, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 22:30:05.650] MOB ADD: on_mob_add(): shirozinha/(Tio Osso) at NCR (32, 192, 2) - 1 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-17 22:30:05.650] MOB ADD: on_mob_add(): shirozinha/(Tio Osso) at NCR (32, 192, 2) - 1 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-17 22:30:06.459] MOB ADD: on_merge(): shirozinha/(Tio Osso) at NCR (32, 192, 2) - 2 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-17 22:30:07.342] MOB ADD: on_merge(): shirozinha/(Tio Osso) at NCR (32, 192, 2) - 2.2 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-17 22:30:08.207] MOB ADD: on_merge(): shirozinha/(Tio Osso) at NCR (32, 192, 2) - 3.2 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-17 22:30:09.066] MOB ADD: on_merge(): shirozinha/(Tio Osso) at NCR (32, 192, 2) - 3.4 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-17 22:30:09.961] MOB ADD: on_merge(): shirozinha/(Tio Osso) at NCR (32, 192, 2) - 4.4 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-17 22:30:10.787] MOB ADD: on_merge(): shirozinha/(Tio Osso) at NCR (33, 192, 2) - 5.4 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-17 22:30:11.644] MOB ADD: on_merge(): shirozinha/(Tio Osso) at NCR (33, 192, 2) - 5.6 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-17 22:30:13.394] MOB ADD: on_merge(): Comicao1/(Bashar Al-Assad) at Wasteland (56, 53, 2) - 18.6 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 22:30:25.282] MOB DELETE: on_mob_delete: shirozinha/(Tio Osso) at NCR (33, 191, 2) - /datum/reagent/consumable/sugar

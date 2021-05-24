@@ -1,0 +1,18 @@
+[2021-05-22 01:54:24.201] Starting up round ID 24.
+ - -------------------------
+[2021-05-22 01:54:24.226] Running /tg/ revision: 
+ - No commit information
+[2021-05-22 01:54:24.380] runtime error: Admin datum created without a rank
+ - proc name: New (/datum/admins/New)
+ -   source file: holder2.dm,45
+ -   usr: null
+ -   src: nobody\'s admin datum (no rank... (/datum/admins)
+ -   call stack:
+ - nobody\'s admin datum (no rank... (/datum/admins): New(null, "dantesousa", 0, 1)
+ - load admins(null)
+ - world: New()
+ - 
+[2021-05-22 01:54:27.229] Loading Yuma...
+[2021-05-22 01:54:44.452] Loaded Wasteland in 17.2s!
+[2021-05-22 01:54:48.107] Loaded Dungeons in 3.7s!
+[2021-05-22 01:54:56.065] Ruin loader finished with 0 left to spend.

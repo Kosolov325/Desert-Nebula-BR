@@ -1,0 +1,1050 @@
+[2021-05-23 06:47:06.121] Starting up round ID 31.
+ - -------------------------
+[2021-05-23 06:47:06.138] Running /tg/ revision: 
+ - origin/master: 03a83e2ef4473a3107578d22120b9150fe6284e5
+[2021-05-23 06:47:06.166] runtime error: Admin datum created without a rank
+ - proc name: New (/datum/admins/New)
+ -   source file: holder2.dm,45
+ -   usr: null
+ -   src: nobody\'s admin datum (no rank... (/datum/admins)
+ -   call stack:
+ - nobody\'s admin datum (no rank... (/datum/admins): New(null, "dantesousa", 0, 1)
+ - load admins(null)
+ - world: New()
+ - 
+[2021-05-23 06:47:07.514] Loading Yuma...
+[2021-05-23 06:47:19.842] Loaded Wasteland in 12.3s!
+[2021-05-23 06:47:22.641] Loaded Dungeons in 2.8s!
+[2021-05-23 06:47:25.744] Ruin loader finished with 0 left to spend.
+[2021-05-23 06:47:43.557] runtime error: undefined proc or verb /turf/open/floor/wood/update equipment speed mods().
+ - 
+ - proc name: powerDown (/obj/item/clothing/head/helmet/f13/power_armor/proc/powerDown)
+ -   source file: f13head.dm,317
+ -   usr: null
+ -   src: T-45d power helmet (/obj/item/clothing/head/helmet/f13/power_armor/t45d)
+ -   src.loc: the floor (238,237,3) (/turf/open/floor/wood)
+ -   call stack:
+ - T-45d power helmet (/obj/item/clothing/head/helmet/f13/power_armor/t45d): powerDown()
+ - T-45d power helmet (/obj/item/clothing/head/helmet/f13/power_armor/t45d): processPower()
+ - T-45d power helmet (/obj/item/clothing/head/helmet/f13/power_armor/t45d): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(T-45d power helmet (/obj/item/clothing/head/helmet/f13/power_armor/t45d), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(244458)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-23 06:47:43.558] runtime error: undefined proc or verb /turf/open/floor/wood/update equipment speed mods().
+ - 
+ - proc name: powerDown (/obj/item/clothing/head/helmet/f13/power_armor/proc/powerDown)
+ -   source file: f13head.dm,317
+ -   usr: null
+ -   src: T-45d power helmet (/obj/item/clothing/head/helmet/f13/power_armor/t45d)
+ -   src.loc: the floor (238,237,3) (/turf/open/floor/wood)
+ -   call stack:
+ - T-45d power helmet (/obj/item/clothing/head/helmet/f13/power_armor/t45d): powerDown()
+ - T-45d power helmet (/obj/item/clothing/head/helmet/f13/power_armor/t45d): processPower()
+ - T-45d power helmet (/obj/item/clothing/head/helmet/f13/power_armor/t45d): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(T-45d power helmet (/obj/item/clothing/head/helmet/f13/power_armor/t45d), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(244458)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-23 06:47:43.560] runtime error: undefined proc or verb /turf/open/floor/wood/update equipment speed mods().
+ - 
+ - proc name: powerDown (/obj/item/clothing/suit/armor/f13/power_armor/proc/powerDown)
+ -   source file: f13armor.dm,306
+ -   usr: null
+ -   src: Knight-Captain\'s T-45d Power ... (/obj/item/clothing/suit/armor/f13/power_armor/t45d/knightcaptain)
+ -   src.loc: the floor (238,237,3) (/turf/open/floor/wood)
+ -   call stack:
+ - Knight-Captain\'s T-45d Power ... (/obj/item/clothing/suit/armor/f13/power_armor/t45d/knightcaptain): powerDown(null)
+ - Knight-Captain\'s T-45d Power ... (/obj/item/clothing/suit/armor/f13/power_armor/t45d/knightcaptain): processPower()
+ - Knight-Captain\'s T-45d Power ... (/obj/item/clothing/suit/armor/f13/power_armor/t45d/knightcaptain): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(Knight-Captain\'s T-45d Power ... (/obj/item/clothing/suit/armor/f13/power_armor/t45d/knightcaptain), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(244458)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-23 06:47:43.561] runtime error: undefined proc or verb /turf/open/floor/wood/update equipment speed mods().
+ - 
+ - proc name: powerDown (/obj/item/clothing/suit/armor/f13/power_armor/proc/powerDown)
+ -   source file: f13armor.dm,306
+ -   usr: null
+ -   src: Knight-Captain\'s T-45d Power ... (/obj/item/clothing/suit/armor/f13/power_armor/t45d/knightcaptain)
+ -   src.loc: the floor (238,237,3) (/turf/open/floor/wood)
+ -   call stack:
+ - Knight-Captain\'s T-45d Power ... (/obj/item/clothing/suit/armor/f13/power_armor/t45d/knightcaptain): powerDown(null)
+ - Knight-Captain\'s T-45d Power ... (/obj/item/clothing/suit/armor/f13/power_armor/t45d/knightcaptain): processPower()
+ - Knight-Captain\'s T-45d Power ... (/obj/item/clothing/suit/armor/f13/power_armor/t45d/knightcaptain): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(Knight-Captain\'s T-45d Power ... (/obj/item/clothing/suit/armor/f13/power_armor/t45d/knightcaptain), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(244458)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-23 06:47:44.224] runtime error: undefined proc or verb /turf/open/floor/mineral/plastitanium/airless/update equipment speed mods().
+ - 
+ - proc name: powerDown (/obj/item/clothing/head/helmet/f13/power_armor/proc/powerDown)
+ -   source file: f13head.dm,317
+ -   usr: null
+ -   src: the helm of a fallen Brother (/obj/item/clothing/head/helmet/f13/power_armor/t51b)
+ -   src.loc: the shuttle floor (248,195,3) (/turf/open/floor/mineral/plastitanium/airless)
+ -   call stack:
+ - the helm of a fallen Brother (/obj/item/clothing/head/helmet/f13/power_armor/t51b): powerDown()
+ - the helm of a fallen Brother (/obj/item/clothing/head/helmet/f13/power_armor/t51b): processPower()
+ - the helm of a fallen Brother (/obj/item/clothing/head/helmet/f13/power_armor/t51b): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the helm of a fallen Brother (/obj/item/clothing/head/helmet/f13/power_armor/t51b), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(244458)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-23 06:47:44.225] runtime error: undefined proc or verb /turf/open/floor/mineral/plastitanium/airless/update equipment speed mods().
+ - 
+ - proc name: powerDown (/obj/item/clothing/head/helmet/f13/power_armor/proc/powerDown)
+ -   source file: f13head.dm,317
+ -   usr: null
+ -   src: the helm of a fallen Brother (/obj/item/clothing/head/helmet/f13/power_armor/t51b)
+ -   src.loc: the shuttle floor (248,195,3) (/turf/open/floor/mineral/plastitanium/airless)
+ -   call stack:
+ - the helm of a fallen Brother (/obj/item/clothing/head/helmet/f13/power_armor/t51b): powerDown()
+ - the helm of a fallen Brother (/obj/item/clothing/head/helmet/f13/power_armor/t51b): processPower()
+ - the helm of a fallen Brother (/obj/item/clothing/head/helmet/f13/power_armor/t51b): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the helm of a fallen Brother (/obj/item/clothing/head/helmet/f13/power_armor/t51b), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(244458)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-23 06:47:46.330] runtime error: undefined proc or verb /turf/open/floor/plasteel/dark/update equipment speed mods().
+ - 
+ - proc name: powerDown (/obj/item/clothing/suit/armor/f13/power_armor/proc/powerDown)
+ -   source file: f13armor.dm,306
+ -   usr: null
+ -   src: the excavator power armor (/obj/item/clothing/suit/armor/f13/power_armor/excavator)
+ -   src.loc: the floor (44,183,4) (/turf/open/floor/plasteel/dark)
+ -   call stack:
+ - the excavator power armor (/obj/item/clothing/suit/armor/f13/power_armor/excavator): powerDown(null)
+ - the excavator power armor (/obj/item/clothing/suit/armor/f13/power_armor/excavator): processPower()
+ - the excavator power armor (/obj/item/clothing/suit/armor/f13/power_armor/excavator): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the excavator power armor (/obj/item/clothing/suit/armor/f13/power_armor/excavator), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(244458)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-23 06:47:46.331] runtime error: undefined proc or verb /turf/open/floor/plasteel/dark/update equipment speed mods().
+ - 
+ - proc name: powerDown (/obj/item/clothing/suit/armor/f13/power_armor/proc/powerDown)
+ -   source file: f13armor.dm,306
+ -   usr: null
+ -   src: the excavator power armor (/obj/item/clothing/suit/armor/f13/power_armor/excavator)
+ -   src.loc: the floor (44,183,4) (/turf/open/floor/plasteel/dark)
+ -   call stack:
+ - the excavator power armor (/obj/item/clothing/suit/armor/f13/power_armor/excavator): powerDown(null)
+ - the excavator power armor (/obj/item/clothing/suit/armor/f13/power_armor/excavator): processPower()
+ - the excavator power armor (/obj/item/clothing/suit/armor/f13/power_armor/excavator): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the excavator power armor (/obj/item/clothing/suit/armor/f13/power_armor/excavator), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(244458)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-23 06:47:46.333] runtime error: undefined proc or verb /turf/open/floor/plasteel/dark/update equipment speed mods().
+ - 
+ - proc name: powerDown (/obj/item/clothing/head/helmet/f13/power_armor/proc/powerDown)
+ -   source file: f13head.dm,317
+ -   usr: null
+ -   src: the excavator power helmet (/obj/item/clothing/head/helmet/f13/power_armor/excavator)
+ -   src.loc: the floor (44,183,4) (/turf/open/floor/plasteel/dark)
+ -   call stack:
+ - the excavator power helmet (/obj/item/clothing/head/helmet/f13/power_armor/excavator): powerDown()
+ - the excavator power helmet (/obj/item/clothing/head/helmet/f13/power_armor/excavator): processPower()
+ - the excavator power helmet (/obj/item/clothing/head/helmet/f13/power_armor/excavator): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the excavator power helmet (/obj/item/clothing/head/helmet/f13/power_armor/excavator), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(244458)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-23 06:47:46.334] runtime error: undefined proc or verb /turf/open/floor/plasteel/dark/update equipment speed mods().
+ - 
+ - proc name: powerDown (/obj/item/clothing/head/helmet/f13/power_armor/proc/powerDown)
+ -   source file: f13head.dm,317
+ -   usr: null
+ -   src: the excavator power helmet (/obj/item/clothing/head/helmet/f13/power_armor/excavator)
+ -   src.loc: the floor (44,183,4) (/turf/open/floor/plasteel/dark)
+ -   call stack:
+ - the excavator power helmet (/obj/item/clothing/head/helmet/f13/power_armor/excavator): powerDown()
+ - the excavator power helmet (/obj/item/clothing/head/helmet/f13/power_armor/excavator): processPower()
+ - the excavator power helmet (/obj/item/clothing/head/helmet/f13/power_armor/excavator): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the excavator power helmet (/obj/item/clothing/head/helmet/f13/power_armor/excavator), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(244458)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-23 06:48:48.482] ## WARNING: No /obj/docking_port/mobile/arrivals placed on the map! in code/controllers/subsystem/shuttle.dm at line 80 src: Shuttle usr: .
+[2021-05-23 06:48:49.091] runtime error: undefined proc or verb /turf/open/floor/f13/update equipment speed mods().
+ - 
+ - proc name: powerDown (/obj/item/clothing/suit/armor/f13/power_armor/proc/powerDown)
+ -   source file: f13armor.dm,306
+ -   usr: null
+ -   src: T-51b power armor (/obj/item/clothing/suit/armor/f13/power_armor/t51b)
+ -   src.loc: the floor (105,206,3) (/turf/open/floor/f13)
+ -   call stack:
+ - T-51b power armor (/obj/item/clothing/suit/armor/f13/power_armor/t51b): powerDown(null)
+ - T-51b power armor (/obj/item/clothing/suit/armor/f13/power_armor/t51b): processPower()
+ - T-51b power armor (/obj/item/clothing/suit/armor/f13/power_armor/t51b): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(T-51b power armor (/obj/item/clothing/suit/armor/f13/power_armor/t51b), /list (/list))
+ - T-51b power armor (/obj/item/clothing/suit/armor/f13/power_armor/t51b): New(1)
+ - the t51b power armor spawner (/obj/effect/spawner/bundle/f13/armor/t51b): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the t51b power armor spawner (/obj/effect/spawner/bundle/f13/armor/t51b), /list (/list))
+ - the t51b power armor spawner (/obj/effect/spawner/bundle/f13/armor/t51b): New(1)
+ - the tier 5 armor (/obj/effect/spawner/lootdrop/f13/armor/tier5): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the tier 5 armor (/obj/effect/spawner/lootdrop/f13/armor/tier5), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(/list (/list))
+ - /datum/parsed_map (/datum/parsed_map): initTemplateBounds()
+ - North Sewer 1 (/datum/map_template/fallout/dungeons/northsewer1): load(the rock (70,198,3) (/turf/closed/mineral/random/low_chance), 0, 2, 0, 0, 0)
+ - Mapping (/datum/controller/subsystem/mapping): load marks()
+ - Minor Mapping (/datum/controller/subsystem/minor_mapping): Initialize(245284)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-23 06:48:49.092] runtime error: undefined proc or verb /turf/open/floor/f13/update equipment speed mods().
+ - 
+ - proc name: powerDown (/obj/item/clothing/suit/armor/f13/power_armor/proc/powerDown)
+ -   source file: f13armor.dm,306
+ -   usr: null
+ -   src: T-51b power armor (/obj/item/clothing/suit/armor/f13/power_armor/t51b)
+ -   src.loc: the floor (105,206,3) (/turf/open/floor/f13)
+ -   call stack:
+ - T-51b power armor (/obj/item/clothing/suit/armor/f13/power_armor/t51b): powerDown(null)
+ - T-51b power armor (/obj/item/clothing/suit/armor/f13/power_armor/t51b): processPower()
+ - T-51b power armor (/obj/item/clothing/suit/armor/f13/power_armor/t51b): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(T-51b power armor (/obj/item/clothing/suit/armor/f13/power_armor/t51b), /list (/list))
+ - T-51b power armor (/obj/item/clothing/suit/armor/f13/power_armor/t51b): New(1)
+ - the t51b power armor spawner (/obj/effect/spawner/bundle/f13/armor/t51b): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the t51b power armor spawner (/obj/effect/spawner/bundle/f13/armor/t51b), /list (/list))
+ - the t51b power armor spawner (/obj/effect/spawner/bundle/f13/armor/t51b): New(1)
+ - the tier 5 armor (/obj/effect/spawner/lootdrop/f13/armor/tier5): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the tier 5 armor (/obj/effect/spawner/lootdrop/f13/armor/tier5), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(/list (/list))
+ - /datum/parsed_map (/datum/parsed_map): initTemplateBounds()
+ - North Sewer 1 (/datum/map_template/fallout/dungeons/northsewer1): load(the rock (70,198,3) (/turf/closed/mineral/random/low_chance), 0, 2, 0, 0, 0)
+ - Mapping (/datum/controller/subsystem/mapping): load marks()
+ - Minor Mapping (/datum/controller/subsystem/minor_mapping): Initialize(245284)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-23 06:48:49.095] runtime error: undefined proc or verb /turf/open/floor/f13/update equipment speed mods().
+ - 
+ - proc name: powerDown (/obj/item/clothing/head/helmet/f13/power_armor/proc/powerDown)
+ -   source file: f13head.dm,317
+ -   usr: null
+ -   src: T-51b power helmet (/obj/item/clothing/head/helmet/f13/power_armor/t51b)
+ -   src.loc: the floor (105,206,3) (/turf/open/floor/f13)
+ -   call stack:
+ - T-51b power helmet (/obj/item/clothing/head/helmet/f13/power_armor/t51b): powerDown()
+ - T-51b power helmet (/obj/item/clothing/head/helmet/f13/power_armor/t51b): processPower()
+ - T-51b power helmet (/obj/item/clothing/head/helmet/f13/power_armor/t51b): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(T-51b power helmet (/obj/item/clothing/head/helmet/f13/power_armor/t51b), /list (/list))
+ - T-51b power helmet (/obj/item/clothing/head/helmet/f13/power_armor/t51b): New(1)
+ - the t51b power armor spawner (/obj/effect/spawner/bundle/f13/armor/t51b): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the t51b power armor spawner (/obj/effect/spawner/bundle/f13/armor/t51b), /list (/list))
+ - the t51b power armor spawner (/obj/effect/spawner/bundle/f13/armor/t51b): New(1)
+ - the tier 5 armor (/obj/effect/spawner/lootdrop/f13/armor/tier5): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the tier 5 armor (/obj/effect/spawner/lootdrop/f13/armor/tier5), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(/list (/list))
+ - /datum/parsed_map (/datum/parsed_map): initTemplateBounds()
+ - North Sewer 1 (/datum/map_template/fallout/dungeons/northsewer1): load(the rock (70,198,3) (/turf/closed/mineral/random/low_chance), 0, 2, 0, 0, 0)
+ - Mapping (/datum/controller/subsystem/mapping): load marks()
+ - Minor Mapping (/datum/controller/subsystem/minor_mapping): Initialize(245284)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-23 06:48:49.096] runtime error: undefined proc or verb /turf/open/floor/f13/update equipment speed mods().
+ - 
+ - proc name: powerDown (/obj/item/clothing/head/helmet/f13/power_armor/proc/powerDown)
+ -   source file: f13head.dm,317
+ -   usr: null
+ -   src: T-51b power helmet (/obj/item/clothing/head/helmet/f13/power_armor/t51b)
+ -   src.loc: the floor (105,206,3) (/turf/open/floor/f13)
+ -   call stack:
+ - T-51b power helmet (/obj/item/clothing/head/helmet/f13/power_armor/t51b): powerDown()
+ - T-51b power helmet (/obj/item/clothing/head/helmet/f13/power_armor/t51b): processPower()
+ - T-51b power helmet (/obj/item/clothing/head/helmet/f13/power_armor/t51b): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(T-51b power helmet (/obj/item/clothing/head/helmet/f13/power_armor/t51b), /list (/list))
+ - T-51b power helmet (/obj/item/clothing/head/helmet/f13/power_armor/t51b): New(1)
+ - the t51b power armor spawner (/obj/effect/spawner/bundle/f13/armor/t51b): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the t51b power armor spawner (/obj/effect/spawner/bundle/f13/armor/t51b), /list (/list))
+ - the t51b power armor spawner (/obj/effect/spawner/bundle/f13/armor/t51b): New(1)
+ - the tier 5 armor (/obj/effect/spawner/lootdrop/f13/armor/tier5): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the tier 5 armor (/obj/effect/spawner/lootdrop/f13/armor/tier5), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(/list (/list))
+ - /datum/parsed_map (/datum/parsed_map): initTemplateBounds()
+ - North Sewer 1 (/datum/map_template/fallout/dungeons/northsewer1): load(the rock (70,198,3) (/turf/closed/mineral/random/low_chance), 0, 2, 0, 0, 0)
+ - Mapping (/datum/controller/subsystem/mapping): load marks()
+ - Minor Mapping (/datum/controller/subsystem/minor_mapping): Initialize(245284)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-23 06:48:51.551] runtime error: undefined proc or verb /turf/open/floor/plating/tunnel/update equipment speed mods().
+ - 
+ - proc name: powerDown (/obj/item/clothing/suit/armor/f13/power_armor/proc/powerDown)
+ -   source file: f13armor.dm,306
+ -   usr: null
+ -   src: T-45d power armor (/obj/item/clothing/suit/armor/f13/power_armor/t45d)
+ -   src.loc: the metal floor (15,227,4) (/turf/open/floor/plating/tunnel)
+ -   call stack:
+ - T-45d power armor (/obj/item/clothing/suit/armor/f13/power_armor/t45d): powerDown(null)
+ - T-45d power armor (/obj/item/clothing/suit/armor/f13/power_armor/t45d): processPower()
+ - T-45d power armor (/obj/item/clothing/suit/armor/f13/power_armor/t45d): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(T-45d power armor (/obj/item/clothing/suit/armor/f13/power_armor/t45d), /list (/list))
+ - T-45d power armor (/obj/item/clothing/suit/armor/f13/power_armor/t45d): New(1)
+ - the t45d power armor spawner (/obj/effect/spawner/bundle/f13/armor/t45d): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the t45d power armor spawner (/obj/effect/spawner/bundle/f13/armor/t45d), /list (/list))
+ - the t45d power armor spawner (/obj/effect/spawner/bundle/f13/armor/t45d): New(1)
+ - the tier 5 armor (/obj/effect/spawner/lootdrop/f13/armor/tier5): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the tier 5 armor (/obj/effect/spawner/lootdrop/f13/armor/tier5), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(/list (/list))
+ - /datum/parsed_map (/datum/parsed_map): initTemplateBounds()
+ - North Bunker 2 (/datum/map_template/fallout/dungeons/northbunker2): load(the dense rock (7,220,4) (/turf/closed/indestructible/rock), 0, 2, 0, 0, 0)
+ - Mapping (/datum/controller/subsystem/mapping): load marks()
+ - Minor Mapping (/datum/controller/subsystem/minor_mapping): Initialize(245284)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-23 06:48:51.553] runtime error: undefined proc or verb /turf/open/floor/plating/tunnel/update equipment speed mods().
+ - 
+ - proc name: powerDown (/obj/item/clothing/suit/armor/f13/power_armor/proc/powerDown)
+ -   source file: f13armor.dm,306
+ -   usr: null
+ -   src: T-45d power armor (/obj/item/clothing/suit/armor/f13/power_armor/t45d)
+ -   src.loc: the metal floor (15,227,4) (/turf/open/floor/plating/tunnel)
+ -   call stack:
+ - T-45d power armor (/obj/item/clothing/suit/armor/f13/power_armor/t45d): powerDown(null)
+ - T-45d power armor (/obj/item/clothing/suit/armor/f13/power_armor/t45d): processPower()
+ - T-45d power armor (/obj/item/clothing/suit/armor/f13/power_armor/t45d): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(T-45d power armor (/obj/item/clothing/suit/armor/f13/power_armor/t45d), /list (/list))
+ - T-45d power armor (/obj/item/clothing/suit/armor/f13/power_armor/t45d): New(1)
+ - the t45d power armor spawner (/obj/effect/spawner/bundle/f13/armor/t45d): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the t45d power armor spawner (/obj/effect/spawner/bundle/f13/armor/t45d), /list (/list))
+ - the t45d power armor spawner (/obj/effect/spawner/bundle/f13/armor/t45d): New(1)
+ - the tier 5 armor (/obj/effect/spawner/lootdrop/f13/armor/tier5): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the tier 5 armor (/obj/effect/spawner/lootdrop/f13/armor/tier5), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(/list (/list))
+ - /datum/parsed_map (/datum/parsed_map): initTemplateBounds()
+ - North Bunker 2 (/datum/map_template/fallout/dungeons/northbunker2): load(the dense rock (7,220,4) (/turf/closed/indestructible/rock), 0, 2, 0, 0, 0)
+ - Mapping (/datum/controller/subsystem/mapping): load marks()
+ - Minor Mapping (/datum/controller/subsystem/minor_mapping): Initialize(245284)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-23 06:48:51.555] runtime error: undefined proc or verb /turf/open/floor/plating/tunnel/update equipment speed mods().
+ - 
+ - proc name: powerDown (/obj/item/clothing/head/helmet/f13/power_armor/proc/powerDown)
+ -   source file: f13head.dm,317
+ -   usr: null
+ -   src: T-45d power helmet (/obj/item/clothing/head/helmet/f13/power_armor/t45d)
+ -   src.loc: the metal floor (15,227,4) (/turf/open/floor/plating/tunnel)
+ -   call stack:
+ - T-45d power helmet (/obj/item/clothing/head/helmet/f13/power_armor/t45d): powerDown()
+ - T-45d power helmet (/obj/item/clothing/head/helmet/f13/power_armor/t45d): processPower()
+ - T-45d power helmet (/obj/item/clothing/head/helmet/f13/power_armor/t45d): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(T-45d power helmet (/obj/item/clothing/head/helmet/f13/power_armor/t45d), /list (/list))
+ - T-45d power helmet (/obj/item/clothing/head/helmet/f13/power_armor/t45d): New(1)
+ - the t45d power armor spawner (/obj/effect/spawner/bundle/f13/armor/t45d): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the t45d power armor spawner (/obj/effect/spawner/bundle/f13/armor/t45d), /list (/list))
+ - the t45d power armor spawner (/obj/effect/spawner/bundle/f13/armor/t45d): New(1)
+ - the tier 5 armor (/obj/effect/spawner/lootdrop/f13/armor/tier5): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the tier 5 armor (/obj/effect/spawner/lootdrop/f13/armor/tier5), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(/list (/list))
+ - /datum/parsed_map (/datum/parsed_map): initTemplateBounds()
+ - North Bunker 2 (/datum/map_template/fallout/dungeons/northbunker2): load(the dense rock (7,220,4) (/turf/closed/indestructible/rock), 0, 2, 0, 0, 0)
+ - Mapping (/datum/controller/subsystem/mapping): load marks()
+ - Minor Mapping (/datum/controller/subsystem/minor_mapping): Initialize(245284)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-23 06:48:51.557] runtime error: undefined proc or verb /turf/open/floor/plating/tunnel/update equipment speed mods().
+ - 
+ - proc name: powerDown (/obj/item/clothing/head/helmet/f13/power_armor/proc/powerDown)
+ -   source file: f13head.dm,317
+ -   usr: null
+ -   src: T-45d power helmet (/obj/item/clothing/head/helmet/f13/power_armor/t45d)
+ -   src.loc: the metal floor (15,227,4) (/turf/open/floor/plating/tunnel)
+ -   call stack:
+ - T-45d power helmet (/obj/item/clothing/head/helmet/f13/power_armor/t45d): powerDown()
+ - T-45d power helmet (/obj/item/clothing/head/helmet/f13/power_armor/t45d): processPower()
+ - T-45d power helmet (/obj/item/clothing/head/helmet/f13/power_armor/t45d): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(T-45d power helmet (/obj/item/clothing/head/helmet/f13/power_armor/t45d), /list (/list))
+ - T-45d power helmet (/obj/item/clothing/head/helmet/f13/power_armor/t45d): New(1)
+ - the t45d power armor spawner (/obj/effect/spawner/bundle/f13/armor/t45d): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the t45d power armor spawner (/obj/effect/spawner/bundle/f13/armor/t45d), /list (/list))
+ - the t45d power armor spawner (/obj/effect/spawner/bundle/f13/armor/t45d): New(1)
+ - the tier 5 armor (/obj/effect/spawner/lootdrop/f13/armor/tier5): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the tier 5 armor (/obj/effect/spawner/lootdrop/f13/armor/tier5), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(/list (/list))
+ - /datum/parsed_map (/datum/parsed_map): initTemplateBounds()
+ - North Bunker 2 (/datum/map_template/fallout/dungeons/northbunker2): load(the dense rock (7,220,4) (/turf/closed/indestructible/rock), 0, 2, 0, 0, 0)
+ - Mapping (/datum/controller/subsystem/mapping): load marks()
+ - Minor Mapping (/datum/controller/subsystem/minor_mapping): Initialize(245284)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-23 06:48:53.929] runtime error: undefined proc or verb /turf/open/floor/plating/tunnel/update equipment speed mods().
+ - 
+ - proc name: powerDown (/obj/item/clothing/suit/armor/f13/power_armor/proc/powerDown)
+ -   source file: f13armor.dm,306
+ -   usr: null
+ -   src: T-51b power armor (/obj/item/clothing/suit/armor/f13/power_armor/t51b)
+ -   src.loc: the metal floor (226,252,4) (/turf/open/floor/plating/tunnel)
+ -   call stack:
+ - T-51b power armor (/obj/item/clothing/suit/armor/f13/power_armor/t51b): powerDown(null)
+ - T-51b power armor (/obj/item/clothing/suit/armor/f13/power_armor/t51b): processPower()
+ - T-51b power armor (/obj/item/clothing/suit/armor/f13/power_armor/t51b): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(T-51b power armor (/obj/item/clothing/suit/armor/f13/power_armor/t51b), /list (/list))
+ - T-51b power armor (/obj/item/clothing/suit/armor/f13/power_armor/t51b): New(1)
+ - the t51b power armor spawner (/obj/effect/spawner/bundle/f13/armor/t51b): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the t51b power armor spawner (/obj/effect/spawner/bundle/f13/armor/t51b), /list (/list))
+ - the t51b power armor spawner (/obj/effect/spawner/bundle/f13/armor/t51b): New(1)
+ - the tier 5 armor (/obj/effect/spawner/lootdrop/f13/armor/tier5): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the tier 5 armor (/obj/effect/spawner/lootdrop/f13/armor/tier5), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(/list (/list))
+ - /datum/parsed_map (/datum/parsed_map): initTemplateBounds()
+ - Oasis Bunker 1 (/datum/map_template/fallout/dungeons/oasisbunker1): load(the dense rock (212,215,4) (/turf/closed/indestructible/rock), 0, 2, 0, 0, 0)
+ - Mapping (/datum/controller/subsystem/mapping): load marks()
+ - Minor Mapping (/datum/controller/subsystem/minor_mapping): Initialize(245284)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-23 06:48:53.931] runtime error: undefined proc or verb /turf/open/floor/plating/tunnel/update equipment speed mods().
+ - 
+ - proc name: powerDown (/obj/item/clothing/suit/armor/f13/power_armor/proc/powerDown)
+ -   source file: f13armor.dm,306
+ -   usr: null
+ -   src: T-51b power armor (/obj/item/clothing/suit/armor/f13/power_armor/t51b)
+ -   src.loc: the metal floor (226,252,4) (/turf/open/floor/plating/tunnel)
+ -   call stack:
+ - T-51b power armor (/obj/item/clothing/suit/armor/f13/power_armor/t51b): powerDown(null)
+ - T-51b power armor (/obj/item/clothing/suit/armor/f13/power_armor/t51b): processPower()
+ - T-51b power armor (/obj/item/clothing/suit/armor/f13/power_armor/t51b): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(T-51b power armor (/obj/item/clothing/suit/armor/f13/power_armor/t51b), /list (/list))
+ - T-51b power armor (/obj/item/clothing/suit/armor/f13/power_armor/t51b): New(1)
+ - the t51b power armor spawner (/obj/effect/spawner/bundle/f13/armor/t51b): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the t51b power armor spawner (/obj/effect/spawner/bundle/f13/armor/t51b), /list (/list))
+ - the t51b power armor spawner (/obj/effect/spawner/bundle/f13/armor/t51b): New(1)
+ - the tier 5 armor (/obj/effect/spawner/lootdrop/f13/armor/tier5): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the tier 5 armor (/obj/effect/spawner/lootdrop/f13/armor/tier5), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(/list (/list))
+ - /datum/parsed_map (/datum/parsed_map): initTemplateBounds()
+ - Oasis Bunker 1 (/datum/map_template/fallout/dungeons/oasisbunker1): load(the dense rock (212,215,4) (/turf/closed/indestructible/rock), 0, 2, 0, 0, 0)
+ - Mapping (/datum/controller/subsystem/mapping): load marks()
+ - Minor Mapping (/datum/controller/subsystem/minor_mapping): Initialize(245284)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-23 06:48:53.933] runtime error: undefined proc or verb /turf/open/floor/plating/tunnel/update equipment speed mods().
+ - 
+ - proc name: powerDown (/obj/item/clothing/head/helmet/f13/power_armor/proc/powerDown)
+ -   source file: f13head.dm,317
+ -   usr: null
+ -   src: T-51b power helmet (/obj/item/clothing/head/helmet/f13/power_armor/t51b)
+ -   src.loc: the metal floor (226,252,4) (/turf/open/floor/plating/tunnel)
+ -   call stack:
+ - T-51b power helmet (/obj/item/clothing/head/helmet/f13/power_armor/t51b): powerDown()
+ - T-51b power helmet (/obj/item/clothing/head/helmet/f13/power_armor/t51b): processPower()
+ - T-51b power helmet (/obj/item/clothing/head/helmet/f13/power_armor/t51b): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(T-51b power helmet (/obj/item/clothing/head/helmet/f13/power_armor/t51b), /list (/list))
+ - T-51b power helmet (/obj/item/clothing/head/helmet/f13/power_armor/t51b): New(1)
+ - the t51b power armor spawner (/obj/effect/spawner/bundle/f13/armor/t51b): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the t51b power armor spawner (/obj/effect/spawner/bundle/f13/armor/t51b), /list (/list))
+ - the t51b power armor spawner (/obj/effect/spawner/bundle/f13/armor/t51b): New(1)
+ - the tier 5 armor (/obj/effect/spawner/lootdrop/f13/armor/tier5): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the tier 5 armor (/obj/effect/spawner/lootdrop/f13/armor/tier5), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(/list (/list))
+ - /datum/parsed_map (/datum/parsed_map): initTemplateBounds()
+ - Oasis Bunker 1 (/datum/map_template/fallout/dungeons/oasisbunker1): load(the dense rock (212,215,4) (/turf/closed/indestructible/rock), 0, 2, 0, 0, 0)
+ - Mapping (/datum/controller/subsystem/mapping): load marks()
+ - Minor Mapping (/datum/controller/subsystem/minor_mapping): Initialize(245284)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-23 06:48:53.935] runtime error: undefined proc or verb /turf/open/floor/plating/tunnel/update equipment speed mods().
+ - 
+ - proc name: powerDown (/obj/item/clothing/head/helmet/f13/power_armor/proc/powerDown)
+ -   source file: f13head.dm,317
+ -   usr: null
+ -   src: T-51b power helmet (/obj/item/clothing/head/helmet/f13/power_armor/t51b)
+ -   src.loc: the metal floor (226,252,4) (/turf/open/floor/plating/tunnel)
+ -   call stack:
+ - T-51b power helmet (/obj/item/clothing/head/helmet/f13/power_armor/t51b): powerDown()
+ - T-51b power helmet (/obj/item/clothing/head/helmet/f13/power_armor/t51b): processPower()
+ - T-51b power helmet (/obj/item/clothing/head/helmet/f13/power_armor/t51b): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(T-51b power helmet (/obj/item/clothing/head/helmet/f13/power_armor/t51b), /list (/list))
+ - T-51b power helmet (/obj/item/clothing/head/helmet/f13/power_armor/t51b): New(1)
+ - the t51b power armor spawner (/obj/effect/spawner/bundle/f13/armor/t51b): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the t51b power armor spawner (/obj/effect/spawner/bundle/f13/armor/t51b), /list (/list))
+ - the t51b power armor spawner (/obj/effect/spawner/bundle/f13/armor/t51b): New(1)
+ - the tier 5 armor (/obj/effect/spawner/lootdrop/f13/armor/tier5): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the tier 5 armor (/obj/effect/spawner/lootdrop/f13/armor/tier5), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(/list (/list))
+ - /datum/parsed_map (/datum/parsed_map): initTemplateBounds()
+ - Oasis Bunker 1 (/datum/map_template/fallout/dungeons/oasisbunker1): load(the dense rock (212,215,4) (/turf/closed/indestructible/rock), 0, 2, 0, 0, 0)
+ - Mapping (/datum/controller/subsystem/mapping): load marks()
+ - Minor Mapping (/datum/controller/subsystem/minor_mapping): Initialize(245284)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-23 06:48:54.053] Loaded 0 engraved messages on map Yuma
+[2021-05-23 06:48:54.057] Initializations complete within 106.9 seconds!
+[2021-05-23 10:40:35.224] Game start took 0s
+[2021-05-23 12:00:26.330] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: Alex Magnus Primeiro (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: the floor (196,53,2) (/turf/open/floor/f13)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - Alex Magnus Primeiro (/mob/living/carbon/human): Move(the floor (196,53,2) (/turf/open/floor/f13), 2)
+ - AlexAlbright (/client): Move(the floor (196,53,2) (/turf/open/floor/f13), 2)
+ - Alex Magnus Primeiro (/mob/living/carbon/human): keyLoop(AlexAlbright (/client))
+ - AlexAlbright (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-23 12:00:26.525] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: Alex Magnus Primeiro (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: the floor (196,52,2) (/turf/open/floor/f13)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - Alex Magnus Primeiro (/mob/living/carbon/human): Move(the floor (196,52,2) (/turf/open/floor/f13), 2)
+ - AlexAlbright (/client): Move(the floor (196,52,2) (/turf/open/floor/f13), 2)
+ - Alex Magnus Primeiro (/mob/living/carbon/human): keyLoop(AlexAlbright (/client))
+ - AlexAlbright (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-23 12:00:26.675] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: Alex Magnus Primeiro (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: the floor (196,51,2) (/turf/open/floor/f13)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - Alex Magnus Primeiro (/mob/living/carbon/human): Move(the floor (196,51,2) (/turf/open/floor/f13), 2)
+ - AlexAlbright (/client): Move(the floor (196,51,2) (/turf/open/floor/f13), 2)
+ - Alex Magnus Primeiro (/mob/living/carbon/human): keyLoop(AlexAlbright (/client))
+ - AlexAlbright (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-23 12:00:26.876] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: Alex Magnus Primeiro (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: the floor (196,50,2) (/turf/open/floor/f13)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - Alex Magnus Primeiro (/mob/living/carbon/human): Move(the floor (196,50,2) (/turf/open/floor/f13), 2)
+ - AlexAlbright (/client): Move(the floor (196,50,2) (/turf/open/floor/f13), 2)
+ - Alex Magnus Primeiro (/mob/living/carbon/human): keyLoop(AlexAlbright (/client))
+ - AlexAlbright (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-23 12:00:27.075] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: Alex Magnus Primeiro (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: the floor (196,49,2) (/turf/open/floor/f13)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - Alex Magnus Primeiro (/mob/living/carbon/human): Move(the floor (196,49,2) (/turf/open/floor/f13), 2)
+ - AlexAlbright (/client): Move(the floor (196,49,2) (/turf/open/floor/f13), 2)
+ - Alex Magnus Primeiro (/mob/living/carbon/human): keyLoop(AlexAlbright (/client))
+ - AlexAlbright (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-23 12:00:33.376] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: Alex Magnus Primeiro (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: the floor (195,49,2) (/turf/open/floor/f13)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - Alex Magnus Primeiro (/mob/living/carbon/human): Move(the floor (195,49,2) (/turf/open/floor/f13), 8)
+ - AlexAlbright (/client): Move(the floor (195,49,2) (/turf/open/floor/f13), 8)
+ - Alex Magnus Primeiro (/mob/living/carbon/human): keyLoop(AlexAlbright (/client))
+ - AlexAlbright (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-23 12:00:33.775] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: Alex Magnus Primeiro (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: the floor (194,49,2) (/turf/open/floor/f13)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - Alex Magnus Primeiro (/mob/living/carbon/human): Move(the floor (194,49,2) (/turf/open/floor/f13), 8)
+ - AlexAlbright (/client): Move(the floor (194,49,2) (/turf/open/floor/f13), 8)
+ - Alex Magnus Primeiro (/mob/living/carbon/human): keyLoop(AlexAlbright (/client))
+ - AlexAlbright (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-23 13:06:15.289] runtime error: Cannot read null.player_details
+ - proc name: Login (/mob/Login)
+ -   source file: login.dm,45
+ -   usr: (src)
+ -   src: Kosolov325 (/mob/dead/new_player)
+ -   src.loc: null
+ -   call stack:
+ - Kosolov325 (/mob/dead/new_player): Login()
+ - Kosolov325 (/mob/dead/new_player): Login()
+ - Kosolov325 (/mob/dead/new_player): Login()
+ - 
+[2021-05-23 13:06:15.291] runtime error: Cannot execute null.playtitlemusic().
+ - proc name: Login (/mob/dead/new_player/Login)
+ -   source file: login.dm,29
+ -   usr: (src)
+ -   src: Kosolov325 (/mob/dead/new_player)
+ -   src.loc: null
+ -   call stack:
+ - Kosolov325 (/mob/dead/new_player): Login()
+ - 
+[2021-05-23 13:38:54.740] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: Lucas Calado (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: the floor (122,131,3) (/turf/open/floor/f13)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - Lucas Calado (/mob/living/carbon/human): Move(the floor (122,131,3) (/turf/open/floor/f13), 8)
+ - Kosolov325 (/client): Move(the floor (122,131,3) (/turf/open/floor/f13), 8)
+ - Lucas Calado (/mob/living/carbon/human): keyLoop(Kosolov325 (/client))
+ - Kosolov325 (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-23 13:39:01.347] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: Lucas Calado (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: the floor (106,131,3) (/turf/open/floor/f13)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - Lucas Calado (/mob/living/carbon/human): Move(the floor (106,131,3) (/turf/open/floor/f13), 8)
+ - Kosolov325 (/client): Move(the floor (106,131,3) (/turf/open/floor/f13), 8)
+ - Lucas Calado (/mob/living/carbon/human): keyLoop(Kosolov325 (/client))
+ - Kosolov325 (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-23 13:39:01.548] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: Lucas Calado (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: the floor (105,131,3) (/turf/open/floor/f13)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - Lucas Calado (/mob/living/carbon/human): Move(the floor (105,131,3) (/turf/open/floor/f13), 8)
+ - Kosolov325 (/client): Move(the floor (105,131,3) (/turf/open/floor/f13), 8)
+ - Lucas Calado (/mob/living/carbon/human): keyLoop(Kosolov325 (/client))
+ - Kosolov325 (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-23 13:39:01.797] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: Lucas Calado (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: the floor (106,131,3) (/turf/open/floor/f13)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - Lucas Calado (/mob/living/carbon/human): Move(the floor (106,131,3) (/turf/open/floor/f13), 4)
+ - Kosolov325 (/client): Move(the floor (106,131,3) (/turf/open/floor/f13), 4)
+ - Lucas Calado (/mob/living/carbon/human): keyLoop(Kosolov325 (/client))
+ - Kosolov325 (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-23 13:39:01.997] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: Lucas Calado (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: the floor (107,131,3) (/turf/open/floor/f13)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - Lucas Calado (/mob/living/carbon/human): Move(the floor (107,131,3) (/turf/open/floor/f13), 4)
+ - Kosolov325 (/client): Move(the floor (107,131,3) (/turf/open/floor/f13), 4)
+ - Lucas Calado (/mob/living/carbon/human): keyLoop(Kosolov325 (/client))
+ - Kosolov325 (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-23 13:39:02.247] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: Lucas Calado (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: the floor (108,131,3) (/turf/open/floor/f13)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - Lucas Calado (/mob/living/carbon/human): Move(the floor (108,131,3) (/turf/open/floor/f13), 4)
+ - Kosolov325 (/client): Move(the floor (108,131,3) (/turf/open/floor/f13), 4)
+ - Lucas Calado (/mob/living/carbon/human): keyLoop(Kosolov325 (/client))
+ - Kosolov325 (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-23 13:39:02.547] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: Lucas Calado (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: the floor (110,131,3) (/turf/open/floor/f13)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - Lucas Calado (/mob/living/carbon/human): Move(the floor (110,131,3) (/turf/open/floor/f13), 4)
+ - Kosolov325 (/client): Move(the floor (110,131,3) (/turf/open/floor/f13), 4)
+ - Lucas Calado (/mob/living/carbon/human): keyLoop(Kosolov325 (/client))
+ - Kosolov325 (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-23 13:39:02.697] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: Lucas Calado (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: the floor (111,131,3) (/turf/open/floor/f13)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - Lucas Calado (/mob/living/carbon/human): Move(the floor (111,131,3) (/turf/open/floor/f13), 4)
+ - Kosolov325 (/client): Move(the floor (111,131,3) (/turf/open/floor/f13), 4)
+ - Lucas Calado (/mob/living/carbon/human): keyLoop(Kosolov325 (/client))
+ - Kosolov325 (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-23 13:39:02.847] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: Lucas Calado (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: the floor (112,131,3) (/turf/open/floor/f13)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - Lucas Calado (/mob/living/carbon/human): Move(the floor (112,131,3) (/turf/open/floor/f13), 4)
+ - Kosolov325 (/client): Move(the floor (112,131,3) (/turf/open/floor/f13), 4)
+ - Lucas Calado (/mob/living/carbon/human): keyLoop(Kosolov325 (/client))
+ - Kosolov325 (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-23 13:39:02.998] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: Lucas Calado (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: the floor (113,131,3) (/turf/open/floor/f13)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - Lucas Calado (/mob/living/carbon/human): Move(the floor (113,131,3) (/turf/open/floor/f13), 4)
+ - Kosolov325 (/client): Move(the floor (113,131,3) (/turf/open/floor/f13), 4)
+ - Lucas Calado (/mob/living/carbon/human): keyLoop(Kosolov325 (/client))
+ - Kosolov325 (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-23 14:29:31.972] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: Zion Focell (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: the floor (196,50,2) (/turf/open/floor/f13)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - Zion Focell (/mob/living/carbon/human): Move(the floor (196,50,2) (/turf/open/floor/f13), 1)
+ - AlbertoVinhofino (/client): Move(the floor (196,50,2) (/turf/open/floor/f13), 1)
+ - Zion Focell (/mob/living/carbon/human): keyLoop(AlbertoVinhofino (/client))
+ - AlbertoVinhofino (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-23 14:29:32.221] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: Zion Focell (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: the floor (196,51,2) (/turf/open/floor/f13)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - Zion Focell (/mob/living/carbon/human): Move(the floor (196,51,2) (/turf/open/floor/f13), 1)
+ - AlbertoVinhofino (/client): Move(the floor (196,51,2) (/turf/open/floor/f13), 1)
+ - Zion Focell (/mob/living/carbon/human): keyLoop(AlbertoVinhofino (/client))
+ - AlbertoVinhofino (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-23 14:29:32.421] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: Zion Focell (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: the floor (196,52,2) (/turf/open/floor/f13)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - Zion Focell (/mob/living/carbon/human): Move(the floor (196,52,2) (/turf/open/floor/f13), 1)
+ - AlbertoVinhofino (/client): Move(the floor (196,52,2) (/turf/open/floor/f13), 1)
+ - Zion Focell (/mob/living/carbon/human): keyLoop(AlbertoVinhofino (/client))
+ - AlbertoVinhofino (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-23 14:29:32.672] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: Zion Focell (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: the floor (196,53,2) (/turf/open/floor/f13)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - Zion Focell (/mob/living/carbon/human): Move(the floor (196,53,2) (/turf/open/floor/f13), 1)
+ - AlbertoVinhofino (/client): Move(the floor (196,53,2) (/turf/open/floor/f13), 1)
+ - Zion Focell (/mob/living/carbon/human): keyLoop(AlbertoVinhofino (/client))
+ - AlbertoVinhofino (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-23 14:29:33.121] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: Zion Focell (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: the floor (196,54,2) (/turf/open/floor/f13)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - Zion Focell (/mob/living/carbon/human): Move(the floor (196,54,2) (/turf/open/floor/f13), 1)
+ - AlbertoVinhofino (/client): Move(the floor (196,54,2) (/turf/open/floor/f13), 1)
+ - Zion Focell (/mob/living/carbon/human): keyLoop(AlbertoVinhofino (/client))
+ - AlbertoVinhofino (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-23 14:29:33.321] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: Zion Focell (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: the floor (196,55,2) (/turf/open/floor/f13)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - Zion Focell (/mob/living/carbon/human): Move(the floor (196,55,2) (/turf/open/floor/f13), 1)
+ - AlbertoVinhofino (/client): Move(the floor (196,55,2) (/turf/open/floor/f13), 1)
+ - Zion Focell (/mob/living/carbon/human): keyLoop(AlbertoVinhofino (/client))
+ - AlbertoVinhofino (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-23 14:32:19.172] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: Zion Focell (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: road (134,133,2) (/turf/open/indestructible/ground/outside/road)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - Zion Focell (/mob/living/carbon/human): Move(road (134,133,2) (/turf/open/indestructible/ground/outside/road), 8)
+ - AlbertoVinhofino (/client): Move(road (134,133,2) (/turf/open/indestructible/ground/outside/road), 8)
+ - Zion Focell (/mob/living/carbon/human): keyLoop(AlbertoVinhofino (/client))
+ - AlbertoVinhofino (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-23 14:32:19.422] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: Zion Focell (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: road (133,133,2) (/turf/open/indestructible/ground/outside/road)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - Zion Focell (/mob/living/carbon/human): Move(road (133,133,2) (/turf/open/indestructible/ground/outside/road), 8)
+ - AlbertoVinhofino (/client): Move(road (133,133,2) (/turf/open/indestructible/ground/outside/road), 8)
+ - Zion Focell (/mob/living/carbon/human): keyLoop(AlbertoVinhofino (/client))
+ - AlbertoVinhofino (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-23 14:45:52.698] Shutting down Chat subsystem...
+[2021-05-23 14:45:52.698] Shutting down Persistence subsystem...
+[2021-05-23 14:45:52.698] Shutting down Pathfinder subsystem...
+[2021-05-23 14:45:52.698] Shutting down Minor Mapping subsystem...
+[2021-05-23 14:45:52.699] Shutting down Shuttle subsystem...
+[2021-05-23 14:45:52.699] Shutting down Lighting subsystem...
+[2021-05-23 14:45:52.699] Shutting down XKeyScore subsystem...
+[2021-05-23 14:45:52.699] Shutting down Sticky Ban subsystem...
+[2021-05-23 14:45:52.699] Shutting down Overlay subsystem...
+[2021-05-23 14:45:52.751] Shutting down Icon Smoothing subsystem...
+[2021-05-23 14:45:52.751] Shutting down Assets subsystem...
+[2021-05-23 14:45:52.751] Shutting down Atmospherics subsystem...
+[2021-05-23 14:45:52.751] Shutting down Wet floors subsystem...
+[2021-05-23 14:45:52.751] Shutting down Weather subsystem...
+[2021-05-23 14:45:52.751] Shutting down Vote subsystem...
+[2021-05-23 14:45:52.751] Shutting down Traumas subsystem...
+[2021-05-23 14:45:52.751] Shutting down Time Tracking subsystem...
+[2021-05-23 14:45:52.751] Shutting down Throwing subsystem...
+[2021-05-23 14:45:52.751] Shutting down tgui subsystem...
+[2021-05-23 14:45:52.751] Shutting down Sun subsystem...
+[2021-05-23 14:45:52.751] Shutting down Status Effects subsystem...
+[2021-05-23 14:45:52.751] Shutting down Space Drift subsystem...
+[2021-05-23 14:45:52.751] Shutting down Radio subsystem...
+[2021-05-23 14:45:52.751] Shutting down Radiation subsystem...
+[2021-05-23 14:45:52.751] Shutting down Projectiles subsystem...
+[2021-05-23 14:45:52.752] Shutting down Processing subsystem...
+[2021-05-23 14:45:52.752] Shutting down Parallax subsystem...
+[2021-05-23 14:45:52.752] Shutting down pAI subsystem...
+[2021-05-23 14:45:52.752] Shutting down Objects subsystem...
+[2021-05-23 14:45:52.752] Shutting down NPC Pool subsystem...
+[2021-05-23 14:45:52.752] Shutting down Night Shift subsystem...
+[2021-05-23 14:45:52.752] Shutting down Nanites subsystem...
+[2021-05-23 14:45:52.752] Shutting down Monster Wave subsystem...
+[2021-05-23 14:45:52.752] Shutting down Mobs subsystem...
+[2021-05-23 14:45:52.752] Shutting down Mob Spawners subsystem...
+[2021-05-23 14:45:52.752] Shutting down Minimaps subsystem...
+[2021-05-23 14:45:52.752] Shutting down Medals subsystem...
+[2021-05-23 14:45:52.752] Shutting down Materials subsystem...
+[2021-05-23 14:45:52.752] Shutting down Jukeboxes subsystem...
+[2021-05-23 14:45:52.752] Shutting down Item Spawners subsystem...
+[2021-05-23 14:45:52.752] Shutting down Idling NPC Pool subsystem...
+[2021-05-23 14:45:52.752] Shutting down HUD updates subsystem...
+[2021-05-23 14:45:52.752] Shutting down Fluids subsystem...
+[2021-05-23 14:45:52.752] Shutting down Fire Burning subsystem...
+[2021-05-23 14:45:52.752] Shutting down Fields subsystem...
+[2021-05-23 14:45:52.752] Shutting down Fast Processing subsystem...
+[2021-05-23 14:45:52.752] Shutting down Disease subsystem...
+[2021-05-23 14:45:52.753] Shutting down Day/Night Cycle subsystem...
+[2021-05-23 14:45:52.753] Shutting down Datum Component System subsystem...
+[2021-05-23 14:45:52.753] Shutting down Communications subsystem...
+[2021-05-23 14:45:52.753] Shutting down Chemistry subsystem...
+[2021-05-23 14:45:52.753] Shutting down Auxtools Callbacks subsystem...
+[2021-05-23 14:45:52.753] Shutting down Autotransfer Vote subsystem...
+[2021-05-23 14:45:52.753] Shutting down Augury subsystem...
+[2021-05-23 14:45:52.753] Shutting down Atmos Adjacency subsystem...
+[2021-05-23 14:45:52.753] Shutting down Acid subsystem...
+[2021-05-23 14:45:52.753] Shutting down Timer subsystem...
+[2021-05-23 14:45:52.753] Shutting down Circuit subsystem...
+[2021-05-23 14:45:52.753] Shutting down Machines subsystem...
+[2021-05-23 14:45:52.753] Shutting down Language subsystem...
+[2021-05-23 14:45:52.753] Shutting down Atoms subsystem...
+[2021-05-23 14:45:52.753] Shutting down Holodeck subsystem...
+[2021-05-23 14:45:52.753] Shutting down Networks subsystem...
+[2021-05-23 14:45:52.753] Shutting down Economy subsystem...
+[2021-05-23 14:45:52.753] Shutting down Mapping subsystem...
+[2021-05-23 14:45:52.753] Shutting down Instruments subsystem...
+[2021-05-23 14:45:52.753] Shutting down Ticker subsystem...
+[2021-05-23 14:45:52.821] runtime error: Admin datum created without a rank
+ - proc name: New (/datum/admins/New)
+ -   source file: holder2.dm,45
+ -   usr: null
+ -   src: nobody\'s admin datum (no rank... (/datum/admins)
+ -   call stack:
+ - nobody\'s admin datum (no rank... (/datum/admins): New(null, "dantesousa", 0, 1)
+ - load admins(1)
+ - Ticker (/datum/controller/subsystem/ticker): save admin data()
+ - Ticker (/datum/controller/subsystem/ticker): Shutdown()
+ - Master (/datum/controller/master): Shutdown()
+ - world: Reboot(0, 0)
+ - Ticker (/datum/controller/subsystem/ticker): Reboot("Restart vote successful.", "restart vote", 600)
+ - 
+[2021-05-23 14:45:52.974] Shutting down Quirks subsystem...
+[2021-05-23 14:45:52.974] Shutting down Jobs subsystem...
+[2021-05-23 14:45:52.974] Shutting down Events subsystem...
+[2021-05-23 14:45:52.974] Shutting down Research subsystem...
+[2021-05-23 14:45:52.974] Shutting down Vis contents overlays subsystem...
+[2021-05-23 14:45:52.974] Shutting down Sounds subsystem...
+[2021-05-23 14:45:52.974] Shutting down Input subsystem...
+[2021-05-23 14:45:52.975] Shutting down Server Tasks subsystem...
+[2021-05-23 14:45:52.975] Shutting down Blackbox subsystem...
+[2021-05-23 14:45:53.004] Shutting down Stat Panels subsystem...
+[2021-05-23 14:45:53.004] Shutting down Database subsystem...
+[2021-05-23 14:45:53.013] Shutting down Garbage subsystem...
+[2021-05-23 14:45:53.561] Shutting down Title Screen subsystem...
+[2021-05-23 14:45:53.571] Shutting down Fail2Topic subsystem...
+[2021-05-23 14:45:53.730] Shutting down Profiler subsystem...
+[2021-05-23 14:45:53.730] Shutdown complete
+[2021-05-23 14:45:53.743] World rebooted at 14:45:53

@@ -1,0 +1,30 @@
+[2021-05-15 23:27:39.128] Starting up round ID 5.
+ - -------------------------
+[2021-05-15 23:27:39.172] GAME: Round ID: 5
+[2021-05-15 23:27:39.234] ADMIN: Errored custom_items_whitelist line: JayEhh|ALL|ALL|/obj/item/custom/ceb_soap=1 - Path/number for item missing or invalid.
+[2021-05-15 23:27:40.428] GAME: Saved mode is 'extended'
+[2021-05-15 23:29:09.602] ACCESS: Login: Dantesousa from 177.208.168.171-2479746605 || BYOND v514.1554
+[2021-05-15 23:29:20.294] ACCESS: Mob Login: Dantesousa/(Dantesousa) was assigned to a /mob/dead/new_player
+[2021-05-15 23:29:20.333] ACCESS: Login: Bruno-Asbahr from 186.250.212.152-1022335411 || BYOND v513.1542
+[2021-05-15 23:29:20.642] GAME: Dantesousa/(Dantesousa) Client Dantesousa/(Dantesousa) has taken ownership of mob Dantesousa(/mob/dead/new_player) (start area (180, 247, 1))
+[2021-05-15 23:29:20.906] ACCESS: Mob Login: Bruno-Asbahr/(Bruno-Asbahr) was assigned to a /mob/dead/new_player
+[2021-05-15 23:29:22.994] ACCESS: Failed Login: Bruno-Asbahr 1022335411 186.250.212.152 - CID randomizer check
+[2021-05-15 23:29:22.995] GAME: Bruno-Asbahr/(Bruno-Asbahr) Client Bruno-Asbahr/(Bruno-Asbahr) has taken ownership of mob Bruno-Asbahr(/mob/dead/new_player) (start area (180, 247, 1))
+[2021-05-15 23:29:27.614] ACCESS: Logout: Bruno-Asbahr/(Bruno-Asbahr)
+[2021-05-15 23:29:27.615] GAME: Bruno-Asbahr[DC]/(Bruno-Asbahr) Bruno-Asbahr[DC]/(Bruno-Asbahr) is no longer owning mob Bruno-Asbahr(/mob/dead/new_player) (start area (180, 247, 1))
+[2021-05-15 23:29:34.319] ACCESS: Login: Bruno-Asbahr from 186.250.212.152-1022335411 || BYOND v513.1542
+[2021-05-15 23:29:34.830] ACCESS: Mob Login: Bruno-Asbahr/(Bruno-Asbahr) was assigned to a /mob/dead/new_player
+[2021-05-15 23:29:35.277] GAME: brotherhood of steel (base) loaded at 10,10,5
+[2021-05-15 23:29:35.546] GAME: Pahrump train loaded at 19,10,5
+[2021-05-15 23:29:35.874] GAME: fancy transport ferry loaded at 25,10,5
+[2021-05-15 23:29:36.060] GAME: supply train (Pahrump) loaded at 38,10,5
+[2021-05-15 23:29:37.080] GAME: Bruno-Asbahr/(Bruno-Asbahr) Client Bruno-Asbahr/(Bruno-Asbahr) has taken ownership of mob Bruno-Asbahr(/mob/dead/new_player) (start area (180, 247, 1))
+[2021-05-15 23:29:37.158] GAME: assault pod (Default) loaded at 45,10,5
+[2021-05-15 23:29:37.855] GAME: basic syndicate infiltrator loaded at 52,10,5
+[2021-05-15 23:29:38.407] GAME: Bunker Elevator loaded at 69,10,5
+[2021-05-15 23:29:38.453] GAME: North Bunker Elevator loaded at 72,10,5
+[2021-05-15 23:29:40.148] GAME: North Sewer 1 loaded at 70,198,3
+[2021-05-15 23:29:41.982] GAME: North Bunker 1 loaded at 7,220,4
+[2021-05-15 23:29:43.700] GAME: Oasis Bunker 1 loaded at 212,215,4
+[2021-05-15 23:29:53.469] ACCESS: Logout: Bruno-Asbahr/(Bruno-Asbahr)
+[2021-05-15 23:29:53.470] GAME: Bruno-Asbahr[DC]/(Bruno-Asbahr) Bruno-Asbahr[DC]/(Bruno-Asbahr) is no longer owning mob Bruno-Asbahr(/mob/dead/new_player) (start area (180, 247, 1))

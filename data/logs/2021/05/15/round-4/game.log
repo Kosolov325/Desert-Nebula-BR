@@ -1,0 +1,27 @@
+[2021-05-15 23:18:55.017] Starting up round ID 4.
+ - -------------------------
+[2021-05-15 23:18:55.046] GAME: Round ID: 4
+[2021-05-15 23:18:55.114] ADMIN: Errored custom_items_whitelist line: JayEhh|ALL|ALL|/obj/item/custom/ceb_soap=1 - Path/number for item missing or invalid.
+[2021-05-15 23:18:56.296] GAME: Saved mode is 'extended'
+[2021-05-15 23:20:29.522] ACCESS: Login: Dantesousa from 177.208.168.171-2479746605 || BYOND v514.1554
+[2021-05-15 23:20:30.039] ACCESS: Mob Login: Dantesousa/(Dantesousa) was assigned to a /mob/dead/new_player
+[2021-05-15 23:20:39.703] GAME: brotherhood of steel (base) loaded at 10,10,5
+[2021-05-15 23:20:39.951] GAME: Pahrump train loaded at 19,10,5
+[2021-05-15 23:20:40.135] GAME: Dantesousa/(Dantesousa) Client Dantesousa/(Dantesousa) has taken ownership of mob Dantesousa(/mob/dead/new_player) (start area (180, 247, 1))
+[2021-05-15 23:20:40.378] GAME: fancy transport ferry loaded at 25,10,5
+[2021-05-15 23:20:40.550] GAME: supply train (Pahrump) loaded at 38,10,5
+[2021-05-15 23:20:41.650] GAME: assault pod (Default) loaded at 45,10,5
+[2021-05-15 23:20:42.372] GAME: basic syndicate infiltrator loaded at 52,10,5
+[2021-05-15 23:20:42.897] GAME: Bunker Elevator loaded at 69,10,5
+[2021-05-15 23:20:42.944] GAME: North Bunker Elevator loaded at 72,10,5
+[2021-05-15 23:20:44.462] GAME: North Sewer 1 loaded at 70,198,3
+[2021-05-15 23:20:46.196] GAME: North Bunker 1 loaded at 7,220,4
+[2021-05-15 23:20:47.901] GAME: Oasis Bunker 1 loaded at 212,215,4
+[2021-05-15 23:22:36.519] ACCESS: Login: Bruno-Asbahr from 186.250.212.152-1022335411 || BYOND v513.1542
+[2021-05-15 23:22:36.526] ACCESS: Mob Login: Bruno-Asbahr/(Bruno-Asbahr) was assigned to a /mob/dead/new_player
+[2021-05-15 23:22:39.732] ACCESS: Login: Italos from 177.37.234.94-1127790002 || BYOND v513.1542
+[2021-05-15 23:22:39.767] ACCESS: Failed Login: Bruno-Asbahr 1022335411 186.250.212.152 - CID randomizer check
+[2021-05-15 23:22:39.768] ACCESS: Mob Login: Italos/(Italos) was assigned to a /mob/dead/new_player
+[2021-05-15 23:22:40.283] GAME: Bruno-Asbahr/(Bruno-Asbahr) Client Bruno-Asbahr/(Bruno-Asbahr) has taken ownership of mob Bruno-Asbahr(/mob/dead/new_player) (start area (180, 247, 1))
+[2021-05-15 23:22:46.898] ACCESS: Failed Login: Italos 1127790002 177.37.234.94 - CID randomizer check
+[2021-05-15 23:22:47.151] GAME: Italos/(Italos) Client Italos/(Italos) has taken ownership of mob Italos(/mob/dead/new_player) (start area (180, 247, 1))

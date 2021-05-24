@@ -1,0 +1,1403 @@
+[2021-05-18 06:27:10.037] Starting up round ID 19.
+ - -------------------------
+[2021-05-18 06:27:10.069] Running /tg/ revision: 
+ - No commit information
+[2021-05-18 06:27:10.102] runtime error: Admin datum created without a rank
+ - proc name: New (/datum/admins/New)
+ -   source file: holder2.dm,45
+ -   usr: null
+ -   src: nobody\'s admin datum (no rank... (/datum/admins)
+ -   call stack:
+ - nobody\'s admin datum (no rank... (/datum/admins): New(null, "dantesousa", 0, 1)
+ - load admins(null)
+ - world: New()
+ - 
+[2021-05-18 06:27:11.437] Loading Yuma...
+[2021-05-18 06:27:22.789] Loaded Wasteland in 11.3s!
+[2021-05-18 06:27:25.306] Loaded Dungeons in 2.5s!
+[2021-05-18 06:27:30.460] Ruin loader finished with 0 left to spend.
+[2021-05-18 06:28:54.439] ## WARNING: No /obj/docking_port/mobile/arrivals placed on the map! in code/controllers/subsystem/shuttle.dm at line 80 src: Shuttle usr: .
+[2021-05-18 06:28:59.502] Loaded 0 engraved messages on map Yuma
+[2021-05-18 06:28:59.537] Initializations complete within 108.4 seconds!
+[2021-05-18 12:19:37.627] Game start took 0s
+[2021-05-18 12:40:01.019] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: Unknown (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: road (119,168,2) (/turf/open/indestructible/ground/outside/road)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - Unknown (/mob/living/carbon/human): Move(road (119,168,2) (/turf/open/indestructible/ground/outside/road), 1)
+ - N0fun (/client): Move(road (119,168,2) (/turf/open/indestructible/ground/outside/road), 1)
+ - Unknown (/mob/living/carbon/human): keyLoop(N0fun (/client))
+ - N0fun (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-18 12:42:46.213] runtime error: Cannot execute null.update equipment speed mods().
+ - proc name: dropped (/obj/item/proc/dropped)
+ -   source file: items.dm,447
+ -   usr: Unknown (/mob/living/carbon/human)
+ -   src: the energy cell (/obj/item/stock_parts/cell/ammo/ec)
+ -   usr.loc: the desert (59,166,2) (/turf/open/indestructible/ground/outside/desert)
+ -   src.loc: Wattz 1000 laser pistol (/obj/item/gun/energy/laser/wattz)
+ -   call stack:
+ - the energy cell (/obj/item/stock_parts/cell/ammo/ec): dropped(null)
+ - Wattz 1000 laser pistol (/obj/item/gun/energy/laser/wattz): attackby(the energy cell (/obj/item/stock_parts/cell/ammo/ec), Unknown (/mob/living/carbon/human), "icon-x=20;icon-y=16;left=1;scr...", 0, 1)
+ - the energy cell (/obj/item/stock_parts/cell/ammo/ec): melee attack chain(Unknown (/mob/living/carbon/human), Wattz 1000 laser pistol (/obj/item/gun/energy/laser/wattz), "icon-x=20;icon-y=16;left=1;scr...", null, 1)
+ - Unknown (/mob/living/carbon/human): ClickOn(Wattz 1000 laser pistol (/obj/item/gun/energy/laser/wattz), "icon-x=20;icon-y=16;left=1;scr...")
+ - Unknown (/mob/living/carbon/human): CommonClickOn(Wattz 1000 laser pistol (/obj/item/gun/energy/laser/wattz), "icon-x=20;icon-y=16;left=1;scr...")
+ - Wattz 1000 laser pistol (/obj/item/gun/energy/laser/wattz): Click(null, "mapwindow.map", "icon-x=20;icon-y=16;left=1;scr...", 0)
+ - N0fun (/client): Click(Wattz 1000 laser pistol (/obj/item/gun/energy/laser/wattz), null, "mapwindow.map", "icon-x=20;icon-y=16;left=1;scr...", 0)
+ - 
+[2021-05-18 12:48:06.252] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: Unknown (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: sidewalk (123,174,2) (/turf/open/indestructible/ground/outside/sidewalk)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - Unknown (/mob/living/carbon/human): Move(sidewalk (123,174,2) (/turf/open/indestructible/ground/outside/sidewalk), 2)
+ - N0fun (/client): Move(sidewalk (123,174,2) (/turf/open/indestructible/ground/outside/sidewalk), 2)
+ - Unknown (/mob/living/carbon/human): keyLoop(N0fun (/client))
+ - N0fun (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-18 12:48:06.453] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: Unknown (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: sidewalk (123,173,2) (/turf/open/indestructible/ground/outside/sidewalk)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - Unknown (/mob/living/carbon/human): Move(sidewalk (123,173,2) (/turf/open/indestructible/ground/outside/sidewalk), 2)
+ - N0fun (/client): Move(sidewalk (123,173,2) (/turf/open/indestructible/ground/outside/sidewalk), 2)
+ - Unknown (/mob/living/carbon/human): keyLoop(N0fun (/client))
+ - N0fun (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-18 12:48:06.655] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: Unknown (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: sidewalk (123,172,2) (/turf/open/indestructible/ground/outside/sidewalk)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - Unknown (/mob/living/carbon/human): Move(sidewalk (123,172,2) (/turf/open/indestructible/ground/outside/sidewalk), 2)
+ - N0fun (/client): Move(sidewalk (123,172,2) (/turf/open/indestructible/ground/outside/sidewalk), 2)
+ - Unknown (/mob/living/carbon/human): keyLoop(N0fun (/client))
+ - N0fun (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-18 12:48:06.854] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: Unknown (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: sidewalk (123,171,2) (/turf/open/indestructible/ground/outside/sidewalk)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - Unknown (/mob/living/carbon/human): Move(sidewalk (123,171,2) (/turf/open/indestructible/ground/outside/sidewalk), 2)
+ - N0fun (/client): Move(sidewalk (123,171,2) (/turf/open/indestructible/ground/outside/sidewalk), 2)
+ - Unknown (/mob/living/carbon/human): keyLoop(N0fun (/client))
+ - N0fun (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-18 12:53:04.649] runtime error: type mismatch: null -= the mr. handy (/mob/living/simple_animal/hostile/handy)
+ - proc name: on target qdel (/datum/component/pellet_cloud/proc/on_target_qdel)
+ -   source file: pellet_cloud.dm,317
+ -   usr: 0
+ -   src: /datum/component/pellet_cloud (/datum/component/pellet_cloud)
+ -   call stack:
+ - /datum/component/pellet_cloud (/datum/component/pellet_cloud): on target qdel(the mr. handy (/mob/living/simple_animal/hostile/handy), 0)
+ - CallAsync(/datum/component/pellet_cloud (/datum/component/pellet_cloud), /datum/component/pellet_cloud/... (/datum/component/pellet_cloud/proc/on_target_qdel), /list (/list))
+ - the mr. handy (/mob/living/simple_animal/hostile/handy):  SendSignal("parent_qdeleting", /list (/list))
+ - qdel(the mr. handy (/mob/living/simple_animal/hostile/handy), 0)
+ - the mr. handy (/mob/living/simple_animal/hostile/handy): death(null)
+ - the mr. handy (/mob/living/simple_animal/hostile/handy): death(null)
+ - the mr. handy (/mob/living/simple_animal/hostile/handy): update stat()
+ - the mr. handy (/mob/living/simple_animal/hostile/handy): updatehealth()
+ - the mr. handy (/mob/living/simple_animal/hostile/handy): updatehealth()
+ - the mr. handy (/mob/living/simple_animal/hostile/handy): adjustHealth(10.1, 1, 0)
+ - ...
+ - the mr. handy (/mob/living/simple_animal/hostile/handy): bullet act(the buckshot pellet (/obj/item/projectile/bullet/pellet/shotgun_buckshot), "l_leg")
+ - the buckshot pellet (/obj/item/projectile/bullet/pellet/shotgun_buckshot): process hit(road (112,183,2) (/turf/open/indestructible/ground/outside/road), the mr. handy (/mob/living/simple_animal/hostile/handy), null, 0)
+ - the buckshot pellet (/obj/item/projectile/bullet/pellet/shotgun_buckshot): Bump(the mr. handy (/mob/living/simple_animal/hostile/handy))
+ - road (112,183,2) (/turf/open/indestructible/ground/outside/road): Enter(the buckshot pellet (/obj/item/projectile/bullet/pellet/shotgun_buckshot), road (113,183,2) (/turf/open/indestructible/ground/outside/road))
+ - the buckshot pellet (/obj/item/projectile/bullet/pellet/shotgun_buckshot): Move(road (112,183,2) (/turf/open/indestructible/ground/outside/road), 8, 0)
+ - the buckshot pellet (/obj/item/projectile/bullet/pellet/shotgun_buckshot): Move(road (112,183,2) (/turf/open/indestructible/ground/outside/road), 8)
+ - the buckshot pellet (/obj/item/projectile/bullet/pellet/shotgun_buckshot): process(1)
+ - Projectiles (/datum/controller/subsystem/processing/projectiles): ignite(0)
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-18 12:55:46.112] runtime error: type mismatch: null -= the fuel barrel (/obj/structure/reagent_dispensers/barrel/explosive)
+ - proc name: on target qdel (/datum/component/pellet_cloud/proc/on_target_qdel)
+ -   source file: pellet_cloud.dm,317
+ -   usr: 0
+ -   src: /datum/component/pellet_cloud (/datum/component/pellet_cloud)
+ -   call stack:
+ - /datum/component/pellet_cloud (/datum/component/pellet_cloud): on target qdel(the fuel barrel (/obj/structure/reagent_dispensers/barrel/explosive), 0)
+ - CallAsync(/datum/component/pellet_cloud (/datum/component/pellet_cloud), /datum/component/pellet_cloud/... (/datum/component/pellet_cloud/proc/on_target_qdel), /list (/list))
+ - the fuel barrel (/obj/structure/reagent_dispensers/barrel/explosive):  SendSignal("parent_qdeleting", /list (/list))
+ - qdel(the fuel barrel (/obj/structure/reagent_dispensers/barrel/explosive), 0)
+ - the fuel barrel (/obj/structure/reagent_dispensers/barrel/explosive): boom()
+ - the fuel barrel (/obj/structure/reagent_dispensers/barrel/explosive): take damage(9.65, "brute", "bullet", 0, 1, 0)
+ - the fuel barrel (/obj/structure/reagent_dispensers/barrel/explosive): bullet act(the buckshot pellet (/obj/item/projectile/bullet/pellet/shotgun_buckshot), "chest")
+ - the fuel barrel (/obj/structure/reagent_dispensers/barrel/explosive): bullet act(the buckshot pellet (/obj/item/projectile/bullet/pellet/shotgun_buckshot), "chest")
+ - the buckshot pellet (/obj/item/projectile/bullet/pellet/shotgun_buckshot): process hit(sidewalk (192,58,2) (/turf/open/indestructible/ground/outside/sidewalk), the fuel barrel (/obj/structure/reagent_dispensers/barrel/explosive), null, 0)
+ - the buckshot pellet (/obj/item/projectile/bullet/pellet/shotgun_buckshot): Bump(the fuel barrel (/obj/structure/reagent_dispensers/barrel/explosive))
+ - sidewalk (192,58,2) (/turf/open/indestructible/ground/outside/sidewalk): Enter(the buckshot pellet (/obj/item/projectile/bullet/pellet/shotgun_buckshot), sidewalk (192,59,2) (/turf/open/indestructible/ground/outside/sidewalk))
+ - the buckshot pellet (/obj/item/projectile/bullet/pellet/shotgun_buckshot): Move(sidewalk (192,58,2) (/turf/open/indestructible/ground/outside/sidewalk), 2, 0)
+ - the buckshot pellet (/obj/item/projectile/bullet/pellet/shotgun_buckshot): Move(sidewalk (192,58,2) (/turf/open/indestructible/ground/outside/sidewalk), 2, 0)
+ - the buckshot pellet (/obj/item/projectile/bullet/pellet/shotgun_buckshot): Move(sidewalk (192,58,2) (/turf/open/indestructible/ground/outside/sidewalk), 2)
+ - the buckshot pellet (/obj/item/projectile/bullet/pellet/shotgun_buckshot): pixel move(7, 0, 0.5, 1, 1)
+ - the buckshot pellet (/obj/item/projectile/bullet/pellet/shotgun_buckshot): process(1)
+ - Projectiles (/datum/controller/subsystem/processing/projectiles): fire(0)
+ - Projectiles (/datum/controller/subsystem/processing/projectiles): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-18 12:55:46.129] runtime error: Cannot create objects of type null.
+ - proc name: break wall (/turf/closed/wall/proc/break_wall)
+ -   source file: walls.dm,64
+ -   usr: 0
+ -   src: the store wall (193,58,2) (/turf/closed/wall/f13/store)
+ -   call stack:
+ - the store wall (193,58,2) (/turf/closed/wall/f13/store): break wall()
+ - the store wall (193,58,2) (/turf/closed/wall/f13/store): dismantle wall(0, 1)
+ - the store wall (193,58,2) (/turf/closed/wall/f13/store): ex act(3, null)
+ - /datum/explosion (/datum/explosion): New(sidewalk (192,58,2) (/turf/open/indestructible/ground/outside/sidewalk), 0, 1, 2.5, 0, 1, 0, 2.5, 0, 0)
+ - 
+[2021-05-18 12:55:46.191] runtime error: Cannot create objects of type null.
+ - proc name: break wall (/turf/closed/wall/proc/break_wall)
+ -   source file: walls.dm,64
+ -   usr: 0
+ -   src: the store wall (190,58,2) (/turf/closed/wall/f13/store)
+ -   call stack:
+ - the store wall (190,58,2) (/turf/closed/wall/f13/store): break wall()
+ - the store wall (190,58,2) (/turf/closed/wall/f13/store): dismantle wall(0, 1)
+ - the store wall (190,58,2) (/turf/closed/wall/f13/store): ex act(3, null)
+ - /datum/explosion (/datum/explosion): New(sidewalk (192,58,2) (/turf/open/indestructible/ground/outside/sidewalk), 0, 1, 2.5, 0, 1, 0, 2.5, 0, 0)
+ - 
+[2021-05-18 12:56:18.126] runtime error: type mismatch: null -= the fuel barrel (/obj/structure/reagent_dispensers/barrel/explosive)
+ - proc name: on target qdel (/datum/component/pellet_cloud/proc/on_target_qdel)
+ -   source file: pellet_cloud.dm,317
+ -   usr: 0
+ -   src: /datum/component/pellet_cloud (/datum/component/pellet_cloud)
+ -   call stack:
+ - /datum/component/pellet_cloud (/datum/component/pellet_cloud): on target qdel(the fuel barrel (/obj/structure/reagent_dispensers/barrel/explosive), 0)
+ - CallAsync(/datum/component/pellet_cloud (/datum/component/pellet_cloud), /datum/component/pellet_cloud/... (/datum/component/pellet_cloud/proc/on_target_qdel), /list (/list))
+ - the fuel barrel (/obj/structure/reagent_dispensers/barrel/explosive):  SendSignal("parent_qdeleting", /list (/list))
+ - qdel(the fuel barrel (/obj/structure/reagent_dispensers/barrel/explosive), 0)
+ - the fuel barrel (/obj/structure/reagent_dispensers/barrel/explosive): boom()
+ - the fuel barrel (/obj/structure/reagent_dispensers/barrel/explosive): take damage(10.1, "brute", "bullet", 0, 8, 0)
+ - the fuel barrel (/obj/structure/reagent_dispensers/barrel/explosive): bullet act(the buckshot pellet (/obj/item/projectile/bullet/pellet/shotgun_buckshot), "chest")
+ - the fuel barrel (/obj/structure/reagent_dispensers/barrel/explosive): bullet act(the buckshot pellet (/obj/item/projectile/bullet/pellet/shotgun_buckshot), "chest")
+ - the buckshot pellet (/obj/item/projectile/bullet/pellet/shotgun_buckshot): process hit(sidewalk (193,55,2) (/turf/open/indestructible/ground/outside/sidewalk), the fuel barrel (/obj/structure/reagent_dispensers/barrel/explosive), null, 0)
+ - the buckshot pellet (/obj/item/projectile/bullet/pellet/shotgun_buckshot): Bump(the fuel barrel (/obj/structure/reagent_dispensers/barrel/explosive))
+ - sidewalk (193,55,2) (/turf/open/indestructible/ground/outside/sidewalk): Enter(the buckshot pellet (/obj/item/projectile/bullet/pellet/shotgun_buckshot), sidewalk (192,55,2) (/turf/open/indestructible/ground/outside/sidewalk))
+ - the buckshot pellet (/obj/item/projectile/bullet/pellet/shotgun_buckshot): Move(sidewalk (193,55,2) (/turf/open/indestructible/ground/outside/sidewalk), 4, 0)
+ - the buckshot pellet (/obj/item/projectile/bullet/pellet/shotgun_buckshot): Move(sidewalk (193,55,2) (/turf/open/indestructible/ground/outside/sidewalk), 4, 0)
+ - the buckshot pellet (/obj/item/projectile/bullet/pellet/shotgun_buckshot): Move(sidewalk (193,55,2) (/turf/open/indestructible/ground/outside/sidewalk), 4)
+ - the buckshot pellet (/obj/item/projectile/bullet/pellet/shotgun_buckshot): pixel move(7, 0, 0.5, 1, 1)
+ - the buckshot pellet (/obj/item/projectile/bullet/pellet/shotgun_buckshot): process(1)
+ - Projectiles (/datum/controller/subsystem/processing/projectiles): fire(0)
+ - Projectiles (/datum/controller/subsystem/processing/projectiles): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-18 12:56:18.141] runtime error: Cannot create objects of type null.
+ - proc name: break wall (/turf/closed/wall/proc/break_wall)
+ -   source file: walls.dm,64
+ -   usr: 0
+ -   src: the store wall (194,54,2) (/turf/closed/wall/f13/store)
+ -   call stack:
+ - the store wall (194,54,2) (/turf/closed/wall/f13/store): break wall()
+ - the store wall (194,54,2) (/turf/closed/wall/f13/store): dismantle wall(0, 1)
+ - the store wall (194,54,2) (/turf/closed/wall/f13/store): ex act(3, null)
+ - /datum/explosion (/datum/explosion): New(sidewalk (193,55,2) (/turf/open/indestructible/ground/outside/sidewalk), 0, 1, 2.5, 0, 1, 0, 2.5, 0, 0)
+ - 
+[2021-05-18 12:56:18.167] runtime error: Cannot create objects of type null.
+ - proc name: break wall (/turf/closed/wall/proc/break_wall)
+ -   source file: walls.dm,64
+ -   usr: 0
+ -   src: the store wall (194,57,2) (/turf/closed/wall/f13/store)
+ -   call stack:
+ - the store wall (194,57,2) (/turf/closed/wall/f13/store): break wall()
+ - the store wall (194,57,2) (/turf/closed/wall/f13/store): dismantle wall(0, 1)
+ - the store wall (194,57,2) (/turf/closed/wall/f13/store): ex act(3, null)
+ - /datum/explosion (/datum/explosion): New(sidewalk (193,55,2) (/turf/open/indestructible/ground/outside/sidewalk), 0, 1, 2.5, 0, 1, 0, 2.5, 0, 0)
+ - 
+[2021-05-18 12:56:18.178] runtime error: Cannot create objects of type null.
+ - proc name: break wall (/turf/closed/wall/proc/break_wall)
+ -   source file: walls.dm,64
+ -   usr: 0
+ -   src: the store wall (191,54,2) (/turf/closed/wall/f13/store)
+ -   call stack:
+ - the store wall (191,54,2) (/turf/closed/wall/f13/store): break wall()
+ - the store wall (191,54,2) (/turf/closed/wall/f13/store): dismantle wall(0, 1)
+ - the store wall (191,54,2) (/turf/closed/wall/f13/store): ex act(3, null)
+ - /datum/explosion (/datum/explosion): New(sidewalk (193,55,2) (/turf/open/indestructible/ground/outside/sidewalk), 0, 1, 2.5, 0, 1, 0, 2.5, 0, 0)
+ - 
+[2021-05-18 13:04:24.807] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: Unknown (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: the dirt (126,40,2) (/turf/open/indestructible/ground/outside/dirt)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - Unknown (/mob/living/carbon/human): Move(the dirt (126,40,2) (/turf/open/indestructible/ground/outside/dirt), 8)
+ - N0fun (/client): Move(the dirt (126,40,2) (/turf/open/indestructible/ground/outside/dirt), 8)
+ - Unknown (/mob/living/carbon/human): keyLoop(N0fun (/client))
+ - N0fun (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-18 13:11:21.782] runtime error: movable_moved overridden. Use override = TRUE to suppress this warning
+ - proc name: stack trace (/datum/proc/stack_trace)
+ -   source file: unsorted.dm,1096
+ -   usr: 0
+ -   src: the damaged raider leathers (/obj/item/clothing/under/f13/raider_leather)
+ -   src.loc: Unknown (/mob/living/carbon/human)
+ -   call stack:
+ - the damaged raider leathers (/obj/item/clothing/under/f13/raider_leather): stack trace("movable_moved overridden. Use ...")
+ - the damaged raider leathers (/obj/item/clothing/under/f13/raider_leather): RegisterSignal(Unknown (/mob/living/carbon/human), "movable_moved", /obj/item/clothing/proc/bristl... (/obj/item/clothing/proc/bristle), 0)
+ - the damaged raider leathers (/obj/item/clothing/under/f13/raider_leather): disable zone("r_leg", "fire")
+ - the damaged raider leathers (/obj/item/clothing/under/f13/raider_leather): take damage zone("r_leg", 21.15, "fire", 0)
+ - the right leg (/obj/item/bodypart/r_leg): check woundings mods(4, 21.15, -30, 40)
+ - the right leg (/obj/item/bodypart/r_leg): check wounding(4, 21.15, -30, 40)
+ - the right leg (/obj/item/bodypart/r_leg): receive damage(0, 21.15, 0, 0, 1, null, -30, 40, 0)
+ - Human (/datum/species/human): apply damage(33, "fire", "r_leg", 35.8974, Unknown (/mob/living/carbon/human), 0, 0, -30, 40, 0)
+ - Unknown (/mob/living/carbon/human): apply damage(33, "fire", "", 35.8974, 0, 0, -30, 40, 0)
+ - Unknown (/mob/living/carbon/human): bullet act(the laser beam (/obj/item/projectile/beam/laser/lasgun), "")
+ - ...
+ - road (96,210,2) (/turf/open/indestructible/ground/outside/road): Enter(the laser beam (/obj/item/projectile/beam/laser/lasgun), road (96,211,2) (/turf/open/indestructible/ground/outside/road))
+ - the laser beam (/obj/item/projectile/beam/laser/lasgun): Move(road (96,210,2) (/turf/open/indestructible/ground/outside/road), 2, 0)
+ - the laser beam (/obj/item/projectile/beam/laser/lasgun): Move(road (96,210,2) (/turf/open/indestructible/ground/outside/road), 2, 0)
+ - the laser beam (/obj/item/projectile/beam/laser/lasgun): Move(road (96,210,2) (/turf/open/indestructible/ground/outside/road), 2)
+ - the laser beam (/obj/item/projectile/beam/laser/lasgun): pixel move(7, 0, 0.5, 1, 1)
+ - the laser beam (/obj/item/projectile/beam/laser/lasgun): process(1)
+ - Projectiles (/datum/controller/subsystem/processing/projectiles): fire(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-18 13:26:20.179] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: Hailee Muggins (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: sidewalk (153,174,2) (/turf/open/indestructible/ground/outside/sidewalk)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - Hailee Muggins (/mob/living/carbon/human): Move(sidewalk (153,174,2) (/turf/open/indestructible/ground/outside/sidewalk), 8)
+ - Thebanana3 (/client): Move(sidewalk (153,174,2) (/turf/open/indestructible/ground/outside/sidewalk), 8)
+ - Hailee Muggins (/mob/living/carbon/human): keyLoop(Thebanana3 (/client))
+ - Thebanana3 (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-18 13:30:09.810] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: Ronald Gomes (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: the floor (132,172,2) (/turf/open/floor/f13/wood)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - Ronald Gomes (/mob/living/carbon/human): Move(the floor (132,172,2) (/turf/open/floor/f13/wood), 1)
+ - Dfrenando (/client): Move(the floor (132,172,2) (/turf/open/floor/f13/wood), 1)
+ - Ronald Gomes (/mob/living/carbon/human): keyLoop(Dfrenando (/client))
+ - Dfrenando (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-18 13:30:10.260] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: Ronald Gomes (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: the floor (131,172,2) (/turf/open/floor/f13/wood)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - Ronald Gomes (/mob/living/carbon/human): Move(the floor (131,172,2) (/turf/open/floor/f13/wood), 8)
+ - Dfrenando (/client): Move(the floor (131,172,2) (/turf/open/floor/f13/wood), 8)
+ - Ronald Gomes (/mob/living/carbon/human): keyLoop(Dfrenando (/client))
+ - Dfrenando (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-18 13:30:10.660] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: Ronald Gomes (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: the floor (130,172,2) (/turf/open/floor/f13/wood)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - Ronald Gomes (/mob/living/carbon/human): Move(the floor (130,172,2) (/turf/open/floor/f13/wood), 8)
+ - Dfrenando (/client): Move(the floor (130,172,2) (/turf/open/floor/f13/wood), 8)
+ - Ronald Gomes (/mob/living/carbon/human): keyLoop(Dfrenando (/client))
+ - Dfrenando (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-18 13:30:12.916] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: Ronald Gomes (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: the floor (129,173,2) (/turf/open/floor/f13/wood)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - Ronald Gomes (/mob/living/carbon/human): Move(the floor (129,173,2) (/turf/open/floor/f13/wood), 4)
+ - Dfrenando (/client): Move(the floor (129,173,2) (/turf/open/floor/f13/wood), 4)
+ - Ronald Gomes (/mob/living/carbon/human): keyLoop(Dfrenando (/client))
+ - Dfrenando (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-18 13:30:13.676] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: Ronald Gomes (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: the floor (129,174,2) (/turf/open/floor/f13/wood)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - Ronald Gomes (/mob/living/carbon/human): Move(the floor (129,174,2) (/turf/open/floor/f13/wood), 1)
+ - Dfrenando (/client): Move(the floor (129,174,2) (/turf/open/floor/f13/wood), 1)
+ - Ronald Gomes (/mob/living/carbon/human): keyLoop(Dfrenando (/client))
+ - Dfrenando (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-18 13:30:13.925] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: Ronald Gomes (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: the floor (129,175,2) (/turf/open/floor/f13/wood)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - Ronald Gomes (/mob/living/carbon/human): Move(the floor (129,175,2) (/turf/open/floor/f13/wood), 1)
+ - Dfrenando (/client): Move(the floor (129,175,2) (/turf/open/floor/f13/wood), 1)
+ - Ronald Gomes (/mob/living/carbon/human): keyLoop(Dfrenando (/client))
+ - Dfrenando (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-18 13:30:14.476] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: Ronald Gomes (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: the floor (129,176,2) (/turf/open/floor/f13/wood)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - Ronald Gomes (/mob/living/carbon/human): Move(the floor (129,176,2) (/turf/open/floor/f13/wood), 1)
+ - Dfrenando (/client): Move(the floor (129,176,2) (/turf/open/floor/f13/wood), 1)
+ - Ronald Gomes (/mob/living/carbon/human): keyLoop(Dfrenando (/client))
+ - Dfrenando (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-18 13:30:16.746] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: Ronald Gomes (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: the floor (130,176,2) (/turf/open/floor/f13/wood)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - Ronald Gomes (/mob/living/carbon/human): Move(the floor (130,176,2) (/turf/open/floor/f13/wood), 4)
+ - Dfrenando (/client): Move(the floor (130,176,2) (/turf/open/floor/f13/wood), 4)
+ - Ronald Gomes (/mob/living/carbon/human): keyLoop(Dfrenando (/client))
+ - Dfrenando (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-18 13:30:17.546] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: Ronald Gomes (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: the floor (131,176,2) (/turf/open/floor/f13/wood)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - Ronald Gomes (/mob/living/carbon/human): Move(the floor (131,176,2) (/turf/open/floor/f13/wood), 4)
+ - Dfrenando (/client): Move(the floor (131,176,2) (/turf/open/floor/f13/wood), 4)
+ - Ronald Gomes (/mob/living/carbon/human): keyLoop(Dfrenando (/client))
+ - Dfrenando (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-18 13:36:17.131] runtime error: movable_moved overridden. Use override = TRUE to suppress this warning
+ - proc name: stack trace (/datum/proc/stack_trace)
+ -   source file: unsorted.dm,1096
+ -   usr: null
+ -   src: the damaged recon armor (/obj/item/clothing/under/f13/recon)
+ -   src.loc: Hailee Muggins (/mob/living/carbon/human)
+ -   call stack:
+ - the damaged recon armor (/obj/item/clothing/under/f13/recon): stack trace("movable_moved overridden. Use ...")
+ - the damaged recon armor (/obj/item/clothing/under/f13/recon): RegisterSignal(Hailee Muggins (/mob/living/carbon/human), "movable_moved", /obj/item/clothing/proc/bristl... (/obj/item/clothing/proc/bristle), 0)
+ - the damaged recon armor (/obj/item/clothing/under/f13/recon): disable zone("r_leg", "fire")
+ - the damaged recon armor (/obj/item/clothing/under/f13/recon): take damage zone("r_leg", 10.25, "fire", 0)
+ - the right leg (/obj/item/bodypart/r_leg): check woundings mods(4, 10.25, 0, 0)
+ - the right leg (/obj/item/bodypart/r_leg): check wounding(4, 10.25, 0, 0)
+ - the right leg (/obj/item/bodypart/r_leg): receive damage(0, 10.25, 0, 0, 1, null, 0, 0, 0)
+ - Human (/datum/species/human): apply damage(10.2522, "fire", "r_leg", 0, Hailee Muggins (/mob/living/carbon/human), 0, 0, 0, 0, 0)
+ - Hailee Muggins (/mob/living/carbon/human): apply damage(10.2522, "fire", null, 0, 0, 0, 0, 0, 0)
+ - Human (/datum/species/human): handle environment(/datum/gas_mixture/turf (/datum/gas_mixture/turf), Hailee Muggins (/mob/living/carbon/human))
+ - Hailee Muggins (/mob/living/carbon/human): handle environment(/datum/gas_mixture/turf (/datum/gas_mixture/turf))
+ - Hailee Muggins (/mob/living/carbon/human): PhysicalLife(2, 2269)
+ - Hailee Muggins (/mob/living/carbon/human): PhysicalLife(2, 2269)
+ - Hailee Muggins (/mob/living/carbon/human): PhysicalLife(2, 2269)
+ - Hailee Muggins (/mob/living/carbon/human): Life(2, 2269)
+ - Mobs (/datum/controller/subsystem/mobs): fire(0)
+ - Mobs (/datum/controller/subsystem/mobs): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-18 13:36:55.206] runtime error: movable_moved overridden. Use override = TRUE to suppress this warning
+ - proc name: stack trace (/datum/proc/stack_trace)
+ -   source file: unsorted.dm,1096
+ -   usr: null
+ -   src: the mangy recon armor (/obj/item/clothing/under/f13/recon)
+ -   src.loc: Hailee Muggins (/mob/living/carbon/human)
+ -   call stack:
+ - the mangy recon armor (/obj/item/clothing/under/f13/recon): stack trace("movable_moved overridden. Use ...")
+ - the mangy recon armor (/obj/item/clothing/under/f13/recon): RegisterSignal(Hailee Muggins (/mob/living/carbon/human), "movable_moved", /obj/item/clothing/proc/bristl... (/obj/item/clothing/proc/bristle), 0)
+ - the mangy recon armor (/obj/item/clothing/under/f13/recon): disable zone("l_arm", "fire")
+ - the mangy recon armor (/obj/item/clothing/under/f13/recon): take damage zone("l_arm", 10.57, "fire", 0)
+ - the left arm (/obj/item/bodypart/l_arm): check woundings mods(4, 10.57, 0, 0)
+ - the left arm (/obj/item/bodypart/l_arm): check wounding(4, 10.57, 0, 0)
+ - the left arm (/obj/item/bodypart/l_arm): receive damage(0, 10.57, 0, 0, 1, null, 0, 0, 0)
+ - Human (/datum/species/human): apply damage(10.5698, "fire", "l_arm", 0, Hailee Muggins (/mob/living/carbon/human), 0, 0, 0, 0, 0)
+ - Hailee Muggins (/mob/living/carbon/human): apply damage(10.5698, "fire", null, 0, 0, 0, 0, 0, 0)
+ - Human (/datum/species/human): handle environment(/datum/gas_mixture/turf (/datum/gas_mixture/turf), Hailee Muggins (/mob/living/carbon/human))
+ - Hailee Muggins (/mob/living/carbon/human): handle environment(/datum/gas_mixture/turf (/datum/gas_mixture/turf))
+ - Hailee Muggins (/mob/living/carbon/human): PhysicalLife(2, 2288)
+ - Hailee Muggins (/mob/living/carbon/human): PhysicalLife(2, 2288)
+ - Hailee Muggins (/mob/living/carbon/human): PhysicalLife(2, 2288)
+ - Hailee Muggins (/mob/living/carbon/human): Life(2, 2288)
+ - Mobs (/datum/controller/subsystem/mobs): fire(0)
+ - Mobs (/datum/controller/subsystem/mobs): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-18 13:38:41.452] runtime error: movable_moved overridden. Use override = TRUE to suppress this warning
+ - proc name: stack trace (/datum/proc/stack_trace)
+ -   source file: unsorted.dm,1096
+ -   usr: null
+ -   src: the tattered recon armor (/obj/item/clothing/under/f13/recon)
+ -   src.loc: Hailee Muggins (/mob/living/carbon/human)
+ -   call stack:
+ - the tattered recon armor (/obj/item/clothing/under/f13/recon): stack trace("movable_moved overridden. Use ...")
+ - the tattered recon armor (/obj/item/clothing/under/f13/recon): RegisterSignal(Hailee Muggins (/mob/living/carbon/human), "movable_moved", /obj/item/clothing/proc/bristl... (/obj/item/clothing/proc/bristle), 0)
+ - the tattered recon armor (/obj/item/clothing/under/f13/recon): disable zone("l_leg", "fire")
+ - the tattered recon armor (/obj/item/clothing/under/f13/recon): take damage zone("l_leg", 11.27, "fire", 0)
+ - the left leg (/obj/item/bodypart/l_leg): check woundings mods(4, 11.27, 0, 0)
+ - the left leg (/obj/item/bodypart/l_leg): check wounding(4, 11.27, 0, 0)
+ - the left leg (/obj/item/bodypart/l_leg): receive damage(0, 11.27, 0, 0, 1, null, 0, 0, 0)
+ - Human (/datum/species/human): apply damage(11.2657, "fire", "l_leg", 0, Hailee Muggins (/mob/living/carbon/human), 0, 0, 0, 0, 0)
+ - Hailee Muggins (/mob/living/carbon/human): apply damage(11.2657, "fire", null, 0, 0, 0, 0, 0, 0)
+ - Human (/datum/species/human): handle environment(/datum/gas_mixture/turf (/datum/gas_mixture/turf), Hailee Muggins (/mob/living/carbon/human))
+ - Hailee Muggins (/mob/living/carbon/human): handle environment(/datum/gas_mixture/turf (/datum/gas_mixture/turf))
+ - Hailee Muggins (/mob/living/carbon/human): PhysicalLife(2, 2341)
+ - Hailee Muggins (/mob/living/carbon/human): PhysicalLife(2, 2341)
+ - Hailee Muggins (/mob/living/carbon/human): PhysicalLife(2, 2341)
+ - Hailee Muggins (/mob/living/carbon/human): Life(2, 2341)
+ - Mobs (/datum/controller/subsystem/mobs): fire(0)
+ - Mobs (/datum/controller/subsystem/mobs): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-18 13:39:09.560] runtime error: movable_moved overridden. Use override = TRUE to suppress this warning
+ - proc name: stack trace (/datum/proc/stack_trace)
+ -   source file: unsorted.dm,1096
+ -   usr: null
+ -   src: the tattered recon armor (/obj/item/clothing/under/f13/recon)
+ -   src.loc: Hailee Muggins (/mob/living/carbon/human)
+ -   call stack:
+ - the tattered recon armor (/obj/item/clothing/under/f13/recon): stack trace("movable_moved overridden. Use ...")
+ - the tattered recon armor (/obj/item/clothing/under/f13/recon): RegisterSignal(Hailee Muggins (/mob/living/carbon/human), "movable_moved", /obj/item/clothing/proc/bristl... (/obj/item/clothing/proc/bristle), 0)
+ - the tattered recon armor (/obj/item/clothing/under/f13/recon): disable zone("r_arm", "fire")
+ - the tattered recon armor (/obj/item/clothing/under/f13/recon): take damage zone("r_arm", 11.42, "fire", 0)
+ - the right arm (/obj/item/bodypart/r_arm): check woundings mods(4, 11.42, 0, 0)
+ - the right arm (/obj/item/bodypart/r_arm): check wounding(4, 11.42, 0, 0)
+ - the right arm (/obj/item/bodypart/r_arm): receive damage(0, 11.42, 0, 0, 1, null, 0, 0, 0)
+ - Human (/datum/species/human): apply damage(11.4169, "fire", "r_arm", 0, Hailee Muggins (/mob/living/carbon/human), 0, 0, 0, 0, 0)
+ - Hailee Muggins (/mob/living/carbon/human): apply damage(11.4169, "fire", null, 0, 0, 0, 0, 0, 0)
+ - Human (/datum/species/human): handle environment(/datum/gas_mixture/turf (/datum/gas_mixture/turf), Hailee Muggins (/mob/living/carbon/human))
+ - Hailee Muggins (/mob/living/carbon/human): handle environment(/datum/gas_mixture/turf (/datum/gas_mixture/turf))
+ - Hailee Muggins (/mob/living/carbon/human): PhysicalLife(2, 2355)
+ - Hailee Muggins (/mob/living/carbon/human): PhysicalLife(2, 2355)
+ - Hailee Muggins (/mob/living/carbon/human): PhysicalLife(2, 2355)
+ - Hailee Muggins (/mob/living/carbon/human): Life(2, 2355)
+ - Mobs (/datum/controller/subsystem/mobs): fire(0)
+ - Mobs (/datum/controller/subsystem/mobs): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-18 14:16:29.869] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: Kain Morgan (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: the floor (129,190,2) (/turf/open/floor/f13)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - Kain Morgan (/mob/living/carbon/human): Move(the floor (129,190,2) (/turf/open/floor/f13), 1)
+ - Zeewhel (/client): Move(the floor (129,190,2) (/turf/open/floor/f13), 1)
+ - Kain Morgan (/mob/living/carbon/human): keyLoop(Zeewhel (/client))
+ - Zeewhel (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-18 14:28:35.641] runtime error: transfer_ckey() called on ckey-less mob with a player mob as target!
+ - proc name: transfer ckey (/mob/proc/transfer_ckey)
+ -   source file: mob.dm,496
+ -   usr: (src)
+ -   src: Elias Ivanov (/mob/dead/observer)
+ -   src.loc: null
+ -   call stack:
+ - Elias Ivanov (/mob/dead/observer): transfer ckey(Elias Ivanov (/mob/living/carbon/human), 0)
+ - Elias Ivanov (/mob/dead/observer): Re-enter Corpse()
+ - Reenter corpse (/obj/screen/ghost/reenter_corpse): Click(null, "mapwindow.map", "icon-x=12;icon-y=9;left=1;scre...", 0)
+ - 
+[2021-05-18 14:47:49.826] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: Unknown (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: the floor (196,54,2) (/turf/open/floor/f13)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - Unknown (/mob/living/carbon/human): Move(the floor (196,54,2) (/turf/open/floor/f13), 2)
+ - Luciam (/client): Move(the floor (196,54,2) (/turf/open/floor/f13), 2)
+ - Unknown (/mob/living/carbon/human): keyLoop(Luciam (/client))
+ - Luciam (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-18 14:47:49.976] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: Unknown (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: the floor (196,53,2) (/turf/open/floor/f13)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - Unknown (/mob/living/carbon/human): Move(the floor (196,53,2) (/turf/open/floor/f13), 2)
+ - Luciam (/client): Move(the floor (196,53,2) (/turf/open/floor/f13), 2)
+ - Unknown (/mob/living/carbon/human): keyLoop(Luciam (/client))
+ - Luciam (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-18 14:47:50.176] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: Unknown (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: the floor (196,52,2) (/turf/open/floor/f13)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - Unknown (/mob/living/carbon/human): Move(the floor (196,52,2) (/turf/open/floor/f13), 2)
+ - Luciam (/client): Move(the floor (196,52,2) (/turf/open/floor/f13), 2)
+ - Unknown (/mob/living/carbon/human): keyLoop(Luciam (/client))
+ - Luciam (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-18 14:47:51.076] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: Unknown (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: the floor (196,51,2) (/turf/open/floor/f13)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - Unknown (/mob/living/carbon/human): Move(the floor (196,51,2) (/turf/open/floor/f13), 2)
+ - Luciam (/client): Move(the floor (196,51,2) (/turf/open/floor/f13), 2)
+ - Unknown (/mob/living/carbon/human): keyLoop(Luciam (/client))
+ - Luciam (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-18 14:47:53.178] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: Unknown (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: the floor (200,49,2) (/turf/open/floor/f13)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - Unknown (/mob/living/carbon/human): Move(the floor (200,49,2) (/turf/open/floor/f13), 4)
+ - Luciam (/client): Move(the floor (200,49,2) (/turf/open/floor/f13), 4)
+ - Unknown (/mob/living/carbon/human): keyLoop(Luciam (/client))
+ - Luciam (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-18 14:47:53.328] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: Unknown (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: the floor (201,49,2) (/turf/open/floor/f13)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - Unknown (/mob/living/carbon/human): Move(the floor (201,49,2) (/turf/open/floor/f13), 4)
+ - Luciam (/client): Move(the floor (201,49,2) (/turf/open/floor/f13), 4)
+ - Unknown (/mob/living/carbon/human): keyLoop(Luciam (/client))
+ - Luciam (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-18 14:47:53.777] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: Unknown (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: the floor (202,49,2) (/turf/open/floor/f13)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - Unknown (/mob/living/carbon/human): Move(the floor (202,49,2) (/turf/open/floor/f13), 4)
+ - Luciam (/client): Move(the floor (202,49,2) (/turf/open/floor/f13), 4)
+ - Unknown (/mob/living/carbon/human): keyLoop(Luciam (/client))
+ - Luciam (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-18 14:47:53.977] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: Unknown (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: the floor (203,49,2) (/turf/open/floor/f13)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - Unknown (/mob/living/carbon/human): Move(the floor (203,49,2) (/turf/open/floor/f13), 4)
+ - Luciam (/client): Move(the floor (203,49,2) (/turf/open/floor/f13), 4)
+ - Unknown (/mob/living/carbon/human): keyLoop(Luciam (/client))
+ - Luciam (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-18 14:47:58.717] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: Unknown (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: the floor (195,47,2) (/turf/open/floor/f13)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - Unknown (/mob/living/carbon/human): Move(the floor (195,47,2) (/turf/open/floor/f13), 8)
+ - Luciam (/client): Move(the floor (195,47,2) (/turf/open/floor/f13), 8)
+ - Unknown (/mob/living/carbon/human): keyLoop(Luciam (/client))
+ - Luciam (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-18 14:47:58.960] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: Unknown (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: the floor (194,47,2) (/turf/open/floor/f13)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - Unknown (/mob/living/carbon/human): Move(the floor (194,47,2) (/turf/open/floor/f13), 8)
+ - Luciam (/client): Move(the floor (194,47,2) (/turf/open/floor/f13), 8)
+ - Unknown (/mob/living/carbon/human): keyLoop(Luciam (/client))
+ - Luciam (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-18 14:48:01.067] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: Unknown (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: the floor (194,47,2) (/turf/open/floor/f13)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - Unknown (/mob/living/carbon/human): Move(the floor (194,47,2) (/turf/open/floor/f13), 1)
+ - Luciam (/client): Move(the floor (194,47,2) (/turf/open/floor/f13), 1)
+ - Unknown (/mob/living/carbon/human): keyLoop(Luciam (/client))
+ - Luciam (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-18 14:48:01.318] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: Unknown (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: the floor (195,47,2) (/turf/open/floor/f13)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - Unknown (/mob/living/carbon/human): Move(the floor (195,47,2) (/turf/open/floor/f13), 4)
+ - Luciam (/client): Move(the floor (195,47,2) (/turf/open/floor/f13), 4)
+ - Unknown (/mob/living/carbon/human): keyLoop(Luciam (/client))
+ - Luciam (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-18 14:48:02.218] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: Unknown (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: the floor (196,49,2) (/turf/open/floor/f13)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - Unknown (/mob/living/carbon/human): Move(the floor (196,49,2) (/turf/open/floor/f13), 1)
+ - Luciam (/client): Move(the floor (196,49,2) (/turf/open/floor/f13), 1)
+ - Unknown (/mob/living/carbon/human): keyLoop(Luciam (/client))
+ - Luciam (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-18 14:48:02.417] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: Unknown (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: the floor (196,50,2) (/turf/open/floor/f13)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - Unknown (/mob/living/carbon/human): Move(the floor (196,50,2) (/turf/open/floor/f13), 1)
+ - Luciam (/client): Move(the floor (196,50,2) (/turf/open/floor/f13), 1)
+ - Unknown (/mob/living/carbon/human): keyLoop(Luciam (/client))
+ - Luciam (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-18 14:48:02.619] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: Unknown (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: the floor (196,51,2) (/turf/open/floor/f13)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - Unknown (/mob/living/carbon/human): Move(the floor (196,51,2) (/turf/open/floor/f13), 1)
+ - Luciam (/client): Move(the floor (196,51,2) (/turf/open/floor/f13), 1)
+ - Unknown (/mob/living/carbon/human): keyLoop(Luciam (/client))
+ - Luciam (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-18 15:04:31.052] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: John Grave (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: the floor (82,56,2) (/turf/open/floor/f13)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - John Grave (/mob/living/carbon/human): Move(the floor (82,56,2) (/turf/open/floor/f13), 4)
+ - Gatossj (/client): Move(the floor (82,56,2) (/turf/open/floor/f13), 4)
+ - John Grave (/mob/living/carbon/human): keyLoop(Gatossj (/client))
+ - Gatossj (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-18 15:04:31.251] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: John Grave (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: the floor (83,56,2) (/turf/open/floor/f13)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - John Grave (/mob/living/carbon/human): Move(the floor (83,56,2) (/turf/open/floor/f13), 4)
+ - Gatossj (/client): Move(the floor (83,56,2) (/turf/open/floor/f13), 4)
+ - John Grave (/mob/living/carbon/human): keyLoop(Gatossj (/client))
+ - Gatossj (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-18 15:04:31.457] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: John Grave (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: the floor (84,57,2) (/turf/open/floor/f13)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - John Grave (/mob/living/carbon/human): Move(the floor (84,57,2) (/turf/open/floor/f13), 4)
+ - John Grave (/mob/living/carbon/human): Move(the floor (84,57,2) (/turf/open/floor/f13), 5, 0)
+ - John Grave (/mob/living/carbon/human): Move(the floor (84,57,2) (/turf/open/floor/f13), 5, null)
+ - John Grave (/mob/living/carbon/human): Move(the floor (84,57,2) (/turf/open/floor/f13), 5, null)
+ - John Grave (/mob/living/carbon/human): Move(the floor (84,57,2) (/turf/open/floor/f13), 5)
+ - Gatossj (/client): Move(the floor (84,57,2) (/turf/open/floor/f13), 5)
+ - John Grave (/mob/living/carbon/human): keyLoop(Gatossj (/client))
+ - Gatossj (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-18 15:04:31.473] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: John Grave (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: the floor (84,57,2) (/turf/open/floor/f13)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - John Grave (/mob/living/carbon/human): Move(the floor (84,57,2) (/turf/open/floor/f13), 5)
+ - Gatossj (/client): Move(the floor (84,57,2) (/turf/open/floor/f13), 5)
+ - John Grave (/mob/living/carbon/human): keyLoop(Gatossj (/client))
+ - Gatossj (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-18 15:04:31.802] runtime error: Cannot read null.len
+ - proc name: BlendRGB (/proc/BlendRGB)
+ -   source file: icons.dm,607
+ -   usr: John Grave (/mob/living/carbon/human)
+ -   src: null
+ -   usr.loc: the floor (84,58,2) (/turf/open/floor/f13)
+ -   call stack:
+ - BlendRGB("#900000", null, null)
+ - John Grave (/mob/living/carbon/human): Move(the floor (84,58,2) (/turf/open/floor/f13), 1)
+ - Gatossj (/client): Move(the floor (84,58,2) (/turf/open/floor/f13), 1)
+ - John Grave (/mob/living/carbon/human): keyLoop(Gatossj (/client))
+ - Gatossj (/client): keyLoop()
+ - Input (/datum/controller/subsystem/input): fire(0)
+ - Input (/datum/controller/subsystem/input): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-18 15:19:48.541] runtime error: undefined proc or verb /obj/item/melee/powerfist/Touch().
+ - 
+ - proc name: RangedAttack (/mob/living/carbon/human/RangedAttack)
+ -   source file: other_mobs.dm,108
+ -   usr: (src)
+ -   src: Hailee Muggins (/mob/living/carbon/human)
+ -   src.loc: the desert (156,15,2) (/turf/open/indestructible/ground/outside/desert)
+ -   call stack:
+ - Hailee Muggins (/mob/living/carbon/human): RangedAttack(the desert (153,15,2) (/turf/open/indestructible/ground/outside/desert), "icon-x=32;icon-y=17;left=1;scr...")
+ - Hailee Muggins (/mob/living/carbon/human): ClickOn(the desert (153,15,2) (/turf/open/indestructible/ground/outside/desert), "icon-x=32;icon-y=17;left=1;scr...")
+ - Hailee Muggins (/mob/living/carbon/human): CommonClickOn(the desert (153,15,2) (/turf/open/indestructible/ground/outside/desert), "icon-x=32;icon-y=17;left=1;scr...")
+ - the desert (153,15,2) (/turf/open/indestructible/ground/outside/desert): Click(the desert (153,15,2) (/turf/open/indestructible/ground/outside/desert), "mapwindow.map", "icon-x=32;icon-y=17;left=1;scr...", 0)
+ - Gatossj (/client): Click(the desert (153,15,2) (/turf/open/indestructible/ground/outside/desert), the desert (153,15,2) (/turf/open/indestructible/ground/outside/desert), "mapwindow.map", "icon-x=32;icon-y=17;left=1;scr...", 0)
+ - 
+[2021-05-18 15:23:24.996] runtime error: undefined proc or verb /obj/item/melee/powerfist/Touch().
+ - 
+ - proc name: RangedAttack (/mob/living/carbon/human/RangedAttack)
+ -   source file: other_mobs.dm,108
+ -   usr: (src)
+ -   src: Hailee Muggins (/mob/living/carbon/human)
+ -   src.loc: sidewalk (245,226,2) (/turf/open/indestructible/ground/outside/sidewalk)
+ -   call stack:
+ - Hailee Muggins (/mob/living/carbon/human): RangedAttack(the mood (/obj/screen/mood), "icon-x=19;icon-y=13;left=1;scr...")
+ - Hailee Muggins (/mob/living/carbon/human): ClickOn(the mood (/obj/screen/mood), "icon-x=19;icon-y=13;left=1;scr...")
+ - Hailee Muggins (/mob/living/carbon/human): CommonClickOn(the mood (/obj/screen/mood), "icon-x=19;icon-y=13;left=1;scr...")
+ - the mood (/obj/screen/mood): Click(null, "mapwindow.map", "icon-x=19;icon-y=13;left=1;scr...", 0)
+ - Gatossj (/client): Click(the mood (/obj/screen/mood), null, "mapwindow.map", "icon-x=19;icon-y=13;left=1;scr...", 0)
+ - 
+[2021-05-18 15:28:20.053] runtime error: Invalid target given
+ - proc name: New (/datum/progressbar/New)
+ -   source file: progressbar.dm,14
+ -   usr: Luicio Notav (/mob/living/carbon/human)
+ -   src: /datum/progressbar (/datum/progressbar)
+ -   usr.loc: the desert (247,240,2) (/turf/open/indestructible/ground/outside/desert)
+ -   call stack:
+ - /datum/progressbar (/datum/progressbar): New(Luicio Notav (/mob/living/carbon/human), 9, null)
+ - do after(Luicio Notav (/mob/living/carbon/human), 9, 1, null, 1, null, 9, 0)
+ - Toggle Scope (/datum/action/item_action/toggle_scope_zoom): Trigger()
+ - Toggle Scope (/obj/screen/movable/action_button): Click(null, "mapwindow.map", "icon-x=20;icon-y=19;left=1;scr...", 0)
+ - Jhonatan lima (/client): Click(Toggle Scope (/obj/screen/movable/action_button), null, "mapwindow.map", "icon-x=20;icon-y=19;left=1;scr...", 0)
+ - 
+[2021-05-18 15:28:20.915] runtime error: Cannot read null.progressbars
+ - proc name: Destroy (/datum/progressbar/Destroy)
+ -   source file: progressbar.dm,52
+ -   usr: Luicio Notav (/mob/living/carbon/human)
+ -   src: /datum/progressbar (/datum/progressbar)
+ -   usr.loc: the desert (247,240,2) (/turf/open/indestructible/ground/outside/desert)
+ -   call stack:
+ - /datum/progressbar (/datum/progressbar): Destroy(0)
+ - qdel(/datum/progressbar (/datum/progressbar), 0)
+ - do after(Luicio Notav (/mob/living/carbon/human), 9, 1, null, 1, null, 9, 0)
+ - Toggle Scope (/datum/action/item_action/toggle_scope_zoom): Trigger()
+ - Toggle Scope (/obj/screen/movable/action_button): Click(null, "mapwindow.map", "icon-x=20;icon-y=19;left=1;scr...", 0)
+ - 
+[2021-05-18 15:28:34.894] runtime error: Invalid target given
+ - proc name: New (/datum/progressbar/New)
+ -   source file: progressbar.dm,14
+ -   usr: Luicio Notav (/mob/living/carbon/human)
+ -   src: /datum/progressbar (/datum/progressbar)
+ -   usr.loc: sidewalk (245,222,2) (/turf/open/indestructible/ground/outside/sidewalk)
+ -   call stack:
+ - /datum/progressbar (/datum/progressbar): New(Luicio Notav (/mob/living/carbon/human), 10, null)
+ - do after(Luicio Notav (/mob/living/carbon/human), 10, 1, null, 1, null, 9, 0)
+ - Toggle Scope (/datum/action/item_action/toggle_scope_zoom): Trigger()
+ - Toggle Scope (/obj/screen/movable/action_button): Click(null, "mapwindow.map", "icon-x=16;icon-y=18;left=1;scr...", 0)
+ - Jhonatan lima (/client): Click(Toggle Scope (/obj/screen/movable/action_button), null, "mapwindow.map", "icon-x=16;icon-y=18;left=1;scr...", 0)
+ - 
+[2021-05-18 15:28:35.874] runtime error: Cannot read null.progressbars
+ - proc name: Destroy (/datum/progressbar/Destroy)
+ -   source file: progressbar.dm,52
+ -   usr: Luicio Notav (/mob/living/carbon/human)
+ -   src: /datum/progressbar (/datum/progressbar)
+ -   usr.loc: sidewalk (245,222,2) (/turf/open/indestructible/ground/outside/sidewalk)
+ -   call stack:
+ - /datum/progressbar (/datum/progressbar): Destroy(0)
+ - qdel(/datum/progressbar (/datum/progressbar), 0)
+ - do after(Luicio Notav (/mob/living/carbon/human), 10, 1, null, 1, null, 9, 0)
+ - Toggle Scope (/datum/action/item_action/toggle_scope_zoom): Trigger()
+ - Toggle Scope (/obj/screen/movable/action_button): Click(null, "mapwindow.map", "icon-x=16;icon-y=18;left=1;scr...", 0)
+ - 
+[2021-05-18 15:28:36.318] runtime error: Invalid target given
+ - proc name: New (/datum/progressbar/New)
+ -   source file: progressbar.dm,14
+ -   usr: Luicio Notav (/mob/living/carbon/human)
+ -   src: /datum/progressbar (/datum/progressbar)
+ -   usr.loc: sidewalk (245,222,2) (/turf/open/indestructible/ground/outside/sidewalk)
+ -   call stack:
+ - /datum/progressbar (/datum/progressbar): New(Luicio Notav (/mob/living/carbon/human), 9, null)
+ - do after(Luicio Notav (/mob/living/carbon/human), 9, 1, null, 1, null, 9, 0)
+ - Toggle Scope (/datum/action/item_action/toggle_scope_zoom): Trigger()
+ - Toggle Scope (/obj/screen/movable/action_button): Click(null, "mapwindow.map", "icon-x=17;icon-y=18;left=1;scr...", 0)
+ - Jhonatan lima (/client): Click(Toggle Scope (/obj/screen/movable/action_button), null, "mapwindow.map", "icon-x=17;icon-y=18;left=1;scr...", 0)
+ - 
+[2021-05-18 15:28:37.173] runtime error: Cannot read null.progressbars
+ - proc name: Destroy (/datum/progressbar/Destroy)
+ -   source file: progressbar.dm,52
+ -   usr: Luicio Notav (/mob/living/carbon/human)
+ -   src: /datum/progressbar (/datum/progressbar)
+ -   usr.loc: sidewalk (245,222,2) (/turf/open/indestructible/ground/outside/sidewalk)
+ -   call stack:
+ - /datum/progressbar (/datum/progressbar): Destroy(0)
+ - qdel(/datum/progressbar (/datum/progressbar), 0)
+ - do after(Luicio Notav (/mob/living/carbon/human), 9, 1, null, 1, null, 9, 0)
+ - Toggle Scope (/datum/action/item_action/toggle_scope_zoom): Trigger()
+ - Toggle Scope (/obj/screen/movable/action_button): Click(null, "mapwindow.map", "icon-x=17;icon-y=18;left=1;scr...", 0)
+ - 
+[2021-05-18 15:29:33.715] runtime error: undefined proc or verb /obj/item/melee/powerfist/Touch().
+ - 
+ - proc name: RangedAttack (/mob/living/carbon/human/RangedAttack)
+ -   source file: other_mobs.dm,108
+ -   usr: (src)
+ -   src: Hailee Muggins (/mob/living/carbon/human)
+ -   src.loc: road (196,132,2) (/turf/open/indestructible/ground/outside/road)
+ -   call stack:
+ - Hailee Muggins (/mob/living/carbon/human): RangedAttack(sidewalk (200,131,2) (/turf/open/indestructible/ground/outside/sidewalk), "icon-x=3;icon-y=32;left=1;scre...")
+ - Hailee Muggins (/mob/living/carbon/human): ClickOn(sidewalk (200,131,2) (/turf/open/indestructible/ground/outside/sidewalk), "icon-x=3;icon-y=32;left=1;scre...")
+ - Hailee Muggins (/mob/living/carbon/human): CommonClickOn(sidewalk (200,131,2) (/turf/open/indestructible/ground/outside/sidewalk), "icon-x=3;icon-y=32;left=1;scre...")
+ - sidewalk (200,131,2) (/turf/open/indestructible/ground/outside/sidewalk): Click(sidewalk (200,131,2) (/turf/open/indestructible/ground/outside/sidewalk), "mapwindow.map", "icon-x=3;icon-y=32;left=1;scre...", 0)
+ - Gatossj (/client): Click(sidewalk (200,131,2) (/turf/open/indestructible/ground/outside/sidewalk), sidewalk (200,131,2) (/turf/open/indestructible/ground/outside/sidewalk), "mapwindow.map", "icon-x=3;icon-y=32;left=1;scre...", 0)
+ - 
+[2021-05-18 15:31:14.636] runtime error: undefined proc or verb /obj/item/melee/powerfist/Touch().
+ - 
+ - proc name: RangedAttack (/mob/living/carbon/human/RangedAttack)
+ -   source file: other_mobs.dm,108
+ -   usr: (src)
+ -   src: John Grave (as Hailee Muggins) (/mob/living/carbon/human)
+ -   src.loc: road (234,159,2) (/turf/open/indestructible/ground/outside/road)
+ -   call stack:
+ - John Grave (as Hailee Muggins) (/mob/living/carbon/human): RangedAttack(road (236,161,2) (/turf/open/indestructible/ground/outside/road), "icon-x=27;icon-y=19;left=1;scr...")
+ - John Grave (as Hailee Muggins) (/mob/living/carbon/human): ClickOn(road (236,161,2) (/turf/open/indestructible/ground/outside/road), "icon-x=27;icon-y=19;left=1;scr...")
+ - John Grave (as Hailee Muggins) (/mob/living/carbon/human): CommonClickOn(road (236,161,2) (/turf/open/indestructible/ground/outside/road), "icon-x=27;icon-y=19;left=1;scr...")
+ - road (236,161,2) (/turf/open/indestructible/ground/outside/road): Click(road (236,161,2) (/turf/open/indestructible/ground/outside/road), "mapwindow.map", "icon-x=27;icon-y=19;left=1;scr...", 0)
+ - Gatossj (/client): Click(road (236,161,2) (/turf/open/indestructible/ground/outside/road), road (236,161,2) (/turf/open/indestructible/ground/outside/road), "mapwindow.map", "icon-x=27;icon-y=19;left=1;scr...", 0)
+ - 
+[2021-05-18 15:32:47.260] runtime error: Invalid target given
+ - proc name: New (/datum/progressbar/New)
+ -   source file: progressbar.dm,14
+ -   usr: Luicio Notav (/mob/living/carbon/human)
+ -   src: /datum/progressbar (/datum/progressbar)
+ -   usr.loc: the desert (247,227,2) (/turf/open/indestructible/ground/outside/desert)
+ -   call stack:
+ - /datum/progressbar (/datum/progressbar): New(Luicio Notav (/mob/living/carbon/human), 9, null)
+ - do after(Luicio Notav (/mob/living/carbon/human), 9, 1, null, 1, null, 9, 0)
+ - Toggle Scope (/datum/action/item_action/toggle_scope_zoom): Trigger()
+ - Toggle Scope (/obj/screen/movable/action_button): Click(null, "mapwindow.map", "icon-x=23;icon-y=14;left=1;scr...", 0)
+ - Jhonatan lima (/client): Click(Toggle Scope (/obj/screen/movable/action_button), null, "mapwindow.map", "icon-x=23;icon-y=14;left=1;scr...", 0)
+ - 
+[2021-05-18 15:32:48.154] runtime error: Cannot read null.progressbars
+ - proc name: Destroy (/datum/progressbar/Destroy)
+ -   source file: progressbar.dm,52
+ -   usr: Luicio Notav (/mob/living/carbon/human)
+ -   src: /datum/progressbar (/datum/progressbar)
+ -   usr.loc: the desert (247,227,2) (/turf/open/indestructible/ground/outside/desert)
+ -   call stack:
+ - /datum/progressbar (/datum/progressbar): Destroy(0)
+ - qdel(/datum/progressbar (/datum/progressbar), 0)
+ - do after(Luicio Notav (/mob/living/carbon/human), 9, 1, null, 1, null, 9, 0)
+ - Toggle Scope (/datum/action/item_action/toggle_scope_zoom): Trigger()
+ - Toggle Scope (/obj/screen/movable/action_button): Click(null, "mapwindow.map", "icon-x=23;icon-y=14;left=1;scr...", 0)
+ - 
+[2021-05-18 15:32:51.349] runtime error: undefined proc or verb /obj/item/melee/powerfist/Touch().
+ - 
+ - proc name: RangedAttack (/mob/living/carbon/human/RangedAttack)
+ -   source file: other_mobs.dm,108
+ -   usr: (src)
+ -   src: John Grave (as Hailee Muggins) (/mob/living/carbon/human)
+ -   src.loc: road (238,208,2) (/turf/open/indestructible/ground/outside/road)
+ -   call stack:
+ - John Grave (as Hailee Muggins) (/mob/living/carbon/human): RangedAttack(the desert (241,207,2) (/turf/open/indestructible/ground/outside/desert), "icon-x=13;icon-y=7;left=1;scre...")
+ - John Grave (as Hailee Muggins) (/mob/living/carbon/human): ClickOn(the desert (241,207,2) (/turf/open/indestructible/ground/outside/desert), "icon-x=13;icon-y=7;left=1;scre...")
+ - John Grave (as Hailee Muggins) (/mob/living/carbon/human): CommonClickOn(the desert (241,207,2) (/turf/open/indestructible/ground/outside/desert), "icon-x=13;icon-y=7;left=1;scre...")
+ - the desert (241,207,2) (/turf/open/indestructible/ground/outside/desert): Click(the desert (241,207,2) (/turf/open/indestructible/ground/outside/desert), "mapwindow.map", "icon-x=13;icon-y=7;left=1;scre...", 0)
+ - Gatossj (/client): Click(the desert (241,207,2) (/turf/open/indestructible/ground/outside/desert), the desert (241,207,2) (/turf/open/indestructible/ground/outside/desert), "mapwindow.map", "icon-x=13;icon-y=7;left=1;scre...", 0)
+ - 
+[2021-05-18 15:33:02.329] runtime error: Invalid target given
+ - proc name: New (/datum/progressbar/New)
+ -   source file: progressbar.dm,14
+ -   usr: Luicio Notav (/mob/living/carbon/human)
+ -   src: /datum/progressbar (/datum/progressbar)
+ -   usr.loc: the desert (247,227,2) (/turf/open/indestructible/ground/outside/desert)
+ -   call stack:
+ - /datum/progressbar (/datum/progressbar): New(Luicio Notav (/mob/living/carbon/human), 9, null)
+ - do after(Luicio Notav (/mob/living/carbon/human), 9, 1, null, 1, null, 9, 0)
+ - Toggle Scope (/datum/action/item_action/toggle_scope_zoom): Trigger()
+ - Toggle Scope (/obj/screen/movable/action_button): Click(null, "mapwindow.map", "icon-x=11;icon-y=18;left=1;scr...", 0)
+ - Jhonatan lima (/client): Click(Toggle Scope (/obj/screen/movable/action_button), null, "mapwindow.map", "icon-x=11;icon-y=18;left=1;scr...", 0)
+ - 
+[2021-05-18 15:33:03.190] runtime error: Cannot read null.progressbars
+ - proc name: Destroy (/datum/progressbar/Destroy)
+ -   source file: progressbar.dm,52
+ -   usr: Luicio Notav (/mob/living/carbon/human)
+ -   src: /datum/progressbar (/datum/progressbar)
+ -   usr.loc: the desert (247,227,2) (/turf/open/indestructible/ground/outside/desert)
+ -   call stack:
+ - /datum/progressbar (/datum/progressbar): Destroy(0)
+ - qdel(/datum/progressbar (/datum/progressbar), 0)
+ - do after(Luicio Notav (/mob/living/carbon/human), 9, 1, null, 1, null, 9, 0)
+ - Toggle Scope (/datum/action/item_action/toggle_scope_zoom): Trigger()
+ - Toggle Scope (/obj/screen/movable/action_button): Click(null, "mapwindow.map", "icon-x=11;icon-y=18;left=1;scr...", 0)
+ - 
+[2021-05-18 15:37:55.641] runtime error: Cannot read null.pulledby
+ - proc name: user unbuckle mob (/atom/movable/proc/user_unbuckle_mob)
+ -   source file: buckling.dm,146
+ -   usr: Kade Tanner (/mob/living/carbon/human)
+ -   src: the vines (/obj/structure/spacevine)
+ -   usr.loc: the cave (212,190,3) (/turf/open/indestructible/ground/inside/mountain)
+ -   src.loc: the cave (211,190,3) (/turf/open/indestructible/ground/inside/mountain)
+ -   call stack:
+ - the vines (/obj/structure/spacevine): user unbuckle mob(Kade Tanner (/mob/living/carbon/human), Kade Tanner (/mob/living/carbon/human))
+ - the vines (/obj/structure/spacevine): on attack hand(Kade Tanner (/mob/living/carbon/human), "help", null)
+ - world: ImmediateInvokeAsync(the vines (/obj/structure/spacevine), /atom/proc/on_attack_hand (/atom/proc/on_attack_hand), Kade Tanner (/mob/living/carbon/human), "help", null)
+ - the vines (/obj/structure/spacevine): attack hand(Kade Tanner (/mob/living/carbon/human), "help", 0)
+ - Kade Tanner (/mob/living/carbon/human): UnarmedAttack(the vines (/obj/structure/spacevine), 1, "help", 0)
+ - Kade Tanner (/mob/living/carbon/human): ClickOn(the vines (/obj/structure/spacevine), "icon-x=24;icon-y=4;left=1;scre...")
+ - Kade Tanner (/mob/living/carbon/human): CommonClickOn(the vines (/obj/structure/spacevine), "icon-x=24;icon-y=4;left=1;scre...")
+ - the vines (/obj/structure/spacevine): Click(the cave (211,190,3) (/turf/open/indestructible/ground/inside/mountain), "mapwindow.map", "icon-x=24;icon-y=4;left=1;scre...", 0)
+ - AlbertoVinhofino (/client): Click(the vines (/obj/structure/spacevine), the cave (211,190,3) (/turf/open/indestructible/ground/inside/mountain), "mapwindow.map", "icon-x=24;icon-y=4;left=1;scre...", 0)
+ - 
+[2021-05-18 15:37:55.811] runtime error: Cannot read null.pulledby
+ - proc name: user unbuckle mob (/atom/movable/proc/user_unbuckle_mob)
+ -   source file: buckling.dm,146
+ -   usr: Kade Tanner (/mob/living/carbon/human)
+ -   src: the vines (/obj/structure/spacevine)
+ -   usr.loc: the cave (212,190,3) (/turf/open/indestructible/ground/inside/mountain)
+ -   src.loc: the cave (211,190,3) (/turf/open/indestructible/ground/inside/mountain)
+ -   call stack:
+ - the vines (/obj/structure/spacevine): user unbuckle mob(Kade Tanner (/mob/living/carbon/human), Kade Tanner (/mob/living/carbon/human))
+ - the vines (/obj/structure/spacevine): on attack hand(Kade Tanner (/mob/living/carbon/human), "help", null)
+ - world: ImmediateInvokeAsync(the vines (/obj/structure/spacevine), /atom/proc/on_attack_hand (/atom/proc/on_attack_hand), Kade Tanner (/mob/living/carbon/human), "help", null)
+ - the vines (/obj/structure/spacevine): attack hand(Kade Tanner (/mob/living/carbon/human), "help", 0)
+ - Kade Tanner (/mob/living/carbon/human): UnarmedAttack(the vines (/obj/structure/spacevine), 1, "help", 0)
+ - Kade Tanner (/mob/living/carbon/human): ClickOn(the vines (/obj/structure/spacevine), "icon-x=16;icon-y=12;left=1;scr...")
+ - Kade Tanner (/mob/living/carbon/human): CommonClickOn(the vines (/obj/structure/spacevine), "icon-x=16;icon-y=12;left=1;scr...")
+ - the vines (/obj/structure/spacevine): Click(the cave (211,190,3) (/turf/open/indestructible/ground/inside/mountain), "mapwindow.map", "icon-x=16;icon-y=12;left=1;scr...", 0)
+ - AlbertoVinhofino (/client): Click(the vines (/obj/structure/spacevine), the cave (211,190,3) (/turf/open/indestructible/ground/inside/mountain), "mapwindow.map", "icon-x=16;icon-y=12;left=1;scr...", 0)
+ - 
+[2021-05-18 15:38:15.288] runtime error: Cannot read null.pulledby
+ - proc name: user unbuckle mob (/atom/movable/proc/user_unbuckle_mob)
+ -   source file: buckling.dm,146
+ -   usr: Kade Tanner (/mob/living/carbon/human)
+ -   src: the vines (/obj/structure/spacevine)
+ -   usr.loc: the cave (225,186,3) (/turf/open/indestructible/ground/inside/mountain)
+ -   src.loc: the water (225,185,3) (/turf/open/water)
+ -   call stack:
+ - the vines (/obj/structure/spacevine): user unbuckle mob(Kade Tanner (/mob/living/carbon/human), Kade Tanner (/mob/living/carbon/human))
+ - the vines (/obj/structure/spacevine): on attack hand(Kade Tanner (/mob/living/carbon/human), "help", null)
+ - world: ImmediateInvokeAsync(the vines (/obj/structure/spacevine), /atom/proc/on_attack_hand (/atom/proc/on_attack_hand), Kade Tanner (/mob/living/carbon/human), "help", null)
+ - the vines (/obj/structure/spacevine): attack hand(Kade Tanner (/mob/living/carbon/human), "help", 0)
+ - Kade Tanner (/mob/living/carbon/human): UnarmedAttack(the vines (/obj/structure/spacevine), 1, "help", 0)
+ - Kade Tanner (/mob/living/carbon/human): ClickOn(the vines (/obj/structure/spacevine), "icon-x=30;icon-y=13;left=1;scr...")
+ - Kade Tanner (/mob/living/carbon/human): CommonClickOn(the vines (/obj/structure/spacevine), "icon-x=30;icon-y=13;left=1;scr...")
+ - the vines (/obj/structure/spacevine): Click(the water (225,185,3) (/turf/open/water), "mapwindow.map", "icon-x=30;icon-y=13;left=1;scr...", 0)
+ - AlbertoVinhofino (/client): Click(the vines (/obj/structure/spacevine), the water (225,185,3) (/turf/open/water), "mapwindow.map", "icon-x=30;icon-y=13;left=1;scr...", 0)
+ - 
+[2021-05-18 15:45:38.431] Saved 0 engraved messages on map Yuma
+[2021-05-18 15:46:02.115] runtime error: Invalid target given
+ - proc name: New (/datum/progressbar/New)
+ -   source file: progressbar.dm,14
+ -   usr: Luicio Notav (/mob/living/carbon/human)
+ -   src: /datum/progressbar (/datum/progressbar)
+ -   usr.loc: the floor (125,28,1) (/turf/open/floor/plasteel/f13)
+ -   call stack:
+ - /datum/progressbar (/datum/progressbar): New(Luicio Notav (/mob/living/carbon/human), 10, null)
+ - do after(Luicio Notav (/mob/living/carbon/human), 10, 1, null, 1, null, 9, 0)
+ - Toggle Scope (/datum/action/item_action/toggle_scope_zoom): Trigger()
+ - Toggle Scope (/obj/screen/movable/action_button): Click(null, "mapwindow.map", "icon-x=15;icon-y=13;left=1;scr...", 0)
+ - Jhonatan lima (/client): Click(Toggle Scope (/obj/screen/movable/action_button), null, "mapwindow.map", "icon-x=15;icon-y=13;left=1;scr...", 0)
+ - 
+[2021-05-18 15:46:03.083] runtime error: Cannot read null.progressbars
+ - proc name: Destroy (/datum/progressbar/Destroy)
+ -   source file: progressbar.dm,52
+ -   usr: Luicio Notav (/mob/living/carbon/human)
+ -   src: /datum/progressbar (/datum/progressbar)
+ -   usr.loc: the floor (125,28,1) (/turf/open/floor/plasteel/f13)
+ -   call stack:
+ - /datum/progressbar (/datum/progressbar): Destroy(0)
+ - qdel(/datum/progressbar (/datum/progressbar), 0)
+ - do after(Luicio Notav (/mob/living/carbon/human), 10, 1, null, 1, null, 9, 0)
+ - Toggle Scope (/datum/action/item_action/toggle_scope_zoom): Trigger()
+ - Toggle Scope (/obj/screen/movable/action_button): Click(null, "mapwindow.map", "icon-x=15;icon-y=13;left=1;scr...", 0)
+ - 
+[2021-05-18 15:46:28.481] runtime error: Invalid target given
+ - proc name: New (/datum/progressbar/New)
+ -   source file: progressbar.dm,14
+ -   usr: Luicio Notav (/mob/living/carbon/human)
+ -   src: /datum/progressbar (/datum/progressbar)
+ -   usr.loc: the desert (116,35,1) (/turf/open/indestructible/ground/outside/desert)
+ -   call stack:
+ - /datum/progressbar (/datum/progressbar): New(Luicio Notav (/mob/living/carbon/human), 10, null)
+ - do after(Luicio Notav (/mob/living/carbon/human), 10, 1, null, 1, null, 9, 0)
+ - Toggle Scope (/datum/action/item_action/toggle_scope_zoom): Trigger()
+ - Toggle Scope (/obj/screen/movable/action_button): Click(null, "mapwindow.map", "icon-x=9;icon-y=14;left=1;scre...", 0)
+ - Jhonatan lima (/client): Click(Toggle Scope (/obj/screen/movable/action_button), null, "mapwindow.map", "icon-x=9;icon-y=14;left=1;scre...", 0)
+ - 
+[2021-05-18 15:46:29.044] runtime error: Cannot read null.progressbars
+ - proc name: Destroy (/datum/progressbar/Destroy)
+ -   source file: progressbar.dm,52
+ -   usr: Luicio Notav (/mob/living/carbon/human)
+ -   src: /datum/progressbar (/datum/progressbar)
+ -   usr.loc: the desert (116,36,1) (/turf/open/indestructible/ground/outside/desert)
+ -   call stack:
+ - /datum/progressbar (/datum/progressbar): Destroy(0)
+ - qdel(/datum/progressbar (/datum/progressbar), 0)
+ - do after(Luicio Notav (/mob/living/carbon/human), 10, 1, null, 1, null, 9, 0)
+ - Toggle Scope (/datum/action/item_action/toggle_scope_zoom): Trigger()
+ - Toggle Scope (/obj/screen/movable/action_button): Click(null, "mapwindow.map", "icon-x=9;icon-y=14;left=1;scre...", 0)
+ - 
+[2021-05-18 15:46:43.899] Shutting down Chat subsystem...
+[2021-05-18 15:46:43.900] Shutting down Persistence subsystem...
+[2021-05-18 15:46:43.901] Shutting down Pathfinder subsystem...
+[2021-05-18 15:46:43.902] Shutting down Minor Mapping subsystem...
+[2021-05-18 15:46:43.903] Shutting down Shuttle subsystem...
+[2021-05-18 15:46:43.904] Shutting down Lighting subsystem...
+[2021-05-18 15:46:43.905] Shutting down XKeyScore subsystem...
+[2021-05-18 15:46:43.906] Shutting down Sticky Ban subsystem...
+[2021-05-18 15:46:43.907] Shutting down Overlay subsystem...
+[2021-05-18 15:46:43.957] Shutting down Icon Smoothing subsystem...
+[2021-05-18 15:46:43.958] Shutting down Assets subsystem...
+[2021-05-18 15:46:43.959] Shutting down Atmospherics subsystem...
+[2021-05-18 15:46:43.960] Shutting down Wet floors subsystem...
+[2021-05-18 15:46:43.961] Shutting down Weather subsystem...
+[2021-05-18 15:46:43.962] Shutting down Vote subsystem...
+[2021-05-18 15:46:43.963] Shutting down Traumas subsystem...
+[2021-05-18 15:46:43.964] Shutting down Time Tracking subsystem...
+[2021-05-18 15:46:43.965] Shutting down Throwing subsystem...
+[2021-05-18 15:46:43.966] Shutting down tgui subsystem...
+[2021-05-18 15:46:43.967] Shutting down Sun subsystem...
+[2021-05-18 15:46:43.968] Shutting down Status Effects subsystem...
+[2021-05-18 15:46:43.969] Shutting down Space Drift subsystem...
+[2021-05-18 15:46:43.969] Shutting down Radio subsystem...
+[2021-05-18 15:46:43.970] Shutting down Radiation subsystem...
+[2021-05-18 15:46:43.971] Shutting down Projectiles subsystem...
+[2021-05-18 15:46:43.972] Shutting down Processing subsystem...
+[2021-05-18 15:46:43.973] Shutting down Parallax subsystem...
+[2021-05-18 15:46:43.974] Shutting down pAI subsystem...
+[2021-05-18 15:46:43.975] Shutting down Objects subsystem...
+[2021-05-18 15:46:43.976] Shutting down NPC Pool subsystem...
+[2021-05-18 15:46:43.976] Shutting down Night Shift subsystem...
+[2021-05-18 15:46:43.977] Shutting down Nanites subsystem...
+[2021-05-18 15:46:43.978] Shutting down Monster Wave subsystem...
+[2021-05-18 15:46:43.979] Shutting down Mobs subsystem...
+[2021-05-18 15:46:43.980] Shutting down Mob Spawners subsystem...
+[2021-05-18 15:46:43.981] Shutting down Minimaps subsystem...
+[2021-05-18 15:46:43.982] Shutting down Medals subsystem...
+[2021-05-18 15:46:43.983] Shutting down Materials subsystem...
+[2021-05-18 15:46:43.983] Shutting down Jukeboxes subsystem...
+[2021-05-18 15:46:43.984] Shutting down Item Spawners subsystem...
+[2021-05-18 15:46:43.985] Shutting down Idling NPC Pool subsystem...
+[2021-05-18 15:46:43.986] Shutting down HUD updates subsystem...
+[2021-05-18 15:46:43.987] Shutting down Fluids subsystem...
+[2021-05-18 15:46:43.988] Shutting down Fire Burning subsystem...
+[2021-05-18 15:46:43.989] Shutting down Fields subsystem...
+[2021-05-18 15:46:43.990] Shutting down Fast Processing subsystem...
+[2021-05-18 15:46:43.991] Shutting down Disease subsystem...
+[2021-05-18 15:46:43.992] Shutting down Day/Night Cycle subsystem...
+[2021-05-18 15:46:43.993] Shutting down Datum Component System subsystem...
+[2021-05-18 15:46:43.994] Shutting down Communications subsystem...
+[2021-05-18 15:46:43.995] Shutting down Chemistry subsystem...
+[2021-05-18 15:46:43.996] Shutting down Auxtools Callbacks subsystem...
+[2021-05-18 15:46:43.997] Shutting down Autotransfer Vote subsystem...
+[2021-05-18 15:46:43.997] Shutting down Augury subsystem...
+[2021-05-18 15:46:43.998] Shutting down Atmos Adjacency subsystem...
+[2021-05-18 15:46:44.000] Shutting down Acid subsystem...
+[2021-05-18 15:46:44.000] Shutting down Timer subsystem...
+[2021-05-18 15:46:44.001] Shutting down Circuit subsystem...
+[2021-05-18 15:46:44.003] Shutting down Machines subsystem...
+[2021-05-18 15:46:44.004] Shutting down Language subsystem...
+[2021-05-18 15:46:44.004] Shutting down Atoms subsystem...
+[2021-05-18 15:46:44.005] Shutting down Holodeck subsystem...
+[2021-05-18 15:46:44.007] Shutting down Networks subsystem...
+[2021-05-18 15:46:44.007] Shutting down Economy subsystem...
+[2021-05-18 15:46:44.008] Shutting down Mapping subsystem...
+[2021-05-18 15:46:44.009] Shutting down Instruments subsystem...
+[2021-05-18 15:46:44.011] Shutting down Ticker subsystem...
+[2021-05-18 15:46:44.089] runtime error: Admin datum created without a rank
+ - proc name: New (/datum/admins/New)
+ -   source file: holder2.dm,45
+ -   usr: null
+ -   src: nobody\'s admin datum (no rank... (/datum/admins)
+ -   call stack:
+ - nobody\'s admin datum (no rank... (/datum/admins): New(null, "dantesousa", 0, 1)
+ - load admins(1)
+ - Ticker (/datum/controller/subsystem/ticker): save admin data()
+ - Ticker (/datum/controller/subsystem/ticker): Shutdown()
+ - Master (/datum/controller/master): Shutdown()
+ - world: Reboot(0, 0)
+ - Ticker (/datum/controller/subsystem/ticker): Reboot("Round ended.", "proper completion", 600)
+ - 
+[2021-05-18 15:46:44.315] Shutting down Quirks subsystem...
+[2021-05-18 15:46:44.316] Shutting down Jobs subsystem...
+[2021-05-18 15:46:44.317] Shutting down Events subsystem...
+[2021-05-18 15:46:44.318] Shutting down Research subsystem...
+[2021-05-18 15:46:44.319] Shutting down Vis contents overlays subsystem...
+[2021-05-18 15:46:44.320] Shutting down Sounds subsystem...
+[2021-05-18 15:46:44.321] Shutting down Input subsystem...
+[2021-05-18 15:46:44.321] Shutting down Server Tasks subsystem...
+[2021-05-18 15:46:44.323] Shutting down Blackbox subsystem...
+[2021-05-18 15:46:44.354] Shutting down Stat Panels subsystem...
+[2021-05-18 15:46:44.355] Shutting down Database subsystem...
+[2021-05-18 15:46:44.366] Shutting down Garbage subsystem...
+[2021-05-18 15:46:44.810] Shutting down Title Screen subsystem...
+[2021-05-18 15:46:44.821] Shutting down Fail2Topic subsystem...
+[2021-05-18 15:46:45.036] Shutting down Profiler subsystem...
+[2021-05-18 15:46:45.037] Shutdown complete
+[2021-05-18 15:46:45.038] World rebooted at 15:46:45

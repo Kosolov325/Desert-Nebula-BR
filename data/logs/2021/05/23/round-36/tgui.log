@@ -1,0 +1,30 @@
+[2021-05-23 23:39:01.865] Starting up round ID 36.
+ - -------------------------
+[2021-05-23 23:39:02.598] mruniverso in browseroutput/initialize
+[2021-05-23 23:41:29.441] matheusgp9999 in browseroutput/initialize
+[2021-05-23 23:42:16.172] baeiou in browseroutput/initialize
+[2021-05-23 23:42:46.076] italos in browseroutput/initialize
+[2021-05-23 23:44:12.764] matheusgp9999 (as Nycolly Nywt at 4,63,2)
+ - Using: /datum/component/loadout_selector [0x21035219]
+ - new LoadoutSelect fancy 1
+[2021-05-23 23:44:12.765] matheusgp9999 in tgui-window-1/initialize
+ - Using: /datum/component/loadout_selector [0x21035219]
+[2021-05-23 23:44:19.193] matheusgp9999 (as Nycolly Nywt at 4,63,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21035219]
+ - Action: loadout_select {"name":"Salvager"}
+[2021-05-23 23:44:20.311] matheusgp9999 (as Nycolly Nywt at 4,63,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21035219]
+ - Action: loadout_select {"name":"Salvager"}
+[2021-05-23 23:44:20.312] matheusgp9999 (as Nycolly Nywt at 4,63,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21035219]
+ - Action: loadout_select {"name":"Salvager"}
+[2021-05-23 23:44:20.498] matheusgp9999 (as Nycolly Nywt at 4,63,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21035219]
+ - Action: loadout_select {"name":"Salvager"}
+[2021-05-23 23:44:22.085] matheusgp9999 (as Nycolly Nywt at 4,63,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21035219]
+ - Action: loadout_confirm {}
+[2021-05-23 23:44:22.128] matheusgp9999 in tgui-window-1/close (suspending)
+[2021-05-23 23:58:45.002] baeiou in browseroutput/initialize
+[2021-05-24 00:01:26.562] fidgetybacchus in browseroutput/initialize
+[2021-05-24 00:13:53.837] baeiou in browseroutput/initialize

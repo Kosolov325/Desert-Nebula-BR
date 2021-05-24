@@ -1,0 +1,46 @@
+[2021-05-19 02:05:53.080] Starting up round ID 22.
+ - -------------------------
+[2021-05-19 02:05:53.106] GAME: Round ID: 22
+[2021-05-19 02:05:53.204] ADMIN: Errored custom_items_whitelist line: JayEhh|ALL|ALL|/obj/item/custom/ceb_soap=1 - Path/number for item missing or invalid.
+[2021-05-19 02:05:53.830] ACCESS: Login: Kaduh from 189.38.43.26-1455125992 || BYOND v513.1542
+[2021-05-19 02:05:53.953] ACCESS: Mob Login: Kaduh/(Kaduh) was assigned to a /mob/dead/new_player
+[2021-05-19 02:05:54.516] GAME: Saved mode is 'extended'
+[2021-05-19 02:05:55.832] GAME: Kaduh/(Kaduh) Client Kaduh/(Kaduh) has taken ownership of mob Kaduh(/mob/dead/new_player) (start area (180, 247, 1))
+[2021-05-19 02:05:55.862] ACCESS: Login: Bruno-Asbahr from 143.202.68.6-1022335411 || BYOND v513.1542
+[2021-05-19 02:05:56.388] ACCESS: Mob Login: Bruno-Asbahr/(Bruno-Asbahr) was assigned to a /mob/dead/new_player
+[2021-05-19 02:05:57.422] GAME: Bruno-Asbahr/(Bruno-Asbahr) Client Bruno-Asbahr/(Bruno-Asbahr) has taken ownership of mob Bruno-Asbahr(/mob/dead/new_player) (start area (180, 247, 1))
+[2021-05-19 02:06:02.794] ACCESS: Logout: Bruno-Asbahr/(Bruno-Asbahr)
+[2021-05-19 02:06:02.795] GAME: Bruno-Asbahr[DC]/(Bruno-Asbahr) Bruno-Asbahr[DC]/(Bruno-Asbahr) is no longer owning mob Bruno-Asbahr(/mob/dead/new_player) (start area (180, 247, 1))
+[2021-05-19 02:06:06.737] ACCESS: Logout: Diolko
+[2021-05-19 02:06:07.444] ACCESS: Login: Baeiou from 191.189.14.4-598825671 || BYOND v513.1542
+[2021-05-19 02:06:07.837] ACCESS: Login: Eversonblr from 45.161.231.236-2270709976 || BYOND v513.1542
+[2021-05-19 02:06:08.116] ACCESS: Mob Login: Baeiou/(Baeiou) was assigned to a /mob/dead/new_player
+[2021-05-19 02:06:08.373] ACCESS: Mob Login: Eversonblr/(Eversonblr) was assigned to a /mob/dead/new_player
+[2021-05-19 02:06:08.693] ACCESS: Logout: AkamaruBR
+[2021-05-19 02:06:08.990] ACCESS: Login: N0fun from 200.222.150.17-1507685415 || BYOND v513.1542
+[2021-05-19 02:06:09.512] ACCESS: Mob Login: N0fun/(N0fun) was assigned to a /mob/dead/new_player
+[2021-05-19 02:06:10.538] GAME: Baeiou/(Baeiou) Client Baeiou/(Baeiou) has taken ownership of mob Baeiou(/mob/dead/new_player) (start area (180, 247, 1))
+[2021-05-19 02:06:11.057] GAME: N0fun/(N0fun) Client N0fun/(N0fun) has taken ownership of mob N0fun(/mob/dead/new_player) (start area (180, 247, 1))
+[2021-05-19 02:06:12.163] ACCESS: Login: AdderVFX from 170.80.50.202-1099047464 || BYOND v513.1542
+[2021-05-19 02:06:12.468] ACCESS: Login: SondTheAnime from 189.105.205.47-2368659242 || BYOND v513.1542
+[2021-05-19 02:06:12.476] GAME: Eversonblr/(Eversonblr) Client Eversonblr/(Eversonblr) has taken ownership of mob Eversonblr(/mob/dead/new_player) (start area (180, 247, 1))
+[2021-05-19 02:06:12.722] ACCESS: Mob Login: AdderVFX/(AdderVFX) was assigned to a /mob/dead/new_player
+[2021-05-19 02:06:13.057] ACCESS: Mob Login: SondTheAnime/(SondTheAnime) was assigned to a /mob/dead/new_player
+[2021-05-19 02:06:13.476] GAME: An alien egg has been delivered to mountain (122, 20, 1)
+[2021-05-19 02:06:13.918] ACCESS: Login: Luciam from 200.142.179.212-3141635070 || BYOND v513.1542
+[2021-05-19 02:06:14.184] GAME: AdderVFX/(AdderVFX) Client AdderVFX/(AdderVFX) has taken ownership of mob AdderVFX(/mob/dead/new_player) (start area (180, 247, 1))
+[2021-05-19 02:06:14.436] ACCESS: Mob Login: Luciam/(Luciam) was assigned to a /mob/dead/new_player
+[2021-05-19 02:06:17.953] GAME: SondTheAnime/(SondTheAnime) Client SondTheAnime/(SondTheAnime) has taken ownership of mob SondTheAnime(/mob/dead/new_player) (start area (180, 247, 1))
+[2021-05-19 02:06:19.045] GAME: Luciam/(Luciam) Client Luciam/(Luciam) has taken ownership of mob Luciam(/mob/dead/new_player) (start area (180, 247, 1))
+[2021-05-19 02:06:20.390] ACCESS: Login: Matheusgp9999 from 201.80.89.162-2764564649 || BYOND v513.1542
+[2021-05-19 02:06:21.041] ACCESS: Login: Diolko from 201.82.49.52-2271807952 || BYOND v513.1542
+[2021-05-19 02:06:21.046] ACCESS: Mob Login: Matheusgp9999/(Matheusgp9999) was assigned to a /mob/dead/new_player
+[2021-05-19 02:06:21.565] ACCESS: Mob Login: Diolko/(Diolko) was assigned to a /mob/dead/new_player
+[2021-05-19 02:06:23.458] ACCESS: Login: AkamaruBR from 179.106.55.8-103229843 || BYOND v513.1542
+[2021-05-19 02:06:24.007] ACCESS: Mob Login: AkamaruBR/(AkamaruBR) was assigned to a /mob/dead/new_player
+[2021-05-19 02:06:24.589] GAME: Diolko/(Diolko) Client Diolko/(Diolko) has taken ownership of mob Diolko(/mob/dead/new_player) (start area (180, 247, 1))
+[2021-05-19 02:06:24.875] GAME: Matheusgp9999/(Matheusgp9999) Client Matheusgp9999/(Matheusgp9999) has taken ownership of mob Matheusgp9999(/mob/dead/new_player) (start area (180, 247, 1))
+[2021-05-19 02:06:25.147] GAME: AkamaruBR/(AkamaruBR) Client AkamaruBR/(AkamaruBR) has taken ownership of mob AkamaruBR(/mob/dead/new_player) (start area (180, 247, 1))
+[2021-05-19 02:06:34.802] ADMIN: Baeiou/(Baeiou) checked the player panel.
+[2021-05-19 02:06:42.854] ACCESS: Logout: Matheusgp9999/(Matheusgp9999)
+[2021-05-19 02:06:42.854] GAME: Matheusgp9999[DC]/(Matheusgp9999) Matheusgp9999[DC]/(Matheusgp9999) is no longer owning mob Matheusgp9999(/mob/dead/new_player) (start area (180, 247, 1))

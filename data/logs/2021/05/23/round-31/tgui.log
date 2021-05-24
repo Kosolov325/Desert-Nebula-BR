@@ -1,0 +1,1163 @@
+[2021-05-23 06:47:06.122] Starting up round ID 31.
+ - -------------------------
+[2021-05-23 06:47:10.587] goldencatc in browseroutput/initialize
+[2021-05-23 06:47:22.111] marco25555 in browseroutput/initialize
+[2021-05-23 06:47:24.799] albertovinhofino in browseroutput/initialize
+[2021-05-23 06:47:25.589] sondtheanime in browseroutput/initialize
+[2021-05-23 06:49:02.656] marco25555 in browseroutput/initialize
+[2021-05-23 10:40:43.532] alexalbright in browseroutput/initialize
+[2021-05-23 10:41:38.837] alexalbright (as Alex Magnus Primeiro at 62,35,2)
+ - Using: /datum/orbit_menu [0x210374c8]
+ - new Orbit fancy 1
+[2021-05-23 10:41:38.838] alexalbright in tgui-window-1/initialize
+ - Using: /datum/orbit_menu [0x210374c8]
+[2021-05-23 10:41:45.173] alexalbright (as Alex Magnus Primeiro at 62,35,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x210374c8]
+ - Action: orbit {"ref":"[0x2001bd0]"}
+[2021-05-23 10:41:46.742] alexalbright (as Alex Magnus Primeiro at 71,239,1) in tgui-window-1
+ - Using: /datum/orbit_menu [0x210374c8]
+ - Action: orbit {"ref":"[0x20119ae]"}
+[2021-05-23 10:41:48.539] alexalbright (as Alex Magnus Primeiro at 105,173,1) in tgui-window-1
+ - Using: /datum/orbit_menu [0x210374c8]
+ - Action: orbit {"ref":"[0x2001455]"}
+[2021-05-23 10:41:49.597] alexalbright (as Alex Magnus Primeiro at 151,189,1) in tgui-window-1
+ - Using: /datum/orbit_menu [0x210374c8]
+ - Action: orbit {"ref":"[0x2001466]"}
+[2021-05-23 10:42:00.746] alexalbright (as Alex Magnus Primeiro at 249,189,1) in tgui-window-1
+ - Using: /datum/orbit_menu [0x210374c8]
+ - Action: orbit {"ref":"[mob_854]"}
+[2021-05-23 10:42:03.029] alexalbright in tgui-window-1/close (suspending)
+[2021-05-23 10:42:03.029] alexalbright in tgui-window-1/close (suspending)
+[2021-05-23 10:42:04.113] alexalbright (as Alex Magnus Primeiro at 249,189,1)
+ - Using: /datum/orbit_menu [0x210374c8]
+ - new Orbit fancy 1
+[2021-05-23 10:43:16.617] alexalbright in tgui-window-1/close (suspending)
+[2021-05-23 10:43:16.617] alexalbright in tgui-window-1/close (suspending)
+[2021-05-23 10:50:37.642] alexalbright (as Alex Magnus Primeiro at 205,62,3)
+ - Using: /obj/machinery/chem_master/advanced [0x2007989]
+ - new ChemMaster fancy 1
+[2021-05-23 10:50:44.530] alexalbright in tgui-window-1/close (suspending)
+[2021-05-23 10:50:44.530] alexalbright in tgui-window-1/close (suspending)
+[2021-05-23 10:50:45.387] alexalbright (as Alex Magnus Primeiro at 205,62,3)
+ - Using: /obj/machinery/chem_master/advanced [0x2007989]
+ - new ChemMaster fancy 1
+[2021-05-23 10:50:50.121] alexalbright in tgui-window-1/close (suspending)
+[2021-05-23 10:50:50.122] alexalbright in tgui-window-1/close (suspending)
+[2021-05-23 10:55:10.117] alexalbright (as Alex Magnus Primeiro at 90,227,3)
+ - Using: /obj/machinery/chem_master/advanced [0x2046862]
+ - new ChemMaster fancy 1
+[2021-05-23 10:55:12.414] alexalbright in tgui-window-1/close (suspending)
+[2021-05-23 10:55:12.415] alexalbright in tgui-window-1/close (suspending)
+[2021-05-23 10:59:54.038] alexalbright (as Alex Magnus Primeiro at 47,30,3)
+ - Using: /obj/machinery/mineral/equipment_vendor [0x2006757]
+ - new MiningVendor fancy 1
+[2021-05-23 10:59:57.701] alexalbright in tgui-window-1/close (suspending)
+[2021-05-23 10:59:57.702] alexalbright in tgui-window-1/close (suspending)
+[2021-05-23 11:00:01.197] alexalbright (as Alex Magnus Primeiro at 42,30,3)
+ - Using: /obj/machinery/mineral/ore_redemption [0x200662e]
+ - new OreRedemptionMachine fancy 1
+[2021-05-23 11:00:04.113] alexalbright in tgui-window-1/close (suspending)
+[2021-05-23 11:00:04.113] alexalbright in tgui-window-1/close (suspending)
+[2021-05-23 11:00:05.747] alexalbright (as Alex Magnus Primeiro at 42,30,3)
+ - Using: /obj/machinery/mineral/equipment_vendor [0x2006757]
+ - new MiningVendor fancy 1
+[2021-05-23 11:00:29.737] alexalbright in tgui-window-1/close (suspending)
+[2021-05-23 11:00:29.737] alexalbright in tgui-window-1/close (suspending)
+[2021-05-23 11:02:34.119] gatossj in browseroutput/initialize
+[2021-05-23 11:10:11.221] alexalbright (as Alex Magnus Primeiro at 34,208,2)
+ - Using: /datum/orbit_menu [0x210374c8]
+ - new Orbit fancy 1
+[2021-05-23 11:10:13.593] alexalbright (as Alex Magnus Primeiro at 34,208,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x210374c8]
+ - Action: orbit {"ref":"[mob_861]"}
+[2021-05-23 11:10:14.455] alexalbright (as Alex Magnus Primeiro at 46,169,4) in tgui-window-1
+ - Using: /datum/orbit_menu [0x210374c8]
+ - Action: orbit {"ref":"[mob_861]"}
+[2021-05-23 11:10:15.797] alexalbright in tgui-window-1/close (suspending)
+[2021-05-23 11:10:15.797] alexalbright in tgui-window-1/close (suspending)
+[2021-05-23 11:13:01.242] littleplayer0102 in browseroutput/initialize
+[2021-05-23 11:31:27.353] alexalbright (as Alex Magnus Primeiro at 52,246,4)
+ - Using: /datum/orbit_menu [0x210374c8]
+ - new Orbit fancy 1
+[2021-05-23 11:31:28.569] alexalbright (as Alex Magnus Primeiro at 52,246,4) in tgui-window-1
+ - Using: /datum/orbit_menu [0x210374c8]
+ - Action: orbit {"ref":"[mob_861]"}
+[2021-05-23 11:31:30.637] alexalbright in tgui-window-1/close (suspending)
+[2021-05-23 11:31:30.637] alexalbright in tgui-window-1/close (suspending)
+[2021-05-23 11:31:56.353] alexalbright (as Alex Magnus Primeiro at 50,206,4)
+ - Using: /datum/orbit_menu [0x210374c8]
+ - new Orbit fancy 1
+[2021-05-23 11:31:59.401] alexalbright in tgui-window-1/close (suspending)
+[2021-05-23 11:31:59.401] alexalbright in tgui-window-1/close (suspending)
+[2021-05-23 11:35:07.545] alexalbright (as Stella Earl at 251,68,2)
+ - Using: /datum/component/loadout_selector [0x2103e72f]
+ - new LoadoutSelect fancy 1
+[2021-05-23 11:35:08.987] alexalbright (as Stella Earl at 251,68,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103e72f]
+ - Action: loadout_select {"name":"Wasteland Doctor"}
+[2021-05-23 11:35:09.652] alexalbright (as Stella Earl at 251,68,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103e72f]
+ - Action: loadout_select {"name":"Scavenger"}
+[2021-05-23 11:35:10.194] alexalbright (as Stella Earl at 251,68,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103e72f]
+ - Action: loadout_select {"name":"Legion Citizen"}
+[2021-05-23 11:35:14.256] alexalbright (as Stella Earl at 251,68,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103e72f]
+ - Action: loadout_confirm {}
+[2021-05-23 11:35:14.281] alexalbright in tgui-window-1/close (suspending)
+[2021-05-23 11:38:10.449] alexalbright (as Alex Magnus Primeiro at 233,254,2)
+ - Using: /datum/component/loadout_selector [0x2103ee9a]
+ - new LoadoutSelect fancy 1
+[2021-05-23 11:38:12.145] alexalbright (as Alex Magnus Primeiro at 233,254,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103ee9a]
+ - Action: loadout_select {"name":"Legion Citizen"}
+[2021-05-23 11:38:13.057] alexalbright (as Alex Magnus Primeiro at 233,254,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103ee9a]
+ - Action: loadout_select {"name":"Legion Citizen"}
+[2021-05-23 11:38:14.165] alexalbright (as Alex Magnus Primeiro at 233,254,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103ee9a]
+ - Action: loadout_select {"name":"Scavenger"}
+[2021-05-23 11:38:15.069] alexalbright (as Alex Magnus Primeiro at 233,254,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103ee9a]
+ - Action: loadout_select {"name":"Roving Trader"}
+[2021-05-23 11:38:16.813] alexalbright (as Alex Magnus Primeiro at 233,254,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103ee9a]
+ - Action: loadout_select {"name":"Scavenger"}
+[2021-05-23 11:38:19.893] alexalbright (as Alex Magnus Primeiro at 233,254,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103ee9a]
+ - Action: loadout_confirm {}
+[2021-05-23 11:38:19.934] alexalbright in tgui-window-1/close (suspending)
+[2021-05-23 11:41:08.651] hue100 in browseroutput/initialize
+[2021-05-23 11:42:01.678] alexalbright (as Alex Magnus Primeiro at 212,80,2)
+ - Using: /obj/machinery/vending/tool [0x20059a3]
+ - new Vending fancy 1
+[2021-05-23 11:42:04.973] alexalbright (as Alex Magnus Primeiro at 212,80,2) in tgui-window-1
+ - Using: /obj/machinery/vending/tool [0x20059a3]
+ - Action: vend {"ref":"[0x2100c656]"}
+[2021-05-23 11:42:06.281] alexalbright in tgui-window-1/close (suspending)
+[2021-05-23 11:42:06.281] alexalbright in tgui-window-1/close (suspending)
+[2021-05-23 11:42:14.788] hue100 (as Miller Mike at 3,60,2)
+ - Using: /datum/component/loadout_selector [0x2103ef02]
+ - new LoadoutSelect fancy 0
+[2021-05-23 11:42:14.789] hue100 in tgui-window-1/initialize
+ - Using: /datum/component/loadout_selector [0x2103ef02]
+[2021-05-23 11:42:16.462] hue100 (as Miller Mike at 3,60,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103ef02]
+ - Action: loadout_select {"name":"Salvager"}
+[2021-05-23 11:42:17.324] hue100 (as Miller Mike at 3,60,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103ef02]
+ - Action: loadout_select {"name":"Vaultie"}
+[2021-05-23 11:42:20.675] hue100 (as Miller Mike at 3,60,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103ef02]
+ - Action: loadout_select {"name":"Salvager"}
+[2021-05-23 11:42:26.244] hue100 (as Miller Mike at 3,60,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103ef02]
+ - Action: loadout_select {"name":"Wasteland Doctor"}
+[2021-05-23 11:42:27.349] hue100 (as Miller Mike at 3,60,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103ef02]
+ - Action: loadout_select {"name":"Roving Trader"}
+[2021-05-23 11:42:31.665] hue100 (as Miller Mike at 3,60,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103ef02]
+ - Action: loadout_select {"name":"Scavenger"}
+[2021-05-23 11:42:36.671] hue100 (as Miller Mike at 3,60,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103ef02]
+ - Action: loadout_select {"name":"Legion Citizen"}
+[2021-05-23 11:42:42.532] hue100 (as Miller Mike at 3,60,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103ef02]
+ - Action: loadout_select {"name":"NCR Citizen"}
+[2021-05-23 11:42:53.301] hue100 (as Miller Mike at 3,60,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103ef02]
+ - Action: loadout_select {"name":"Vaultie"}
+[2021-05-23 11:42:54.989] hue100 (as Miller Mike at 3,60,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103ef02]
+ - Action: loadout_confirm {}
+[2021-05-23 11:42:55.050] hue100 in tgui-window-1/close (suspending)
+[2021-05-23 11:42:55.373] alexalbright (as Alex Magnus Primeiro at 212,80,2)
+ - Using: /obj/machinery/vending/tool [0x20059a3]
+ - new Vending fancy 1
+[2021-05-23 11:43:01.257] alexalbright in tgui-window-1/close (suspending)
+[2021-05-23 11:43:01.257] alexalbright in tgui-window-1/close (suspending)
+[2021-05-23 11:48:39.674] hue100 (as Miller Mike at 43,38,2)
+ - Using: /datum/orbit_menu [0x2103edc8]
+ - new Orbit fancy 0
+[2021-05-23 11:48:41.128] hue100 (as Miller Mike at 43,38,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2103edc8]
+ - Action: orbit {"ref":"[mob_876]"}
+[2021-05-23 11:48:43.958] hue100 (as Miller Mike at 210,58,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2103edc8]
+ - Action: orbit {"ref":"[mob_861]"}
+[2021-05-23 11:48:45.969] hue100 (as Miller Mike at 50,206,4) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2103edc8]
+ - Action: orbit {"ref":"[mob_876]"}
+[2021-05-23 11:48:50.078] hue100 (as Miller Mike at 209,56,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2103edc8]
+ - Action: orbit {"ref":"[mob_861]"}
+[2021-05-23 11:49:12.439] hue100 in tgui-window-1/close (suspending)
+[2021-05-23 11:53:54.487] kaduh in browseroutput/initialize
+[2021-05-23 11:56:47.533] alexalbright (as Unknown at 218,44,2)
+ - Using: /datum/skill_holder [0x21008b05]
+ - new SkillPanel fancy 1
+[2021-05-23 11:56:53.506] kaduh (as Erika Miller at 159,247,2)
+ - Using: /obj/machinery/seed_extractor [0x2004a69]
+ - new SeedExtractor fancy 1
+[2021-05-23 11:56:53.506] kaduh in tgui-window-1/initialize
+ - Using: /obj/machinery/seed_extractor [0x2004a69]
+[2021-05-23 11:56:55.710] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 11:56:55.710] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 11:56:56.806] kaduh (as Erika Miller at 159,247,2)
+ - Using: /obj/machinery/biogenerator [0x2004a66]
+ - new Biogenerator fancy 1
+[2021-05-23 11:57:01.944] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 11:57:01.944] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 11:57:03.005] kaduh (as Erika Miller at 159,247,2)
+ - Using: /obj/machinery/vending/wardrobe/hydro_wardrobe [0x2004a09]
+ - new Vending fancy 1
+[2021-05-23 11:57:05.872] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 11:57:05.873] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 11:58:02.197] kaduh (as Erika Miller at 132,237,2)
+ - Using: /datum/orbit_menu [0x2103ef2d]
+ - new Orbit fancy 1
+[2021-05-23 11:58:03.998] kaduh (as Erika Miller at 132,237,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2103ef2d]
+ - Action: orbit {"ref":"[mob_861]"}
+[2021-05-23 11:58:19.001] alexalbright in tgui-window-1/close (suspending)
+[2021-05-23 11:58:19.001] alexalbright in tgui-window-1/close (suspending)
+[2021-05-23 11:58:26.884] kaduh (as Erika Miller at 53,209,4) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2103ef2d]
+ - Action: orbit {"ref":"[mob_876]"}
+[2021-05-23 11:58:55.648] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 11:58:55.648] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 12:32:12.154] gabrieldoombr in browseroutput/initialize
+[2021-05-23 12:41:50.200] gabrieldoombr (as Baam Frest at 76,37,3)
+ - Using: /datum/component/personal_crafting [0x2100887d]
+ - new PersonalCrafting fancy 1
+[2021-05-23 12:41:50.200] gabrieldoombr in tgui-window-1/initialize
+ - Using: /datum/component/personal_crafting [0x2100887d]
+[2021-05-23 12:41:53.620] gabrieldoombr (as Baam Frest at 76,37,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2100887d]
+ - Action: set_category {"category":"Misc","subcategory":"Bottling"}
+[2021-05-23 12:41:54.676] gabrieldoombr (as Baam Frest at 76,37,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2100887d]
+ - Action: set_category {"category":"Misc","subcategory":"Farming"}
+[2021-05-23 12:41:55.782] gabrieldoombr (as Baam Frest at 76,37,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2100887d]
+ - Action: set_category {"category":"Misc","subcategory":"Miscellaneous"}
+[2021-05-23 12:41:56.400] gabrieldoombr (as Baam Frest at 76,37,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2100887d]
+ - Action: set_category {"category":"Misc","subcategory":"Burial & Execution"}
+[2021-05-23 12:41:57.220] gabrieldoombr (as Baam Frest at 76,37,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2100887d]
+ - Action: set_category {"category":"Misc","subcategory":"Farming"}
+[2021-05-23 12:41:57.724] gabrieldoombr (as Baam Frest at 76,37,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2100887d]
+ - Action: set_category {"category":"Crafting","subcategory":"Tools & Workbench"}
+[2021-05-23 12:41:58.657] gabrieldoombr (as Baam Frest at 76,37,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2100887d]
+ - Action: set_category {"category":"Crafting","subcategory":"Scavenging & Tinkering"}
+[2021-05-23 12:42:02.045] gabrieldoombr (as Baam Frest at 76,37,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2100887d]
+ - Action: set_category {"category":"Crafting","subcategory":"Forging & Smithing"}
+[2021-05-23 12:42:04.195] gabrieldoombr (as Baam Frest at 76,37,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2100887d]
+ - Action: set_category {"category":"Crafting","subcategory":"Electronics & Robots"}
+[2021-05-23 12:42:05.804] gabrieldoombr (as Baam Frest at 76,37,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2100887d]
+ - Action: set_category {"category":"Clothing","subcategory":"Wasteland Clothing"}
+[2021-05-23 12:42:06.528] gabrieldoombr (as Baam Frest at 76,37,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2100887d]
+ - Action: set_category {"category":"Clothing","subcategory":"General Clothing"}
+[2021-05-23 12:42:07.532] gabrieldoombr (as Baam Frest at 76,37,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2100887d]
+ - Action: set_category {"category":"Clothing","subcategory":"Misc Clothing"}
+[2021-05-23 12:42:08.580] gabrieldoombr (as Baam Frest at 76,37,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2100887d]
+ - Action: set_category {"category":"Weaponry","subcategory":"Melee Weapons"}
+[2021-05-23 12:42:09.731] gabrieldoombr (as Baam Frest at 76,37,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2100887d]
+ - Action: set_category {"category":"Weaponry","subcategory":"Ranged Weapons"}
+[2021-05-23 12:42:10.516] gabrieldoombr (as Baam Frest at 76,37,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2100887d]
+ - Action: set_category {"category":"Weaponry","subcategory":"Explosives & Cells"}
+[2021-05-23 12:42:13.155] gabrieldoombr (as Baam Frest at 76,37,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2100887d]
+ - Action: set_category {"category":"Medical"}
+[2021-05-23 12:42:13.848] gabrieldoombr (as Baam Frest at 76,37,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2100887d]
+ - Action: set_category {"category":"Weaponry","subcategory":"Explosives & Cells"}
+[2021-05-23 12:42:15.805] gabrieldoombr (as Baam Frest at 76,37,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2100887d]
+ - Action: make {"recipe":"[0x210012be]"}
+[2021-05-23 12:42:17.065] gabrieldoombr in tgui-window-1/close (suspending)
+[2021-05-23 12:42:17.065] gabrieldoombr in tgui-window-1/close (suspending)
+[2021-05-23 12:43:50.051] kaduh in browseroutput/initialize
+[2021-05-23 12:44:31.067] kaduh (as Erika Miller at 197,213,2)
+ - Using: /datum/orbit_menu [0x2103ef2d]
+ - new Orbit fancy 1
+[2021-05-23 12:44:31.068] kaduh in tgui-window-1/initialize
+ - Using: /datum/orbit_menu [0x2103ef2d]
+[2021-05-23 12:44:32.521] kaduh (as Erika Miller at 197,213,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2103ef2d]
+ - Action: orbit {"ref":"[mob_914]"}
+[2021-05-23 12:44:43.242] kaduh (as Erika Miller at 57,39,3) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2103ef2d]
+ - Action: orbit {"ref":"[mob_861]"}
+[2021-05-23 12:44:44.773] kaduh (as Erika Miller at 50,206,4) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2103ef2d]
+ - Action: orbit {"ref":"[mob_876]"}
+[2021-05-23 12:44:54.384] kaduh (as Erika Miller at 240,32,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2103ef2d]
+ - Action: orbit {"ref":"[mob_914]"}
+[2021-05-23 12:44:56.562] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 12:44:56.562] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 12:45:48.797] gabrieldoombr (as Baam Frest at 76,37,3)
+ - Using: /datum/component/personal_crafting [0x2100887d]
+ - new PersonalCrafting fancy 1
+[2021-05-23 12:45:53.706] gabrieldoombr (as Baam Frest at 76,37,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2100887d]
+ - Action: set_category {"category":"Clothing","subcategory":"Wasteland Clothing"}
+[2021-05-23 12:45:54.150] gabrieldoombr (as Baam Frest at 76,37,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2100887d]
+ - Action: set_category {"category":"Clothing","subcategory":"General Clothing"}
+[2021-05-23 12:45:57.180] gabrieldoombr (as Baam Frest at 76,37,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2100887d]
+ - Action: set_category {"category":"Clothing","subcategory":"Armor"}
+[2021-05-23 12:45:57.846] gabrieldoombr (as Baam Frest at 76,37,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2100887d]
+ - Action: set_category {"category":"Clothing","subcategory":"Shoes"}
+[2021-05-23 12:45:58.426] gabrieldoombr (as Baam Frest at 76,37,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2100887d]
+ - Action: set_category {"category":"Clothing","subcategory":"Belts"}
+[2021-05-23 12:45:59.854] gabrieldoombr (as Baam Frest at 76,37,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2100887d]
+ - Action: make {"recipe":"[0x210011c5]"}
+[2021-05-23 12:46:00.842] gabrieldoombr in tgui-window-1/close (suspending)
+[2021-05-23 12:46:00.842] gabrieldoombr in tgui-window-1/close (suspending)
+[2021-05-23 12:47:34.303] kaduh (as Erika Miller at 105,40,3)
+ - Using: /obj/machinery/vending/wardrobe/medi_wardrobe [0x2007083]
+ - new Vending fancy 1
+[2021-05-23 12:47:35.760] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 12:47:35.760] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 13:00:47.148] kaduh (as Erika Miller at 107,40,3)
+ - Using: /datum/component/loadout_selector [0x21003751]
+ - new LoadoutSelect fancy 1
+[2021-05-23 13:00:48.520] kaduh (as Erika Miller at 107,39,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21003751]
+ - Action: loadout_select {"name":"Mechanic"}
+[2021-05-23 13:00:49.493] kaduh (as Erika Miller at 107,39,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21003751]
+ - Action: loadout_select {"name":"Mechanic"}
+[2021-05-23 13:00:50.986] kaduh (as Erika Miller at 107,39,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21003751]
+ - Action: loadout_confirm {}
+[2021-05-23 13:00:50.998] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 13:04:35.450] kaduh (as Erika Miller at 91,57,2)
+ - Using: /obj/machinery/vending/hydronutrients [0x2003943]
+ - new Vending fancy 1
+[2021-05-23 13:04:36.758] kaduh (as Erika Miller at 91,57,2) in tgui-window-1
+ - Using: /obj/machinery/vending/hydronutrients [0x2003943]
+ - Action: vend {"ref":"[0x21009764]"}
+[2021-05-23 13:04:38.442] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 13:04:38.442] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 13:04:51.459] kaduh (as Erika Miller at 92,57,2)
+ - Using: /obj/machinery/vending/hydronutrients [0x2003943]
+ - new Vending fancy 1
+[2021-05-23 13:04:53.839] kaduh (as Erika Miller at 92,57,2) in tgui-window-1
+ - Using: /obj/machinery/vending/hydronutrients [0x2003943]
+ - Action: vend {"ref":"[0x21009767]"}
+[2021-05-23 13:04:55.476] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 13:04:55.476] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 13:06:04.962] kosolov325 in browseroutput/initialize
+[2021-05-23 13:06:15.427] kosolov325 in browseroutput/initialize
+[2021-05-23 13:06:44.916] kosolov325 in browseroutput/initialize
+[2021-05-23 13:07:49.585] kosolov325 in browseroutput/initialize
+[2021-05-23 13:16:02.582] luiz20 in browseroutput/initialize
+[2021-05-23 13:19:52.093] luiz20 (as Unknown at 153,131,3)
+ - Using: /datum/component/loadout_selector [0x21040a3d]
+ - new LoadoutSelect fancy 1
+[2021-05-23 13:19:52.093] luiz20 in tgui-window-1/initialize
+ - Using: /datum/component/loadout_selector [0x21040a3d]
+[2021-05-23 13:20:02.878] luiz20 (as Unknown at 153,131,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040a3d]
+ - Action: loadout_select {"name":"Badlands"}
+[2021-05-23 13:20:06.026] luiz20 (as Unknown at 153,131,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040a3d]
+ - Action: loadout_select {"name":"Painspike"}
+[2021-05-23 13:20:08.560] luiz20 (as Unknown at 153,131,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040a3d]
+ - Action: loadout_select {"name":"Badlands"}
+[2021-05-23 13:20:10.471] luiz20 (as Unknown at 153,131,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040a3d]
+ - Action: loadout_confirm {}
+[2021-05-23 13:20:10.500] luiz20 in tgui-window-1/close (suspending)
+[2021-05-23 13:28:23.969] kosolov325 (as Unknown at 135,137,3)
+ - Using: /datum/component/loadout_selector [0x2104085e]
+ - new LoadoutSelect fancy 1
+[2021-05-23 13:28:23.970] kosolov325 in tgui-window-1/initialize
+ - Using: /datum/component/loadout_selector [0x2104085e]
+[2021-05-23 13:28:26.797] kosolov325 in tgui-window-1/close (suspending)
+[2021-05-23 13:28:26.797] kosolov325 in tgui-window-1/close (suspending)
+[2021-05-23 13:28:27.588] kosolov325 (as Unknown at 134,138,3)
+ - Using: /datum/component/loadout_selector [0x2104085e]
+ - new LoadoutSelect fancy 1
+[2021-05-23 13:28:30.464] kosolov325 (as Unknown at 134,138,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2104085e]
+ - Action: loadout_select {"name":"Yankee"}
+[2021-05-23 13:28:34.679] kosolov325 (as Unknown at 134,138,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2104085e]
+ - Action: loadout_select {"name":"Supa-fly"}
+[2021-05-23 13:28:38.679] kosolov325 (as Unknown at 134,138,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2104085e]
+ - Action: loadout_select {"name":"Yankee"}
+[2021-05-23 13:28:38.700] kosolov325 (as Unknown at 134,138,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2104085e]
+ - Action: loadout_select {"name":"Yankee"}
+[2021-05-23 13:28:39.586] kosolov325 (as Unknown at 134,138,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2104085e]
+ - Action: loadout_select {"name":"Blastmaster"}
+[2021-05-23 13:28:40.770] kosolov325 (as Unknown at 134,138,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2104085e]
+ - Action: loadout_select {"name":"Blastmaster"}
+[2021-05-23 13:28:41.045] kosolov325 (as Unknown at 134,138,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2104085e]
+ - Action: loadout_select {"name":"Blastmaster"}
+[2021-05-23 13:28:42.503] kosolov325 (as Unknown at 134,138,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2104085e]
+ - Action: loadout_select {"name":"Sadist"}
+[2021-05-23 13:28:52.910] kosolov325 (as Unknown at 134,138,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2104085e]
+ - Action: loadout_select {"name":"Painspike"}
+[2021-05-23 13:28:55.399] kosolov325 (as Unknown at 134,138,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2104085e]
+ - Action: loadout_select {"name":"Badlands"}
+[2021-05-23 13:28:56.333] kosolov325 (as Unknown at 134,138,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2104085e]
+ - Action: loadout_select {"name":"Badlands"}
+[2021-05-23 13:28:58.831] kosolov325 (as Unknown at 134,138,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2104085e]
+ - Action: loadout_select {"name":"Brotherhood Exile"}
+[2021-05-23 13:29:01.694] kosolov325 (as Unknown at 134,138,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2104085e]
+ - Action: loadout_select {"name":"NCR Deserter"}
+[2021-05-23 13:29:02.656] kosolov325 (as Unknown at 134,138,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2104085e]
+ - Action: loadout_select {"name":"NCR Deserter"}
+[2021-05-23 13:29:08.160] kosolov325 (as Unknown at 134,138,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2104085e]
+ - Action: loadout_select {"name":"Punished Legionnaire"}
+[2021-05-23 13:29:11.648] kosolov325 (as Unknown at 134,138,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2104085e]
+ - Action: loadout_select {"name":"Desperado"}
+[2021-05-23 13:29:32.133] kosolov325 (as Unknown at 134,138,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2104085e]
+ - Action: loadout_preview_direction {"direction":1}
+[2021-05-23 13:29:32.978] kosolov325 (as Unknown at 134,138,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2104085e]
+ - Action: loadout_preview_direction {"direction":-1}
+[2021-05-23 13:29:35.984] kosolov325 (as Unknown at 134,138,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2104085e]
+ - Action: loadout_confirm {}
+[2021-05-23 13:29:36.039] kosolov325 in tgui-window-1/close (suspending)
+[2021-05-23 13:48:01.750] kosolov325 (as Lucas Calado at 171,180,2)
+ - Using: /obj/machinery/vending/coffee [0x2004e7f]
+ - new Vending fancy 1
+[2021-05-23 13:48:04.498] kosolov325 (as Lucas Calado at 171,180,2) in tgui-window-1
+ - Using: /obj/machinery/vending/coffee [0x2004e7f]
+ - Action: vend {"ref":"[0x2100b483]"}
+[2021-05-23 13:48:04.937] kosolov325 in tgui-window-1/close (suspending)
+[2021-05-23 13:48:04.938] kosolov325 in tgui-window-1/close (suspending)
+[2021-05-23 13:48:23.879] kosolov325 (as Lucas Calado at 171,180,2)
+ - Using: /obj/machinery/vending/coffee [0x2004e7f]
+ - new Vending fancy 1
+[2021-05-23 13:48:26.474] kosolov325 in tgui-window-1/close (suspending)
+[2021-05-23 13:48:26.474] kosolov325 in tgui-window-1/close (suspending)
+[2021-05-23 13:50:29.267] gabrieldoombr in browseroutput/initialize
+[2021-05-23 13:53:33.768] luiz20 (as Luiz Borgos Primeiro at 102,233,2)
+ - Using: /obj/machinery/computer/shuttle/northbunkerelevator [0x2011c7c]
+ - new ShuttleConsole fancy 1
+[2021-05-23 13:53:34.946] luiz20 (as Luiz Borgos Primeiro at 102,233,2) in tgui-window-1
+ - Using: /obj/machinery/computer/shuttle/northbunkerelevator [0x2011c7c]
+ - Action: move {"shuttle_id":"North_Level_1"}
+[2021-05-23 13:53:35.399] luiz20 (as Luiz Borgos Primeiro at 43,233,4) in tgui-window-1
+ - Using: /obj/machinery/computer/shuttle/northbunkerelevator [0x2011c7c]
+ - Action: move {"shuttle_id":"North_Ground"}
+[2021-05-23 13:53:39.390] luiz20 (as Luiz Borgos Primeiro at 102,233,2) in tgui-window-1
+ - Using: /obj/machinery/computer/shuttle/northbunkerelevator [0x2011c7c]
+ - Action: move {"shuttle_id":"North_Level_1"}
+[2021-05-23 13:53:40.317] luiz20 in tgui-window-1/close (suspending)
+[2021-05-23 13:53:40.317] luiz20 in tgui-window-1/close (suspending)
+[2021-05-23 13:54:06.015] luiz20 (as Luiz Borgos Primeiro at 44,232,4)
+ - Using: /datum/orbit_menu [0x21041021]
+ - new Orbit fancy 1
+[2021-05-23 13:54:08.928] luiz20 (as Luiz Borgos Primeiro at 44,232,4) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21041021]
+ - Action: orbit {"ref":"[mob_876]"}
+[2021-05-23 13:54:10.554] luiz20 (as Luiz Borgos Primeiro at 240,32,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21041021]
+ - Action: orbit {"ref":"[mob_861]"}
+[2021-05-23 13:54:48.238] luiz20 (as Luiz Borgos Primeiro at 50,206,4) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21041021]
+ - Action: orbit {"ref":"[mob_914]"}
+[2021-05-23 13:54:52.897] luiz20 (as Luiz Borgos Primeiro at 59,48,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21041021]
+ - Action: orbit {"ref":"[mob_938]"}
+[2021-05-23 13:55:05.462] luiz20 (as Luiz Borgos Primeiro at 217,218,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21041021]
+ - Action: orbit {"ref":"[mob_923]"}
+[2021-05-23 13:55:08.174] luiz20 (as Luiz Borgos Primeiro at 108,48,3) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21041021]
+ - Action: orbit {"ref":"[mob_914]"}
+[2021-05-23 13:55:10.195] luiz20 in tgui-window-1/close (suspending)
+[2021-05-23 13:55:10.195] luiz20 in tgui-window-1/close (suspending)
+[2021-05-23 13:58:32.374] conteudogenerico in browseroutput/initialize
+[2021-05-23 13:59:30.631] kosolov325 (as Lucas Calado at 224,217,2)
+ - Using: /obj/machinery/vending/cola/red [0x200e185]
+ - new Vending fancy 1
+[2021-05-23 13:59:32.603] kosolov325 (as Lucas Calado at 224,217,2) in tgui-window-1
+ - Using: /obj/machinery/vending/cola/red [0x200e185]
+ - Action: vend {"ref":"[0x2100c98e]"}
+[2021-05-23 13:59:32.627] kosolov325 (as Lucas Calado at 224,217,2) in tgui-window-1
+ - Using: /obj/machinery/vending/cola/red [0x200e185]
+ - Action: vend {"ref":"[0x2100c98e]"}
+[2021-05-23 13:59:33.175] kosolov325 in tgui-window-1/close (suspending)
+[2021-05-23 13:59:33.175] kosolov325 in tgui-window-1/close (suspending)
+[2021-05-23 14:00:34.753] conteudogenerico (as Unknown at 191,156,2)
+ - Using: /datum/component/loadout_selector [0x210413e5]
+ - new LoadoutSelect fancy 1
+[2021-05-23 14:00:34.754] conteudogenerico in tgui-window-1/initialize
+ - Using: /datum/component/loadout_selector [0x210413e5]
+[2021-05-23 14:00:42.647] conteudogenerico (as Unknown at 191,156,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210413e5]
+ - Action: loadout_select {"name":"Punished Legionnaire"}
+[2021-05-23 14:00:45.030] conteudogenerico (as Unknown at 191,156,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210413e5]
+ - Action: loadout_select {"name":"NCR Deserter"}
+[2021-05-23 14:00:51.456] conteudogenerico (as Unknown at 191,156,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210413e5]
+ - Action: loadout_confirm {}
+[2021-05-23 14:00:51.543] conteudogenerico in tgui-window-1/close (suspending)
+[2021-05-23 14:01:00.378] kosolov325 (as Lucas Calado at 206,190,2)
+ - Using: /obj/machinery/vending/cigarette [0x2005807]
+ - new Vending fancy 1
+[2021-05-23 14:01:03.172] kosolov325 in tgui-window-1/close (suspending)
+[2021-05-23 14:01:03.172] kosolov325 in tgui-window-1/close (suspending)
+[2021-05-23 14:01:05.227] kosolov325 (as Lucas Calado at 205,194,2)
+ - Using: /obj/machinery/vending/coffee [0x200574b]
+ - new Vending fancy 1
+[2021-05-23 14:01:07.293] kosolov325 in tgui-window-1/close (suspending)
+[2021-05-23 14:01:07.293] kosolov325 in tgui-window-1/close (suspending)
+[2021-05-23 14:01:09.891] kosolov325 (as Lucas Calado at 205,194,2)
+ - Using: /obj/machinery/vending/coffee [0x200574b]
+ - new Vending fancy 1
+[2021-05-23 14:01:12.451] kosolov325 in tgui-window-1/close (suspending)
+[2021-05-23 14:01:12.451] kosolov325 in tgui-window-1/close (suspending)
+[2021-05-23 14:01:27.960] kosolov325 (as Lucas Calado at 201,194,2)
+ - Using: /obj/machinery/vending/cola [0x20055f8]
+ - new Vending fancy 1
+[2021-05-23 14:01:28.900] kosolov325 in tgui-window-1/close (suspending)
+[2021-05-23 14:01:28.900] kosolov325 in tgui-window-1/close (suspending)
+[2021-05-23 14:01:36.739] kosolov325 (as Lucas Calado at 196,194,2)
+ - Using: /obj/machinery/smartfridge/bottlerack/lootshelf/cans [0x20054a2]
+ - new SmartVend fancy 1
+[2021-05-23 14:01:36.818] gabrieldoombr (as Baam Frest at 35,50,2)
+ - Using: /obj/machinery/vending/boozeomat [0x200282f]
+ - new Vending fancy 1
+[2021-05-23 14:01:36.819] gabrieldoombr in tgui-window-1/initialize
+ - Using: /obj/machinery/vending/boozeomat [0x200282f]
+[2021-05-23 14:01:39.824] gabrieldoombr (as Baam Frest at 35,50,2) in tgui-window-1
+ - Using: /obj/machinery/vending/boozeomat [0x200282f]
+ - Action: vend {"ref":"[0x21007ca6]"}
+[2021-05-23 14:01:40.052] kosolov325 in tgui-window-1/close (suspending)
+[2021-05-23 14:01:40.052] kosolov325 in tgui-window-1/close (suspending)
+[2021-05-23 14:01:43.711] gabrieldoombr in tgui-window-1/close (suspending)
+[2021-05-23 14:01:43.712] gabrieldoombr in tgui-window-1/close (suspending)
+[2021-05-23 14:01:46.983] gabrieldoombr (as Baam Frest at 37,50,2)
+ - Using: /obj/machinery/chem_dispenser/drinks [0x200290b]
+ - new ChemDispenser fancy 1
+[2021-05-23 14:01:49.649] gabrieldoombr (as Baam Frest at 37,50,2) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser/drinks [0x200290b]
+ - Action: amount {"target":15}
+[2021-05-23 14:01:50.436] gabrieldoombr (as Baam Frest at 37,50,2) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser/drinks [0x200290b]
+ - Action: dispense {"reagent":"cream"}
+[2021-05-23 14:01:50.890] gabrieldoombr (as Baam Frest at 37,50,2) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser/drinks [0x200290b]
+ - Action: dispense {"reagent":"drgibb"}
+[2021-05-23 14:01:51.859] gabrieldoombr (as Baam Frest at 37,50,2) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser/drinks [0x200290b]
+ - Action: dispense {"reagent":"ice"}
+[2021-05-23 14:01:53.174] gabrieldoombr (as Baam Frest at 37,50,2) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser/drinks [0x200290b]
+ - Action: eject {}
+[2021-05-23 14:01:54.099] gabrieldoombr in tgui-window-1/close (suspending)
+[2021-05-23 14:01:54.100] gabrieldoombr in tgui-window-1/close (suspending)
+[2021-05-23 14:02:00.759] gabrieldoombr (as Baam Frest at 37,50,2)
+ - Using: /obj/machinery/chem_dispenser/drinks/beer [0x2002973]
+ - new ChemDispenser fancy 1
+[2021-05-23 14:02:07.338] gabrieldoombr (as Baam Frest at 37,50,2) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser/drinks/beer [0x2002973]
+ - Action: amount {"target":5}
+[2021-05-23 14:02:15.793] gabrieldoombr (as Baam Frest at 37,50,2) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser/drinks/beer [0x2002973]
+ - Action: eject {}
+[2021-05-23 14:02:16.333] gabrieldoombr in tgui-window-1/close (suspending)
+[2021-05-23 14:02:16.333] gabrieldoombr in tgui-window-1/close (suspending)
+[2021-05-23 14:02:18.439] gabrieldoombr (as Baam Frest at 37,50,2)
+ - Using: /obj/machinery/chem_dispenser/drinks [0x200290b]
+ - new ChemDispenser fancy 1
+[2021-05-23 14:02:20.353] gabrieldoombr (as Baam Frest at 37,50,2) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser/drinks [0x200290b]
+ - Action: amount {"target":5}
+[2021-05-23 14:02:21.464] gabrieldoombr (as Baam Frest at 37,50,2) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser/drinks [0x200290b]
+ - Action: dispense {"reagent":"lemonjuice"}
+[2021-05-23 14:02:22.918] gabrieldoombr (as Baam Frest at 37,50,2) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser/drinks [0x200290b]
+ - Action: dispense {"reagent":"ice"}
+[2021-05-23 14:02:23.725] gabrieldoombr (as Baam Frest at 37,50,2) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser/drinks [0x200290b]
+ - Action: eject {}
+[2021-05-23 14:02:24.185] gabrieldoombr in tgui-window-1/close (suspending)
+[2021-05-23 14:02:24.185] gabrieldoombr in tgui-window-1/close (suspending)
+[2021-05-23 14:02:30.303] gabrieldoombr (as Baam Frest at 37,50,2)
+ - Using: /obj/machinery/chem_dispenser/drinks/beer [0x2002973]
+ - new ChemDispenser fancy 1
+[2021-05-23 14:02:37.520] gabrieldoombr (as Baam Frest at 37,50,2) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser/drinks/beer [0x2002973]
+ - Action: eject {}
+[2021-05-23 14:02:38.204] gabrieldoombr in tgui-window-1/close (suspending)
+[2021-05-23 14:02:38.204] gabrieldoombr in tgui-window-1/close (suspending)
+[2021-05-23 14:02:38.290] kosolov325 (as Lucas Calado at 160,169,2)
+ - Using: /obj/machinery/vending/hydronutrients [0x2004afa]
+ - new Vending fancy 1
+[2021-05-23 14:02:39.142] gabrieldoombr (as Baam Frest at 37,50,2)
+ - Using: /obj/machinery/chem_dispenser/drinks [0x200290b]
+ - new ChemDispenser fancy 1
+[2021-05-23 14:02:39.450] kosolov325 in tgui-window-1/close (suspending)
+[2021-05-23 14:02:39.450] kosolov325 in tgui-window-1/close (suspending)
+[2021-05-23 14:03:02.772] gabrieldoombr (as Baam Frest at 37,50,2) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser/drinks [0x200290b]
+ - Action: eject {}
+[2021-05-23 14:03:03.759] gabrieldoombr in tgui-window-1/close (suspending)
+[2021-05-23 14:03:03.759] gabrieldoombr in tgui-window-1/close (suspending)
+[2021-05-23 14:03:06.517] gabrieldoombr (as Baam Frest at 35,50,2)
+ - Using: /obj/machinery/vending/boozeomat [0x200282f]
+ - new Vending fancy 1
+[2021-05-23 14:03:14.186] gabrieldoombr (as Baam Frest at 35,50,2) in tgui-window-1
+ - Using: /obj/machinery/vending/boozeomat [0x200282f]
+ - Action: vend {"ref":"[0x21007cbf]"}
+[2021-05-23 14:03:15.089] gabrieldoombr in tgui-window-1/close (suspending)
+[2021-05-23 14:03:15.089] gabrieldoombr in tgui-window-1/close (suspending)
+[2021-05-23 14:04:16.939] gabrieldoombr (as Baam Frest at 38,50,2)
+ - Using: /obj/machinery/chem_dispenser/drinks/beer [0x2002973]
+ - new ChemDispenser fancy 1
+[2021-05-23 14:04:23.903] gabrieldoombr (as Baam Frest at 38,50,2) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser/drinks/beer [0x2002973]
+ - Action: eject {}
+[2021-05-23 14:04:24.639] gabrieldoombr in tgui-window-1/close (suspending)
+[2021-05-23 14:04:24.639] gabrieldoombr in tgui-window-1/close (suspending)
+[2021-05-23 14:04:25.976] gabrieldoombr (as Baam Frest at 35,50,2)
+ - Using: /obj/machinery/vending/boozeomat [0x200282f]
+ - new Vending fancy 1
+[2021-05-23 14:04:39.877] gabrieldoombr in tgui-window-1/close (suspending)
+[2021-05-23 14:04:39.878] gabrieldoombr in tgui-window-1/close (suspending)
+[2021-05-23 14:05:01.695] albertovinhofino in browseroutput/initialize
+[2021-05-23 14:05:23.635] gabrieldoombr (as Baam Frest at 37,50,2)
+ - Using: /obj/machinery/chem_dispenser/drinks [0x200290b]
+ - new ChemDispenser fancy 1
+[2021-05-23 14:05:29.846] gabrieldoombr (as Baam Frest at 37,50,2) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser/drinks [0x200290b]
+ - Action: dispense {"reagent":"cola"}
+[2021-05-23 14:05:30.939] gabrieldoombr (as Baam Frest at 37,50,2) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser/drinks [0x200290b]
+ - Action: dispense {"reagent":"cola"}
+[2021-05-23 14:05:31.763] gabrieldoombr (as Baam Frest at 37,50,2) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser/drinks [0x200290b]
+ - Action: dispense {"reagent":"cola"}
+[2021-05-23 14:05:32.415] gabrieldoombr (as Baam Frest at 37,50,2) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser/drinks [0x200290b]
+ - Action: eject {}
+[2021-05-23 14:05:32.863] gabrieldoombr in tgui-window-1/close (suspending)
+[2021-05-23 14:05:32.863] gabrieldoombr in tgui-window-1/close (suspending)
+[2021-05-23 14:05:33.622] gabrieldoombr (as Baam Frest at 37,50,2)
+ - Using: /obj/machinery/chem_dispenser/drinks/beer [0x2002973]
+ - new ChemDispenser fancy 1
+[2021-05-23 14:05:36.269] gabrieldoombr (as Baam Frest at 37,50,2) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser/drinks/beer [0x2002973]
+ - Action: dispense {"reagent":"rum"}
+[2021-05-23 14:05:37.011] gabrieldoombr (as Baam Frest at 37,50,2) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser/drinks/beer [0x2002973]
+ - Action: dispense {"reagent":"rum"}
+[2021-05-23 14:05:38.083] gabrieldoombr (as Baam Frest at 37,50,2) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser/drinks/beer [0x2002973]
+ - Action: dispense {"reagent":"rum"}
+[2021-05-23 14:05:38.795] gabrieldoombr (as Baam Frest at 37,50,2) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser/drinks/beer [0x2002973]
+ - Action: dispense {"reagent":"rum"}
+[2021-05-23 14:05:39.861] gabrieldoombr (as Baam Frest at 37,50,2) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser/drinks/beer [0x2002973]
+ - Action: dispense {"reagent":"rum"}
+[2021-05-23 14:05:40.873] gabrieldoombr (as Baam Frest at 37,50,2) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser/drinks/beer [0x2002973]
+ - Action: dispense {"reagent":"rum"}
+[2021-05-23 14:05:42.029] gabrieldoombr (as Baam Frest at 37,50,2) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser/drinks/beer [0x2002973]
+ - Action: eject {}
+[2021-05-23 14:05:42.543] gabrieldoombr in tgui-window-1/close (suspending)
+[2021-05-23 14:05:42.543] gabrieldoombr in tgui-window-1/close (suspending)
+[2021-05-23 14:06:14.787] gabrieldoombr (as Baam Frest at 37,50,2)
+ - Using: /obj/machinery/chem_dispenser/drinks [0x200290b]
+ - new ChemDispenser fancy 1
+[2021-05-23 14:06:19.443] gabrieldoombr (as Baam Frest at 37,50,2) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser/drinks [0x200290b]
+ - Action: dispense {"reagent":"limejuice"}
+[2021-05-23 14:06:21.017] gabrieldoombr (as Baam Frest at 37,50,2) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser/drinks [0x200290b]
+ - Action: eject {}
+[2021-05-23 14:06:21.453] gabrieldoombr in tgui-window-1/close (suspending)
+[2021-05-23 14:06:21.453] gabrieldoombr in tgui-window-1/close (suspending)
+[2021-05-23 14:06:44.231] gabrieldoombr (as Baam Frest at 37,50,2)
+ - Using: /obj/machinery/chem_dispenser/drinks [0x200290b]
+ - new ChemDispenser fancy 1
+[2021-05-23 14:06:45.422] gabrieldoombr (as Baam Frest at 37,50,2) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser/drinks [0x200290b]
+ - Action: eject {}
+[2021-05-23 14:06:46.042] gabrieldoombr in tgui-window-1/close (suspending)
+[2021-05-23 14:06:46.042] gabrieldoombr in tgui-window-1/close (suspending)
+[2021-05-23 14:06:46.786] gabrieldoombr (as Baam Frest at 37,50,2)
+ - Using: /obj/machinery/chem_dispenser/drinks/beer [0x2002973]
+ - new ChemDispenser fancy 1
+[2021-05-23 14:06:48.623] gabrieldoombr (as Baam Frest at 37,50,2) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser/drinks/beer [0x2002973]
+ - Action: dispense {"reagent":"vodka"}
+[2021-05-23 14:06:54.495] gabrieldoombr (as Baam Frest at 37,50,2) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser/drinks/beer [0x2002973]
+ - Action: dispense {"reagent":"gin"}
+[2021-05-23 14:06:55.115] gabrieldoombr (as Baam Frest at 37,50,2) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser/drinks/beer [0x2002973]
+ - Action: dispense {"reagent":"tequila"}
+[2021-05-23 14:06:56.458] gabrieldoombr (as Baam Frest at 37,50,2) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser/drinks/beer [0x2002973]
+ - Action: eject {}
+[2021-05-23 14:06:57.114] gabrieldoombr in tgui-window-1/close (suspending)
+[2021-05-23 14:06:57.114] gabrieldoombr in tgui-window-1/close (suspending)
+[2021-05-23 14:09:31.874] senhordosdoguinho in browseroutput/initialize
+[2021-05-23 14:10:53.632] gabrieldoombr in browseroutput/initialize
+[2021-05-23 14:11:10.404] gabrieldoombr in browseroutput/initialize
+[2021-05-23 14:19:03.889] senhordosdoguinho (as Unknown at 221,146,2)
+ - Using: /datum/component/loadout_selector [0x2104168a]
+ - new LoadoutSelect fancy 1
+[2021-05-23 14:19:03.890] senhordosdoguinho in tgui-window-1/initialize
+ - Using: /datum/component/loadout_selector [0x2104168a]
+[2021-05-23 14:19:06.357] senhordosdoguinho (as Unknown at 221,146,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2104168a]
+ - Action: loadout_select {"name":"Supa-fly"}
+[2021-05-23 14:19:12.688] senhordosdoguinho (as Unknown at 221,146,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2104168a]
+ - Action: loadout_select {"name":"Yankee"}
+[2021-05-23 14:19:37.717] senhordosdoguinho (as Unknown at 221,146,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2104168a]
+ - Action: loadout_select {"name":"Blastmaster"}
+[2021-05-23 14:19:46.222] senhordosdoguinho (as Unknown at 221,146,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2104168a]
+ - Action: loadout_select {"name":"Sadist"}
+[2021-05-23 14:19:53.911] senhordosdoguinho (as Unknown at 221,146,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2104168a]
+ - Action: loadout_select {"name":"Painspike"}
+[2021-05-23 14:20:01.075] senhordosdoguinho (as Unknown at 221,146,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2104168a]
+ - Action: loadout_select {"name":"Badlands"}
+[2021-05-23 14:20:05.356] senhordosdoguinho (as Unknown at 221,146,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2104168a]
+ - Action: loadout_select {"name":"Brotherhood Exile"}
+[2021-05-23 14:20:17.332] senhordosdoguinho (as Unknown at 221,146,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2104168a]
+ - Action: loadout_select {"name":"NCR Deserter"}
+[2021-05-23 14:20:23.405] senhordosdoguinho (as Unknown at 221,146,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2104168a]
+ - Action: loadout_select {"name":"Punished Legionnaire"}
+[2021-05-23 14:20:27.900] senhordosdoguinho (as Unknown at 221,146,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2104168a]
+ - Action: loadout_select {"name":"Desperado"}
+[2021-05-23 14:20:56.533] senhordosdoguinho (as Unknown at 221,146,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2104168a]
+ - Action: loadout_select {"name":"Desperado"}
+[2021-05-23 14:21:09.935] senhordosdoguinho (as Unknown at 221,146,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2104168a]
+ - Action: loadout_confirm {}
+[2021-05-23 14:21:09.988] senhordosdoguinho in tgui-window-1/close (suspending)
+[2021-05-23 14:24:22.363] senhordosdoguinho in browseroutput/initialize
+[2021-05-23 14:27:36.486] senhordosdoguinho (as Unknown at 159,167,2)
+ - Using: /obj/machinery/vending/hydroseeds [0x20049cc]
+ - new Vending fancy 1
+[2021-05-23 14:27:36.487] senhordosdoguinho in tgui-window-1/initialize
+ - Using: /obj/machinery/vending/hydroseeds [0x20049cc]
+[2021-05-23 14:27:37.279] richardcampi in browseroutput/initialize
+[2021-05-23 14:27:40.016] senhordosdoguinho in tgui-window-1/close (suspending)
+[2021-05-23 14:27:40.016] senhordosdoguinho in tgui-window-1/close (suspending)
+[2021-05-23 14:27:45.094] senhordosdoguinho (as Unknown at 160,170,2)
+ - Using: /obj/machinery/vending/hydronutrients [0x2004afa]
+ - new Vending fancy 1
+[2021-05-23 14:27:46.512] senhordosdoguinho in tgui-window-1/close (suspending)
+[2021-05-23 14:27:46.513] senhordosdoguinho in tgui-window-1/close (suspending)
+[2021-05-23 14:28:56.800] senhordosdoguinho (as Unknown at 136,161,2)
+ - Using: /obj/item/toy/crayon/spraycan [0x2049324]
+ - new Crayon fancy 1
+[2021-05-23 14:29:03.783] senhordosdoguinho (as Unknown at 136,161,2) in tgui-window-1
+ - Using: /obj/item/toy/crayon/spraycan [0x2049324]
+ - Action: select_stencil {"item":"skull"}
+[2021-05-23 14:29:04.420] senhordosdoguinho in tgui-window-1/close (suspending)
+[2021-05-23 14:29:04.420] senhordosdoguinho in tgui-window-1/close (suspending)
+[2021-05-23 14:29:07.214] senhordosdoguinho (as Unknown at 136,161,2)
+ - Using: /obj/item/toy/crayon/spraycan [0x2049324]
+ - new Crayon fancy 1
+[2021-05-23 14:29:08.358] senhordosdoguinho (as Unknown at 136,161,2) in tgui-window-1
+ - Using: /obj/item/toy/crayon/spraycan [0x2049324]
+ - Action: toggle_cap {}
+[2021-05-23 14:29:09.002] senhordosdoguinho in tgui-window-1/close (suspending)
+[2021-05-23 14:29:09.003] senhordosdoguinho in tgui-window-1/close (suspending)
+[2021-05-23 14:29:20.710] senhordosdoguinho (as Unknown at 130,165,2)
+ - Using: /obj/item/toy/crayon/spraycan [0x2049324]
+ - new Crayon fancy 1
+[2021-05-23 14:29:23.384] senhordosdoguinho (as Unknown at 130,165,2) in tgui-window-1
+ - Using: /obj/item/toy/crayon/spraycan [0x2049324]
+ - Action: select_stencil {"item":"revolution"}
+[2021-05-23 14:29:24.192] senhordosdoguinho in tgui-window-1/close (suspending)
+[2021-05-23 14:29:24.192] senhordosdoguinho in tgui-window-1/close (suspending)
+[2021-05-23 14:30:11.598] senhordosdoguinho (as Unknown at 102,164,2)
+ - Using: /obj/machinery/vending/nukacolavend [0x2003b83]
+ - new Vending fancy 1
+[2021-05-23 14:30:13.324] senhordosdoguinho (as Unknown at 102,164,2) in tgui-window-1
+ - Using: /obj/machinery/vending/nukacolavend [0x2003b83]
+ - Action: vend {"ref":"[0x21009994]"}
+[2021-05-23 14:30:16.048] albertovinhofino (as Zion Focell at 215,62,2)
+ - Using: /obj/item/radio/off [0x2049627]
+ - new Radio fancy 1
+[2021-05-23 14:30:16.049] albertovinhofino in tgui-window-1/initialize
+ - Using: /obj/item/radio/off [0x2049627]
+[2021-05-23 14:30:16.125] senhordosdoguinho in tgui-window-1/close (suspending)
+[2021-05-23 14:30:16.125] senhordosdoguinho in tgui-window-1/close (suspending)
+[2021-05-23 14:30:18.938] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-23 14:30:18.938] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-23 14:32:52.767] senhordosdoguinho (as Unknown at 130,189,2)
+ - Using: /obj/machinery/smartfridge/bottlerack/lootshelf/diy [0x2004092]
+ - new SmartVend fancy 1
+[2021-05-23 14:32:55.778] senhordosdoguinho in tgui-window-1/close (suspending)
+[2021-05-23 14:32:55.778] senhordosdoguinho in tgui-window-1/close (suspending)
+[2021-05-23 14:33:01.803] senhordosdoguinho (as Unknown at 131,189,2)
+ - Using: /obj/machinery/smartfridge/bottlerack/lootshelf/construction [0x20040e9]
+ - new SmartVend fancy 1
+[2021-05-23 14:33:04.073] senhordosdoguinho (as Unknown at 131,189,2) in tgui-window-1
+ - Using: /obj/machinery/smartfridge/bottlerack/lootshelf/construction [0x20040e9]
+ - Action: Release {"name":"high quality metal parts","amount":1}
+[2021-05-23 14:33:07.922] senhordosdoguinho (as Unknown at 131,189,2) in tgui-window-1
+ - Using: /obj/machinery/smartfridge/bottlerack/lootshelf/construction [0x20040e9]
+ - Action: Release {"name":"electronic parts","amount":1}
+[2021-05-23 14:33:11.948] senhordosdoguinho (as Unknown at 131,189,2) in tgui-window-1
+ - Using: /obj/machinery/smartfridge/bottlerack/lootshelf/construction [0x20040e9]
+ - Action: Release {"name":"metal parts","amount":1}
+[2021-05-23 14:33:17.258] senhordosdoguinho in tgui-window-1/close (suspending)
+[2021-05-23 14:33:17.258] senhordosdoguinho in tgui-window-1/close (suspending)
+[2021-05-23 14:33:17.970] senhordosdoguinho (as Unknown at 131,189,2)
+ - Using: /obj/machinery/smartfridge/bottlerack/lootshelf/diy [0x2004092]
+ - new SmartVend fancy 1
+[2021-05-23 14:33:20.091] senhordosdoguinho in tgui-window-1/close (suspending)
+[2021-05-23 14:33:20.091] senhordosdoguinho in tgui-window-1/close (suspending)
+[2021-05-23 14:33:20.664] senhordosdoguinho (as Unknown at 131,189,2)
+ - Using: /obj/machinery/smartfridge/bottlerack/lootshelf/diy [0x200412d]
+ - new SmartVend fancy 1
+[2021-05-23 14:33:35.500] senhordosdoguinho in tgui-window-1/close (suspending)
+[2021-05-23 14:33:35.500] senhordosdoguinho in tgui-window-1/close (suspending)
+[2021-05-23 14:35:26.782] richardcampi (as Lucious at 48,46,2)
+ - Using: /datum/orbit_menu [0x2104210c]
+ - new Orbit fancy 1
+[2021-05-23 14:35:26.782] richardcampi in tgui-window-1/initialize
+ - Using: /datum/orbit_menu [0x2104210c]
+[2021-05-23 14:35:29.033] richardcampi (as Lucious at 48,46,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2104210c]
+ - Action: orbit {"ref":"[mob_861]"}
+[2021-05-23 14:35:30.262] richardcampi in tgui-window-1/close (suspending)
+[2021-05-23 14:35:30.263] richardcampi in tgui-window-1/close (suspending)
+[2021-05-23 14:36:13.302] kaduh (as Erika Miller at 96,52,2)
+ - Using: /datum/component/personal_crafting [0x2103f76d]
+ - new PersonalCrafting fancy 1
+[2021-05-23 14:36:18.870] kaduh (as Erika Miller at 96,52,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f76d]
+ - Action: set_category {"category":"Medical"}
+[2021-05-23 14:36:20.340] kaduh (as Erika Miller at 96,52,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f76d]
+ - Action: make {"recipe":"[0x210011ff]"}
+[2021-05-23 14:36:32.186] kaduh (as Erika Miller at 96,52,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f76d]
+ - Action: make {"recipe":"[0x210011ff]"}
+[2021-05-23 14:36:40.165] kaduh (as Erika Miller at 96,52,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f76d]
+ - Action: make {"recipe":"[0x210011ff]"}
+[2021-05-23 14:36:45.875] kaduh (as Erika Miller at 96,52,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f76d]
+ - Action: make {"recipe":"[0x210011ff]"}
+[2021-05-23 14:36:50.305] luiz20 (as Luiz Borgos Segundo at 108,153,2)
+ - Using: /datum/orbit_menu [0x21041f83]
+ - new Orbit fancy 1
+[2021-05-23 14:36:51.280] kaduh (as Erika Miller at 96,52,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f76d]
+ - Action: make {"recipe":"[0x210011ff]"}
+[2021-05-23 14:36:53.993] luiz20 in tgui-window-1/close (suspending)
+[2021-05-23 14:36:53.993] luiz20 in tgui-window-1/close (suspending)
+[2021-05-23 14:36:56.994] kaduh (as Erika Miller at 96,52,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f76d]
+ - Action: make {"recipe":"[0x210011ff]"}
+[2021-05-23 14:37:03.048] kaduh (as Erika Miller at 96,52,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f76d]
+ - Action: make {"recipe":"[0x210011ff]"}
+[2021-05-23 14:37:03.667] luiz20 (as Luiz Borgos Segundo at 102,34,2)
+ - Using: /datum/orbit_menu [0x21041f83]
+ - new Orbit fancy 1
+[2021-05-23 14:37:05.961] luiz20 (as Luiz Borgos Segundo at 102,34,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21041f83]
+ - Action: orbit {"ref":"[mob_923]"}
+[2021-05-23 14:37:07.669] luiz20 (as Luiz Borgos Segundo at 96,52,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21041f83]
+ - Action: orbit {"ref":"[mob_914]"}
+[2021-05-23 14:37:09.062] kaduh (as Erika Miller at 96,52,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f76d]
+ - Action: make {"recipe":"[0x210011ff]"}
+[2021-05-23 14:37:12.194] luiz20 (as Luiz Borgos Segundo at 59,48,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21041f83]
+ - Action: orbit {"ref":"[mob_985]"}
+[2021-05-23 14:37:14.459] kaduh (as Erika Miller at 96,52,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f76d]
+ - Action: make {"recipe":"[0x210011ff]"}
+[2021-05-23 14:37:15.644] luiz20 (as Luiz Borgos Segundo at 202,186,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21041f83]
+ - Action: orbit {"ref":"[mob_861]"}
+[2021-05-23 14:37:17.205] luiz20 (as Luiz Borgos Segundo at 50,206,4) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21041f83]
+ - Action: orbit {"ref":"[mob_876]"}
+[2021-05-23 14:37:20.246] kaduh (as Erika Miller at 96,52,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f76d]
+ - Action: make {"recipe":"[0x210011ff]"}
+[2021-05-23 14:37:20.691] luiz20 (as Luiz Borgos Segundo at 240,32,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21041f83]
+ - Action: orbit {"ref":"[mob_938]"}
+[2021-05-23 14:37:22.533] luiz20 (as Luiz Borgos Segundo at 160,161,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21041f83]
+ - Action: orbit {"ref":"[mob_923]"}
+[2021-05-23 14:37:24.226] luiz20 (as Luiz Borgos Segundo at 96,52,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21041f83]
+ - Action: orbit {"ref":"[mob_861]"}
+[2021-05-23 14:37:25.114] luiz20 (as Luiz Borgos Segundo at 50,206,4) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21041f83]
+ - Action: orbit {"ref":"[mob_985]"}
+[2021-05-23 14:37:26.172] kaduh (as Erika Miller at 96,52,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f76d]
+ - Action: make {"recipe":"[0x210011ff]"}
+[2021-05-23 14:37:27.128] luiz20 in tgui-window-1/close (suspending)
+[2021-05-23 14:37:27.128] luiz20 in tgui-window-1/close (suspending)
+[2021-05-23 14:37:31.190] kaduh (as Erika Miller at 96,52,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f76d]
+ - Action: make {"recipe":"[0x210011ff]"}
+[2021-05-23 14:37:36.865] kaduh (as Erika Miller at 96,52,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f76d]
+ - Action: make {"recipe":"[0x210011ff]"}
+[2021-05-23 14:37:42.083] kaduh (as Erika Miller at 96,52,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f76d]
+ - Action: make {"recipe":"[0x210011ff]"}
+[2021-05-23 14:37:47.531] kaduh (as Erika Miller at 96,52,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f76d]
+ - Action: make {"recipe":"[0x210011ff]"}
+[2021-05-23 14:37:53.106] kaduh (as Erika Miller at 96,52,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f76d]
+ - Action: make {"recipe":"[0x210011ff]"}
+[2021-05-23 14:37:58.425] kaduh (as Erika Miller at 96,52,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f76d]
+ - Action: make {"recipe":"[0x210011ff]"}
+[2021-05-23 14:38:04.010] kaduh (as Erika Miller at 96,52,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f76d]
+ - Action: make {"recipe":"[0x210011ff]"}
+[2021-05-23 14:38:09.404] kaduh (as Erika Miller at 96,52,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f76d]
+ - Action: make {"recipe":"[0x210011ff]"}
+[2021-05-23 14:38:14.697] kaduh (as Erika Miller at 96,52,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f76d]
+ - Action: make {"recipe":"[0x210011ff]"}
+[2021-05-23 14:38:20.222] kaduh (as Erika Miller at 96,52,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f76d]
+ - Action: make {"recipe":"[0x210011ff]"}
+[2021-05-23 14:38:25.783] kaduh (as Erika Miller at 96,52,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f76d]
+ - Action: make {"recipe":"[0x210011ff]"}
+[2021-05-23 14:38:30.968] kaduh (as Erika Miller at 96,52,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f76d]
+ - Action: make {"recipe":"[0x210011ff]"}
+[2021-05-23 14:38:37.362] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 14:38:37.362] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 14:38:37.486] luiz20 (as Luiz Borgos Segundo at 220,214,2)
+ - Using: /datum/orbit_menu [0x21041f83]
+ - new Orbit fancy 1
+[2021-05-23 14:38:38.661] luiz20 (as Luiz Borgos Segundo at 218,214,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21041f83]
+ - Action: orbit {"ref":"[mob_1019]"}
+[2021-05-23 14:38:42.283] luiz20 (as Luiz Borgos Segundo at 56,35,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21041f83]
+ - Action: orbit {"ref":"[mob_923]"}
+[2021-05-23 14:38:42.596] luiz20 (as Luiz Borgos Segundo at 94,55,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21041f83]
+ - Action: orbit {"ref":"[mob_914]"}
+[2021-05-23 14:38:44.668] luiz20 in tgui-window-1/close (suspending)
+[2021-05-23 14:38:44.669] luiz20 in tgui-window-1/close (suspending)
+[2021-05-23 14:39:25.781] luiz20 (as Luiz Borgos Segundo at 59,48,2)
+ - Using: /datum/orbit_menu [0x21041f83]
+ - new Orbit fancy 1
+[2021-05-23 14:39:27.824] luiz20 (as Luiz Borgos Segundo at 59,48,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21041f83]
+ - Action: orbit {"ref":"[mob_923]"}
+[2021-05-23 14:39:30.283] luiz20 in tgui-window-1/close (suspending)
+[2021-05-23 14:39:30.283] luiz20 in tgui-window-1/close (suspending)
+[2021-05-23 14:39:59.984] luiz20 (as Luiz Borgos Segundo at 105,55,2)
+ - Using: /datum/orbit_menu [0x21041f83]
+ - new Orbit fancy 1
+[2021-05-23 14:40:01.578] luiz20 (as Luiz Borgos Segundo at 105,55,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21041f83]
+ - Action: orbit {"ref":"[mob_914]"}
+[2021-05-23 14:40:03.340] luiz20 in tgui-window-1/close (suspending)
+[2021-05-23 14:40:03.340] luiz20 in tgui-window-1/close (suspending)
+[2021-05-23 14:40:20.057] senhordosdoguinho (as Unknown at 205,184,2)
+ - Using: /datum/component/personal_crafting [0x210416d0]
+ - new PersonalCrafting fancy 1
+[2021-05-23 14:40:26.082] albertovinhofino (as Zion Focell at 235,254,2)
+ - Using: /datum/component/loadout_selector [0x210418cd]
+ - new LoadoutSelect fancy 1
+[2021-05-23 14:40:27.933] albertovinhofino (as Zion Focell at 235,254,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210418cd]
+ - Action: loadout_select {"name":"Salvager"}
+[2021-05-23 14:40:28.673] senhordosdoguinho (as Unknown at 205,184,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x210416d0]
+ - Action: set_category {"category":"Weaponry","subcategory":"Ranged Weapons"}
+[2021-05-23 14:40:28.674] senhordosdoguinho (as Unknown at 205,184,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x210416d0]
+ - Action: set_category {"category":"Medical"}
+[2021-05-23 14:40:28.799] albertovinhofino (as Zion Focell at 235,254,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210418cd]
+ - Action: loadout_select {"name":"Vaultie"}
+[2021-05-23 14:40:32.770] albertovinhofino (as Zion Focell at 235,254,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210418cd]
+ - Action: loadout_select {"name":"Wasteland Doctor"}
+[2021-05-23 14:40:33.310] albertovinhofino (as Zion Focell at 235,254,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210418cd]
+ - Action: loadout_select {"name":"Wasteland Doctor"}
+[2021-05-23 14:40:36.602] gabrieldoombr (as Baam Frest at 46,50,2)
+ - Using: /obj/machinery/jukebox [0x2002cbb]
+ - new Jukebox fancy 1
+[2021-05-23 14:40:37.881] gabrieldoombr (as Baam Frest at 46,50,2)
+ - Using: /obj/machinery/jukebox [0x2002cbb]
+ - new Jukebox fancy 1
+[2021-05-23 14:40:38.121] gabrieldoombr (as Baam Frest at 46,50,2)
+ - Using: /obj/machinery/jukebox [0x2002cbb]
+ - new Jukebox fancy 1
+[2021-05-23 14:40:38.317] gabrieldoombr (as Baam Frest at 46,50,2)
+ - Using: /obj/machinery/jukebox [0x2002cbb]
+ - new Jukebox fancy 1
+[2021-05-23 14:40:38.506] gabrieldoombr (as Baam Frest at 46,50,2)
+ - Using: /obj/machinery/jukebox [0x2002cbb]
+ - new Jukebox fancy 1
+[2021-05-23 14:40:38.655] gabrieldoombr (as Baam Frest at 46,50,2)
+ - Using: /obj/machinery/jukebox [0x2002cbb]
+ - new Jukebox fancy 1
+[2021-05-23 14:40:38.829] gabrieldoombr (as Baam Frest at 46,50,2)
+ - Using: /obj/machinery/jukebox [0x2002cbb]
+ - new Jukebox fancy 1
+[2021-05-23 14:40:39.004] gabrieldoombr (as Baam Frest at 46,50,2)
+ - Using: /obj/machinery/jukebox [0x2002cbb]
+ - new Jukebox fancy 1
+[2021-05-23 14:40:39.165] gabrieldoombr (as Baam Frest at 46,50,2)
+ - Using: /obj/machinery/jukebox [0x2002cbb]
+ - new Jukebox fancy 1
+[2021-05-23 14:40:39.321] gabrieldoombr (as Baam Frest at 46,50,2)
+ - Using: /obj/machinery/jukebox [0x2002cbb]
+ - new Jukebox fancy 1
+[2021-05-23 14:40:39.485] gabrieldoombr (as Baam Frest at 46,50,2)
+ - Using: /obj/machinery/jukebox [0x2002cbb]
+ - new Jukebox fancy 1
+[2021-05-23 14:40:46.156] albertovinhofino (as Zion Focell at 235,254,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210418cd]
+ - Action: loadout_select {"name":"Roving Trader"}
+[2021-05-23 14:40:46.945] senhordosdoguinho (as Unknown at 208,184,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x210416d0]
+ - Action: set_category {"category":"Crafting","subcategory":"Electronics & Robots"}
+[2021-05-23 14:40:47.044] albertovinhofino (as Zion Focell at 235,254,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210418cd]
+ - Action: loadout_select {"name":"Legion Citizen"}
+[2021-05-23 14:40:47.685] senhordosdoguinho (as Unknown at 208,184,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x210416d0]
+ - Action: set_category {"category":"Medical"}
+[2021-05-23 14:40:47.687] senhordosdoguinho (as Unknown at 208,184,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x210416d0]
+ - Action: set_category {"category":"Weaponry","subcategory":"Ranged Weapons"}
+[2021-05-23 14:40:48.734] senhordosdoguinho (as Unknown at 208,184,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x210416d0]
+ - Action: set_category {"category":"Medical"}
+[2021-05-23 14:40:49.085] albertovinhofino (as Zion Focell at 235,254,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210418cd]
+ - Action: loadout_select {"name":"NCR Citizen"}
+[2021-05-23 14:40:51.096] albertovinhofino (as Zion Focell at 235,254,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210418cd]
+ - Action: loadout_select {"name":"Legion Citizen"}
+[2021-05-23 14:40:56.405] albertovinhofino (as Zion Focell at 235,254,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210418cd]
+ - Action: loadout_select {"name":"Wasteland Doctor"}
+[2021-05-23 14:40:57.868] albertovinhofino (as Zion Focell at 235,254,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210418cd]
+ - Action: loadout_preview_direction {"direction":1}
+[2021-05-23 14:40:58.263] albertovinhofino (as Zion Focell at 235,254,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210418cd]
+ - Action: loadout_preview_direction {"direction":1}
+[2021-05-23 14:40:59.067] albertovinhofino (as Zion Focell at 235,254,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210418cd]
+ - Action: loadout_preview_direction {"direction":1}
+[2021-05-23 14:40:59.787] albertovinhofino (as Zion Focell at 235,254,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210418cd]
+ - Action: loadout_preview_direction {"direction":1}
+[2021-05-23 14:41:00.092] albertovinhofino (as Zion Focell at 235,254,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210418cd]
+ - Action: loadout_preview_direction {"direction":1}
+[2021-05-23 14:41:00.491] albertovinhofino (as Zion Focell at 235,254,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210418cd]
+ - Action: loadout_preview_direction {"direction":1}
+[2021-05-23 14:41:01.550]  in tgui-window-1/close (suspending)
+[2021-05-23 14:41:01.923] albertovinhofino (as Zion Focell at 235,254,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210418cd]
+ - Action: loadout_preview_direction {"direction":1}
+[2021-05-23 14:41:02.971] albertovinhofino (as Zion Focell at 235,254,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210418cd]
+ - Action: loadout_preview_direction {"direction":1}
+[2021-05-23 14:41:04.373] senhordosdoguinho in browseroutput/initialize
+[2021-05-23 14:41:08.845] albertovinhofino (as Zion Focell at 235,254,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210418cd]
+ - Action: loadout_confirm {}
+[2021-05-23 14:41:08.884] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-23 14:41:22.271] senhordosdoguinho (as Unknown at 203,185,2)
+ - Using: /datum/component/personal_crafting [0x210416d0]
+ - new PersonalCrafting fancy 1
+[2021-05-23 14:41:22.271] senhordosdoguinho in tgui-window-1/initialize
+ - Using: /datum/component/personal_crafting [0x210416d0]
+[2021-05-23 14:42:20.859] luiz20 (as Unknown at 123,136,3)
+ - Using: /datum/component/loadout_selector [0x210099e6]
+ - new LoadoutSelect fancy 1
+[2021-05-23 14:42:23.511] luiz20 (as Unknown at 127,134,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210099e6]
+ - Action: loadout_select {"name":"Brotherhood Exile"}
+[2021-05-23 14:42:24.656] luiz20 (as Unknown at 127,134,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210099e6]
+ - Action: loadout_select {"name":"Brotherhood Exile"}
+[2021-05-23 14:42:24.658] luiz20 (as Unknown at 127,134,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210099e6]
+ - Action: loadout_select {"name":"Brotherhood Exile"}
+[2021-05-23 14:42:26.127] luiz20 (as Unknown at 127,134,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210099e6]
+ - Action: loadout_confirm {}
+[2021-05-23 14:42:26.133] luiz20 in tgui-window-1/close (suspending)
+[2021-05-23 14:43:25.319] alexalbright in browseroutput/initialize
+[2021-05-23 14:45:30.424] senhordosdoguinho in tgui-window-1/close (suspending)
+[2021-05-23 14:45:30.424] senhordosdoguinho (as Unknown at 42,182,2)
+ - Using: /datum/component/personal_crafting [0x210416d0]
+ - new PersonalCrafting fancy 1

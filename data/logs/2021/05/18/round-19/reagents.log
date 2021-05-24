@@ -1,0 +1,863 @@
+[2021-05-18 06:27:10.041] Starting up round ID 19.
+ - -------------------------
+[2021-05-18 12:24:50.444] MOB ADD: on_mob_add(): N0fun/(Peter Quill) at Wasteland (230, 135, 2) - 5 of /datum/reagent/toxin/cazador_venom with 1 purity
+[2021-05-18 12:24:50.449] MOB ADD: on_merge(): N0fun/(Peter Quill) at Wasteland (230, 135, 2) - 10 of /datum/reagent/toxin/cazador_venom with 1 purity
+[2021-05-18 12:24:52.444] MOB ADD: on_merge(): N0fun/(Peter Quill) at Wasteland (230, 129, 2) - 14.6 of /datum/reagent/toxin/cazador_venom with 1 purity
+[2021-05-18 12:25:38.266] MOB ADD: on_mob_add(): N0fun/(Peter Quill) at Wasteland (237, 198, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-18 12:25:56.461] MOB DELETE: on_mob_delete: N0fun/(Peter Quill) at Building (222, 201, 2) - /datum/reagent/toxin/cazador_venom
+[2021-05-18 12:26:44.623] MOB DELETE: on_mob_delete: N0fun/(Peter Quill) at Building (219, 211, 2) - /datum/reagent/medicine/stimpak
+[2021-05-18 12:33:31.405] MOB ADD: on_mob_add(): N0fun/(Peter Quill) at Wasteland (109, 191, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-18 12:34:02.819] MOB DELETE: on_mob_delete: N0fun/(Peter Quill) at Building (132, 199, 2) - /datum/reagent/medicine/stimpak
+[2021-05-18 12:35:41.807] MOB ADD: on_mob_add(): N0fun/(Peter Quill) at Wasteland (126, 167, 2) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-18 12:36:00.182] MOB ADD: on_mob_add(): N0fun/(Peter Quill) at Wasteland (126, 169, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-18 12:37:21.306] MOB DELETE: on_mob_delete: N0fun/(Peter Quill) at Village (116, 166, 2) - /datum/reagent/medicine/healing_powder
+[2021-05-18 12:37:39.388] MOB DELETE: on_mob_delete: N0fun/(Peter Quill) at Wasteland (120, 168, 2) - /datum/reagent/medicine/stimpak
+[2021-05-18 12:41:27.796] MOB ADD: on_mob_add(): N0fun/(Peter Quill) at Wasteland (92, 145, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-18 12:42:16.261] MOB DELETE: on_mob_delete: N0fun/(Peter Quill) at Village (76, 164, 2) - /datum/reagent/medicine/stimpak
+[2021-05-18 12:43:48.756] MOB ADD: on_mob_add(): Thebanana3/(Harmony Harding) at Wasteland (76, 104, 2) - 5 of /datum/reagent/toxin/cazador_venom with 1 purity
+[2021-05-18 12:43:50.754] MOB ADD: on_merge(): Thebanana3/(Harmony Harding) at Wasteland (76, 103, 2) - 9.6 of /datum/reagent/toxin/cazador_venom with 1 purity
+[2021-05-18 12:43:52.754] MOB ADD: on_merge(): Thebanana3/(Harmony Harding) at Wasteland (77, 102, 2) - 14.2 of /datum/reagent/toxin/cazador_venom with 1 purity
+[2021-05-18 12:43:54.754] MOB ADD: on_merge(): Thebanana3/(Harmony Harding) at Wasteland (77, 100, 2) - 18.8 of /datum/reagent/toxin/cazador_venom with 1 purity
+[2021-05-18 12:44:00.760] MOB ADD: on_merge(): Thebanana3/(Harmony Harding) at Wasteland (77, 95, 2) - 22.6 of /datum/reagent/toxin/cazador_venom with 1 purity
+[2021-05-18 12:44:02.765] MOB ADD: on_merge(): Thebanana3/(Harmony Harding) at Wasteland (77, 95, 2) - 27.2 of /datum/reagent/toxin/cazador_venom with 1 purity
+[2021-05-18 12:44:04.768] MOB ADD: on_merge(): Thebanana3/(Harmony Harding) at Wasteland (77, 95, 2) - 31.8 of /datum/reagent/toxin/cazador_venom with 1 purity
+[2021-05-18 12:44:46.507] MOB ADD: on_mob_add(): Coffee_MasterOri/(Nickolas Priebe) at Wasteland (134, 65, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-18 12:45:17.905] MOB DELETE: on_mob_delete: Coffee_MasterOri/(Nickolas Priebe) at Wasteland (124, 39, 2) - /datum/reagent/medicine/stimpak
+[2021-05-18 12:45:40.408] MOB ADD: on_mob_add(): N0fun/(Peter Quill) at Village (23, 176, 2) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-18 12:46:42.390] MOB ADD: on_mob_add(): Coffee_MasterOri/(Nickolas Priebe) at Building (109, 31, 2) - 10 of /datum/reagent/medicine/super_stimpak with 1 purity
+[2021-05-18 12:47:00.219] MOB DELETE: on_mob_delete: Coffee_MasterOri/(Nickolas Priebe) at Wasteland (105, 23, 2) - /datum/reagent/medicine/super_stimpak
+[2021-05-18 12:47:20.335] MOB DELETE: on_mob_delete: N0fun/(Peter Quill) at Building (115, 196, 2) - /datum/reagent/medicine/healing_powder
+[2021-05-18 12:47:46.579] MOB ADD: on_mob_add(): N0fun/(Peter Quill) at Wasteland (112, 201, 2) - 5 of /datum/reagent/toxin/cazador_venom with 1 purity
+[2021-05-18 12:47:52.582] MOB ADD: on_merge(): N0fun/(Peter Quill) at Wasteland (112, 206, 2) - 8.8 of /datum/reagent/toxin/cazador_venom with 1 purity
+[2021-05-18 12:48:26.710] MOB DELETE: on_mob_delete: N0fun/(Peter Quill) at Village (132, 167, 2) - /datum/reagent/toxin/cazador_venom
+[2021-05-18 12:49:14.013] MOB ADD: on_mob_add(): N0fun/(Peter Quill) at Wasteland (130, 169, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-18 12:49:18.448] MOB ADD: on_mob_add(): thebanana3/(Jacquetta Taggart) at Village (126, 138, 2) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-18 12:49:55.028] MOB DELETE: on_mob_delete: N0fun/(Peter Quill) at Village (133, 175, 2) - /datum/reagent/medicine/stimpak
+[2021-05-18 12:50:57.183] MOB DELETE: on_mob_delete: thebanana3/(Jacquetta Taggart) at Wasteland (166, 166, 2) - /datum/reagent/medicine/healing_powder
+[2021-05-18 12:53:10.514] MOB ADD: on_mob_add(): thebanana3/(Jacquetta Taggart) at Wasteland (113, 183, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-18 12:53:44.087] MOB DELETE: on_mob_delete: thebanana3/(Jacquetta Taggart) at Wasteland (133, 184, 2) - /datum/reagent/medicine/stimpak
+[2021-05-18 12:57:42.736] MOB ADD: on_mob_add(): N0fun/(Peter Quill) at Building (190, 46, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-18 12:58:21.483] MOB DELETE: on_mob_delete: N0fun/(Peter Quill) at Wasteland (184, 39, 2) - /datum/reagent/medicine/stimpak
+[2021-05-18 13:02:54.967] MOB ADD: on_mob_add(): N0fun/(Peter Quill) at Clinic (166, 43, 2) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-18 13:03:46.128] MOB DELETE: on_mob_delete: N0fun/(Peter Quill) at Wasteland (128, 52, 2) - /datum/reagent/medicine/healing_powder
+[2021-05-18 13:08:37.616] MOB ADD: on_mob_add(): N0fun/(Peter Quill) at Wasteland (77, 96, 2) - 10 of /datum/reagent/drug/space_drugs with 1 purity
+[2021-05-18 13:09:07.051] MOB ADD: on_mob_add(): N0fun/(Peter Quill) at Wasteland (76, 96, 2) - 10 of /datum/reagent/medicine/synthflesh with 1 purity
+[2021-05-18 13:09:11.998] MOB ADD: on_merge(): N0fun/(Peter Quill) at Wasteland (76, 96, 2) - 14 of /datum/reagent/medicine/synthflesh with 1 purity
+[2021-05-18 13:09:25.675] MOB DELETE: on_mob_delete: N0fun/(Peter Quill) at Wasteland (76, 96, 2) - /datum/reagent/medicine/synthflesh
+[2021-05-18 13:10:18.578] MOB DELETE: on_mob_delete: N0fun/(Peter Quill) at Wasteland (73, 99, 2) - /datum/reagent/drug/space_drugs
+[2021-05-18 13:10:26.561] MOB ADD: on_mob_add(): *no key*/(Harmony Harding) at Wasteland (76, 94, 2) - 1 of /datum/reagent/determination with 1 purity
+[2021-05-18 13:10:27.486] MOB ADD: on_merge(): *no key*/(Harmony Harding) at Wasteland (76, 94, 2) - 6 of /datum/reagent/determination with 1 purity
+[2021-05-18 13:10:28.320] MOB ADD: on_merge(): *no key*/(Harmony Harding) at Wasteland (76, 94, 2) - 8.5 of /datum/reagent/determination with 1 purity
+[2021-05-18 13:10:29.222] MOB ADD: on_merge(): *no key*/(Harmony Harding) at Wasteland (76, 94, 2) - 16 of /datum/reagent/determination with 1 purity
+[2021-05-18 13:11:12.710] MOB ADD: on_mob_add(): N0fun/(Peter Quill) at Bar (58, 92, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-18 13:11:29.509] MOB ADD: on_mob_add(): N0fun/(Peter Quill) at Bar (61, 94, 2) - 1 of /datum/reagent/determination with 1 purity
+[2021-05-18 13:11:37.166] MOB DELETE: on_mob_delete: N0fun/(Peter Quill) at Bar (61, 94, 2) - /datum/reagent/determination
+[2021-05-18 13:11:57.585] MOB ADD: on_mob_add(): N0fun/(Peter Quill) at Bar (65, 94, 2) - 2.5 of /datum/reagent/determination with 1 purity
+[2021-05-18 13:21:33.897] TRANSFER: FROM The high-capacity water tank ([0x2004b16]) (162,251,2) TO The bottle of water ([0x2004a70]) (0,0,0) - dfrenando/(Ronald Gomes) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bottle of water 15 1 1 0 and reagents Water - 15
+[2021-05-18 13:21:34.650] TRANSFER: FROM The high-capacity water tank ([0x2004b16]) (162,251,2) TO The bottle of water ([0x2004a70]) (0,0,0) - dfrenando/(Ronald Gomes) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bottle of water 15 1 1 0 and reagents Water - 15
+[2021-05-18 13:21:35.099] TRANSFER: FROM The high-capacity water tank ([0x2004b16]) (162,251,2) TO The bottle of water ([0x2004a70]) (0,0,0) - dfrenando/(Ronald Gomes) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bottle of water 7.63804 1 1 0 and reagents Water - 7.63804
+[2021-05-18 13:21:35.396] TRANSFER: FROM The high-capacity water tank ([0x2004b16]) (162,251,2) TO The bottle of water ([0x2004a70]) (0,0,0) - dfrenando/(Ronald Gomes) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bottle of water 4.19617e-005 1 1 0 and reagents Water - 4.19617e-005
+[2021-05-18 13:21:44.181] INGESTION: SELF: dfrenando/(Ronald Gomes) (loc the vault floor at Brotherhood of Steel (162, 242, 2)) - /datum/reagent/water (49.727u) and /datum/reagent/fluorine (0.273u)
+[2021-05-18 13:21:44.668] MOB ADD: on_mob_add(): dfrenando/(Ronald Gomes) at Brotherhood of Steel (162, 242, 2) - 4.973 of /datum/reagent/water with 1 purity
+[2021-05-18 13:21:44.669] MOB ADD: on_mob_add(): dfrenando/(Ronald Gomes) at Brotherhood of Steel (162, 242, 2) - 0.027 of /datum/reagent/fluorine with 1 purity
+[2021-05-18 13:21:44.670] TRANSFER: FROM The bottle of water ([0x2004a70]) (0,0,0) TO Ronald Gomes ([mob_874]) (162,242,2) - dfrenando/(Ronald Gomes) - self swallowed: trans_to with arguments Ronald Gomes 5 1 1 0 and reagents Water - 4.97275 and Fluorine - 0.0272523
+[2021-05-18 13:21:45.547] INGESTION: SELF: dfrenando/(Ronald Gomes) (loc the vault floor at Brotherhood of Steel (162, 242, 2)) - /datum/reagent/water (44.755u) and /datum/reagent/fluorine (0.245u)
+[2021-05-18 13:21:46.018] MOB ADD: on_merge(): dfrenando/(Ronald Gomes) at Brotherhood of Steel (162, 242, 2) - 9.946 of /datum/reagent/water with 1 purity
+[2021-05-18 13:21:46.019] MOB ADD: on_merge(): dfrenando/(Ronald Gomes) at Brotherhood of Steel (162, 242, 2) - 0.054 of /datum/reagent/fluorine with 1 purity
+[2021-05-18 13:21:46.019] TRANSFER: FROM The bottle of water ([0x2004a70]) (0,0,0) TO Ronald Gomes ([mob_874]) (162,242,2) - dfrenando/(Ronald Gomes) - self swallowed: trans_to with arguments Ronald Gomes 5 1 1 0 and reagents Water - 4.97275 and Fluorine - 0.0272523
+[2021-05-18 13:21:46.420] MOB DELETE: on_mob_delete: dfrenando/(Ronald Gomes) at Brotherhood of Steel (162, 242, 2) - /datum/reagent/fluorine
+[2021-05-18 13:21:46.946] INGESTION: SELF: dfrenando/(Ronald Gomes) (loc the vault floor at Brotherhood of Steel (162, 242, 2)) - /datum/reagent/water (39.782u) and /datum/reagent/fluorine (0.218u)
+[2021-05-18 13:21:47.421] MOB ADD: on_merge(): dfrenando/(Ronald Gomes) at Brotherhood of Steel (162, 242, 2) - 14.519 of /datum/reagent/water with 1 purity
+[2021-05-18 13:21:47.422] MOB ADD: on_mob_add(): dfrenando/(Ronald Gomes) at Brotherhood of Steel (162, 242, 2) - 0.027 of /datum/reagent/fluorine with 1 purity
+[2021-05-18 13:21:47.423] TRANSFER: FROM The bottle of water ([0x2004a70]) (0,0,0) TO Ronald Gomes ([mob_874]) (162,242,2) - dfrenando/(Ronald Gomes) - self swallowed: trans_to with arguments Ronald Gomes 5 1 1 0 and reagents Water - 4.97275 and Fluorine - 0.0272523
+[2021-05-18 13:21:48.424] MOB DELETE: on_mob_delete: dfrenando/(Ronald Gomes) at Brotherhood of Steel (162, 242, 2) - /datum/reagent/fluorine
+[2021-05-18 13:21:48.541] INGESTION: SELF: dfrenando/(Ronald Gomes) (loc the vault floor at Brotherhood of Steel (162, 242, 2)) - /datum/reagent/water (34.809u) and /datum/reagent/fluorine (0.191u)
+[2021-05-18 13:21:49.021] MOB ADD: on_merge(): dfrenando/(Ronald Gomes) at Brotherhood of Steel (162, 242, 2) - 19.092 of /datum/reagent/water with 1 purity
+[2021-05-18 13:21:49.022] MOB ADD: on_mob_add(): dfrenando/(Ronald Gomes) at Brotherhood of Steel (162, 242, 2) - 0.027 of /datum/reagent/fluorine with 1 purity
+[2021-05-18 13:21:49.022] TRANSFER: FROM The bottle of water ([0x2004a70]) (0,0,0) TO Ronald Gomes ([mob_874]) (162,242,2) - dfrenando/(Ronald Gomes) - self swallowed: trans_to with arguments Ronald Gomes 5 1 1 0 and reagents Water - 4.97275 and Fluorine - 0.0272523
+[2021-05-18 13:21:50.424] MOB DELETE: on_mob_delete: dfrenando/(Ronald Gomes) at Brotherhood of Steel (163, 246, 2) - /datum/reagent/fluorine
+[2021-05-18 13:21:58.818] TRANSFER: FROM The high-capacity water tank ([0x2004b16]) (162,251,2) TO The bottle of water ([0x2004a70]) (0,0,0) - dfrenando/(Ronald Gomes) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bottle of water 15 1 1 0 and reagents Water - 15
+[2021-05-18 13:21:59.792] TRANSFER: FROM The high-capacity water tank ([0x2004b16]) (162,251,2) TO The bottle of water ([0x2004a70]) (0,0,0) - dfrenando/(Ronald Gomes) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bottle of water 5.00004 1 1 0 and reagents Water - 5.00004
+[2021-05-18 13:22:00.716] TRANSFER: FROM The high-capacity water tank ([0x2004b16]) (162,251,2) TO The bottle of water ([0x2004a70]) (0,0,0) - dfrenando/(Ronald Gomes) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bottle of water 4.19617e-005 1 1 0 and reagents Water - 4.19617e-005
+[2021-05-18 13:22:03.383] TRANSFER: FROM The high-capacity water tank ([0x2004b16]) (162,251,2) TO The bottle of water ([0x2004a70]) (0,0,0) - dfrenando/(Ronald Gomes) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bottle of water 4.19617e-005 1 1 0 and reagents Water - 4.19617e-005
+[2021-05-18 13:22:03.538] TRANSFER: FROM The high-capacity water tank ([0x2004b16]) (162,251,2) TO The bottle of water ([0x2004a70]) (0,0,0) - dfrenando/(Ronald Gomes) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bottle of water 4.19617e-005 1 1 0 and reagents Water - 4.19617e-005
+[2021-05-18 13:22:03.713] TRANSFER: FROM The high-capacity water tank ([0x2004b16]) (162,251,2) TO The bottle of water ([0x2004a70]) (0,0,0) - dfrenando/(Ronald Gomes) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bottle of water 4.19617e-005 1 1 0 and reagents Water - 4.19617e-005
+[2021-05-18 13:22:04.954] TRANSFER: FROM The high-capacity water tank ([0x2004b16]) (162,251,2) TO The bottle of water ([0x2004a70]) (0,0,0) - dfrenando/(Ronald Gomes) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bottle of water 4.19617e-005 1 1 0 and reagents Water - 4.19617e-005
+[2021-05-18 13:22:05.157] TRANSFER: FROM The high-capacity water tank ([0x2004b16]) (162,251,2) TO The bottle of water ([0x2004a70]) (0,0,0) - dfrenando/(Ronald Gomes) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bottle of water 4.19617e-005 1 1 0 and reagents Water - 4.19617e-005
+[2021-05-18 13:22:05.330] TRANSFER: FROM The high-capacity water tank ([0x2004b16]) (162,251,2) TO The bottle of water ([0x2004a70]) (0,0,0) - dfrenando/(Ronald Gomes) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bottle of water 4.19617e-005 1 1 0 and reagents Water - 4.19617e-005
+[2021-05-18 13:22:05.490] TRANSFER: FROM The high-capacity water tank ([0x2004b16]) (162,251,2) TO The bottle of water ([0x2004a70]) (0,0,0) - dfrenando/(Ronald Gomes) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bottle of water 4.19617e-005 1 1 0 and reagents Water - 4.19617e-005
+[2021-05-18 13:22:05.675] TRANSFER: FROM The high-capacity water tank ([0x2004b16]) (162,251,2) TO The bottle of water ([0x2004a70]) (0,0,0) - dfrenando/(Ronald Gomes) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bottle of water 4.19617e-005 1 1 0 and reagents Water - 4.19617e-005
+[2021-05-18 13:22:05.866] TRANSFER: FROM The high-capacity water tank ([0x2004b16]) (162,251,2) TO The bottle of water ([0x2004a70]) (0,0,0) - dfrenando/(Ronald Gomes) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bottle of water 4.19617e-005 1 1 0 and reagents Water - 4.19617e-005
+[2021-05-18 13:22:06.008] TRANSFER: FROM The high-capacity water tank ([0x2004b16]) (162,251,2) TO The bottle of water ([0x2004a70]) (0,0,0) - dfrenando/(Ronald Gomes) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bottle of water 4.19617e-005 1 1 0 and reagents Water - 4.19617e-005
+[2021-05-18 13:22:06.202] TRANSFER: FROM The high-capacity water tank ([0x2004b16]) (162,251,2) TO The bottle of water ([0x2004a70]) (0,0,0) - dfrenando/(Ronald Gomes) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bottle of water 4.19617e-005 1 1 0 and reagents Water - 4.19617e-005
+[2021-05-18 13:22:06.488] TRANSFER: FROM The high-capacity water tank ([0x2004b16]) (162,251,2) TO The bottle of water ([0x2004a70]) (0,0,0) - dfrenando/(Ronald Gomes) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bottle of water 4.19617e-005 1 1 0 and reagents Water - 4.19617e-005
+[2021-05-18 13:22:06.666] TRANSFER: FROM The high-capacity water tank ([0x2004b16]) (162,251,2) TO The bottle of water ([0x2004a70]) (0,0,0) - dfrenando/(Ronald Gomes) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bottle of water 4.19617e-005 1 1 0 and reagents Water - 4.19617e-005
+[2021-05-18 13:22:06.852] TRANSFER: FROM The high-capacity water tank ([0x2004b16]) (162,251,2) TO The bottle of water ([0x2004a70]) (0,0,0) - dfrenando/(Ronald Gomes) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bottle of water 4.19617e-005 1 1 0 and reagents Water - 4.19617e-005
+[2021-05-18 13:22:07.055] TRANSFER: FROM The high-capacity water tank ([0x2004b16]) (162,251,2) TO The bottle of water ([0x2004a70]) (0,0,0) - dfrenando/(Ronald Gomes) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bottle of water 4.19617e-005 1 1 0 and reagents Water - 4.19617e-005
+[2021-05-18 13:22:07.230] TRANSFER: FROM The high-capacity water tank ([0x2004b16]) (162,251,2) TO The bottle of water ([0x2004a70]) (0,0,0) - dfrenando/(Ronald Gomes) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bottle of water 4.19617e-005 1 1 0 and reagents Water - 4.19617e-005
+[2021-05-18 13:22:07.383] TRANSFER: FROM The high-capacity water tank ([0x2004b16]) (162,251,2) TO The bottle of water ([0x2004a70]) (0,0,0) - dfrenando/(Ronald Gomes) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bottle of water 4.19617e-005 1 1 0 and reagents Water - 4.19617e-005
+[2021-05-18 13:22:07.557] TRANSFER: FROM The high-capacity water tank ([0x2004b16]) (162,251,2) TO The bottle of water ([0x2004a70]) (0,0,0) - dfrenando/(Ronald Gomes) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bottle of water 4.19617e-005 1 1 0 and reagents Water - 4.19617e-005
+[2021-05-18 13:22:07.714] TRANSFER: FROM The high-capacity water tank ([0x2004b16]) (162,251,2) TO The bottle of water ([0x2004a70]) (0,0,0) - dfrenando/(Ronald Gomes) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bottle of water 4.19617e-005 1 1 0 and reagents Water - 4.19617e-005
+[2021-05-18 13:22:07.866] TRANSFER: FROM The high-capacity water tank ([0x2004b16]) (162,251,2) TO The bottle of water ([0x2004a70]) (0,0,0) - dfrenando/(Ronald Gomes) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bottle of water 4.19617e-005 1 1 0 and reagents Water - 4.19617e-005
+[2021-05-18 13:22:08.064] TRANSFER: FROM The high-capacity water tank ([0x2004b16]) (162,251,2) TO The bottle of water ([0x2004a70]) (0,0,0) - dfrenando/(Ronald Gomes) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bottle of water 4.19617e-005 1 1 0 and reagents Water - 4.19617e-005
+[2021-05-18 13:22:08.191] TRANSFER: FROM The high-capacity water tank ([0x2004b16]) (162,251,2) TO The bottle of water ([0x2004a70]) (0,0,0) - dfrenando/(Ronald Gomes) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bottle of water 4.19617e-005 1 1 0 and reagents Water - 4.19617e-005
+[2021-05-18 13:22:08.381] TRANSFER: FROM The high-capacity water tank ([0x2004b16]) (162,251,2) TO The bottle of water ([0x2004a70]) (0,0,0) - dfrenando/(Ronald Gomes) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bottle of water 4.19617e-005 1 1 0 and reagents Water - 4.19617e-005
+[2021-05-18 13:22:08.543] TRANSFER: FROM The high-capacity water tank ([0x2004b16]) (162,251,2) TO The bottle of water ([0x2004a70]) (0,0,0) - dfrenando/(Ronald Gomes) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bottle of water 4.19617e-005 1 1 0 and reagents Water - 4.19617e-005
+[2021-05-18 13:22:08.718] TRANSFER: FROM The high-capacity water tank ([0x2004b16]) (162,251,2) TO The bottle of water ([0x2004a70]) (0,0,0) - dfrenando/(Ronald Gomes) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bottle of water 4.19617e-005 1 1 0 and reagents Water - 4.19617e-005
+[2021-05-18 13:22:08.874] TRANSFER: FROM The high-capacity water tank ([0x2004b16]) (162,251,2) TO The bottle of water ([0x2004a70]) (0,0,0) - dfrenando/(Ronald Gomes) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bottle of water 4.19617e-005 1 1 0 and reagents Water - 4.19617e-005
+[2021-05-18 13:22:09.058] TRANSFER: FROM The high-capacity water tank ([0x2004b16]) (162,251,2) TO The bottle of water ([0x2004a70]) (0,0,0) - dfrenando/(Ronald Gomes) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bottle of water 4.19617e-005 1 1 0 and reagents Water - 4.19617e-005
+[2021-05-18 13:22:09.205] TRANSFER: FROM The high-capacity water tank ([0x2004b16]) (162,251,2) TO The bottle of water ([0x2004a70]) (0,0,0) - dfrenando/(Ronald Gomes) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bottle of water 4.19617e-005 1 1 0 and reagents Water - 4.19617e-005
+[2021-05-18 13:22:09.392] TRANSFER: FROM The high-capacity water tank ([0x2004b16]) (162,251,2) TO The bottle of water ([0x2004a70]) (0,0,0) - dfrenando/(Ronald Gomes) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bottle of water 4.19617e-005 1 1 0 and reagents Water - 4.19617e-005
+[2021-05-18 13:22:09.554] TRANSFER: FROM The high-capacity water tank ([0x2004b16]) (162,251,2) TO The bottle of water ([0x2004a70]) (0,0,0) - dfrenando/(Ronald Gomes) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bottle of water 4.19617e-005 1 1 0 and reagents Water - 4.19617e-005
+[2021-05-18 13:22:09.766] TRANSFER: FROM The high-capacity water tank ([0x2004b16]) (162,251,2) TO The bottle of water ([0x2004a70]) (0,0,0) - dfrenando/(Ronald Gomes) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bottle of water 4.19617e-005 1 1 0 and reagents Water - 4.19617e-005
+[2021-05-18 13:22:10.094] TRANSFER: FROM The high-capacity water tank ([0x2004b16]) (162,251,2) TO The bottle of water ([0x2004a70]) (0,0,0) - dfrenando/(Ronald Gomes) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bottle of water 4.19617e-005 1 1 0 and reagents Water - 4.19617e-005
+[2021-05-18 13:22:10.274] TRANSFER: FROM The high-capacity water tank ([0x2004b16]) (162,251,2) TO The bottle of water ([0x2004a70]) (0,0,0) - dfrenando/(Ronald Gomes) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bottle of water 4.19617e-005 1 1 0 and reagents Water - 4.19617e-005
+[2021-05-18 13:22:10.451] TRANSFER: FROM The high-capacity water tank ([0x2004b16]) (162,251,2) TO The bottle of water ([0x2004a70]) (0,0,0) - dfrenando/(Ronald Gomes) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bottle of water 4.19617e-005 1 1 0 and reagents Water - 4.19617e-005
+[2021-05-18 13:22:10.641] TRANSFER: FROM The high-capacity water tank ([0x2004b16]) (162,251,2) TO The bottle of water ([0x2004a70]) (0,0,0) - dfrenando/(Ronald Gomes) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bottle of water 4.19617e-005 1 1 0 and reagents Water - 4.19617e-005
+[2021-05-18 13:22:10.798] TRANSFER: FROM The high-capacity water tank ([0x2004b16]) (162,251,2) TO The bottle of water ([0x2004a70]) (0,0,0) - dfrenando/(Ronald Gomes) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bottle of water 4.19617e-005 1 1 0 and reagents Water - 4.19617e-005
+[2021-05-18 13:22:10.962] TRANSFER: FROM The high-capacity water tank ([0x2004b16]) (162,251,2) TO The bottle of water ([0x2004a70]) (0,0,0) - dfrenando/(Ronald Gomes) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bottle of water 4.19617e-005 1 1 0 and reagents Water - 4.19617e-005
+[2021-05-18 13:22:11.162] TRANSFER: FROM The high-capacity water tank ([0x2004b16]) (162,251,2) TO The bottle of water ([0x2004a70]) (0,0,0) - dfrenando/(Ronald Gomes) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bottle of water 4.19617e-005 1 1 0 and reagents Water - 4.19617e-005
+[2021-05-18 13:22:11.309] TRANSFER: FROM The high-capacity water tank ([0x2004b16]) (162,251,2) TO The bottle of water ([0x2004a70]) (0,0,0) - dfrenando/(Ronald Gomes) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bottle of water 4.19617e-005 1 1 0 and reagents Water - 4.19617e-005
+[2021-05-18 13:22:11.553] TRANSFER: FROM The high-capacity water tank ([0x2004b16]) (162,251,2) TO The bottle of water ([0x2004a70]) (0,0,0) - dfrenando/(Ronald Gomes) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bottle of water 4.19617e-005 1 1 0 and reagents Water - 4.19617e-005
+[2021-05-18 13:22:11.707] TRANSFER: FROM The high-capacity water tank ([0x2004b16]) (162,251,2) TO The bottle of water ([0x2004a70]) (0,0,0) - dfrenando/(Ronald Gomes) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bottle of water 4.19617e-005 1 1 0 and reagents Water - 4.19617e-005
+[2021-05-18 13:22:11.905] TRANSFER: FROM The high-capacity water tank ([0x2004b16]) (162,251,2) TO The bottle of water ([0x2004a70]) (0,0,0) - dfrenando/(Ronald Gomes) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bottle of water 4.19617e-005 1 1 0 and reagents Water - 4.19617e-005
+[2021-05-18 13:22:12.066] TRANSFER: FROM The high-capacity water tank ([0x2004b16]) (162,251,2) TO The bottle of water ([0x2004a70]) (0,0,0) - dfrenando/(Ronald Gomes) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bottle of water 4.19617e-005 1 1 0 and reagents Water - 4.19617e-005
+[2021-05-18 13:22:12.252] TRANSFER: FROM The high-capacity water tank ([0x2004b16]) (162,251,2) TO The bottle of water ([0x2004a70]) (0,0,0) - dfrenando/(Ronald Gomes) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bottle of water 4.19617e-005 1 1 0 and reagents Water - 4.19617e-005
+[2021-05-18 13:22:12.440] TRANSFER: FROM The high-capacity water tank ([0x2004b16]) (162,251,2) TO The bottle of water ([0x2004a70]) (0,0,0) - dfrenando/(Ronald Gomes) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bottle of water 4.19617e-005 1 1 0 and reagents Water - 4.19617e-005
+[2021-05-18 13:22:12.602] TRANSFER: FROM The high-capacity water tank ([0x2004b16]) (162,251,2) TO The bottle of water ([0x2004a70]) (0,0,0) - dfrenando/(Ronald Gomes) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bottle of water 4.19617e-005 1 1 0 and reagents Water - 4.19617e-005
+[2021-05-18 13:22:12.784] TRANSFER: FROM The high-capacity water tank ([0x2004b16]) (162,251,2) TO The bottle of water ([0x2004a70]) (0,0,0) - dfrenando/(Ronald Gomes) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bottle of water 4.19617e-005 1 1 0 and reagents Water - 4.19617e-005
+[2021-05-18 13:22:12.978] TRANSFER: FROM The high-capacity water tank ([0x2004b16]) (162,251,2) TO The bottle of water ([0x2004a70]) (0,0,0) - dfrenando/(Ronald Gomes) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bottle of water 4.19617e-005 1 1 0 and reagents Water - 4.19617e-005
+[2021-05-18 13:22:13.178] TRANSFER: FROM The high-capacity water tank ([0x2004b16]) (162,251,2) TO The bottle of water ([0x2004a70]) (0,0,0) - dfrenando/(Ronald Gomes) - reagentcontainer-glass afterattack fill from: trans_to with arguments the bottle of water 4.19617e-005 1 1 0 and reagents Water - 4.19617e-005
+[2021-05-18 13:23:24.600] MOB DELETE: on_mob_delete: dfrenando/(Ronald Gomes) at Brotherhood of Steel (161, 245, 2) - /datum/reagent/water
+[2021-05-18 13:24:06.432] MOB ADD: on_mob_add(): thebanana3/(Hailee Muggins) at Building (199, 193, 2) - 3.75 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 13:24:06.432] MOB ADD: on_mob_add(): thebanana3/(Hailee Muggins) at Building (199, 193, 2) - 1.25 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:24:07.742] MOB ADD: on_merge(): thebanana3/(Hailee Muggins) at Building (199, 193, 2) - 7.1 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 13:24:07.743] MOB ADD: on_merge(): thebanana3/(Hailee Muggins) at Building (199, 193, 2) - 2.1 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:24:08.525] MOB ADD: on_merge(): thebanana3/(Hailee Muggins) at Building (199, 193, 2) - 10.85 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 13:24:08.526] MOB ADD: on_merge(): thebanana3/(Hailee Muggins) at Building (199, 193, 2) - 3.35 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:24:09.466] MOB ADD: on_merge(): thebanana3/(Hailee Muggins) at Building (199, 193, 2) - 14.2 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 13:24:09.467] MOB ADD: on_merge(): thebanana3/(Hailee Muggins) at Building (199, 193, 2) - 4.2 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:24:30.785] MOB DELETE: on_mob_delete: thebanana3/(Hailee Muggins) at Building (207, 193, 2) - /datum/reagent/radium
+[2021-05-18 13:25:21.050] MOB DELETE: on_mob_delete: thebanana3/(Hailee Muggins) at Wasteland (184, 186, 2) - /datum/reagent/consumable/nuka_cola
+[2021-05-18 13:33:34.747] MOB ADD: on_mob_add(): *no key*/(Hailee Muggins) at Wasteland (200, 131, 2) - 1 of /datum/reagent/determination with 1 purity
+[2021-05-18 13:35:40.600] MOB ADD: on_mob_add(): dfrenando/(Ronald Gomes) at Brotherhood of Steel Leisure Areas (217, 234, 3) - 0.421 of /datum/reagent/consumable/nutriment/vitamin with 1 purity
+[2021-05-18 13:35:40.601] MOB ADD: on_mob_add(): dfrenando/(Ronald Gomes) at Brotherhood of Steel Leisure Areas (217, 234, 3) - 0.632 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-18 13:35:40.601] MOB ADD: on_mob_add(): dfrenando/(Ronald Gomes) at Brotherhood of Steel Leisure Areas (217, 234, 3) - 0.947 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:35:43.208] MOB ADD: on_merge(): dfrenando/(Ronald Gomes) at Brotherhood of Steel Leisure Areas (217, 234, 3) - 1.494 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:35:45.655] MOB ADD: on_merge(): dfrenando/(Ronald Gomes) at Brotherhood of Steel Leisure Areas (217, 234, 3) - 2.041 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:35:47.020] MOB ADD: on_merge(): dfrenando/(Ronald Gomes) at Brotherhood of Steel Leisure Areas (217, 234, 3) - 2.588 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:35:48.159] MOB ADD: on_merge(): dfrenando/(Ronald Gomes) at Brotherhood of Steel Leisure Areas (217, 234, 3) - 3.535 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:35:49.089] MOB ADD: on_merge(): dfrenando/(Ronald Gomes) at Brotherhood of Steel Leisure Areas (217, 234, 3) - 3.982 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:35:50.035] MOB ADD: on_merge(): dfrenando/(Ronald Gomes) at Brotherhood of Steel Leisure Areas (217, 234, 3) - 4.929 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:35:50.932] MOB ADD: on_merge(): dfrenando/(Ronald Gomes) at Brotherhood of Steel Leisure Areas (217, 234, 3) - 5.376 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:35:51.796] MOB ADD: on_merge(): dfrenando/(Ronald Gomes) at Brotherhood of Steel Leisure Areas (217, 234, 3) - 6.323 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:35:52.674] MOB ADD: on_merge(): dfrenando/(Ronald Gomes) at Brotherhood of Steel Leisure Areas (217, 234, 3) - 6.297 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:35:55.344] MOB ADD: on_mob_add(): dfrenando/(Ronald Gomes) at Brotherhood of Steel Leisure Areas (217, 234, 3) - 3.75 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 13:35:55.344] MOB ADD: on_merge(): dfrenando/(Ronald Gomes) at Brotherhood of Steel Leisure Areas (217, 234, 3) - 7.047 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:35:57.550] MOB ADD: on_merge(): dfrenando/(Ronald Gomes) at Brotherhood of Steel Leisure Areas (217, 234, 3) - 7.1 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 13:35:57.550] MOB ADD: on_merge(): dfrenando/(Ronald Gomes) at Brotherhood of Steel Leisure Areas (217, 234, 3) - 7.797 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:35:58.687] MOB ADD: on_merge(): dfrenando/(Ronald Gomes) at Brotherhood of Steel Leisure Areas (217, 234, 3) - 10.85 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 13:35:58.687] MOB ADD: on_merge(): dfrenando/(Ronald Gomes) at Brotherhood of Steel Leisure Areas (217, 234, 3) - 9.047 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:35:59.509] MOB ADD: on_merge(): dfrenando/(Ronald Gomes) at Brotherhood of Steel Leisure Areas (217, 234, 3) - 14.2 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 13:35:59.510] MOB ADD: on_merge(): dfrenando/(Ronald Gomes) at Brotherhood of Steel Leisure Areas (217, 234, 3) - 9.797 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:36:01.000] MOB DELETE: on_mob_delete: dfrenando/(Ronald Gomes) at Brotherhood of Steel Leisure Areas (217, 234, 3) - /datum/reagent/consumable/nutriment/vitamin
+[2021-05-18 13:36:11.062] MOB DELETE: on_mob_delete: dfrenando/(Ronald Gomes) at Brotherhood of Steel Leisure Areas (216, 251, 3) - /datum/reagent/consumable/nutriment
+[2021-05-18 13:36:39.153] MOB DELETE: on_mob_delete: dfrenando/(Ronald Gomes) at Brotherhood of Steel Operations Department (231, 241, 3) - /datum/reagent/radium
+[2021-05-18 13:37:11.280] MOB DELETE: on_mob_delete: dfrenando/(Ronald Gomes) at Brotherhood of Steel Operations Department (228, 239, 3) - /datum/reagent/consumable/nuka_cola
+[2021-05-18 13:39:00.662] MOB ADD: on_mob_add(): thebanana3/(Emely Riker) at Vault (48, 193, 4) - 1.2 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-18 13:39:00.662] MOB ADD: on_mob_add(): thebanana3/(Emely Riker) at Vault (48, 193, 4) - 0.8 of /datum/reagent/consumable/nutriment/vitamin with 1 purity
+[2021-05-18 13:39:19.628] MOB DELETE: on_mob_delete: thebanana3/(Emely Riker) at Vault (31, 195, 4) - /datum/reagent/consumable/nutriment/vitamin
+[2021-05-18 13:39:29.785] MOB DELETE: on_mob_delete: thebanana3/(Emely Riker) at Vault (31, 183, 4) - /datum/reagent/consumable/nutriment
+[2021-05-18 13:40:42.249] MOB ADD: on_mob_add(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 5 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 13:40:42.249] MOB ADD: on_mob_add(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 1 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:40:43.186] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 9.167 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 13:40:43.186] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 1.833 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:40:44.105] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 13.334 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 13:40:44.105] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 2.666 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:40:45.012] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 17.101 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 13:40:45.012] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 2.999 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:40:45.972] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 21.268 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 13:40:45.973] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 3.832 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:40:46.937] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 24.201 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 13:40:46.937] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 3.999 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:40:50.389] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 28.401 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 13:40:50.390] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 3.999 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:40:51.343] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 32.568 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 13:40:51.343] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 4.832 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:40:52.212] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 36.335 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 13:40:52.212] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 5.165 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:40:53.222] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 40.502 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 13:40:53.222] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 5.998 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:40:54.263] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 44.269 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 13:40:54.263] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 6.331 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:40:55.320] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 47.602 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 13:40:55.320] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 6.998 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:40:56.446] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 52.202 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 13:40:56.446] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 7.498 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:40:57.268] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 56.369 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 13:40:57.268] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 8.331 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:40:58.255] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 60.136 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 13:40:58.256] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 8.664 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:40:59.031] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 64.303 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 13:40:59.031] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 9.497 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:40:59.858] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 68.47 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 13:40:59.859] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 10.33 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:41:00.873] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 71.403 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 13:41:00.874] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 10.497 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:41:06.871] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 75.203 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 13:41:06.871] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 9.997 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:41:07.929] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 79.37 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 13:41:07.929] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 10.83 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:41:08.984] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 83.137 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 13:41:08.985] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 11.163 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:41:09.788] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 87.304 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 13:41:09.788] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 11.996 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:41:10.554] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 91.071 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 13:41:10.554] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 12.329 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:41:11.417] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 94.404 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 13:41:11.418] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 12.996 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:41:12.278] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 99.004 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 13:41:12.278] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 13.496 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:41:13.080] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 103.171 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 13:41:13.080] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 14.329 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:41:13.896] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 107.338 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 13:41:13.896] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 15.162 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:41:14.689] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 111.105 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 13:41:14.689] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 15.495 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:41:15.541] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 115.272 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 13:41:15.542] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 16.328 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:41:16.355] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 118.205 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 13:41:16.355] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 16.495 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:41:21.244] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 122.405 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 13:41:21.244] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 16.495 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:41:22.110] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 126.572 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 13:41:22.110] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 17.328 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:41:23.036] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 130.339 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 13:41:23.037] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 17.661 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:41:24.029] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 134.506 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 13:41:24.029] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 18.494 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:41:25.244] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 138.273 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 13:41:25.245] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 18.827 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:41:26.401] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 141.206 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 13:41:26.401] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 18.994 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:41:27.248] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 146.206 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 13:41:27.248] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 19.994 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:41:28.025] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 150.373 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 13:41:28.026] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 20.827 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:41:28.921] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 154.14 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 13:41:28.921] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 21.16 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:41:29.811] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 158.307 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 13:41:29.811] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 21.993 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:41:30.585] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 162.074 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 13:41:30.585] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 22.326 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:41:31.441] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 165.407 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 13:41:31.441] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 22.993 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:41:37.594] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 169.207 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 13:41:37.594] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 171, 4) - 22.493 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:41:38.794] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (50, 171, 4) - 172.974 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 13:41:38.794] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (50, 171, 4) - 22.826 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:41:39.802] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (48, 170, 4) - 177.141 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 13:41:39.802] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (48, 170, 4) - 23.659 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:41:41.852] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (48, 163, 4) - 180.908 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 13:41:41.852] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (48, 163, 4) - 23.992 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:41:42.762] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (49, 160, 4) - 184.675 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 13:41:42.762] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (49, 160, 4) - 24.325 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:41:43.596] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (49, 158, 4) - 188.008 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 13:41:43.597] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (49, 158, 4) - 24.992 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:41:47.373] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (50, 158, 4) - 192.208 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 13:41:47.373] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (50, 158, 4) - 24.992 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:41:48.761] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (50, 159, 4) - 195.975 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 13:41:48.761] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (50, 159, 4) - 25.325 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:41:49.571] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (52, 157, 4) - 200.142 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 13:41:49.572] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (52, 157, 4) - 26.158 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:41:50.496] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (54, 157, 4) - 203.909 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 13:41:50.496] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (54, 157, 4) - 26.491 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:41:51.333] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 157, 4) - 208.076 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 13:41:51.333] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (55, 157, 4) - 27.324 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:41:52.271] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (52, 158, 4) - 211.009 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 13:41:52.271] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (52, 158, 4) - 27.491 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:42:24.356] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (63, 181, 4) - 209.609 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 13:42:24.356] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (63, 181, 4) - 20.491 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:42:25.213] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (63, 181, 4) - 213.776 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 13:42:25.213] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (63, 181, 4) - 21.324 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:42:26.067] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (63, 181, 4) - 217.943 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 13:42:26.067] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (63, 181, 4) - 22.157 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:42:26.897] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (63, 181, 4) - 221.71 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 13:42:26.897] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (63, 181, 4) - 22.49 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:42:27.969] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (63, 181, 4) - 225.877 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 13:42:27.969] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (63, 181, 4) - 23.323 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:42:28.754] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (63, 181, 4) - 228.81 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 13:42:28.754] MOB ADD: on_merge(): thebanana3/(Emely Riker) at Vault (63, 181, 4) - 23.49 of /datum/reagent/radium with 1 purity
+[2021-05-18 13:45:43.353] MOB DELETE: on_mob_delete: *no key*/(Emely Riker) at Vault (64, 159, 4) - /datum/reagent/radium
+[2021-05-18 13:45:45.799] MOB ADD: on_mob_add(): Zeewhel/(Kain Morgan) at Wasteland (238, 233, 2) - 10 of /datum/reagent/water with 1 purity
+[2021-05-18 13:46:35.477] MOB DELETE: on_mob_delete: Zeewhel/(Kain Morgan) at Wasteland (229, 181, 2) - /datum/reagent/water
+[2021-05-18 13:46:47.765] MOB ADD: on_mob_add(): thebanana3/(Alissa Osteen) at Wasteland (93, 112, 2) - 5 of /datum/reagent/toxin/cazador_venom with 1 purity
+[2021-05-18 13:46:53.778] MOB ADD: on_merge(): thebanana3/(Alissa Osteen) at Wasteland (103, 107, 2) - 8.8 of /datum/reagent/toxin/cazador_venom with 1 purity
+[2021-05-18 13:47:25.852] MOB ADD: on_merge(): thebanana3/(Alissa Osteen) at Wasteland (106, 111, 2) - 6.4 of /datum/reagent/toxin/cazador_venom with 1 purity
+[2021-05-18 13:47:47.725] MOB DELETE: on_mob_delete: thebanana3/(Alissa Osteen) at Wasteland (121, 95, 2) - /datum/reagent/toxin/cazador_venom
+[2021-05-18 13:49:44.021] MOB ADD: on_mob_add(): thebanana3/(Alissa Osteen) at Wasteland (75, 99, 2) - 10 of /datum/reagent/drug/space_drugs with 1 purity
+[2021-05-18 13:51:23.069] MOB DELETE: on_mob_delete: thebanana3[DC]/(Alissa Osteen) at Wasteland (157, 16, 2) - /datum/reagent/drug/space_drugs
+[2021-05-18 13:54:45.638] MOB ADD: on_mob_add(): Zeewhel/(Kain Morgan) at Building (207, 190, 2) - 0.3 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 13:54:45.638] MOB ADD: on_mob_add(): Zeewhel/(Kain Morgan) at Building (207, 190, 2) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-18 13:54:46.294] MOB DELETE: on_mob_delete: Zeewhel/(Kain Morgan) at Building (207, 190, 2) - /datum/reagent/medicine/synaptizine
+[2021-05-18 13:54:47.638] MOB ADD: on_merge(): Zeewhel/(Kain Morgan) at Building (207, 190, 2) - 0.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 13:54:47.639] MOB ADD: on_mob_add(): Zeewhel/(Kain Morgan) at Building (207, 190, 2) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-18 13:54:48.294] MOB DELETE: on_mob_delete: Zeewhel/(Kain Morgan) at Building (207, 190, 2) - /datum/reagent/medicine/synaptizine
+[2021-05-18 13:54:49.645] MOB ADD: on_merge(): Zeewhel/(Kain Morgan) at Building (207, 190, 2) - 0.5 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 13:54:49.645] MOB ADD: on_mob_add(): Zeewhel/(Kain Morgan) at Building (207, 190, 2) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-18 13:54:50.293] MOB DELETE: on_mob_delete: Zeewhel/(Kain Morgan) at Building (207, 190, 2) - /datum/reagent/medicine/synaptizine
+[2021-05-18 13:54:51.677] MOB ADD: on_merge(): Zeewhel/(Kain Morgan) at Building (207, 190, 2) - 0.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 13:54:51.677] MOB ADD: on_mob_add(): Zeewhel/(Kain Morgan) at Building (207, 190, 2) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-18 13:54:52.326] MOB DELETE: on_mob_delete: Zeewhel/(Kain Morgan) at Building (207, 190, 2) - /datum/reagent/medicine/synaptizine
+[2021-05-18 13:54:53.673] MOB ADD: on_merge(): Zeewhel/(Kain Morgan) at Building (207, 190, 2) - 0.7 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 13:54:53.673] MOB ADD: on_mob_add(): Zeewhel/(Kain Morgan) at Building (207, 190, 2) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-18 13:54:54.329] MOB DELETE: on_mob_delete: Zeewhel/(Kain Morgan) at Building (207, 190, 2) - /datum/reagent/medicine/synaptizine
+[2021-05-18 13:54:55.674] MOB ADD: on_merge(): Zeewhel/(Kain Morgan) at Building (207, 189, 2) - 0.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 13:54:55.674] MOB ADD: on_mob_add(): Zeewhel/(Kain Morgan) at Building (207, 189, 2) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-18 13:54:56.336] MOB DELETE: on_mob_delete: Zeewhel/(Kain Morgan) at Building (207, 189, 2) - /datum/reagent/medicine/synaptizine
+[2021-05-18 13:54:57.685] MOB ADD: on_merge(): Zeewhel/(Kain Morgan) at Building (207, 189, 2) - 0.9 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 13:54:57.686] MOB ADD: on_mob_add(): Zeewhel/(Kain Morgan) at Building (207, 189, 2) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-18 13:54:58.341] MOB DELETE: on_mob_delete: Zeewhel/(Kain Morgan) at Building (207, 189, 2) - /datum/reagent/medicine/synaptizine
+[2021-05-18 13:54:59.739] MOB ADD: on_merge(): Zeewhel/(Kain Morgan) at Building (207, 189, 2) - 1 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 13:54:59.740] MOB ADD: on_mob_add(): Zeewhel/(Kain Morgan) at Building (207, 189, 2) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-18 13:55:00.389] MOB DELETE: on_mob_delete: Zeewhel/(Kain Morgan) at Building (207, 189, 2) - /datum/reagent/medicine/synaptizine
+[2021-05-18 13:55:01.742] MOB ADD: on_merge(): Zeewhel/(Kain Morgan) at Building (207, 189, 2) - 1.1 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 13:55:01.743] MOB ADD: on_mob_add(): Zeewhel/(Kain Morgan) at Building (207, 189, 2) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-18 13:55:02.393] MOB DELETE: on_mob_delete: Zeewhel/(Kain Morgan) at Building (207, 189, 2) - /datum/reagent/medicine/synaptizine
+[2021-05-18 13:55:03.745] MOB ADD: on_merge(): Zeewhel/(Kain Morgan) at Building (207, 189, 2) - 1.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 13:55:03.745] MOB ADD: on_mob_add(): Zeewhel/(Kain Morgan) at Building (207, 189, 2) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-18 13:55:04.401] MOB DELETE: on_mob_delete: Zeewhel/(Kain Morgan) at Building (207, 189, 2) - /datum/reagent/medicine/synaptizine
+[2021-05-18 13:55:05.745] MOB ADD: on_merge(): Zeewhel/(Kain Morgan) at Building (206, 191, 2) - 1.3 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 13:55:05.746] MOB ADD: on_mob_add(): Zeewhel/(Kain Morgan) at Building (206, 191, 2) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-18 13:55:06.458] MOB DELETE: on_mob_delete: Zeewhel/(Kain Morgan) at Building (206, 192, 2) - /datum/reagent/medicine/synaptizine
+[2021-05-18 13:55:07.809] MOB ADD: on_merge(): Zeewhel/(Kain Morgan) at Building (207, 194, 2) - 1.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 13:55:07.809] MOB ADD: on_mob_add(): Zeewhel/(Kain Morgan) at Building (207, 194, 2) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-18 13:55:08.458] MOB DELETE: on_mob_delete: Zeewhel/(Kain Morgan) at Building (207, 194, 2) - /datum/reagent/medicine/synaptizine
+[2021-05-18 13:55:09.849] MOB ADD: on_merge(): Zeewhel/(Kain Morgan) at Building (209, 194, 2) - 1.5 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 13:55:09.849] MOB ADD: on_mob_add(): Zeewhel/(Kain Morgan) at Building (209, 194, 2) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-18 13:55:10.502] MOB DELETE: on_mob_delete: Zeewhel/(Kain Morgan) at Building (209, 194, 2) - /datum/reagent/medicine/synaptizine
+[2021-05-18 13:55:11.873] MOB ADD: on_merge(): Zeewhel/(Kain Morgan) at Building (210, 193, 2) - 1.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 13:55:11.874] MOB ADD: on_mob_add(): Zeewhel/(Kain Morgan) at Building (210, 193, 2) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-18 13:55:12.533] MOB DELETE: on_mob_delete: Zeewhel/(Kain Morgan) at Building (210, 192, 2) - /datum/reagent/medicine/synaptizine
+[2021-05-18 13:55:13.884] MOB ADD: on_merge(): Zeewhel/(Kain Morgan) at Building (210, 193, 2) - 1.7 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 13:55:13.884] MOB ADD: on_mob_add(): Zeewhel/(Kain Morgan) at Building (210, 193, 2) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-18 13:55:14.534] MOB DELETE: on_mob_delete: Zeewhel/(Kain Morgan) at Building (209, 194, 2) - /datum/reagent/medicine/synaptizine
+[2021-05-18 13:55:15.882] MOB ADD: on_merge(): Zeewhel/(Kain Morgan) at Building (208, 194, 2) - 1.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 13:55:15.883] MOB ADD: on_mob_add(): Zeewhel/(Kain Morgan) at Building (208, 194, 2) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-18 13:55:16.536] MOB DELETE: on_mob_delete: Zeewhel/(Kain Morgan) at Building (207, 194, 2) - /datum/reagent/medicine/synaptizine
+[2021-05-18 13:55:17.883] MOB ADD: on_merge(): Zeewhel/(Kain Morgan) at Building (205, 194, 2) - 1.9 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 13:55:17.883] MOB ADD: on_mob_add(): Zeewhel/(Kain Morgan) at Building (205, 194, 2) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-18 13:55:18.598] MOB DELETE: on_mob_delete: Zeewhel/(Kain Morgan) at Building (203, 194, 2) - /datum/reagent/medicine/synaptizine
+[2021-05-18 13:55:19.955] MOB ADD: on_merge(): Zeewhel/(Kain Morgan) at Building (201, 194, 2) - 2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 13:55:19.956] MOB ADD: on_mob_add(): Zeewhel/(Kain Morgan) at Building (201, 194, 2) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-18 13:55:20.610] MOB DELETE: on_mob_delete: Zeewhel/(Kain Morgan) at Building (201, 194, 2) - /datum/reagent/medicine/synaptizine
+[2021-05-18 13:55:21.962] MOB ADD: on_merge(): Zeewhel/(Kain Morgan) at Building (201, 194, 2) - 2.1 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 13:55:21.962] MOB ADD: on_mob_add(): Zeewhel/(Kain Morgan) at Building (201, 194, 2) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-18 13:55:22.613] MOB DELETE: on_mob_delete: Zeewhel/(Kain Morgan) at Building (202, 194, 2) - /datum/reagent/medicine/synaptizine
+[2021-05-18 13:55:23.964] MOB ADD: on_merge(): Zeewhel/(Kain Morgan) at Building (202, 194, 2) - 2.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 13:55:23.964] MOB ADD: on_mob_add(): Zeewhel/(Kain Morgan) at Building (202, 194, 2) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-18 13:55:24.620] MOB DELETE: on_mob_delete: Zeewhel/(Kain Morgan) at Building (202, 194, 2) - /datum/reagent/medicine/synaptizine
+[2021-05-18 13:55:25.965] MOB ADD: on_merge(): Zeewhel/(Kain Morgan) at Building (201, 194, 2) - 2.3 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 13:55:25.965] MOB ADD: on_mob_add(): Zeewhel/(Kain Morgan) at Building (201, 194, 2) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-18 13:55:26.627] MOB DELETE: on_mob_delete: Zeewhel/(Kain Morgan) at Building (199, 194, 2) - /datum/reagent/medicine/synaptizine
+[2021-05-18 13:55:27.979] MOB ADD: on_merge(): Zeewhel/(Kain Morgan) at Building (198, 189, 2) - 2.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 13:55:27.980] MOB ADD: on_mob_add(): Zeewhel/(Kain Morgan) at Building (198, 189, 2) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-18 13:55:28.634] MOB DELETE: on_mob_delete: Zeewhel/(Kain Morgan) at Building (198, 188, 2) - /datum/reagent/medicine/synaptizine
+[2021-05-18 13:55:30.011] MOB ADD: on_merge(): Zeewhel/(Kain Morgan) at Wasteland (196, 185, 2) - 2.5 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 13:55:30.011] MOB ADD: on_mob_add(): Zeewhel/(Kain Morgan) at Wasteland (196, 185, 2) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-18 13:55:30.667] MOB DELETE: on_mob_delete: Zeewhel/(Kain Morgan) at Wasteland (195, 184, 2) - /datum/reagent/medicine/synaptizine
+[2021-05-18 13:55:32.031] MOB ADD: on_merge(): Zeewhel/(Kain Morgan) at Wasteland (191, 184, 2) - 2.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 13:55:32.031] MOB ADD: on_mob_add(): Zeewhel/(Kain Morgan) at Wasteland (191, 184, 2) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-18 13:55:32.689] MOB DELETE: on_mob_delete: Zeewhel/(Kain Morgan) at Wasteland (190, 185, 2) - /datum/reagent/medicine/synaptizine
+[2021-05-18 13:55:34.043] MOB ADD: on_merge(): Zeewhel/(Kain Morgan) at Wasteland (188, 187, 2) - 2.7 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 13:55:34.043] MOB ADD: on_mob_add(): Zeewhel/(Kain Morgan) at Wasteland (188, 187, 2) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-18 13:55:34.696] MOB DELETE: on_mob_delete: Zeewhel/(Kain Morgan) at Wasteland (187, 187, 2) - /datum/reagent/medicine/synaptizine
+[2021-05-18 13:55:36.130] MOB ADD: on_merge(): Zeewhel/(Kain Morgan) at Wasteland (184, 185, 2) - 2.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 13:55:36.130] MOB ADD: on_mob_add(): Zeewhel/(Kain Morgan) at Wasteland (184, 185, 2) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-18 13:55:36.782] MOB DELETE: on_mob_delete: Zeewhel/(Kain Morgan) at Wasteland (183, 184, 2) - /datum/reagent/medicine/synaptizine
+[2021-05-18 13:55:38.168] MOB ADD: on_merge(): Zeewhel/(Kain Morgan) at Wasteland (178, 184, 2) - 2.9 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 13:55:38.168] MOB ADD: on_mob_add(): Zeewhel/(Kain Morgan) at Wasteland (178, 184, 2) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-18 13:55:38.818] MOB DELETE: on_mob_delete: Zeewhel/(Kain Morgan) at Wasteland (176, 184, 2) - /datum/reagent/medicine/synaptizine
+[2021-05-18 13:55:40.228] MOB ADD: on_merge(): Zeewhel/(Kain Morgan) at Wasteland (172, 184, 2) - 3 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 13:55:40.228] MOB ADD: on_mob_add(): Zeewhel/(Kain Morgan) at Wasteland (172, 184, 2) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-18 13:55:40.881] MOB DELETE: on_mob_delete: Zeewhel/(Kain Morgan) at Wasteland (170, 184, 2) - /datum/reagent/medicine/synaptizine
+[2021-05-18 13:55:42.272] MOB ADD: on_merge(): Zeewhel/(Kain Morgan) at Wasteland (169, 182, 2) - 3.1 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 13:55:42.272] MOB ADD: on_mob_add(): Zeewhel/(Kain Morgan) at Wasteland (169, 182, 2) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-18 13:55:42.924] MOB DELETE: on_mob_delete: Zeewhel/(Kain Morgan) at Wasteland (169, 182, 2) - /datum/reagent/medicine/synaptizine
+[2021-05-18 13:55:44.277] MOB ADD: on_merge(): Zeewhel/(Kain Morgan) at Wasteland (168, 182, 2) - 3.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 13:55:44.277] MOB ADD: on_mob_add(): Zeewhel/(Kain Morgan) at Wasteland (168, 182, 2) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-18 13:55:44.930] MOB DELETE: on_mob_delete: Zeewhel/(Kain Morgan) at Wasteland (167, 183, 2) - /datum/reagent/medicine/synaptizine
+[2021-05-18 13:55:46.283] MOB ADD: on_merge(): Zeewhel/(Kain Morgan) at Wasteland (163, 183, 2) - 3.3 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 13:55:46.283] MOB ADD: on_mob_add(): Zeewhel/(Kain Morgan) at Wasteland (163, 183, 2) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-18 13:55:46.929] MOB DELETE: on_mob_delete: Zeewhel/(Kain Morgan) at Wasteland (161, 183, 2) - /datum/reagent/medicine/synaptizine
+[2021-05-18 13:55:48.286] MOB ADD: on_merge(): Zeewhel/(Kain Morgan) at Wasteland (157, 183, 2) - 3.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 13:55:48.286] MOB ADD: on_mob_add(): Zeewhel/(Kain Morgan) at Wasteland (157, 183, 2) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-18 13:55:48.935] MOB DELETE: on_mob_delete: Zeewhel/(Kain Morgan) at Wasteland (155, 183, 2) - /datum/reagent/medicine/synaptizine
+[2021-05-18 13:55:50.287] MOB ADD: on_merge(): Zeewhel/(Kain Morgan) at Wasteland (152, 182, 2) - 3.5 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 13:55:50.288] MOB ADD: on_mob_add(): Zeewhel/(Kain Morgan) at Wasteland (152, 182, 2) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-18 13:55:50.940] MOB DELETE: on_mob_delete: Zeewhel/(Kain Morgan) at Village (152, 181, 2) - /datum/reagent/medicine/synaptizine
+[2021-05-18 13:55:52.290] MOB ADD: on_merge(): Zeewhel/(Kain Morgan) at Village (152, 181, 2) - 3.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 13:55:52.290] MOB ADD: on_mob_add(): Zeewhel/(Kain Morgan) at Village (152, 181, 2) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-18 13:55:52.946] MOB DELETE: on_mob_delete: Zeewhel/(Kain Morgan) at Village (152, 181, 2) - /datum/reagent/medicine/synaptizine
+[2021-05-18 13:55:54.298] MOB ADD: on_merge(): Zeewhel/(Kain Morgan) at Village (151, 181, 2) - 3.7 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 13:55:54.298] MOB ADD: on_mob_add(): Zeewhel/(Kain Morgan) at Village (151, 181, 2) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-18 13:55:54.947] MOB DELETE: on_mob_delete: Zeewhel/(Kain Morgan) at Village (151, 180, 2) - /datum/reagent/medicine/synaptizine
+[2021-05-18 13:55:56.344] MOB ADD: on_merge(): Zeewhel/(Kain Morgan) at Village (151, 177, 2) - 3.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 13:55:56.345] MOB ADD: on_mob_add(): Zeewhel/(Kain Morgan) at Village (151, 177, 2) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-18 13:55:56.993] MOB DELETE: on_mob_delete: Zeewhel/(Kain Morgan) at Village (153, 177, 2) - /datum/reagent/medicine/synaptizine
+[2021-05-18 13:55:58.341] MOB ADD: on_merge(): Zeewhel/(Kain Morgan) at Village (154, 177, 2) - 3.9 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 13:55:58.341] MOB ADD: on_mob_add(): Zeewhel/(Kain Morgan) at Village (154, 177, 2) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-18 13:55:58.995] MOB DELETE: on_mob_delete: Zeewhel/(Kain Morgan) at Village (156, 177, 2) - /datum/reagent/medicine/synaptizine
+[2021-05-18 13:56:00.341] MOB ADD: on_merge(): Zeewhel/(Kain Morgan) at Village (156, 177, 2) - 4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 13:56:00.342] MOB ADD: on_mob_add(): Zeewhel/(Kain Morgan) at Village (156, 177, 2) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-18 13:56:00.999] MOB DELETE: on_mob_delete: Zeewhel/(Kain Morgan) at Village (155, 177, 2) - /datum/reagent/medicine/synaptizine
+[2021-05-18 13:56:02.349] MOB ADD: on_merge(): Zeewhel/(Kain Morgan) at Village (153, 177, 2) - 4.1 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 13:56:02.349] MOB ADD: on_mob_add(): Zeewhel/(Kain Morgan) at Village (153, 177, 2) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-18 13:56:02.997] MOB DELETE: on_mob_delete: Zeewhel/(Kain Morgan) at Village (152, 177, 2) - /datum/reagent/medicine/synaptizine
+[2021-05-18 13:56:04.348] MOB ADD: on_merge(): Zeewhel/(Kain Morgan) at Village (152, 177, 2) - 4.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 13:56:04.348] MOB ADD: on_mob_add(): Zeewhel/(Kain Morgan) at Village (152, 177, 2) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-18 13:56:04.996] MOB DELETE: on_mob_delete: Zeewhel/(Kain Morgan) at Village (152, 177, 2) - /datum/reagent/medicine/synaptizine
+[2021-05-18 13:56:06.345] MOB ADD: on_merge(): Zeewhel/(Kain Morgan) at Village (152, 177, 2) - 4.3 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 13:56:06.346] MOB ADD: on_mob_add(): Zeewhel/(Kain Morgan) at Village (152, 177, 2) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-18 13:56:06.999] MOB DELETE: on_mob_delete: Zeewhel/(Kain Morgan) at Village (152, 177, 2) - /datum/reagent/medicine/synaptizine
+[2021-05-18 13:56:08.346] MOB ADD: on_merge(): Zeewhel/(Kain Morgan) at Village (152, 177, 2) - 4.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 13:56:08.347] MOB ADD: on_mob_add(): Zeewhel/(Kain Morgan) at Village (152, 177, 2) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-18 13:56:09.002] MOB DELETE: on_mob_delete: Zeewhel/(Kain Morgan) at Village (152, 177, 2) - /datum/reagent/medicine/synaptizine
+[2021-05-18 13:56:10.349] MOB ADD: on_merge(): Zeewhel/(Kain Morgan) at Village (152, 177, 2) - 4.5 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 13:56:10.349] MOB ADD: on_mob_add(): Zeewhel/(Kain Morgan) at Village (152, 177, 2) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-18 13:56:11.002] MOB DELETE: on_mob_delete: Zeewhel/(Kain Morgan) at Village (152, 177, 2) - /datum/reagent/medicine/synaptizine
+[2021-05-18 13:56:12.349] MOB ADD: on_merge(): Zeewhel/(Kain Morgan) at Village (152, 177, 2) - 4.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 13:56:12.349] MOB ADD: on_mob_add(): Zeewhel/(Kain Morgan) at Village (152, 177, 2) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-18 13:56:13.031] MOB DELETE: on_mob_delete: Zeewhel/(Kain Morgan) at Village (152, 177, 2) - /datum/reagent/medicine/synaptizine
+[2021-05-18 13:56:14.378] MOB ADD: on_merge(): Zeewhel/(Kain Morgan) at Village (152, 177, 2) - 4.7 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 13:56:14.379] MOB ADD: on_mob_add(): Zeewhel/(Kain Morgan) at Village (152, 177, 2) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-18 13:56:15.032] MOB DELETE: on_mob_delete: Zeewhel/(Kain Morgan) at Village (152, 177, 2) - /datum/reagent/medicine/synaptizine
+[2021-05-18 13:56:16.421] MOB ADD: on_merge(): Zeewhel/(Kain Morgan) at Village (152, 177, 2) - 4.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 13:56:16.421] MOB ADD: on_mob_add(): Zeewhel/(Kain Morgan) at Village (152, 177, 2) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-18 13:56:17.070] MOB DELETE: on_mob_delete: Zeewhel/(Kain Morgan) at Village (152, 177, 2) - /datum/reagent/medicine/synaptizine
+[2021-05-18 13:56:18.416] MOB ADD: on_merge(): Zeewhel/(Kain Morgan) at Village (152, 177, 2) - 4.9 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 13:56:18.416] MOB ADD: on_mob_add(): Zeewhel/(Kain Morgan) at Village (152, 177, 2) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-18 13:56:19.072] MOB DELETE: on_mob_delete: Zeewhel/(Kain Morgan) at Village (152, 177, 2) - /datum/reagent/medicine/synaptizine
+[2021-05-18 13:56:20.466] MOB ADD: on_merge(): Zeewhel/(Kain Morgan) at Village (152, 177, 2) - 5 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 13:56:20.466] MOB ADD: on_mob_add(): Zeewhel/(Kain Morgan) at Village (152, 177, 2) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-18 13:56:21.120] MOB DELETE: on_mob_delete: Zeewhel/(Kain Morgan) at Village (152, 177, 2) - /datum/reagent/medicine/synaptizine
+[2021-05-18 13:56:22.473] MOB ADD: on_merge(): Zeewhel/(Kain Morgan) at Village (152, 177, 2) - 5.1 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 13:56:22.473] MOB ADD: on_mob_add(): Zeewhel/(Kain Morgan) at Village (152, 177, 2) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-18 13:56:23.121] MOB DELETE: on_mob_delete: Zeewhel/(Kain Morgan) at Village (152, 177, 2) - /datum/reagent/medicine/synaptizine
+[2021-05-18 13:56:24.475] MOB ADD: on_merge(): Zeewhel/(Kain Morgan) at Village (152, 177, 2) - 5.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 13:56:24.476] MOB ADD: on_mob_add(): Zeewhel/(Kain Morgan) at Village (152, 177, 2) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-18 13:56:25.131] MOB DELETE: on_mob_delete: Zeewhel/(Kain Morgan) at Village (152, 177, 2) - /datum/reagent/medicine/synaptizine
+[2021-05-18 13:57:15.382] MOB DELETE: on_mob_delete: Zeewhel/(Kain Morgan) at Village (152, 179, 2) - /datum/reagent/drug/nicotine
+[2021-05-18 13:57:50.984] MOB ADD: on_mob_add(): AlbertoVinhofino/(Elias Ivanov) at Vault (53, 202, 4) - 2.286 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-18 13:57:50.985] MOB ADD: on_mob_add(): AlbertoVinhofino/(Elias Ivanov) at Vault (53, 202, 4) - 1.714 of /datum/reagent/consumable/capsaicin with 1 purity
+[2021-05-18 13:57:52.132] MOB ADD: on_merge(): AlbertoVinhofino/(Elias Ivanov) at Vault (53, 202, 4) - 3.028 of /datum/reagent/consumable/capsaicin with 1 purity
+[2021-05-18 13:57:52.942] MOB ADD: on_merge(): AlbertoVinhofino/(Elias Ivanov) at Vault (53, 202, 4) - 4.742 of /datum/reagent/consumable/capsaicin with 1 purity
+[2021-05-18 13:57:53.862] MOB ADD: on_merge(): AlbertoVinhofino/(Elias Ivanov) at Vault (53, 202, 4) - 5.199 of /datum/reagent/consumable/capsaicin with 1 purity
+[2021-05-18 13:58:00.214] MOB ADD: on_mob_add(): AlbertoVinhofino/(Elias Ivanov) at Vault (54, 198, 4) - 0.222 of /datum/reagent/consumable/nutriment/vitamin with 1 purity
+[2021-05-18 13:58:05.449] MOB DELETE: on_mob_delete: AlbertoVinhofino/(Elias Ivanov) at Vault (54, 198, 4) - /datum/reagent/consumable/nutriment/vitamin
+[2021-05-18 13:58:19.485] MOB DELETE: on_mob_delete: AlbertoVinhofino/(Elias Ivanov) at Vault (41, 183, 4) - /datum/reagent/consumable/capsaicin
+[2021-05-18 13:59:09.762] MOB DELETE: on_mob_delete: AlbertoVinhofino/(Elias Ivanov) at Vault (46, 171, 4) - /datum/reagent/consumable/nutriment
+[2021-05-18 14:03:20.844] MOB DELETE: on_mob_delete: *no key*/(Sean Marcotte) at Vault (41, 184, 4) - /datum/reagent/consumable/nuka_cola
+[2021-05-18 14:05:42.646] MOB ADD: on_mob_add(): Zeewhel/(Kain Morgan) at Village (150, 176, 2) - 8 of /datum/reagent/water with 1 purity
+[2021-05-18 14:06:21.273] MOB DELETE: on_mob_delete: Zeewhel/(Kain Morgan) at Village (160, 178, 2) - /datum/reagent/water
+[2021-05-18 14:06:35.280] OVERDOSE STOP: Zeewhel/(Kain Morgan) at Village (160, 178, 2) got over their need for Nicotine.
+[2021-05-18 14:16:09.050] MOB ADD: on_mob_add(): AlbertoVinhofino/(Elias Ivanov) at Tunnel (9, 219, 3) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-18 14:16:47.954] MOB ADD: on_mob_add(): Zeewhel/(Kain Morgan) at Building (128, 193, 2) - 5 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 14:16:49.295] MOB ADD: on_merge(): Zeewhel/(Kain Morgan) at Building (128, 193, 2) - 9.6 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 14:16:50.598] MOB ADD: on_merge(): Zeewhel/(Kain Morgan) at Building (128, 193, 2) - 14.6 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 14:16:50.933] MOB DELETE: on_mob_delete: AlbertoVinhofino/(Elias Ivanov) at Tunnel (9, 219, 3) - /datum/reagent/medicine/stimpak
+[2021-05-18 14:16:52.262] MOB ADD: on_merge(): Zeewhel/(Kain Morgan) at Building (128, 193, 2) - 19.2 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 14:16:53.588] MOB ADD: on_merge(): Zeewhel/(Kain Morgan) at Building (128, 193, 2) - 23.8 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 14:16:54.928] MOB ADD: on_merge(): Zeewhel/(Kain Morgan) at Building (128, 193, 2) - 28.8 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 14:16:56.390] MOB ADD: on_merge(): Zeewhel/(Kain Morgan) at Building (127, 193, 2) - 33.4 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 14:16:57.798] MOB ADD: on_merge(): Zeewhel/(Kain Morgan) at Building (127, 194, 2) - 38 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 14:16:59.062] MOB ADD: on_merge(): Zeewhel/(Kain Morgan) at Building (127, 194, 2) - 42.6 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 14:17:00.312] MOB ADD: on_merge(): Zeewhel/(Kain Morgan) at Building (127, 194, 2) - 47.6 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 14:20:58.022] MOB DELETE: on_mob_delete: Zeewhel/(Kain Morgan) at Village (160, 178, 2) - /datum/reagent/consumable/nuka_cola
+[2021-05-18 14:39:23.224] INGESTION: SELF: Luciam/(Skarlet D'Luker) (loc �sidewalk at Wasteland (31, 226, 2)) - /datum/reagent/water (49.5u) and /datum/reagent/fluorine (0.5u)
+[2021-05-18 14:39:23.720] MOB ADD: on_mob_add(): Luciam/(Skarlet D'Luker) at Wasteland (31, 226, 2) - 4.95 of /datum/reagent/water with 1 purity
+[2021-05-18 14:39:23.721] MOB ADD: on_mob_add(): Luciam/(Skarlet D'Luker) at Wasteland (31, 226, 2) - 0.05 of /datum/reagent/fluorine with 1 purity
+[2021-05-18 14:39:23.722] TRANSFER: FROM The bottle of water ([0x2002600]) (0,0,0) TO Skarlet D'Luker ([mob_920]) (31,226,2) - Luciam/(Skarlet D'Luker) - self swallowed: trans_to with arguments Skarlet D'Luker 5 1 1 0 and reagents Water - 4.95 and Fluorine - 0.05
+[2021-05-18 14:39:24.578] INGESTION: SELF: Luciam/(Skarlet D'Luker) (loc �sidewalk at Wasteland (31, 226, 2)) - /datum/reagent/water (44.55u) and /datum/reagent/fluorine (0.45u)
+[2021-05-18 14:39:25.061] MOB ADD: on_merge(): Luciam/(Skarlet D'Luker) at Wasteland (31, 226, 2) - 9.9 of /datum/reagent/water with 1 purity
+[2021-05-18 14:39:25.061] MOB ADD: on_merge(): Luciam/(Skarlet D'Luker) at Wasteland (31, 226, 2) - 0.1 of /datum/reagent/fluorine with 1 purity
+[2021-05-18 14:39:25.062] TRANSFER: FROM The bottle of water ([0x2002600]) (0,0,0) TO Skarlet D'Luker ([mob_920]) (31,226,2) - Luciam/(Skarlet D'Luker) - self swallowed: trans_to with arguments Skarlet D'Luker 5 1 1 0 and reagents Water - 4.95 and Fluorine - 0.05
+[2021-05-18 14:39:25.407] INGESTION: SELF: Luciam/(Skarlet D'Luker) (loc �sidewalk at Wasteland (31, 226, 2)) - /datum/reagent/water (39.6u) and /datum/reagent/fluorine (0.4u)
+[2021-05-18 14:39:25.463] MOB DELETE: on_mob_delete: Luciam/(Skarlet D'Luker) at Wasteland (31, 226, 2) - /datum/reagent/fluorine
+[2021-05-18 14:39:25.861] MOB ADD: on_merge(): Luciam/(Skarlet D'Luker) at Wasteland (31, 226, 2) - 14.45 of /datum/reagent/water with 1 purity
+[2021-05-18 14:39:25.861] MOB ADD: on_mob_add(): Luciam/(Skarlet D'Luker) at Wasteland (31, 226, 2) - 0.05 of /datum/reagent/fluorine with 1 purity
+[2021-05-18 14:39:25.862] TRANSFER: FROM The bottle of water ([0x2002600]) (0,0,0) TO Skarlet D'Luker ([mob_920]) (31,226,2) - Luciam/(Skarlet D'Luker) - self swallowed: trans_to with arguments Skarlet D'Luker 5 1 1 0 and reagents Water - 4.95 and Fluorine - 0.05
+[2021-05-18 14:39:26.261] INGESTION: SELF: Luciam/(Skarlet D'Luker) (loc �sidewalk at Wasteland (31, 226, 2)) - /datum/reagent/water (34.65u) and /datum/reagent/fluorine (0.35u)
+[2021-05-18 14:39:26.715] MOB ADD: on_merge(): Luciam/(Skarlet D'Luker) at Wasteland (31, 226, 2) - 19.4 of /datum/reagent/water with 1 purity
+[2021-05-18 14:39:26.716] MOB ADD: on_merge(): Luciam/(Skarlet D'Luker) at Wasteland (31, 226, 2) - 0.1 of /datum/reagent/fluorine with 1 purity
+[2021-05-18 14:39:26.716] TRANSFER: FROM The bottle of water ([0x2002600]) (0,0,0) TO Skarlet D'Luker ([mob_920]) (31,226,2) - Luciam/(Skarlet D'Luker) - self swallowed: trans_to with arguments Skarlet D'Luker 5 1 1 0 and reagents Water - 4.95 and Fluorine - 0.05
+[2021-05-18 14:39:27.466] MOB DELETE: on_mob_delete: Luciam/(Skarlet D'Luker) at Wasteland (31, 226, 2) - /datum/reagent/fluorine
+[2021-05-18 14:41:03.572] MOB DELETE: on_mob_delete: Luciam/(Skarlet D'Luker) at Wasteland (27, 200, 2) - /datum/reagent/water
+[2021-05-18 14:43:47.745] MOB ADD: on_mob_add(): Luciam/(Skarlet D'Luker) at Building (114, 88, 2) - 20 of /datum/reagent/medicine/radx with 1 purity
+[2021-05-18 14:47:07.833] MOB DELETE: on_mob_delete: Luciam/(Skarlet D'Luker) at Clinic (160, 40, 2) - /datum/reagent/medicine/radx
+[2021-05-18 14:49:36.397] INGESTION: SELF: Luciam/(Skarlet D'Luker) (loc the plating at Legion (221, 33, 2)) - /datum/reagent/blackpowder (60u)
+[2021-05-18 14:49:36.872] MOB ADD: on_mob_add(): Luciam/(Skarlet D'Luker) at Legion (221, 33, 2) - 5 of /datum/reagent/blackpowder with 1 purity
+[2021-05-18 14:49:36.872] TRANSFER: FROM The blackpowder bottle ([0x20040e4]) (0,0,0) TO Unknown ([mob_920]) (221,33,2) - Luciam/(Skarlet D'Luker) - self swallowed: trans_to with arguments Unknown 5 1 1 0 and reagents Black Powder - 5
+[2021-05-18 14:49:38.893] INGESTION: SELF: Luciam/(Skarlet D'Luker) (loc the plating at Legion (221, 33, 2)) - /datum/reagent/blackpowder (55u)
+[2021-05-18 14:49:39.378] MOB ADD: on_merge(): Luciam/(Skarlet D'Luker) at Legion (221, 33, 2) - 9.95 of /datum/reagent/blackpowder with 1 purity
+[2021-05-18 14:49:39.378] TRANSFER: FROM The blackpowder bottle ([0x20040e4]) (0,0,0) TO Unknown ([mob_920]) (221,33,2) - Luciam/(Skarlet D'Luker) - self swallowed: trans_to with arguments Unknown 5 1 1 0 and reagents Black Powder - 5
+[2021-05-18 14:49:39.883] INGESTION: SELF: Luciam/(Skarlet D'Luker) (loc the plating at Legion (221, 33, 2)) - /datum/reagent/blackpowder (50u)
+[2021-05-18 14:49:40.378] MOB ADD: on_merge(): Luciam/(Skarlet D'Luker) at Legion (221, 33, 2) - 14.9 of /datum/reagent/blackpowder with 1 purity
+[2021-05-18 14:49:40.378] TRANSFER: FROM The blackpowder bottle ([0x20040e4]) (0,0,0) TO Unknown ([mob_920]) (221,33,2) - Luciam/(Skarlet D'Luker) - self swallowed: trans_to with arguments Unknown 5 1 1 0 and reagents Black Powder - 5
+[2021-05-18 14:49:40.718] INGESTION: SELF: Luciam/(Skarlet D'Luker) (loc the plating at Legion (221, 33, 2)) - /datum/reagent/blackpowder (45u)
+[2021-05-18 14:49:41.178] MOB ADD: on_merge(): Luciam/(Skarlet D'Luker) at Legion (221, 33, 2) - 19.9 of /datum/reagent/blackpowder with 1 purity
+[2021-05-18 14:49:41.178] TRANSFER: FROM The blackpowder bottle ([0x20040e4]) (0,0,0) TO Unknown ([mob_920]) (221,33,2) - Luciam/(Skarlet D'Luker) - self swallowed: trans_to with arguments Unknown 5 1 1 0 and reagents Black Powder - 5
+[2021-05-18 14:49:41.584] INGESTION: SELF: Luciam/(Skarlet D'Luker) (loc the plating at Legion (221, 33, 2)) - /datum/reagent/blackpowder (40u)
+[2021-05-18 14:49:42.077] MOB ADD: on_merge(): Luciam/(Skarlet D'Luker) at Legion (221, 33, 2) - 24.85 of /datum/reagent/blackpowder with 1 purity
+[2021-05-18 14:49:42.077] TRANSFER: FROM The blackpowder bottle ([0x20040e4]) (0,0,0) TO Unknown ([mob_920]) (221,33,2) - Luciam/(Skarlet D'Luker) - self swallowed: trans_to with arguments Unknown 5 1 1 0 and reagents Black Powder - 5
+[2021-05-18 14:49:42.427] INGESTION: SELF: Luciam/(Skarlet D'Luker) (loc the plating at Legion (221, 33, 2)) - /datum/reagent/blackpowder (35u)
+[2021-05-18 14:49:42.878] MOB ADD: on_merge(): Luciam/(Skarlet D'Luker) at Legion (221, 33, 2) - 29.85 of /datum/reagent/blackpowder with 1 purity
+[2021-05-18 14:49:42.878] TRANSFER: FROM The blackpowder bottle ([0x20040e4]) (0,0,0) TO Unknown ([mob_920]) (221,33,2) - Luciam/(Skarlet D'Luker) - self swallowed: trans_to with arguments Unknown 5 1 1 0 and reagents Black Powder - 5
+[2021-05-18 14:49:43.317] INGESTION: SELF: Luciam/(Skarlet D'Luker) (loc the plating at Legion (221, 33, 2)) - /datum/reagent/blackpowder (30u)
+[2021-05-18 14:49:43.777] MOB ADD: on_merge(): Luciam/(Skarlet D'Luker) at Legion (221, 33, 2) - 34.85 of /datum/reagent/blackpowder with 1 purity
+[2021-05-18 14:49:43.778] TRANSFER: FROM The blackpowder bottle ([0x20040e4]) (0,0,0) TO Unknown ([mob_920]) (221,33,2) - Luciam/(Skarlet D'Luker) - self swallowed: trans_to with arguments Unknown 5 1 1 0 and reagents Black Powder - 5
+[2021-05-18 14:49:44.114] INGESTION: SELF: Luciam/(Skarlet D'Luker) (loc the plating at Legion (221, 33, 2)) - /datum/reagent/blackpowder (25u)
+[2021-05-18 14:49:44.579] MOB ADD: on_merge(): Luciam/(Skarlet D'Luker) at Legion (221, 33, 2) - 39.8 of /datum/reagent/blackpowder with 1 purity
+[2021-05-18 14:49:44.579] TRANSFER: FROM The blackpowder bottle ([0x20040e4]) (0,0,0) TO Unknown ([mob_920]) (221,33,2) - Luciam/(Skarlet D'Luker) - self swallowed: trans_to with arguments Unknown 5 1 1 0 and reagents Black Powder - 5
+[2021-05-18 14:49:45.351] INGESTION: SELF: Luciam/(Skarlet D'Luker) (loc the plating at Legion (221, 33, 2)) - /datum/reagent/blackpowder (20u)
+[2021-05-18 14:49:45.829] MOB ADD: on_merge(): Luciam/(Skarlet D'Luker) at Legion (221, 33, 2) - 44.8 of /datum/reagent/blackpowder with 1 purity
+[2021-05-18 14:49:45.830] TRANSFER: FROM The blackpowder bottle ([0x20040e4]) (0,0,0) TO Unknown ([mob_920]) (221,33,2) - Luciam/(Skarlet D'Luker) - self swallowed: trans_to with arguments Unknown 5 1 1 0 and reagents Black Powder - 5
+[2021-05-18 14:49:46.201] INGESTION: SELF: Luciam/(Skarlet D'Luker) (loc the plating at Legion (221, 33, 2)) - /datum/reagent/blackpowder (15u)
+[2021-05-18 14:49:46.681] MOB ADD: on_merge(): Luciam/(Skarlet D'Luker) at Legion (221, 33, 2) - 49.75 of /datum/reagent/blackpowder with 1 purity
+[2021-05-18 14:49:46.681] TRANSFER: FROM The blackpowder bottle ([0x20040e4]) (0,0,0) TO Unknown ([mob_920]) (221,33,2) - Luciam/(Skarlet D'Luker) - self swallowed: trans_to with arguments Unknown 5 1 1 0 and reagents Black Powder - 5
+[2021-05-18 14:49:47.162] INGESTION: SELF: Luciam/(Skarlet D'Luker) (loc the plating at Legion (221, 33, 2)) - /datum/reagent/blackpowder (10u)
+[2021-05-18 14:49:47.631] MOB ADD: on_merge(): Luciam/(Skarlet D'Luker) at Legion (221, 33, 2) - 54.75 of /datum/reagent/blackpowder with 1 purity
+[2021-05-18 14:49:47.631] TRANSFER: FROM The blackpowder bottle ([0x20040e4]) (0,0,0) TO Unknown ([mob_920]) (221,33,2) - Luciam/(Skarlet D'Luker) - self swallowed: trans_to with arguments Unknown 5 1 1 0 and reagents Black Powder - 5
+[2021-05-18 14:49:48.082] INGESTION: SELF: Luciam/(Skarlet D'Luker) (loc the plating at Legion (221, 33, 2)) - /datum/reagent/blackpowder (5u)
+[2021-05-18 14:49:48.533] MOB ADD: on_merge(): Luciam/(Skarlet D'Luker) at Legion (221, 32, 2) - 59.7 of /datum/reagent/blackpowder with 1 purity
+[2021-05-18 14:49:48.534] TRANSFER: FROM The blackpowder bottle ([0x20040e4]) (0,0,0) TO Unknown ([mob_920]) (221,32,2) - Luciam/(Skarlet D'Luker) - self swallowed: trans_to with arguments Unknown 5 1 1 0 and reagents Black Powder - 5
+[2021-05-18 14:50:44.983] MOB ADD: on_mob_add(): Luciam/(Skarlet D'Luker) at Legion (221, 34, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-18 14:50:48.249] MOB ADD: on_merge(): Luciam/(Skarlet D'Luker) at Legion (221, 34, 2) - 19.6 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-18 14:51:00.214] MOB DELETE: on_mob_delete: Luciam/(Skarlet D'Luker) at Legion (221, 34, 2) - /datum/reagent/medicine/stimpak
+[2021-05-18 14:51:19.085] MOB ADD: on_mob_add(): Luciam/(Skarlet D'Luker) at Legion (221, 34, 2) - 2.5 of /datum/reagent/determination with 1 purity
+[2021-05-18 14:51:36.283] MOB DELETE: on_mob_delete: Luciam/(Skarlet D'Luker) at Legion (221, 34, 2) - /datum/reagent/determination
+[2021-05-18 15:02:21.035] MOB ADD: on_mob_add(): Gatossj/(John Grave) at Wasteland (52, 61, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-18 15:02:56.217] MOB DELETE: on_mob_delete: Gatossj/(John Grave) at Wasteland (36, 64, 2) - /datum/reagent/medicine/stimpak
+[2021-05-18 15:13:13.283] MOB ADD: on_mob_add(): Nickenzo12345/(Katelyn Edwards) at Building (28, 89, 2) - 5 of /datum/reagent/toxin with 1 purity
+[2021-05-18 15:13:17.391] MOB ADD: on_merge(): Nickenzo12345/(Katelyn Edwards) at Building (31, 89, 2) - 9.2 of /datum/reagent/toxin with 1 purity
+[2021-05-18 15:13:19.417] MOB ADD: on_merge(): Nickenzo12345/(Katelyn Edwards) at Building (31, 89, 2) - 13.8 of /datum/reagent/toxin with 1 purity
+[2021-05-18 15:13:26.636] MOB ADD: on_mob_add(): Nickenzo12345/(Katelyn Edwards) at Building (30, 88, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-18 15:13:35.508] MOB ADD: on_merge(): Nickenzo12345/(Katelyn Edwards) at Building (28, 92, 2) - 15.6 of /datum/reagent/toxin with 1 purity
+[2021-05-18 15:13:37.537] MOB ADD: on_merge(): Nickenzo12345/(Katelyn Edwards) at Building (28, 92, 2) - 20.2 of /datum/reagent/toxin with 1 purity
+[2021-05-18 15:13:39.515] MOB ADD: on_merge(): Nickenzo12345/(Katelyn Edwards) at Building (29, 88, 2) - 24.8 of /datum/reagent/toxin with 1 purity
+[2021-05-18 15:13:46.719] MOB ADD: on_merge(): Nickenzo12345/(Katelyn Edwards) at Building (32, 89, 2) - 18 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-18 15:13:59.542] MOB ADD: on_merge(): *no key*/(Hailee Muggins) at Wasteland (199, 132, 2) - 6 of /datum/reagent/determination with 1 purity
+[2021-05-18 15:14:05.555] MOB ADD: on_merge(): *no key*/(Hailee Muggins) at Wasteland (199, 132, 2) - 7 of /datum/reagent/determination with 1 purity
+[2021-05-18 15:14:15.647] MOB ADD: on_merge(): *no key*/(Hailee Muggins) at Wasteland (199, 132, 2) - 9.5 of /datum/reagent/determination with 1 purity
+[2021-05-18 15:14:19.699] MOB ADD: on_merge(): *no key*/(Hailee Muggins) at Wasteland (199, 132, 2) - 10.5 of /datum/reagent/determination with 1 purity
+[2021-05-18 15:14:23.707] MOB ADD: on_merge(): *no key*/(Hailee Muggins) at Wasteland (199, 132, 2) - 11.5 of /datum/reagent/determination with 1 purity
+[2021-05-18 15:14:25.891] MOB ADD: on_merge(): Nickenzo12345/(Katelyn Edwards) at Building (30, 94, 2) - 20.6 of /datum/reagent/toxin with 1 purity
+[2021-05-18 15:14:29.887] MOB ADD: on_merge(): Nickenzo12345/(Katelyn Edwards) at Building (27, 92, 2) - 24.8 of /datum/reagent/toxin with 1 purity
+[2021-05-18 15:14:32.010] MOB ADD: on_merge(): Nickenzo12345/(Katelyn Edwards) at Building (28, 93, 2) - 29.4 of /datum/reagent/toxin with 1 purity
+[2021-05-18 15:14:33.761] MOB ADD: on_merge(): *no key*/(Hailee Muggins) at Wasteland (199, 132, 2) - 14 of /datum/reagent/determination with 1 purity
+[2021-05-18 15:14:33.904] MOB ADD: on_merge(): Nickenzo12345/(Katelyn Edwards) at Building (29, 92, 2) - 34 of /datum/reagent/toxin with 1 purity
+[2021-05-18 15:14:41.197] MOB ADD: on_mob_add(): Nickenzo12345/(Katelyn Edwards) at Building (28, 93, 2) - 20 of /datum/reagent/medicine/radx with 1 purity
+[2021-05-18 15:14:47.821] MOB ADD: on_merge(): *no key*/(Hailee Muggins) at Wasteland (199, 132, 2) - 16.5 of /datum/reagent/determination with 1 purity
+[2021-05-18 15:14:53.872] MOB ADD: on_merge(): *no key*/(Hailee Muggins) at Wasteland (199, 132, 2) - 17.5 of /datum/reagent/determination with 1 purity
+[2021-05-18 15:15:06.262] MOB ADD: on_merge(): Nickenzo12345/(Katelyn Edwards) at Building (37, 98, 2) - 32.6 of /datum/reagent/toxin with 1 purity
+[2021-05-18 15:15:08.432] MOB ADD: on_merge(): Nickenzo12345/(Katelyn Edwards) at Building (38, 98, 2) - 37.2 of /datum/reagent/toxin with 1 purity
+[2021-05-18 15:15:08.476] MOB ADD: on_merge(): Nickenzo12345/(Katelyn Edwards) at Building (38, 98, 2) - 42.2 of /datum/reagent/toxin with 1 purity
+[2021-05-18 15:15:10.313] MOB ADD: on_merge(): Nickenzo12345/(Katelyn Edwards) at Building (32, 98, 2) - 46.8 of /datum/reagent/toxin with 1 purity
+[2021-05-18 15:15:12.389] MOB ADD: on_merge(): Nickenzo12345/(Katelyn Edwards) at Building (29, 98, 2) - 51.4 of /datum/reagent/toxin with 1 purity
+[2021-05-18 15:15:15.488] MOB ADD: on_mob_add(): Jhonatan lima/(Luicio Notav) at Building (196, 194, 2) - 2 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-18 15:15:20.271] MOB ADD: on_merge(): *no key*/(Hailee Muggins) at Wasteland (199, 132, 2) - 20 of /datum/reagent/determination with 1 purity
+[2021-05-18 15:15:22.524] MOB ADD: on_merge(): Nickenzo12345/(Katelyn Edwards) at Building (29, 98, 2) - 54.4 of /datum/reagent/toxin with 1 purity
+[2021-05-18 15:15:29.511] MOB ADD: on_merge(): Nickenzo12345/(Katelyn Edwards) at Building (29, 98, 2) - 58.2 of /datum/reagent/toxin with 1 purity
+[2021-05-18 15:15:41.244] MOB ADD: on_merge(): Nickenzo12345/(Katelyn Edwards) at Building (29, 98, 2) - 61.2 of /datum/reagent/toxin with 1 purity
+[2021-05-18 15:15:50.110] MOB ADD: on_merge(): Nickenzo12345/(Katelyn Edwards) at Building (29, 98, 2) - 64.6 of /datum/reagent/toxin with 1 purity
+[2021-05-18 15:16:06.388] MOB ADD: on_merge(): Nickenzo12345/(Katelyn Edwards) at Building (30, 94, 2) - 66.4 of /datum/reagent/toxin with 1 purity
+[2021-05-18 15:16:44.809] MOB ADD: on_merge(): Nickenzo12345/(Katelyn Edwards) at Building (36, 103, 2) - 63.7999 of /datum/reagent/toxin with 1 purity
+[2021-05-18 15:16:50.674] MOB DELETE: on_mob_delete: Nickenzo12345/(Katelyn Edwards) at Building (36, 98, 2) - /datum/reagent/medicine/stimpak
+[2021-05-18 15:17:08.768] MOB DELETE: on_mob_delete: Jhonatan lima/(Luicio Notav) at Village (176, 174, 2) - /datum/reagent/consumable/nutriment
+[2021-05-18 15:17:26.988] MOB ADD: on_merge(): Nickenzo12345/(Katelyn Edwards) at Bunker Elevator (240, 230, 4) - 60.3999 of /datum/reagent/toxin with 1 purity
+[2021-05-18 15:17:32.792] MOB ADD: on_mob_add(): Jhonatan lima/(Luicio Notav) at Village (171, 180, 2) - 6 of /datum/reagent/consumable/coffee with 1 purity
+[2021-05-18 15:17:33.742] MOB ADD: on_merge(): Jhonatan lima/(Luicio Notav) at Village (171, 180, 2) - 10.6 of /datum/reagent/consumable/coffee with 1 purity
+[2021-05-18 15:17:35.042] MOB ADD: on_merge(): Nickenzo12345/(Katelyn Edwards) at Bunker Elevator (240, 230, 4) - 63.7999 of /datum/reagent/toxin with 1 purity
+[2021-05-18 15:17:35.794] MOB ADD: on_merge(): Jhonatan lima/(Luicio Notav) at Wasteland (170, 183, 2) - 15.2 of /datum/reagent/consumable/coffee with 1 purity
+[2021-05-18 15:17:38.763] MOB ADD: on_merge(): Jhonatan lima/(Luicio Notav) at Wasteland (159, 183, 2) - 19.8 of /datum/reagent/consumable/coffee with 1 purity
+[2021-05-18 15:17:39.680] MOB ADD: on_merge(): Jhonatan lima/(Luicio Notav) at Wasteland (155, 183, 2) - 24.4 of /datum/reagent/consumable/coffee with 1 purity
+[2021-05-18 15:17:40.524] MOB ADD: on_merge(): Jhonatan lima/(Luicio Notav) at Wasteland (152, 183, 2) - 28.4 of /datum/reagent/consumable/coffee with 1 purity
+[2021-05-18 15:17:48.737] MOB ADD: on_mob_add(): Bruno-Asbahr/(Montagne Marshall) at Wasteland (34, 187, 2) - 1 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-18 15:17:48.737] MOB ADD: on_mob_add(): Bruno-Asbahr/(Montagne Marshall) at Wasteland (34, 187, 2) - 1 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 15:17:50.501] MOB ADD: on_merge(): Bruno-Asbahr/(Montagne Marshall) at Wasteland (42, 187, 2) - 1.2 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 15:17:53.030] MOB DELETE: on_mob_delete: Bruno-Asbahr/(Montagne Marshall) at Wasteland (55, 187, 2) - /datum/reagent/consumable/sugar
+[2021-05-18 15:17:57.167] MOB DELETE: on_mob_delete: Bruno-Asbahr/(Montagne Marshall) at Wasteland (64, 186, 2) - /datum/reagent/consumable/nutriment
+[2021-05-18 15:18:05.191] MOB ADD: on_merge(): *no key*/(Hailee Muggins) at Wasteland (199, 132, 2) - 25 of /datum/reagent/determination with 1 purity
+[2021-05-18 15:20:12.059] MOB DELETE: on_mob_delete: Jhonatan lima/(Luicio Notav) at Village (111, 173, 2) - /datum/reagent/consumable/coffee
+[2021-05-18 15:21:56.698] MOB ADD: on_mob_add(): Gatossj/(John Grave) at Wasteland (218, 133, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-18 15:22:08.555] MOB DELETE: on_mob_delete: Gatossj/(John Grave) at Wasteland (235, 168, 2) - /datum/reagent/medicine/stimpak
+[2021-05-18 15:30:58.425] MOB ADD: on_mob_add(): Matheusgp9999/(Nykix Nywt) at Building (245, 212, 2) - 0.3 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:30:58.425] MOB ADD: on_mob_add(): Matheusgp9999/(Nykix Nywt) at Building (245, 212, 2) - 0.1 of /datum/reagent/medicine/synaptizine with 1 purity
+[2021-05-18 15:30:59.076] MOB DELETE: on_mob_delete: Matheusgp9999/(Nykix Nywt) at Building (244, 212, 2) - /datum/reagent/medicine/synaptizine
+[2021-05-18 15:31:01.079] MOB DELETE: on_mob_delete: Matheusgp9999/(Nykix Nywt) at Building (245, 212, 2) - /datum/reagent/drug/nicotine
+[2021-05-18 15:31:10.452] MOB ADD: on_mob_add(): Matheusgp9999/(Nykix Nywt) at Building (244, 212, 2) - 0.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:31:12.482] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Building (244, 212, 2) - 0.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:31:14.482] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Building (244, 218, 2) - 0.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:31:16.492] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Wasteland (245, 227, 2) - 1 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:31:18.497] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Wasteland (246, 227, 2) - 1.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:31:22.501] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Wasteland (246, 227, 2) - 1.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:31:24.974] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Wasteland (246, 227, 2) - 1.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:31:26.974] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Wasteland (246, 227, 2) - 1.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:31:28.974] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Wasteland (246, 227, 2) - 1.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:31:30.982] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Wasteland (246, 227, 2) - 2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:31:32.980] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Wasteland (246, 227, 2) - 2.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:31:34.980] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Wasteland (246, 227, 2) - 2.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:31:36.982] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Wasteland (246, 227, 2) - 2.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:31:38.993] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Wasteland (246, 227, 2) - 2.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:31:40.993] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Wasteland (246, 227, 2) - 3 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:31:43.006] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Wasteland (246, 227, 2) - 3.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:31:45.004] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Wasteland (246, 227, 2) - 3.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:31:47.004] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Wasteland (246, 227, 2) - 3.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:31:49.010] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Wasteland (246, 227, 2) - 3.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:31:52.120] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Wasteland (246, 227, 2) - 4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:31:54.404] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Wasteland (246, 227, 2) - 4.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:31:56.436] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Wasteland (246, 227, 2) - 4.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:31:58.436] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Wasteland (246, 227, 2) - 4.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:32:00.437] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Wasteland (246, 227, 2) - 4.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:32:03.607] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Wasteland (246, 227, 2) - 5 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:32:05.609] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Wasteland (246, 227, 2) - 5.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:32:07.610] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Wasteland (246, 227, 2) - 5.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:32:09.633] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Wasteland (246, 227, 2) - 5.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:32:11.637] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Wasteland (246, 227, 2) - 5.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:32:13.639] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Wasteland (246, 227, 2) - 6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:32:15.639] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Wasteland (246, 227, 2) - 6.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:32:17.646] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Wasteland (246, 227, 2) - 6.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:32:19.646] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Wasteland (246, 227, 2) - 6.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:32:21.684] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Wasteland (246, 227, 2) - 6.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:32:24.981] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Wasteland (246, 227, 2) - 7 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:32:26.981] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Wasteland (246, 230, 2) - 7.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:32:28.988] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Wasteland (247, 232, 2) - 7.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:32:30.982] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Wasteland (247, 232, 2) - 7.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:32:32.982] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Wasteland (247, 232, 2) - 7.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:32:34.983] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Wasteland (247, 232, 2) - 8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:32:37.034] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Wasteland (247, 232, 2) - 8.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:32:39.035] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Wasteland (247, 232, 2) - 8.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:32:41.047] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Wasteland (247, 233, 2) - 8.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:32:43.392] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Wasteland (247, 240, 2) - 8.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:32:45.394] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Tunnel (247, 249, 2) - 9 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:32:47.404] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Tunnel (248, 250, 2) - 9.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:32:49.397] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Tunnel (249, 249, 2) - 9.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:32:51.400] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Wasteland (249, 247, 2) - 9.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:32:53.406] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Wasteland (249, 247, 2) - 9.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:32:55.402] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Wasteland (249, 247, 2) - 10 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:32:57.402] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Wasteland (249, 247, 2) - 10.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:32:59.413] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Wasteland (248, 243, 2) - 10.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:33:01.403] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Wasteland (248, 242, 2) - 10.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:33:03.434] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Wasteland (248, 237, 2) - 10.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:33:05.443] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Wasteland (248, 232, 2) - 11 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:33:07.436] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Wasteland (248, 229, 2) - 11.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:33:09.438] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Wasteland (248, 229, 2) - 11.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:33:11.441] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Wasteland (248, 229, 2) - 11.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:33:13.441] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Wasteland (248, 229, 2) - 11.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:33:15.460] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Wasteland (248, 229, 2) - 12 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:33:17.459] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Wasteland (248, 229, 2) - 12.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:33:19.459] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Wasteland (248, 229, 2) - 12.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:33:21.468] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Wasteland (248, 229, 2) - 12.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:33:23.498] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Wasteland (246, 230, 2) - 12.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:33:25.778] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Wasteland (246, 230, 2) - 13 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:33:27.787] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Wasteland (246, 230, 2) - 13.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:33:29.797] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Wasteland (246, 230, 2) - 13.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:33:31.787] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Wasteland (244, 229, 2) - 13.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:33:33.787] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Wasteland (244, 227, 2) - 13.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:33:35.787] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Wasteland (244, 227, 2) - 14 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:33:37.788] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Wasteland (244, 227, 2) - 14.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:33:39.795] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Wasteland (244, 227, 2) - 14.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:33:41.872] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Wasteland (244, 227, 2) - 14.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:36:05.112] MOB DELETE: on_mob_delete: Matheusgp9999/(Nykix Nywt) at Wasteland (244, 227, 2) - /datum/reagent/drug/nicotine
+[2021-05-18 15:37:05.882] MOB ADD: on_mob_add(): Bruno-Asbahr/(Montagne Marshall) at Village (151, 181, 2) - 10 of /datum/reagent/water with 1 purity
+[2021-05-18 15:37:24.213] MOB ADD: on_mob_add(): Bruno-Asbahr/(Montagne Marshall) at Village (151, 181, 2) - 1 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-18 15:37:24.213] MOB ADD: on_mob_add(): Bruno-Asbahr/(Montagne Marshall) at Village (151, 181, 2) - 1 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 15:37:24.978] MOB ADD: on_merge(): Bruno-Asbahr/(Montagne Marshall) at Village (151, 181, 2) - 1.2 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 15:37:25.791] MOB ADD: on_merge(): Bruno-Asbahr/(Montagne Marshall) at Village (151, 181, 2) - 2.2 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 15:37:26.670] MOB ADD: on_merge(): Bruno-Asbahr/(Montagne Marshall) at Village (151, 181, 2) - 3.2 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 15:37:27.466] MOB ADD: on_merge(): Bruno-Asbahr/(Montagne Marshall) at Village (151, 181, 2) - 3.4 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 15:37:28.450] MOB ADD: on_merge(): Bruno-Asbahr/(Montagne Marshall) at Village (151, 181, 2) - 4.4 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 15:37:29.274] MOB ADD: on_merge(): Bruno-Asbahr/(Montagne Marshall) at Village (151, 181, 2) - 4.6 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 15:37:30.140] MOB ADD: on_merge(): Bruno-Asbahr/(Montagne Marshall) at Village (151, 180, 2) - 5.6 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 15:37:42.768] MOB DELETE: on_mob_delete: Bruno-Asbahr/(Montagne Marshall) at Village (151, 181, 2) - /datum/reagent/consumable/sugar
+[2021-05-18 15:37:55.104] MOB DELETE: on_mob_delete: Bruno-Asbahr/(Montagne Marshall) at Village (151, 181, 2) - /datum/reagent/water
+[2021-05-18 15:38:03.112] MOB DELETE: on_mob_delete: Bruno-Asbahr/(Montagne Marshall) at Village (152, 181, 2) - /datum/reagent/consumable/nutriment
+[2021-05-18 15:38:36.688] MOB ADD: on_mob_add(): albertovinhofino/(Kade Tanner) at Caves (223, 192, 3) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-18 15:39:27.536] MOB DELETE: on_mob_delete: albertovinhofino/(Kade Tanner) at Brotherhood of Steel Mining (222, 194, 3) - /datum/reagent/medicine/stimpak
+[2021-05-18 15:40:45.519] MOB ADD: on_mob_add(): Aert/(Keziah Wright) at Wasteland (240, 128, 2) - 0.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:40:47.519] MOB ADD: on_merge(): Aert/(Keziah Wright) at Wasteland (240, 136, 2) - 0.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:40:49.519] MOB ADD: on_merge(): Aert/(Keziah Wright) at Wasteland (240, 144, 2) - 0.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:40:51.529] MOB ADD: on_merge(): Aert/(Keziah Wright) at Wasteland (242, 150, 2) - 1 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:40:53.535] MOB ADD: on_merge(): Aert/(Keziah Wright) at Building (248, 151, 2) - 1.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:40:55.538] MOB ADD: on_merge(): Aert/(Keziah Wright) at Building (249, 150, 2) - 1.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:40:57.589] MOB ADD: on_merge(): Aert/(Keziah Wright) at Building (248, 151, 2) - 1.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:40:59.627] MOB ADD: on_merge(): Aert/(Keziah Wright) at Wasteland (242, 151, 2) - 1.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:41:01.629] MOB ADD: on_merge(): Aert/(Keziah Wright) at Wasteland (240, 158, 2) - 2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:41:03.966] MOB ADD: on_merge(): Aert/(Keziah Wright) at Wasteland (240, 170, 2) - 2.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:41:05.972] MOB ADD: on_merge(): Aert/(Keziah Wright) at Wasteland (240, 179, 2) - 2.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:41:08.012] MOB ADD: on_merge(): Aert/(Keziah Wright) at Wasteland (240, 187, 2) - 2.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:41:10.036] MOB ADD: on_merge(): Aert/(Keziah Wright) at Wasteland (240, 196, 2) - 2.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:41:12.042] MOB ADD: on_merge(): Aert/(Keziah Wright) at Wasteland (240, 206, 2) - 3 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:41:14.045] MOB ADD: on_merge(): Aert/(Keziah Wright) at Wasteland (240, 215, 2) - 3.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:41:16.049] MOB ADD: on_merge(): Aert/(Keziah Wright) at Building (245, 220, 2) - 3.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:41:18.049] MOB ADD: on_merge(): Aert/(Keziah Wright) at Wasteland (245, 224, 2) - 3.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:41:20.076] MOB ADD: on_merge(): Aert/(Keziah Wright) at Emergency Shuttle (248, 227, 2) - 3.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:41:22.076] MOB ADD: on_merge(): Aert/(Keziah Wright) at Emergency Shuttle (248, 226, 2) - 4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:41:24.092] MOB ADD: on_merge(): Aert/(Keziah Wright) at Emergency Shuttle (247, 226, 2) - 4.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:41:26.131] MOB ADD: on_merge(): Aert/(Keziah Wright) at Wasteland (246, 226, 2) - 4.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:41:28.132] MOB ADD: on_merge(): Aert/(Keziah Wright) at Emergency Shuttle (247, 226, 2) - 4.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:41:30.137] MOB ADD: on_merge(): Aert/(Keziah Wright) at Emergency Shuttle (248, 227, 2) - 4.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:41:32.176] MOB ADD: on_merge(): Aert/(Keziah Wright) at Emergency Shuttle (249, 229, 2) - 5 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:41:34.181] MOB ADD: on_merge(): Aert/(Keziah Wright) at Emergency Shuttle (249, 230, 2) - 5.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:41:36.354] MOB ADD: on_merge(): Aert/(Keziah Wright) at Emergency Shuttle (249, 230, 2) - 5.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:41:38.355] MOB ADD: on_merge(): Aert/(Keziah Wright) at Emergency Shuttle (249, 231, 2) - 5.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:41:40.358] MOB ADD: on_merge(): Aert/(Keziah Wright) at Emergency Shuttle (249, 234, 2) - 5.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:41:42.362] MOB ADD: on_merge(): Aert/(Keziah Wright) at Emergency Shuttle (249, 236, 2) - 6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:41:44.361] MOB ADD: on_merge(): Aert/(Keziah Wright) at Emergency Shuttle (248, 236, 2) - 6.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:41:46.363] MOB ADD: on_merge(): Aert/(Keziah Wright) at Emergency Shuttle (248, 236, 2) - 6.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:41:48.378] MOB ADD: on_merge(): Aert/(Keziah Wright) at Emergency Shuttle (248, 236, 2) - 6.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:41:49.134] MOB ADD: on_mob_add(): albertovinhofino/(Kade Tanner) at Caves (181, 189, 3) - 5 of /datum/reagent/toxin with 1 purity
+[2021-05-18 15:41:50.381] MOB ADD: on_merge(): Aert/(Keziah Wright) at Emergency Shuttle (249, 237, 2) - 6.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:41:52.382] MOB ADD: on_merge(): Aert/(Keziah Wright) at Emergency Shuttle (249, 239, 2) - 7 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:41:54.384] MOB ADD: on_merge(): Aert/(Keziah Wright) at Emergency Shuttle (249, 239, 2) - 7.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:41:56.391] MOB ADD: on_merge(): Aert/(Keziah Wright) at Emergency Shuttle (249, 240, 2) - 7.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:41:58.397] MOB ADD: on_merge(): Aert/(Keziah Wright) at Emergency Shuttle (248, 240, 2) - 7.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:41:58.490] MOB ADD: on_mob_add(): albertovinhofino/(Kade Tanner) at Caves (215, 187, 3) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-18 15:42:00.454] MOB ADD: on_merge(): Aert/(Keziah Wright) at Emergency Shuttle (248, 240, 2) - 7.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:42:02.456] MOB ADD: on_merge(): Aert/(Keziah Wright) at Emergency Shuttle (248, 240, 2) - 8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:42:04.472] MOB ADD: on_merge(): Aert/(Keziah Wright) at Emergency Shuttle (248, 240, 2) - 8.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:42:05.085] MOB DELETE: on_mob_delete: albertovinhofino/(Kade Tanner) at Caves (221, 192, 3) - /datum/reagent/toxin
+[2021-05-18 15:42:06.482] MOB ADD: on_merge(): Aert/(Keziah Wright) at Emergency Shuttle (248, 240, 2) - 8.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:42:08.482] MOB ADD: on_merge(): Aert/(Keziah Wright) at Emergency Shuttle (248, 240, 2) - 8.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:42:10.495] MOB ADD: on_merge(): Aert/(Keziah Wright) at Emergency Shuttle (248, 240, 2) - 8.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:42:12.495] MOB ADD: on_merge(): Aert/(Keziah Wright) at Emergency Shuttle (248, 240, 2) - 9 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:42:14.535] MOB ADD: on_merge(): Aert/(Keziah Wright) at Emergency Shuttle (251, 240, 2) - 9.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:42:16.537] MOB ADD: on_merge(): Aert/(Keziah Wright) at Emergency Shuttle (251, 237, 2) - 9.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:42:18.578] MOB ADD: on_merge(): Aert/(Keziah Wright) at Emergency Shuttle (251, 237, 2) - 9.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:42:20.579] MOB ADD: on_merge(): Aert/(Keziah Wright) at Emergency Shuttle (251, 238, 2) - 9.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:42:22.635] MOB ADD: on_merge(): Aert/(Keziah Wright) at Emergency Shuttle (251, 239, 2) - 10 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:42:24.637] MOB ADD: on_merge(): Aert/(Keziah Wright) at Emergency Shuttle (250, 239, 2) - 10.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:42:26.646] MOB ADD: on_merge(): Aert/(Keziah Wright) at Emergency Shuttle (250, 239, 2) - 10.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:42:28.642] MOB ADD: on_merge(): Aert/(Keziah Wright) at Emergency Shuttle (250, 238, 2) - 10.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:42:30.646] MOB ADD: on_merge(): Aert/(Keziah Wright) at Emergency Shuttle (251, 236, 2) - 10.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:42:32.650] MOB ADD: on_merge(): Aert/(Keziah Wright) at Emergency Shuttle (251, 236, 2) - 11 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:42:34.652] MOB ADD: on_merge(): Aert/(Keziah Wright) at Emergency Shuttle (251, 236, 2) - 11.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:42:36.652] MOB ADD: on_merge(): Aert/(Keziah Wright) at Emergency Shuttle (251, 236, 2) - 11.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:42:38.659] MOB ADD: on_merge(): Aert/(Keziah Wright) at Emergency Shuttle (251, 238, 2) - 11.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:42:40.670] MOB ADD: on_merge(): Aert/(Keziah Wright) at Emergency Shuttle (249, 243, 2) - 11.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:42:42.671] MOB ADD: on_merge(): Aert/(Keziah Wright) at Emergency Shuttle (249, 244, 2) - 12 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:42:44.677] MOB ADD: on_merge(): Aert/(Keziah Wright) at Emergency Shuttle (249, 245, 2) - 12.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:42:46.710] MOB ADD: on_merge(): Aert/(Keziah Wright) at Emergency Shuttle (249, 245, 2) - 12.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:42:48.712] MOB ADD: on_merge(): Aert/(Keziah Wright) at Emergency Shuttle (249, 245, 2) - 12.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:42:50.714] MOB ADD: on_merge(): Aert/(Keziah Wright) at Emergency Shuttle (249, 245, 2) - 12.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:42:52.726] MOB ADD: on_merge(): Aert/(Keziah Wright) at Emergency Shuttle (249, 245, 2) - 13 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:42:54.730] MOB ADD: on_merge(): Aert/(Keziah Wright) at Emergency Shuttle (249, 245, 2) - 13.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:42:56.732] MOB ADD: on_merge(): Aert/(Keziah Wright) at Emergency Shuttle (249, 245, 2) - 13.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:42:58.731] MOB ADD: on_merge(): Aert/(Keziah Wright) at Emergency Shuttle (249, 245, 2) - 13.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:43:00.733] MOB ADD: on_merge(): Aert/(Keziah Wright) at Emergency Shuttle (249, 245, 2) - 13.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:43:02.777] MOB ADD: on_merge(): Aert/(Keziah Wright) at Emergency Shuttle (249, 245, 2) - 14 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:43:03.328] MOB ADD: on_mob_add(): Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (102, 51, 3) - 0.286 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-18 15:43:03.329] MOB ADD: on_mob_add(): Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (102, 51, 3) - 0.857 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 15:43:03.329] MOB ADD: on_mob_add(): Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (102, 51, 3) - 0.857 of /datum/reagent/consumable/coco with 1 purity
+[2021-05-18 15:43:03.390] MOB DELETE: on_mob_delete: albertovinhofino/(Kade Tanner) at Caves (220, 187, 3) - /datum/reagent/medicine/stimpak
+[2021-05-18 15:43:03.398] MOB DELETE: on_mob_delete: Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (102, 51, 3) - /datum/reagent/consumable/nutriment
+[2021-05-18 15:43:04.168] MOB ADD: on_mob_add(): Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (102, 51, 3) - 0.286 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-18 15:43:04.168] MOB ADD: on_merge(): Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (102, 51, 3) - 0.914 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 15:43:04.168] MOB ADD: on_merge(): Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (102, 51, 3) - 1.314 of /datum/reagent/consumable/coco with 1 purity
+[2021-05-18 15:43:04.860] MOB ADD: on_merge(): Aert/(Keziah Wright) at Emergency Shuttle (250, 243, 2) - 14.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:43:05.023] MOB ADD: on_merge(): Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (102, 51, 3) - 1.771 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 15:43:05.024] MOB ADD: on_merge(): Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (102, 51, 3) - 2.171 of /datum/reagent/consumable/coco with 1 purity
+[2021-05-18 15:43:06.860] MOB ADD: on_merge(): Aert/(Keziah Wright) at Emergency Shuttle (250, 243, 2) - 14.4 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:43:07.206] MOB ADD: on_merge(): Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (102, 51, 3) - 1.4 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 15:43:07.206] MOB ADD: on_merge(): Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (102, 51, 3) - 2.2 of /datum/reagent/consumable/coco with 1 purity
+[2021-05-18 15:43:07.496] MOB DELETE: on_mob_delete: Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (102, 51, 3) - /datum/reagent/consumable/nutriment
+[2021-05-18 15:43:08.864] MOB ADD: on_merge(): Aert/(Keziah Wright) at Emergency Shuttle (250, 243, 2) - 14.6 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:43:09.486] MOB DELETE: on_mob_delete: Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (102, 51, 3) - /datum/reagent/consumable/sugar
+[2021-05-18 15:43:10.923] MOB ADD: on_merge(): Aert/(Keziah Wright) at Emergency Shuttle (250, 243, 2) - 14.8 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:43:12.912] MOB ADD: on_merge(): Aert/(Keziah Wright) at Emergency Shuttle (250, 243, 2) - 15 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:43:14.913] MOB ADD: on_merge(): Aert/(Keziah Wright) at Emergency Shuttle (249, 245, 2) - 15.2 of /datum/reagent/drug/nicotine with 1 purity
+[2021-05-18 15:43:17.528] MOB DELETE: on_mob_delete: Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (102, 51, 3) - /datum/reagent/consumable/coco
+[2021-05-18 15:43:20.050] MOB ADD: on_mob_add(): Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (102, 51, 3) - 0.667 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-18 15:43:20.050] MOB ADD: on_mob_add(): Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (102, 51, 3) - 0.667 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 15:43:20.050] MOB ADD: on_mob_add(): Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (102, 51, 3) - 0.667 of /datum/reagent/consumable/coco with 1 purity
+[2021-05-18 15:43:20.862] MOB ADD: on_merge(): Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (102, 51, 3) - 1.334 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 15:43:20.863] MOB ADD: on_merge(): Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (102, 51, 3) - 1.334 of /datum/reagent/consumable/coco with 1 purity
+[2021-05-18 15:43:21.711] MOB ADD: on_merge(): Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (102, 51, 3) - 1.201 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 15:43:21.711] MOB ADD: on_merge(): Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (102, 51, 3) - 1.601 of /datum/reagent/consumable/coco with 1 purity
+[2021-05-18 15:43:22.863] MOB ADD: on_merge(): Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (102, 51, 3) - 1.868 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 15:43:22.863] MOB ADD: on_merge(): Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (102, 51, 3) - 2.268 of /datum/reagent/consumable/coco with 1 purity
+[2021-05-18 15:43:23.785] MOB ADD: on_merge(): Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (102, 51, 3) - 1.735 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 15:43:23.785] MOB ADD: on_merge(): Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (102, 51, 3) - 2.535 of /datum/reagent/consumable/coco with 1 purity
+[2021-05-18 15:43:24.960] MOB ADD: on_merge(): Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (102, 51, 3) - 2.402 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 15:43:24.960] MOB ADD: on_merge(): Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (102, 51, 3) - 3.202 of /datum/reagent/consumable/coco with 1 purity
+[2021-05-18 15:43:30.032] MOB DELETE: on_mob_delete: Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (102, 51, 3) - /datum/reagent/consumable/sugar
+[2021-05-18 15:43:33.594] MOB ADD: on_mob_add(): Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (102, 51, 3) - 0.857 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 15:43:33.594] MOB ADD: on_merge(): Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (102, 51, 3) - 2.459 of /datum/reagent/consumable/coco with 1 purity
+[2021-05-18 15:43:34.406] MOB ADD: on_merge(): Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (102, 51, 3) - 0.914 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 15:43:34.407] MOB ADD: on_merge(): Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (102, 51, 3) - 2.916 of /datum/reagent/consumable/coco with 1 purity
+[2021-05-18 15:43:35.502] MOB ADD: on_merge(): Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (102, 51, 3) - 1.771 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 15:43:35.503] MOB ADD: on_merge(): Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (102, 51, 3) - 3.773 of /datum/reagent/consumable/coco with 1 purity
+[2021-05-18 15:43:36.408] MOB ADD: on_merge(): Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (102, 51, 3) - 1.4 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 15:43:36.409] MOB ADD: on_merge(): Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (102, 51, 3) - 3.802 of /datum/reagent/consumable/coco with 1 purity
+[2021-05-18 15:43:37.415] MOB ADD: on_merge(): Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (102, 51, 3) - 2.257 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 15:43:37.415] MOB ADD: on_merge(): Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (102, 51, 3) - 4.659 of /datum/reagent/consumable/coco with 1 purity
+[2021-05-18 15:43:38.331] MOB ADD: on_merge(): Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (102, 51, 3) - 2.314 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 15:43:38.331] MOB ADD: on_merge(): Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (102, 51, 3) - 5.116 of /datum/reagent/consumable/coco with 1 purity
+[2021-05-18 15:43:39.089] MOB ADD: on_merge(): Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (102, 51, 3) - 3.171 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 15:43:39.090] MOB ADD: on_merge(): Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (102, 51, 3) - 5.973 of /datum/reagent/consumable/coco with 1 purity
+[2021-05-18 15:43:39.910] MOB ADD: on_merge(): Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (102, 51, 3) - 3.6 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 15:43:39.911] MOB ADD: on_merge(): Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (102, 51, 3) - 6.402 of /datum/reagent/consumable/coco with 1 purity
+[2021-05-18 15:43:45.319] MOB ADD: on_merge(): Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (102, 52, 3) - 1.867 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 15:43:45.319] MOB ADD: on_merge(): Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (102, 52, 3) - 5.869 of /datum/reagent/consumable/coco with 1 purity
+[2021-05-18 15:43:46.111] MOB ADD: on_merge(): Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (102, 52, 3) - 2.534 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 15:43:46.111] MOB ADD: on_merge(): Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (102, 52, 3) - 6.536 of /datum/reagent/consumable/coco with 1 purity
+[2021-05-18 15:43:46.991] MOB ADD: on_merge(): Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (102, 52, 3) - 2.401 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 15:43:46.991] MOB ADD: on_merge(): Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (102, 52, 3) - 6.803 of /datum/reagent/consumable/coco with 1 purity
+[2021-05-18 15:43:49.863] MOB ADD: on_merge(): Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (102, 52, 3) - 2.458 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 15:43:49.863] MOB ADD: on_merge(): Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (102, 52, 3) - 7.26 of /datum/reagent/consumable/coco with 1 purity
+[2021-05-18 15:43:50.719] MOB ADD: on_merge(): Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (102, 52, 3) - 2.515 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 15:43:50.719] MOB ADD: on_merge(): Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (102, 52, 3) - 7.717 of /datum/reagent/consumable/coco with 1 purity
+[2021-05-18 15:43:51.697] MOB ADD: on_merge(): Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (102, 52, 3) - 3.372 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 15:43:51.698] MOB ADD: on_merge(): Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (102, 52, 3) - 8.574 of /datum/reagent/consumable/coco with 1 purity
+[2021-05-18 15:43:52.499] MOB ADD: on_merge(): Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (102, 52, 3) - 3.001 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 15:43:52.499] MOB ADD: on_merge(): Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (102, 52, 3) - 8.603 of /datum/reagent/consumable/coco with 1 purity
+[2021-05-18 15:44:00.396] MOB DELETE: on_mob_delete: Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (101, 52, 3) - /datum/reagent/consumable/sugar
+[2021-05-18 15:44:00.744] MOB ADD: on_mob_add(): Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (101, 52, 3) - 0.667 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 15:44:00.744] MOB ADD: on_merge(): Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (101, 52, 3) - 7.67 of /datum/reagent/consumable/coco with 1 purity
+[2021-05-18 15:44:01.642] MOB ADD: on_merge(): Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (101, 52, 3) - 1.334 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 15:44:01.643] MOB ADD: on_merge(): Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (101, 52, 3) - 8.337 of /datum/reagent/consumable/coco with 1 purity
+[2021-05-18 15:44:02.458] MOB ADD: on_merge(): Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (101, 52, 3) - 1.201 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 15:44:02.458] MOB ADD: on_merge(): Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (101, 52, 3) - 8.604 of /datum/reagent/consumable/coco with 1 purity
+[2021-05-18 15:44:03.793] MOB ADD: on_merge(): Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (101, 52, 3) - 1.868 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 15:44:03.794] MOB ADD: on_merge(): Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (101, 52, 3) - 9.271 of /datum/reagent/consumable/coco with 1 purity
+[2021-05-18 15:44:04.721] MOB ADD: on_merge(): Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (101, 52, 3) - 1.735 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 15:44:04.721] MOB ADD: on_merge(): Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (101, 52, 3) - 9.538 of /datum/reagent/consumable/coco with 1 purity
+[2021-05-18 15:44:05.601] MOB ADD: on_merge(): Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (101, 52, 3) - 2.402 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 15:44:05.602] MOB ADD: on_merge(): Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (101, 52, 3) - 10.205 of /datum/reagent/consumable/coco with 1 purity
+[2021-05-18 15:44:08.703] MOB ADD: on_merge(): Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (101, 53, 3) - 1.659 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 15:44:08.703] MOB ADD: on_merge(): Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (101, 53, 3) - 10.262 of /datum/reagent/consumable/coco with 1 purity
+[2021-05-18 15:44:09.631] MOB ADD: on_merge(): Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (101, 53, 3) - 2.516 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 15:44:09.631] MOB ADD: on_merge(): Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (101, 53, 3) - 11.119 of /datum/reagent/consumable/coco with 1 purity
+[2021-05-18 15:44:10.464] MOB ADD: on_merge(): Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (101, 53, 3) - 2.573 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 15:44:10.465] MOB ADD: on_merge(): Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (101, 53, 3) - 11.576 of /datum/reagent/consumable/coco with 1 purity
+[2021-05-18 15:44:11.263] MOB ADD: on_merge(): Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (101, 53, 3) - 3.002 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 15:44:11.263] MOB ADD: on_merge(): Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (101, 53, 3) - 12.005 of /datum/reagent/consumable/coco with 1 purity
+[2021-05-18 15:44:18.458] MOB DELETE: on_mob_delete: Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (103, 46, 3) - /datum/reagent/consumable/sugar
+[2021-05-18 15:44:30.665] MOB DELETE: on_mob_delete: Coffee_MasterOri/(Nickolas Priebe) at Followers of the Apocalypse (87, 49, 2) - /datum/reagent/consumable/nutriment
+[2021-05-18 15:44:54.409] MOB ADD: on_mob_add(): Jhonatan lima/(Luicio Notav) at Emergency Shuttle (102, 36, 5) - 2.5 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-18 15:44:54.410] MOB ADD: on_mob_add(): Jhonatan lima/(Luicio Notav) at Emergency Shuttle (102, 36, 5) - 0.5 of /datum/reagent/consumable/nutriment/vitamin with 1 purity
+[2021-05-18 15:45:02.886] MOB DELETE: on_mob_delete: Jhonatan lima/(Luicio Notav) at Emergency Shuttle (102, 39, 5) - /datum/reagent/consumable/nutriment/vitamin
+[2021-05-18 15:45:10.904] MOB DELETE: on_mob_delete: *no key*/(Nickolas Priebe) at Followers of the Apocalypse (88, 50, 2) - /datum/reagent/consumable/coco
+[2021-05-18 15:45:26.903] OVERDOSE STOP: Matheusgp9999/(Nykix Nywt) at Emergency Shuttle (104, 35, 5) got over their need for Nicotine.
+[2021-05-18 15:45:42.545] MOB ADD: on_mob_add(): Matheusgp9999/(Nykix Nywt) at Emergency Shuttle (118, 27, 1) - 10 of /datum/reagent/medicine/super_stimpak with 1 purity
+[2021-05-18 15:45:43.392] MOB DELETE: on_mob_delete: Matheusgp9999/(Nykix Nywt) at Emergency Shuttle (118, 27, 1) - /datum/reagent/medicine/super_stimpak
+[2021-05-18 15:45:43.396] MOB DELETE: on_mob_delete: Jhonatan lima/(Luicio Notav) at Emergency Shuttle (123, 26, 1) - /datum/reagent/consumable/nutriment
+[2021-05-18 15:45:46.789] MOB ADD: on_mob_add(): Aert/(Keziah Wright) at Emergency Shuttle (112, 30, 1) - 1 of /datum/reagent/determination with 1 purity
+[2021-05-18 15:45:47.391] MOB DELETE: on_mob_delete: Aert/(Keziah Wright) at mountain (112, 31, 1) - /datum/reagent/drug/nicotine
+[2021-05-18 15:45:48.946] MOB ADD: on_mob_add(): Aert/(Keziah Wright) at mountain (115, 31, 1) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-18 15:45:53.453] MOB DELETE: on_mob_delete: Aert/(Keziah Wright) at CentCom Recovery Ship (115, 33, 1) - /datum/reagent/determination
+[2021-05-18 15:46:17.306] MOB ADD: on_mob_add(): Matheusgp9999/(Nykix Nywt) at CentCom Recovery Ship (102, 33, 1) - 2.5 of /datum/reagent/determination with 1 purity
+[2021-05-18 15:46:24.985] MOB ADD: on_merge(): Aert/(Keziah Wright) at CentCom Recovery Ship (109, 36, 1) - 16.4 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-18 15:46:30.158] MOB ADD: on_mob_add(): Jhonatan lima/(Luicio Notav) at CentCom Recovery Ship (115, 35, 1) - 1 of /datum/reagent/determination with 1 purity
+[2021-05-18 15:46:32.338] MOB ADD: on_merge(): Jhonatan lima/(Luicio Notav) at CentCom Recovery Ship (114, 34, 1) - 3.125 of /datum/reagent/determination with 1 purity
+[2021-05-18 15:46:33.644] MOB DELETE: on_mob_delete: Matheusgp9999/(Nykix Nywt) at CentCom Recovery Ship (102, 33, 1) - /datum/reagent/determination

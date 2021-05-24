@@ -1,0 +1,19 @@
+[2021-05-15 23:06:40.400] Starting up round ID 2.
+ - -------------------------
+[2021-05-15 23:06:40.463] GAME: Round ID: 2
+[2021-05-15 23:06:40.755] ADMIN: Errored custom_items_whitelist line: JayEhh|ALL|ALL|/obj/item/custom/ceb_soap=1 - Path/number for item missing or invalid.
+[2021-05-15 23:06:43.718] GAME: Saved mode is 'extended'
+[2021-05-15 23:09:05.061] ACCESS: Login: Dantesousa from 177.208.168.171-2479746605 || BYOND v514.1554
+[2021-05-15 23:09:12.080] ACCESS: Mob Login: Dantesousa/(Dantesousa) was assigned to a /mob/dead/new_player
+[2021-05-15 23:09:20.040] GAME: brotherhood of steel (base) loaded at 10,10,5
+[2021-05-15 23:09:20.445] GAME: Pahrump train loaded at 19,10,5
+[2021-05-15 23:09:20.927] GAME: fancy transport ferry loaded at 25,10,5
+[2021-05-15 23:09:21.180] GAME: supply train (Pahrump) loaded at 38,10,5
+[2021-05-15 23:09:22.609] GAME: assault pod (Default) loaded at 45,10,5
+[2021-05-15 23:09:23.569] GAME: basic syndicate infiltrator loaded at 52,10,5
+[2021-05-15 23:09:24.580] GAME: Bunker Elevator loaded at 69,10,5
+[2021-05-15 23:09:24.681] GAME: North Bunker Elevator loaded at 72,10,5
+[2021-05-15 23:09:26.980] GAME: North Sewer 1 loaded at 70,198,3
+[2021-05-15 23:09:26.988] GAME: Dantesousa/(Dantesousa) Client Dantesousa/(Dantesousa) has taken ownership of mob Dantesousa(/mob/dead/new_player) (start area (180, 247, 1))
+[2021-05-15 23:09:29.490] GAME: North Bunker 1 loaded at 7,220,4
+[2021-05-15 23:09:32.830] GAME: Oasis Bunker 2 loaded at 212,215,4

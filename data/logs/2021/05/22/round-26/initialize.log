@@ -1,0 +1,5 @@
+Path : /obj/item/melee/smith/hammer/toolbox 
+- Didn't return an Initialize hint
+Path : /mob/living/simple_animal/slaughter 
+- Didn't return an Initialize hint
+

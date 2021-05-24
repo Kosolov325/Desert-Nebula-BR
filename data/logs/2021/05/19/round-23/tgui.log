@@ -1,0 +1,1977 @@
+[2021-05-19 02:07:17.410] Starting up round ID 23.
+ - -------------------------
+[2021-05-19 02:07:18.862] n0fun in browseroutput/initialize
+[2021-05-19 02:08:02.856] hurimiko in browseroutput/initialize
+[2021-05-19 02:08:20.908] eversonblr in browseroutput/initialize
+[2021-05-19 02:08:24.353] diolko in browseroutput/initialize
+[2021-05-19 02:09:01.093] goldencatc in browseroutput/initialize
+[2021-05-19 02:09:41.641] fidgetybacchus in browseroutput/initialize
+[2021-05-19 02:09:58.175] akamarubr in browseroutput/initialize
+[2021-05-19 02:10:09.864] shirozinha in browseroutput/initialize
+[2021-05-19 02:10:17.739] baeiou in browseroutput/initialize
+[2021-05-19 02:11:28.496] shirozinha (as Tio Osso at 219,226,3)
+ - Using: /datum/component/loadout_selector [0x210251b1]
+ - new LoadoutSelect fancy 1
+[2021-05-19 02:11:28.498] shirozinha in tgui-window-1/initialize
+ - Using: /datum/component/loadout_selector [0x210251b1]
+[2021-05-19 02:11:30.258] shirozinha (as Tio Osso at 219,226,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210251b1]
+ - Action: loadout_select {"name":"Shock Head Paladin"}
+[2021-05-19 02:11:32.512] shirozinha (as Tio Osso at 219,226,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210251b1]
+ - Action: loadout_select {"name":"Veteran Head Paladin"}
+[2021-05-19 02:11:33.863] shirozinha (as Tio Osso at 219,226,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210251b1]
+ - Action: loadout_select {"name":"Veteran Head Paladin"}
+[2021-05-19 02:11:35.319] shirozinha (as Tio Osso at 219,226,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210251b1]
+ - Action: loadout_select {"name":"Veteran Head Paladin"}
+[2021-05-19 02:11:35.736] shirozinha (as Tio Osso at 219,226,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210251b1]
+ - Action: loadout_select {"name":"Heavy Head Paladin"}
+[2021-05-19 02:11:36.563] shirozinha (as Tio Osso at 219,226,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210251b1]
+ - Action: loadout_select {"name":"Heavy Head Paladin"}
+[2021-05-19 02:11:39.559] goldencatc (as Clinton Webb at 20,64,2)
+ - Using: /datum/component/loadout_selector [0x21032e0d]
+ - new LoadoutSelect fancy 1
+[2021-05-19 02:11:39.559] goldencatc in tgui-window-1/initialize
+ - Using: /datum/component/loadout_selector [0x21032e0d]
+[2021-05-19 02:11:39.620] shirozinha (as Tio Osso at 219,226,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210251b1]
+ - Action: loadout_select {"name":"Shock Head Paladin"}
+[2021-05-19 02:11:44.577] shirozinha (as Tio Osso at 219,226,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210251b1]
+ - Action: loadout_confirm {}
+[2021-05-19 02:11:44.618] shirozinha in tgui-window-1/close (suspending)
+[2021-05-19 02:11:44.680] goldencatc (as Clinton Webb at 20,64,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21032e0d]
+ - Action: loadout_select {"name":"Assault Vexillarius"}
+[2021-05-19 02:11:45.688] goldencatc (as Clinton Webb at 20,64,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21032e0d]
+ - Action: loadout_select {"name":"Assault Vexillarius"}
+[2021-05-19 02:11:50.000] goldencatc (as Clinton Webb at 20,64,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21032e0d]
+ - Action: loadout_confirm {}
+[2021-05-19 02:11:50.016] goldencatc in tgui-window-1/close (suspending)
+[2021-05-19 02:12:49.633] shirozinha (as Tio Osso at 221,226,3)
+ - Using: /obj/machinery/vending/wallmed [0x2007c0a]
+ - new Vending fancy 1
+[2021-05-19 02:12:51.901] shirozinha in tgui-window-1/close (suspending)
+[2021-05-19 02:12:51.901] shirozinha in tgui-window-1/close (suspending)
+[2021-05-19 02:12:52.991] shirozinha (as Tio Osso at 221,226,3)
+ - Using: /obj/machinery/vending/wallmed [0x2007c0a]
+ - new Vending fancy 1
+[2021-05-19 02:12:54.801] shirozinha (as Tio Osso at 221,226,3) in tgui-window-1
+ - Using: /obj/machinery/vending/wallmed [0x2007c0a]
+ - Action: vend {"ref":"[0x2101007c]"}
+[2021-05-19 02:12:57.093] shirozinha in tgui-window-1/close (suspending)
+[2021-05-19 02:12:57.094] shirozinha in tgui-window-1/close (suspending)
+[2021-05-19 02:12:59.848] shirozinha (as Tio Osso at 221,226,3)
+ - Using: /obj/item/radio/intercom [0x2007c0c]
+ - new Radio fancy 1
+[2021-05-19 02:12:59.848] shirozinha (as Tio Osso at 221,226,3)
+ - Using: /obj/item/radio/intercom [0x2007c0c]
+ - new Radio fancy 1
+[2021-05-19 02:13:01.101] shirozinha in tgui-window-1/close (suspending)
+[2021-05-19 02:13:01.101] shirozinha in tgui-window-1/close (suspending)
+[2021-05-19 02:16:02.304] diolko (as Melisa Gray at 230,61,2)
+ - Using: /datum/component/loadout_selector [0x2103f361]
+ - new LoadoutSelect fancy 1
+[2021-05-19 02:16:02.305] diolko in tgui-window-1/initialize
+ - Using: /datum/component/loadout_selector [0x2103f361]
+[2021-05-19 02:16:04.876] akamarubr (as Akaigo Bia at 227,26,2)
+ - Using: /datum/component/loadout_selector [0x2103f103]
+ - new LoadoutSelect fancy 1
+[2021-05-19 02:16:04.877] akamarubr in tgui-window-1/initialize
+ - Using: /datum/component/loadout_selector [0x2103f103]
+[2021-05-19 02:16:06.239] diolko (as Melisa Gray at 230,61,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f361]
+ - Action: loadout_select {"name":"Wasteland Doctor"}
+[2021-05-19 02:16:08.522] akamarubr (as Akaigo Bia at 227,26,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f103]
+ - Action: loadout_select {"name":"Paladin-Slayer Centurion"}
+[2021-05-19 02:16:09.382] diolko in tgui-window-1/close (suspending)
+[2021-05-19 02:16:09.382] diolko in tgui-window-1/close (suspending)
+[2021-05-19 02:16:12.859] akamarubr (as Akaigo Bia at 227,26,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f103]
+ - Action: loadout_select {"name":"Ranger-Hunter Centurion"}
+[2021-05-19 02:16:17.109] akamarubr (as Akaigo Bia at 227,26,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f103]
+ - Action: loadout_select {"name":"Paladin-Slayer Centurion"}
+[2021-05-19 02:16:20.807] akamarubr (as Akaigo Bia at 227,26,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f103]
+ - Action: loadout_select {"name":"Ranger-Hunter Centurion"}
+[2021-05-19 02:16:24.440] akamarubr (as Akaigo Bia at 227,26,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f103]
+ - Action: loadout_select {"name":"Standard Centurion"}
+[2021-05-19 02:16:28.835] akamarubr (as Akaigo Bia at 227,26,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f103]
+ - Action: loadout_select {"name":"Ranger-Hunter Centurion"}
+[2021-05-19 02:16:33.540] akamarubr (as Akaigo Bia at 227,26,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f103]
+ - Action: loadout_select {"name":"Paladin-Slayer Centurion"}
+[2021-05-19 02:16:43.809] akamarubr (as Akaigo Bia at 227,26,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f103]
+ - Action: loadout_preview_direction {"direction":1}
+[2021-05-19 02:16:44.306] akamarubr (as Akaigo Bia at 227,26,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f103]
+ - Action: loadout_preview_direction {"direction":1}
+[2021-05-19 02:16:45.394] akamarubr (as Akaigo Bia at 227,26,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f103]
+ - Action: loadout_select {"name":"Ranger-Hunter Centurion"}
+[2021-05-19 02:16:46.495] akamarubr (as Akaigo Bia at 227,26,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f103]
+ - Action: loadout_preview_direction {"direction":1}
+[2021-05-19 02:16:46.898] akamarubr (as Akaigo Bia at 227,26,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f103]
+ - Action: loadout_preview_direction {"direction":1}
+[2021-05-19 02:16:51.038] akamarubr (as Akaigo Bia at 227,26,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f103]
+ - Action: loadout_select {"name":"Paladin-Slayer Centurion"}
+[2021-05-19 02:16:54.408] akamarubr (as Akaigo Bia at 227,26,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f103]
+ - Action: loadout_select {"name":"Standard Centurion"}
+[2021-05-19 02:16:56.162] baeiou (as Roderick Malkav at 215,45,2)
+ - Using: /datum/component/loadout_selector [0x2103f238]
+ - new LoadoutSelect fancy 1
+[2021-05-19 02:16:56.163] baeiou in tgui-window-1/initialize
+ - Using: /datum/component/loadout_selector [0x2103f238]
+[2021-05-19 02:16:56.761] akamarubr (as Akaigo Bia at 227,26,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f103]
+ - Action: loadout_select {"name":"Ranger-Hunter Centurion"}
+[2021-05-19 02:16:57.918] baeiou (as Roderick Malkav at 216,46,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f238]
+ - Action: loadout_select {"name":"Servant"}
+[2021-05-19 02:16:58.399] akamarubr (as Akaigo Bia at 227,26,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f103]
+ - Action: loadout_select {"name":"Paladin-Slayer Centurion"}
+[2021-05-19 02:16:59.108] baeiou (as Roderick Malkav at 216,46,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f238]
+ - Action: loadout_select {"name":"Laborer"}
+[2021-05-19 02:16:59.806] akamarubr (as Akaigo Bia at 227,26,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f103]
+ - Action: loadout_select {"name":"Ranger-Hunter Centurion"}
+[2021-05-19 02:17:02.759] diolko (as Melisa Gray at 238,60,2)
+ - Using: /datum/component/personal_crafting [0x2103f317]
+ - new PersonalCrafting fancy 1
+[2021-05-19 02:17:03.478] akamarubr (as Akaigo Bia at 227,26,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f103]
+ - Action: loadout_confirm {}
+[2021-05-19 02:17:03.510] akamarubr in tgui-window-1/close (suspending)
+[2021-05-19 02:17:03.534] baeiou (as Roderick Malkav at 215,45,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f238]
+ - Action: loadout_select {"name":"Servant"}
+[2021-05-19 02:17:06.182] diolko in tgui-window-1/close (suspending)
+[2021-05-19 02:17:06.182] diolko in tgui-window-1/close (suspending)
+[2021-05-19 02:17:11.526] baeiou (as Roderick Malkav at 219,45,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f238]
+ - Action: loadout_select {"name":"Laborer"}
+[2021-05-19 02:17:12.449] baeiou (as Roderick Malkav at 222,45,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f238]
+ - Action: loadout_select {"name":"Servant"}
+[2021-05-19 02:17:13.015] baeiou (as Roderick Malkav at 222,45,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f238]
+ - Action: loadout_select {"name":"Laborer"}
+[2021-05-19 02:17:14.824] baeiou (as Roderick Malkav at 221,45,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f238]
+ - Action: loadout_select {"name":"Servant"}
+[2021-05-19 02:17:16.526] diolko (as Melisa Gray at 239,60,2)
+ - Using: /datum/component/loadout_selector [0x2103f361]
+ - new LoadoutSelect fancy 1
+[2021-05-19 02:17:16.541] baeiou (as Roderick Malkav at 220,45,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f238]
+ - Action: loadout_select {"name":"Laborer"}
+[2021-05-19 02:17:17.446] baeiou (as Roderick Malkav at 220,45,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f238]
+ - Action: loadout_confirm {}
+[2021-05-19 02:17:17.458] baeiou in tgui-window-1/close (suspending)
+[2021-05-19 02:17:20.163] diolko (as Melisa Gray at 239,60,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f361]
+ - Action: loadout_select {"name":"Salvager"}
+[2021-05-19 02:17:21.127] diolko (as Melisa Gray at 239,60,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f361]
+ - Action: loadout_select {"name":"Vaultie"}
+[2021-05-19 02:17:21.721] diolko (as Melisa Gray at 239,60,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f361]
+ - Action: loadout_select {"name":"Vaultie"}
+[2021-05-19 02:17:22.154] diolko (as Melisa Gray at 239,60,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f361]
+ - Action: loadout_select {"name":"Roving Trader"}
+[2021-05-19 02:17:24.638] diolko (as Melisa Gray at 239,60,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f361]
+ - Action: loadout_select {"name":"Salvager"}
+[2021-05-19 02:17:26.668] diolko (as Melisa Gray at 239,60,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f361]
+ - Action: loadout_select {"name":"Roving Trader"}
+[2021-05-19 02:17:33.915] diolko (as Melisa Gray at 239,60,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f361]
+ - Action: loadout_select {"name":"Scavenger"}
+[2021-05-19 02:17:34.985] diolko (as Melisa Gray at 239,60,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f361]
+ - Action: loadout_select {"name":"Scavenger"}
+[2021-05-19 02:17:35.105] diolko (as Melisa Gray at 239,60,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f361]
+ - Action: loadout_select {"name":"Scavenger"}
+[2021-05-19 02:17:39.595] diolko (as Melisa Gray at 239,60,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f361]
+ - Action: loadout_select {"name":"Legion Citizen"}
+[2021-05-19 02:17:40.592] diolko (as Melisa Gray at 239,60,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f361]
+ - Action: loadout_select {"name":"Legion Citizen"}
+[2021-05-19 02:17:41.497] diolko (as Melisa Gray at 239,60,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f361]
+ - Action: loadout_select {"name":"NCR Citizen"}
+[2021-05-19 02:17:42.732] diolko (as Melisa Gray at 239,60,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f361]
+ - Action: loadout_select {"name":"NCR Citizen"}
+[2021-05-19 02:17:44.031] diolko (as Melisa Gray at 239,60,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f361]
+ - Action: loadout_select {"name":"Vaultie"}
+[2021-05-19 02:17:48.822] diolko (as Melisa Gray at 239,60,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f361]
+ - Action: loadout_select {"name":"Salvager"}
+[2021-05-19 02:17:53.142] diolko (as Melisa Gray at 239,60,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f361]
+ - Action: loadout_confirm {}
+[2021-05-19 02:17:53.178] diolko in tgui-window-1/close (suspending)
+[2021-05-19 02:19:14.543] baeiou (as Roderick Malkav at 227,45,2)
+ - Using: /obj/item/radio [0x2048d6e]
+ - new Radio fancy 1
+[2021-05-19 02:19:44.948] fidgetybacchus (as Yuri Daruski at 215,47,2)
+ - Using: /datum/component/loadout_selector [0x2103f7b7]
+ - new LoadoutSelect fancy 1
+[2021-05-19 02:19:44.948] fidgetybacchus in tgui-window-1/initialize
+ - Using: /datum/component/loadout_selector [0x2103f7b7]
+[2021-05-19 02:19:49.091] fidgetybacchus (as Yuri Daruski at 215,47,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f7b7]
+ - Error: Zombie window detected, closing.
+[2021-05-19 02:19:49.091] fidgetybacchus in tgui-window-1/close
+[2021-05-19 02:19:57.825] fidgetybacchus (as Yuri Daruski at 215,48,2)
+ - Using: /datum/component/loadout_selector [0x2103f7b7]
+ - new LoadoutSelect fancy 1
+[2021-05-19 02:19:57.826] fidgetybacchus in tgui-window-1/initialize
+ - Using: /datum/component/loadout_selector [0x2103f7b7]
+[2021-05-19 02:20:00.319] fidgetybacchus (as Yuri Daruski at 215,48,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f7b7]
+ - Action: loadout_select {"name":"Laborer"}
+[2021-05-19 02:20:01.401] fidgetybacchus (as Yuri Daruski at 215,48,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f7b7]
+ - Action: loadout_select {"name":"Servant"}
+[2021-05-19 02:20:06.551] fidgetybacchus (as Yuri Daruski at 215,48,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f7b7]
+ - Action: loadout_select {"name":"Laborer"}
+[2021-05-19 02:20:12.912] fidgetybacchus (as Yuri Daruski at 215,48,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f7b7]
+ - Action: loadout_select {"name":"Servant"}
+[2021-05-19 02:20:14.690] fidgetybacchus (as Yuri Daruski at 215,48,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f7b7]
+ - Action: loadout_select {"name":"Laborer"}
+[2021-05-19 02:20:15.352] fidgetybacchus (as Yuri Daruski at 215,48,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f7b7]
+ - Action: loadout_select {"name":"Servant"}
+[2021-05-19 02:20:16.099] fidgetybacchus (as Yuri Daruski at 215,48,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f7b7]
+ - Action: loadout_select {"name":"Laborer"}
+[2021-05-19 02:20:54.688] fidgetybacchus (as Yuri Daruski at 214,23,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f7b7]
+ - Action: loadout_select {"name":"Servant"}
+[2021-05-19 02:20:55.708] fidgetybacchus (as Yuri Daruski at 213,22,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f7b7]
+ - Action: loadout_select {"name":"Servant"}
+[2021-05-19 02:20:56.094] fidgetybacchus (as Yuri Daruski at 213,22,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f7b7]
+ - Action: loadout_select {"name":"Laborer"}
+[2021-05-19 02:21:11.449] fidgetybacchus (as Yuri Daruski at 238,29,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f7b7]
+ - Action: loadout_select {"name":"Servant"}
+[2021-05-19 02:21:12.886] fidgetybacchus (as Yuri Daruski at 238,29,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f7b7]
+ - Action: loadout_select {"name":"Laborer"}
+[2021-05-19 02:21:13.891] fidgetybacchus (as Yuri Daruski at 238,29,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f7b7]
+ - Action: loadout_confirm {}
+[2021-05-19 02:21:13.904] fidgetybacchus in tgui-window-1/close (suspending)
+[2021-05-19 02:21:24.607] fidgetybacchus (as Yuri Daruski at 239,28,2)
+ - Using: /obj/item/radio [0x2048fda]
+ - new Radio fancy 1
+[2021-05-19 02:21:25.956] fidgetybacchus in tgui-window-1/close (suspending)
+[2021-05-19 02:21:25.956] fidgetybacchus in tgui-window-1/close (suspending)
+[2021-05-19 02:21:42.676] baeiou (as Roderick Malkav at 225,45,2)
+ - Using: /obj/machinery/smartfridge/bottlerack/seedbin [0x2005cc8]
+ - new SmartVend fancy 1
+[2021-05-19 02:21:42.676] baeiou in tgui-window-2/initialize
+ - Using: /obj/machinery/smartfridge/bottlerack/seedbin [0x2005cc8]
+[2021-05-19 02:21:44.130] baeiou in tgui-window-2/close (suspending)
+[2021-05-19 02:21:44.130] baeiou in tgui-window-2/close (suspending)
+[2021-05-19 02:22:12.690] baeiou (as Roderick Malkav at 226,45,2)
+ - Using: /obj/machinery/smartfridge/bottlerack/seedbin [0x2005cc8]
+ - new SmartVend fancy 1
+[2021-05-19 02:22:14.000] baeiou (as Roderick Malkav at 226,45,2) in tgui-window-2
+ - Using: /obj/machinery/smartfridge/bottlerack/seedbin [0x2005cc8]
+ - Action: Release {"name":"pack of wheat seeds","amount":1}
+[2021-05-19 02:22:14.173] baeiou (as Roderick Malkav at 226,45,2) in tgui-window-2
+ - Using: /obj/machinery/smartfridge/bottlerack/seedbin [0x2005cc8]
+ - Action: Release {"name":"pack of wheat seeds","amount":1}
+[2021-05-19 02:22:21.843] baeiou in tgui-window-2/close (suspending)
+[2021-05-19 02:22:21.843] baeiou in tgui-window-2/close (suspending)
+[2021-05-19 02:22:23.166] baeiou in tgui-window-1/close (suspending)
+[2021-05-19 02:22:23.166] baeiou in tgui-window-1/close (suspending)
+[2021-05-19 02:22:31.628] diolko (as Melisa Gray at 212,127,2)
+ - Using: /obj/machinery/vending/cigarette [0x200596a]
+ - new Vending fancy 1
+[2021-05-19 02:22:34.781] diolko in tgui-window-1/close (suspending)
+[2021-05-19 02:22:34.782] diolko in tgui-window-1/close (suspending)
+[2021-05-19 02:23:09.566] baeiou (as Roderick Malkav at 226,45,2)
+ - Using: /obj/machinery/smartfridge/bottlerack/seedbin [0x2005cc8]
+ - new SmartVend fancy 1
+[2021-05-19 02:24:11.953] baeiou (as Roderick Malkav at 226,45,2) in tgui-window-1
+ - Using: /obj/machinery/smartfridge/bottlerack/seedbin [0x2005cc8]
+ - Action: Release {"name":"pack of wheat seeds","amount":1}
+[2021-05-19 02:25:05.006] sondtheanime in browseroutput/initialize
+[2021-05-19 02:25:37.700] kaduh in browseroutput/initialize
+[2021-05-19 02:25:57.388] baeiou in tgui-window-1/close (suspending)
+[2021-05-19 02:26:13.906] addervfx in browseroutput/initialize
+[2021-05-19 02:26:20.243] baeiou (as Roderick Malkav at 226,45,2)
+ - Using: /obj/machinery/smartfridge/bottlerack/seedbin [0x2005cc8]
+ - new SmartVend fancy 1
+[2021-05-19 02:26:22.141] baeiou in tgui-window-1/close (suspending)
+[2021-05-19 02:26:22.141] baeiou in tgui-window-1/close (suspending)
+[2021-05-19 02:27:15.879] diolko (as Melisa Gray at 218,166,2)
+ - Using: /datum/component/personal_crafting [0x2103f317]
+ - new PersonalCrafting fancy 1
+[2021-05-19 02:27:28.780] sondtheanime (as John at 254,64,2)
+ - Using: /datum/component/loadout_selector [0x210403db]
+ - new LoadoutSelect fancy 1
+[2021-05-19 02:27:28.780] sondtheanime in tgui-window-1/initialize
+ - Using: /datum/component/loadout_selector [0x210403db]
+[2021-05-19 02:27:31.128] sondtheanime (as John at 254,64,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210403db]
+ - Action: loadout_select {"name":"Salvager"}
+[2021-05-19 02:27:32.331] sondtheanime (as John at 254,64,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210403db]
+ - Action: loadout_select {"name":"Vaultie"}
+[2021-05-19 02:27:35.837] sondtheanime (as John at 254,64,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210403db]
+ - Action: loadout_confirm {}
+[2021-05-19 02:27:35.896] sondtheanime in tgui-window-1/close (suspending)
+[2021-05-19 02:27:53.524] kaduh (as Erika Miller at 7,62,2)
+ - Using: /datum/component/loadout_selector [0x21040554]
+ - new LoadoutSelect fancy 1
+[2021-05-19 02:27:53.525] kaduh in tgui-window-1/initialize
+ - Using: /datum/component/loadout_selector [0x21040554]
+[2021-05-19 02:27:55.291] kaduh (as Erika Miller at 7,62,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040554]
+ - Action: loadout_select {"name":"Salvager"}
+[2021-05-19 02:27:56.619] kaduh (as Erika Miller at 7,62,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040554]
+ - Action: loadout_select {"name":"Salvager"}
+[2021-05-19 02:27:57.798] kaduh (as Erika Miller at 7,62,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040554]
+ - Action: loadout_select {"name":"Wasteland Doctor"}
+[2021-05-19 02:27:58.895] kaduh (as Erika Miller at 7,62,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040554]
+ - Action: loadout_select {"name":"Wasteland Doctor"}
+[2021-05-19 02:28:18.149] kaduh (as Erika Miller at 7,62,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040554]
+ - Action: loadout_select {"name":"Roving Trader"}
+[2021-05-19 02:28:19.372] kaduh (as Erika Miller at 7,62,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040554]
+ - Action: loadout_select {"name":"Roving Trader"}
+[2021-05-19 02:28:24.604] kaduh (as Erika Miller at 7,62,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040554]
+ - Action: loadout_select {"name":"Scavenger"}
+[2021-05-19 02:28:25.423] kaduh (as Erika Miller at 7,62,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040554]
+ - Action: loadout_select {"name":"Scavenger"}
+[2021-05-19 02:28:34.111] baeiou (as Roderick Malkav at 231,41,2)
+ - Using: /datum/component/personal_crafting [0x2103f524]
+ - new PersonalCrafting fancy 1
+[2021-05-19 02:28:37.182] baeiou (as Roderick Malkav at 231,41,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f524]
+ - Action: set_category {"category":"Medical"}
+[2021-05-19 02:28:38.549] baeiou (as Roderick Malkav at 231,41,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f524]
+ - Action: make {"recipe":"[0x21001220]"}
+[2021-05-19 02:28:43.351] baeiou (as Roderick Malkav at 231,41,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f524]
+ - Action: make {"recipe":"[0x21001220]"}
+[2021-05-19 02:28:44.960] kaduh (as Erika Miller at 7,62,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040554]
+ - Action: loadout_select {"name":"Legion Citizen"}
+[2021-05-19 02:28:46.913] kaduh (as Erika Miller at 7,62,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040554]
+ - Action: loadout_select {"name":"Salvager"}
+[2021-05-19 02:28:48.934] baeiou (as Roderick Malkav at 231,41,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f524]
+ - Action: make {"recipe":"[0x21001220]"}
+[2021-05-19 02:28:51.250] kaduh (as Erika Miller at 7,62,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040554]
+ - Action: loadout_select {"name":"Vaultie"}
+[2021-05-19 02:28:52.304] kaduh (as Erika Miller at 7,62,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040554]
+ - Action: loadout_select {"name":"Vaultie"}
+[2021-05-19 02:28:54.289] baeiou in tgui-window-1/close (suspending)
+[2021-05-19 02:28:54.289] baeiou in tgui-window-1/close (suspending)
+[2021-05-19 02:28:58.098] kaduh (as Erika Miller at 7,62,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040554]
+ - Action: loadout_select {"name":"Salvager"}
+[2021-05-19 02:28:58.852] kaduh (as Erika Miller at 7,62,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040554]
+ - Action: loadout_select {"name":"Wasteland Doctor"}
+[2021-05-19 02:29:00.215] kaduh (as Erika Miller at 7,62,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040554]
+ - Action: loadout_select {"name":"Salvager"}
+[2021-05-19 02:29:01.708] kaduh (as Erika Miller at 7,62,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040554]
+ - Action: loadout_select {"name":"Wasteland Doctor"}
+[2021-05-19 02:29:02.097] kaduh (as Erika Miller at 7,62,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040554]
+ - Action: loadout_select {"name":"Roving Trader"}
+[2021-05-19 02:29:02.534] kaduh (as Erika Miller at 7,62,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040554]
+ - Action: loadout_select {"name":"Legion Citizen"}
+[2021-05-19 02:29:03.092] kaduh (as Erika Miller at 7,62,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040554]
+ - Action: loadout_select {"name":"NCR Citizen"}
+[2021-05-19 02:29:04.335] kaduh (as Erika Miller at 7,62,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040554]
+ - Action: loadout_select {"name":"Salvager"}
+[2021-05-19 02:29:04.632] kaduh (as Erika Miller at 7,62,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040554]
+ - Action: loadout_select {"name":"Salvager"}
+[2021-05-19 02:29:08.946] kaduh (as Erika Miller at 7,62,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040554]
+ - Action: loadout_confirm {}
+[2021-05-19 02:29:08.981] kaduh in tgui-window-1/close (suspending)
+[2021-05-19 02:34:19.085] sondtheanime (as Unknown at 45,50,2)
+ - Using: /obj/machinery/jukebox [0x2002cbd]
+ - new Jukebox fancy 1
+[2021-05-19 02:40:52.224] kaduh (as Tomas Miller at 12,182,2)
+ - Using: /datum/component/loadout_selector [0x21041482]
+ - new LoadoutSelect fancy 1
+[2021-05-19 02:40:53.661] kaduh (as Tomas Miller at 12,182,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041482]
+ - Action: loadout_select {"name":"Salvager"}
+[2021-05-19 02:40:58.752] kaduh (as Tomas Miller at 12,182,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041482]
+ - Action: loadout_confirm {}
+[2021-05-19 02:40:58.787] kaduh in tgui-window-1/close (suspending)
+[2021-05-19 02:41:55.069] kaduh (as Tomas Miller at 8,182,2)
+ - Using: /datum/component/personal_crafting [0x2100f6b8]
+ - new PersonalCrafting fancy 1
+[2021-05-19 02:42:09.204] kaduh (as Tomas Miller at 8,182,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2100f6b8]
+ - Action: set_category {"category":"Crafting","subcategory":"Scavenging & Tinkering"}
+[2021-05-19 02:42:16.244] kaduh (as Tomas Miller at 8,182,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2100f6b8]
+ - Action: set_category {"category":"Crafting","subcategory":"Forging & Smithing"}
+[2021-05-19 02:42:16.856] kaduh (as Tomas Miller at 8,182,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2100f6b8]
+ - Action: set_category {"category":"Crafting","subcategory":"Electronics & Robots"}
+[2021-05-19 02:42:21.217] kaduh in tgui-window-1/close (suspending)
+[2021-05-19 02:42:21.217] kaduh in tgui-window-1/close (suspending)
+[2021-05-19 02:43:27.230] fidgetybacchus (as Yuri Daruski at 204,61,2)
+ - Using: /datum/component/personal_crafting [0x2103f59f]
+ - new PersonalCrafting fancy 1
+[2021-05-19 02:43:30.369] fidgetybacchus (as Yuri Daruski at 204,61,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f59f]
+ - Action: set_category {"category":"Tribal"}
+[2021-05-19 02:46:09.394] diolko (as Melisa Gray at 171,177,2)
+ - Using: /datum/skill_holder [0x21026885]
+ - new SkillPanel fancy 1
+[2021-05-19 02:46:20.953] diolko in tgui-window-1/close (suspending)
+[2021-05-19 02:46:20.953] diolko in tgui-window-1/close (suspending)
+[2021-05-19 02:46:22.854] sondtheanime (as Unknown at 129,157,2)
+ - Using: /datum/component/personal_crafting [0x21005c35]
+ - new PersonalCrafting fancy 1
+[2021-05-19 02:46:29.610] sondtheanime (as Unknown at 129,157,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21005c35]
+ - Action: set_category {"category":"Crafting","subcategory":"Scavenging & Tinkering"}
+[2021-05-19 02:46:30.195] sondtheanime (as Unknown at 129,157,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21005c35]
+ - Action: set_category {"category":"Crafting","subcategory":"Forging & Smithing"}
+[2021-05-19 02:46:31.253] sondtheanime (as Unknown at 129,157,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21005c35]
+ - Action: set_category {"category":"Crafting","subcategory":"Scavenging & Tinkering"}
+[2021-05-19 02:46:32.617] sondtheanime in tgui-window-1/close (suspending)
+[2021-05-19 02:46:32.617] sondtheanime in tgui-window-1/close (suspending)
+[2021-05-19 02:46:39.553] baeiou (as Roderick Malkav at 203,29,2)
+ - Using: /datum/component/personal_crafting [0x2103f524]
+ - new PersonalCrafting fancy 1
+[2021-05-19 02:46:42.204] baeiou (as Roderick Malkav at 203,29,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f524]
+ - Action: set_category {"category":"Foods","subcategory":"Food Bread"}
+[2021-05-19 02:46:43.281] baeiou (as Roderick Malkav at 203,29,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f524]
+ - Action: set_category {"category":"Foods","subcategory":"Food Pastries"}
+[2021-05-19 02:46:43.507] baeiou (as Roderick Malkav at 203,29,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f524]
+ - Action: set_category {"category":"Foods","subcategory":"Food Misc"}
+[2021-05-19 02:47:44.120] fidgetybacchus (as Yuri Daruski at 204,61,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f59f]
+ - Action: make {"recipe":"[0x21001248]"}
+[2021-05-19 02:48:37.949] kaduh (as Tomas Miller at 171,130,2)
+ - Using: /obj/machinery/vending/coffee [0x2004ea2]
+ - new Vending fancy 1
+[2021-05-19 02:48:42.977] kaduh in tgui-window-1/close (suspending)
+[2021-05-19 02:48:42.977] kaduh in tgui-window-1/close (suspending)
+[2021-05-19 02:48:44.130] kaduh (as Tomas Miller at 171,128,2)
+ - Using: /obj/machinery/vending/coffee [0x2004ea3]
+ - new Vending fancy 1
+[2021-05-19 02:48:48.450] kaduh in tgui-window-1/close (suspending)
+[2021-05-19 02:48:48.450] kaduh in tgui-window-1/close (suspending)
+[2021-05-19 02:49:16.399] kaduh (as Tomas Miller at 213,127,2)
+ - Using: /obj/machinery/vending/coffee [0x20059d4]
+ - new Vending fancy 1
+[2021-05-19 02:49:18.924] kaduh in tgui-window-1/close (suspending)
+[2021-05-19 02:49:18.924] kaduh in tgui-window-1/close (suspending)
+[2021-05-19 02:49:19.870] kaduh (as Tomas Miller at 212,127,2)
+ - Using: /obj/machinery/vending/cigarette [0x200596a]
+ - new Vending fancy 1
+[2021-05-19 02:49:35.174] kaduh in tgui-window-1/close (suspending)
+[2021-05-19 02:49:35.174] kaduh in tgui-window-1/close (suspending)
+[2021-05-19 02:49:36.330] kaduh (as Tomas Miller at 211,127,2)
+ - Using: /datum/component/personal_crafting [0x2100f6b8]
+ - new PersonalCrafting fancy 1
+[2021-05-19 02:49:58.441] kaduh (as Tomas Miller at 211,127,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2100f6b8]
+ - Action: set_category {"category":"Crafting","subcategory":"Tools & Workbench"}
+[2021-05-19 02:49:58.986] kaduh (as Tomas Miller at 211,127,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2100f6b8]
+ - Action: set_category {"category":"Crafting","subcategory":"Scavenging & Tinkering"}
+[2021-05-19 02:50:01.560] kaduh (as Tomas Miller at 211,127,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2100f6b8]
+ - Action: set_category {"category":"Crafting","subcategory":"Tools & Workbench"}
+[2021-05-19 02:50:14.556] kaduh in tgui-window-1/close (suspending)
+[2021-05-19 02:50:14.556] kaduh in tgui-window-1/close (suspending)
+[2021-05-19 02:50:37.122] kaduh (as Tomas Miller at 213,127,2)
+ - Using: /obj/machinery/vending/coffee [0x20059d4]
+ - new Vending fancy 1
+[2021-05-19 02:50:39.525] kaduh (as Tomas Miller at 211,127,2)
+ - Using: /obj/machinery/vending/cigarette [0x200596a]
+ - new Vending fancy 1
+[2021-05-19 02:50:39.526] kaduh in tgui-window-2/initialize
+ - Using: /obj/machinery/vending/cigarette [0x200596a]
+[2021-05-19 02:50:46.963] kaduh (as Tomas Miller at 211,127,2) in tgui-window-2
+ - Using: /obj/machinery/vending/cigarette [0x200596a]
+ - Action: vend {"ref":"[0x2100c725]"}
+[2021-05-19 02:50:49.744] macaco99 in browseroutput/initialize
+[2021-05-19 02:50:50.165] kaduh in tgui-window-2/close (suspending)
+[2021-05-19 02:50:50.165] kaduh in tgui-window-1/close (suspending)
+[2021-05-19 02:51:04.324] diolko (as Melisa Gray at 196,194,2)
+ - Using: /obj/machinery/smartfridge/bottlerack/lootshelf/cans [0x20054a8]
+ - new SmartVend fancy 1
+[2021-05-19 02:51:09.598] diolko in tgui-window-1/close (suspending)
+[2021-05-19 02:51:09.598] diolko in tgui-window-1/close (suspending)
+[2021-05-19 02:51:23.408] diolko (as Melisa Gray at 201,194,2)
+ - Using: /obj/machinery/vending/cola [0x20055fe]
+ - new Vending fancy 1
+[2021-05-19 02:51:25.216] diolko (as Melisa Gray at 201,194,2) in tgui-window-1
+ - Using: /obj/machinery/vending/cola [0x20055fe]
+ - Action: vend {"ref":"[0x2100c168]"}
+[2021-05-19 02:51:25.848] diolko in tgui-window-1/close (suspending)
+[2021-05-19 02:51:25.848] diolko in tgui-window-1/close (suspending)
+[2021-05-19 02:51:38.578] diolko (as Melisa Gray at 206,194,2)
+ - Using: /obj/machinery/vending/coffee [0x2005751]
+ - new Vending fancy 1
+[2021-05-19 02:51:40.836] diolko in tgui-window-1/close (suspending)
+[2021-05-19 02:51:40.836] diolko in tgui-window-1/close (suspending)
+[2021-05-19 02:53:52.341] macaco99 (as Ramon Lee at 71,28,3)
+ - Using: /obj/machinery/vending/wardrobe/medi_wardrobe [0x2006bba]
+ - new Vending fancy 1
+[2021-05-19 02:53:52.342] macaco99 in tgui-window-1/initialize
+ - Using: /obj/machinery/vending/wardrobe/medi_wardrobe [0x2006bba]
+[2021-05-19 02:53:58.610] macaco99 (as Ramon Lee at 71,28,3) in tgui-window-1
+ - Using: /obj/machinery/vending/wardrobe/medi_wardrobe [0x2006bba]
+ - Action: vend {"ref":"[0x2100e22a]"}
+[2021-05-19 02:54:16.411] macaco99 (as Ramon Lee at 71,28,3) in tgui-window-1
+ - Using: /obj/machinery/vending/wardrobe/medi_wardrobe [0x2006bba]
+ - Action: vend {"ref":"[0x2100e228]"}
+[2021-05-19 02:54:20.648] macaco99 (as Ramon Lee at 71,28,3) in tgui-window-1
+ - Using: /obj/machinery/vending/wardrobe/medi_wardrobe [0x2006bba]
+ - Action: vend {"ref":"[0x2100e227]"}
+[2021-05-19 02:54:24.524] macaco99 (as Ramon Lee at 71,28,3) in tgui-window-1
+ - Using: /obj/machinery/vending/wardrobe/medi_wardrobe [0x2006bba]
+ - Action: vend {"ref":"[0x2100e20f]"}
+[2021-05-19 02:54:29.440] macaco99 in tgui-window-1/close (suspending)
+[2021-05-19 02:54:29.440] macaco99 in tgui-window-1/close (suspending)
+[2021-05-19 02:54:34.983] macaco99 (as Ramon Lee at 70,28,3)
+ - Using: /obj/machinery/vending/wardrobe/medi_wardrobe [0x2006bba]
+ - new Vending fancy 1
+[2021-05-19 02:54:36.668] macaco99 in tgui-window-1/close (suspending)
+[2021-05-19 02:54:36.669] macaco99 in tgui-window-1/close (suspending)
+[2021-05-19 02:54:39.532] diolko (as Melisa Gray at 244,212,2)
+ - Using: /obj/machinery/vending/nukacolavend [0x2005ff3]
+ - new Vending fancy 1
+[2021-05-19 02:54:41.132] diolko (as Melisa Gray at 244,212,2)
+ - Using: /obj/machinery/vending/cigarette [0x2006019]
+ - new Vending fancy 1
+[2021-05-19 02:54:41.133] diolko in tgui-window-2/initialize
+ - Using: /obj/machinery/vending/cigarette [0x2006019]
+[2021-05-19 02:54:42.537] diolko in tgui-window-2/close (suspending)
+[2021-05-19 02:54:42.537] diolko in tgui-window-2/close (suspending)
+[2021-05-19 02:54:43.658] diolko in tgui-window-1/close (suspending)
+[2021-05-19 02:54:43.658] diolko in tgui-window-1/close (suspending)
+[2021-05-19 02:55:38.993] luciam in browseroutput/initialize
+[2021-05-19 02:56:59.512] kaduh (as Tomas Miller at 38,59,2)
+ - Using: /datum/component/personal_crafting [0x2100f6b8]
+ - new PersonalCrafting fancy 1
+[2021-05-19 02:57:06.969] kaduh (as Tomas Miller at 38,59,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2100f6b8]
+ - Action: set_category {"category":"Crafting","subcategory":"Tools & Workbench"}
+[2021-05-19 02:57:10.218] kaduh in tgui-window-1/close (suspending)
+[2021-05-19 02:57:10.219] kaduh in tgui-window-1/close (suspending)
+[2021-05-19 02:57:50.721] macaco99 (as Ramon Lee at 66,30,3)
+ - Using: /obj/machinery/vending/medical [0x2006b1d]
+ - new Vending fancy 1
+[2021-05-19 02:57:53.109] macaco99 in tgui-window-1/close (suspending)
+[2021-05-19 02:57:53.109] macaco99 in tgui-window-1/close (suspending)
+[2021-05-19 02:58:01.127] kaduh in browseroutput/initialize
+[2021-05-19 02:59:06.932] diolko (as Melisa Gray at 249,147,2)
+ - Using: /obj/machinery/vending/games [0x20060c8]
+ - new Vending fancy 1
+[2021-05-19 02:59:10.152] diolko in tgui-window-1/close (suspending)
+[2021-05-19 02:59:10.152] diolko in tgui-window-1/close (suspending)
+[2021-05-19 03:00:04.826] diolko (as Melisa Gray at 207,161,2)
+ - Using: /obj/machinery/vending/cola/space_up [0x200587a]
+ - new Vending fancy 1
+[2021-05-19 03:00:05.784] diolko (as Melisa Gray at 207,161,2)
+ - Using: /obj/machinery/vending/cigarette [0x2005814]
+ - new Vending fancy 1
+[2021-05-19 03:00:07.320] kaduh (as Tomas Miller at 53,76,2)
+ - Using: /datum/orbit_menu [0x21041efe]
+ - new Orbit fancy 1
+[2021-05-19 03:00:07.320] kaduh in tgui-window-1/initialize
+ - Using: /datum/orbit_menu [0x21041efe]
+[2021-05-19 03:00:07.448] diolko in tgui-window-2/close (suspending)
+[2021-05-19 03:00:07.448] diolko in tgui-window-2/close (suspending)
+[2021-05-19 03:00:07.829] akamarubr (as Akaigo Bia at 101,233,2)
+ - Using: /obj/machinery/computer/shuttle/northbunkerelevator [0x2011efe]
+ - new ShuttleConsole fancy 1
+[2021-05-19 03:00:07.967] diolko in tgui-window-1/close (suspending)
+[2021-05-19 03:00:07.968] diolko in tgui-window-1/close (suspending)
+[2021-05-19 03:00:08.122] akamarubr (as Akaigo Bia at 101,233,2) in tgui-window-1
+ - [object Event]
+ -    at undefined:undefined
+ - User Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.2; .NET4.0C; .NET4.0E; Zoom 3.6.0)
+ - State: {"ckey":"akamarubr","interface":"ShuttleConsole","window":{"key":"[0x2011efe]-main","size":null,"fancy":1,"locked":1}}
+[2021-05-19 03:00:08.122] akamarubr in tgui-window-1/close
+[2021-05-19 03:00:09.127] kaduh (as Tomas Miller at 53,76,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21041efe]
+ - Action: orbit {"ref":"[mob_877]"}
+[2021-05-19 03:00:10.139] akamarubr (as Akaigo Bia at 101,233,2)
+ - Using: /obj/machinery/computer/shuttle/northbunkerelevator [0x2011efe]
+ - new ShuttleConsole fancy 1
+[2021-05-19 03:00:10.140] akamarubr in tgui-window-1/initialize
+ - Using: /obj/machinery/computer/shuttle/northbunkerelevator [0x2011efe]
+[2021-05-19 03:00:12.526] akamarubr (as Akaigo Bia at 101,233,2) in tgui-window-1
+ - Using: /obj/machinery/computer/shuttle/northbunkerelevator [0x2011efe]
+ - Action: move {"shuttle_id":"North_Level_1"}
+[2021-05-19 03:00:13.554] akamarubr in tgui-window-1/close (suspending)
+[2021-05-19 03:00:13.554] akamarubr in tgui-window-1/close (suspending)
+[2021-05-19 03:00:19.509] akamarubr (as Akaigo Bia at 43,233,4)
+ - Using: /obj/machinery/computer/shuttle/northbunkerelevator [0x2011efe]
+ - new ShuttleConsole fancy 1
+[2021-05-19 03:00:20.481] akamarubr (as Akaigo Bia at 43,233,4) in tgui-window-1
+ - Using: /obj/machinery/computer/shuttle/northbunkerelevator [0x2011efe]
+ - Action: move {"shuttle_id":"North_Ground"}
+[2021-05-19 03:00:21.970] akamarubr in tgui-window-1/close (suspending)
+[2021-05-19 03:00:21.970] akamarubr in tgui-window-1/close (suspending)
+[2021-05-19 03:00:22.633] kaduh (as Tomas Miller at 101,233,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21041efe]
+ - Action: orbit {"ref":"[mob_869]"}
+[2021-05-19 03:00:28.879] kaduh (as Tomas Miller at 244,31,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21041efe]
+ - Action: orbit {"ref":"[mob_948]"}
+[2021-05-19 03:00:32.073] kaduh (as Tomas Miller at 220,61,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21041efe]
+ - Action: orbit {"ref":"[mob_878]"}
+[2021-05-19 03:00:33.283] kaduh (as Tomas Miller at 219,147,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21041efe]
+ - Action: orbit {"ref":"[mob_870]"}
+[2021-05-19 03:00:34.313] kaduh (as Tomas Miller at 49,174,4) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21041efe]
+ - Action: orbit {"ref":"[mob_938]"}
+[2021-05-19 03:00:35.758] kaduh (as Tomas Miller at 62,32,3) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21041efe]
+ - Action: orbit {"ref":"[mob_883]"}
+[2021-05-19 03:00:38.708] kaduh (as Tomas Miller at 226,42,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21041efe]
+ - Action: orbit {"ref":"[mob_822]"}
+[2021-05-19 03:00:40.687] kaduh (as Tomas Miller at 227,221,3) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21041efe]
+ - Action: orbit {"ref":"[mob_901]"}
+[2021-05-19 03:00:41.978] kaduh (as Tomas Miller at 145,204,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21041efe]
+ - Action: orbit {"ref":"[mob_892]"}
+[2021-05-19 03:00:43.123] diolko (as Melisa Gray at 218,147,2)
+ - Using: /datum/component/personal_crafting [0x2103f317]
+ - new PersonalCrafting fancy 1
+[2021-05-19 03:00:45.923] diolko (as Melisa Gray at 218,147,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f317]
+ - Action: set_category {"category":"Clothing","subcategory":"Shoes"}
+[2021-05-19 03:00:46.529] diolko (as Melisa Gray at 218,147,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f317]
+ - Action: set_category {"category":"Clothing","subcategory":"Armor"}
+[2021-05-19 03:00:48.660] kaduh in tgui-window-1/close (suspending)
+[2021-05-19 03:00:48.660] kaduh in tgui-window-1/close (suspending)
+[2021-05-19 03:00:56.101] diolko (as Melisa Gray at 218,147,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f317]
+ - Action: set_category {"category":"Clothing","subcategory":"Wasteland Clothing"}
+[2021-05-19 03:01:00.621] diolko (as Melisa Gray at 218,147,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f317]
+ - Action: set_category {"category":"Clothing","subcategory":"Misc Clothing"}
+[2021-05-19 03:01:01.301] diolko (as Melisa Gray at 218,147,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f317]
+ - Action: set_category {"category":"Weaponry","subcategory":"Melee Weapons"}
+[2021-05-19 03:01:04.199] diolko (as Melisa Gray at 218,147,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f317]
+ - Action: set_category {"category":"Crafting","subcategory":"Electronics & Robots"}
+[2021-05-19 03:01:04.692] diolko (as Melisa Gray at 218,147,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f317]
+ - Action: set_category {"category":"Crafting","subcategory":"Electronics & Robots"}
+[2021-05-19 03:01:10.298] kaduh (as Tomas Miller at 249,148,2)
+ - Using: /obj/machinery/vending/games [0x20060c8]
+ - new Vending fancy 1
+[2021-05-19 03:01:10.939] diolko (as Melisa Gray at 218,147,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f317]
+ - Action: set_category {"category":"Crafting","subcategory":"Forging & Smithing"}
+[2021-05-19 03:01:12.416] kaduh in tgui-window-1/close (suspending)
+[2021-05-19 03:01:12.416] kaduh in tgui-window-1/close (suspending)
+[2021-05-19 03:01:12.474] diolko (as Melisa Gray at 218,147,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f317]
+ - Action: set_category {"category":"Crafting","subcategory":"Scavenging & Tinkering"}
+[2021-05-19 03:01:17.786] diolko (as Melisa Gray at 218,147,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f317]
+ - Action: set_category {"category":"Crafting","subcategory":"Tools & Workbench"}
+[2021-05-19 03:01:22.436] diolko (as Melisa Gray at 218,147,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f317]
+ - Action: set_category {"category":"Misc","subcategory":"Farming"}
+[2021-05-19 03:01:25.593] diolko in tgui-window-1/close (suspending)
+[2021-05-19 03:01:25.593] diolko in tgui-window-1/close (suspending)
+[2021-05-19 03:02:30.165] kaduh (as Tomas Miller at 236,254,2)
+ - Using: /datum/component/loadout_selector [0x21041da4]
+ - new LoadoutSelect fancy 1
+[2021-05-19 03:02:31.919] kaduh (as Tomas Miller at 236,254,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041da4]
+ - Action: loadout_select {"name":"Salvager"}
+[2021-05-19 03:02:32.849] kaduh (as Tomas Miller at 236,254,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041da4]
+ - Action: loadout_select {"name":"Salvager"}
+[2021-05-19 03:02:34.014] kaduh (as Tomas Miller at 236,254,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21041da4]
+ - Action: loadout_confirm {}
+[2021-05-19 03:02:34.048] kaduh in tgui-window-1/close (suspending)
+[2021-05-19 03:03:17.996] kaduh (as Tomas Miller at 236,252,2)
+ - Using: /datum/component/personal_crafting [0x2104205c]
+ - new PersonalCrafting fancy 1
+[2021-05-19 03:03:19.778] kaduh (as Tomas Miller at 236,252,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2104205c]
+ - Action: set_category {"category":"Crafting","subcategory":"Scavenging & Tinkering"}
+[2021-05-19 03:03:21.018] kaduh (as Tomas Miller at 236,252,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2104205c]
+ - Action: set_category {"category":"Misc","subcategory":"Farming"}
+[2021-05-19 03:03:21.421] kaduh (as Tomas Miller at 236,252,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2104205c]
+ - Action: set_category {"category":"Crafting","subcategory":"Tools & Workbench"}
+[2021-05-19 03:03:31.638] kaduh in tgui-window-1/close (suspending)
+[2021-05-19 03:03:31.639] kaduh in tgui-window-1/close (suspending)
+[2021-05-19 03:03:54.072] diolko (as Melisa Gray at 218,166,2)
+ - Using: /datum/skill_holder [0x21026885]
+ - new SkillPanel fancy 1
+[2021-05-19 03:03:56.626] diolko in tgui-window-1/close (suspending)
+[2021-05-19 03:03:56.626] diolko in tgui-window-1/close (suspending)
+[2021-05-19 03:04:39.947] baeiou (as Roderick Malkav at 225,40,2)
+ - Using: /obj/item/radio [0x2048d6e]
+ - new Radio fancy 1
+[2021-05-19 03:05:03.778] macaco99 (as Ramon Lee at 62,33,3)
+ - Using: /obj/machinery/chem_dispenser [0x20069e3]
+ - new ChemDispenser fancy 1
+[2021-05-19 03:05:04.940] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser [0x20069e3]
+ - Action: eject {}
+[2021-05-19 03:05:07.929] macaco99 in tgui-window-1/close (suspending)
+[2021-05-19 03:05:07.930] macaco99 in tgui-window-1/close (suspending)
+[2021-05-19 03:05:09.278] baeiou (as Roderick Malkav at 213,45,2) in tgui-window-2
+ - Using: /obj/item/radio [0x2048d6e]
+ - Action: broadcast {}
+[2021-05-19 03:05:14.934] macaco99 (as Ramon Lee at 62,33,3)
+ - Using: /obj/machinery/chem_dispenser [0x20069e3]
+ - new ChemDispenser fancy 1
+[2021-05-19 03:05:15.493] baeiou (as Roderick Malkav at 211,53,2) in tgui-window-2
+ - Using: /obj/item/radio [0x2048d6e]
+ - Action: broadcast {}
+[2021-05-19 03:05:19.335] baeiou in tgui-window-2/close (suspending)
+[2021-05-19 03:05:19.335] baeiou in tgui-window-2/close (suspending)
+[2021-05-19 03:05:20.170] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser [0x20069e3]
+ - Action: amount {"target":10}
+[2021-05-19 03:05:21.487] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser [0x20069e3]
+ - Action: amount {"target":30}
+[2021-05-19 03:05:26.335] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser [0x20069e3]
+ - Action: amount {"target":40}
+[2021-05-19 03:05:32.614] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser [0x20069e3]
+ - Action: dispense {"reagent":"carbon"}
+[2021-05-19 03:05:35.202] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser [0x20069e3]
+ - Action: dispense {"reagent":"oxygen"}
+[2021-05-19 03:05:39.280] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser [0x20069e3]
+ - Action: dispense {"reagent":"sugar"}
+[2021-05-19 03:05:43.574] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser [0x20069e3]
+ - Action: eject {}
+[2021-05-19 03:05:44.487] macaco99 in tgui-window-1/close (suspending)
+[2021-05-19 03:05:44.487] macaco99 in tgui-window-1/close (suspending)
+[2021-05-19 03:06:04.830] macaco99 (as Ramon Lee at 63,33,3)
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - new ChemMaster fancy 1
+[2021-05-19 03:06:24.530] macaco99 (as Ramon Lee at 63,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: transfer {"id":"bicaridine","amount":10,"to":"buffer"}
+[2021-05-19 03:06:29.953] macaco99 (as Ramon Lee at 63,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: transfer {"id":"bicaridine","amount":10,"to":"buffer"}
+[2021-05-19 03:06:30.159] macaco99 (as Ramon Lee at 63,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: transfer {"id":"bicaridine","amount":10,"to":"buffer"}
+[2021-05-19 03:06:30.277] macaco99 (as Ramon Lee at 63,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: transfer {"id":"bicaridine","amount":10,"to":"buffer"}
+[2021-05-19 03:06:30.501] macaco99 (as Ramon Lee at 63,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: transfer {"id":"bicaridine","amount":10,"to":"buffer"}
+[2021-05-19 03:06:31.982] macaco99 (as Ramon Lee at 63,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: create {"type":"pill","amount":10,"volume":"auto"}
+[2021-05-19 03:06:35.037] macaco99 in tgui-window-1/close (suspending)
+[2021-05-19 03:06:35.038] macaco99 in tgui-window-1/close (suspending)
+[2021-05-19 03:06:56.317] macaco99 (as Ramon Lee at 63,33,3)
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - new ChemMaster fancy 1
+[2021-05-19 03:06:59.459] macaco99 (as Ramon Lee at 63,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: transfer {"id":"bicaridine","amount":10,"to":"buffer"}
+[2021-05-19 03:06:59.612] macaco99 (as Ramon Lee at 63,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: transfer {"id":"bicaridine","amount":10,"to":"buffer"}
+[2021-05-19 03:07:00.279] macaco99 (as Ramon Lee at 63,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: transfer {"id":"bicaridine","amount":10,"to":"buffer"}
+[2021-05-19 03:07:00.405] macaco99 (as Ramon Lee at 63,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: transfer {"id":"bicaridine","amount":10,"to":"buffer"}
+[2021-05-19 03:07:00.553] macaco99 (as Ramon Lee at 63,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: transfer {"id":"bicaridine","amount":10,"to":"buffer"}
+[2021-05-19 03:07:02.229] macaco99 (as Ramon Lee at 63,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: create {"type":"pill","amount":10,"volume":"auto"}
+[2021-05-19 03:07:04.083] macaco99 in tgui-window-1/close (suspending)
+[2021-05-19 03:07:04.084] macaco99 in tgui-window-1/close (suspending)
+[2021-05-19 03:07:23.456] macaco99 (as Ramon Lee at 63,33,3)
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - new ChemMaster fancy 1
+[2021-05-19 03:07:25.674] macaco99 (as Ramon Lee at 63,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: transfer {"id":"bicaridine","amount":10,"to":"buffer"}
+[2021-05-19 03:07:28.882] macaco99 (as Ramon Lee at 63,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: transfer {"id":"bicaridine","amount":10,"to":"buffer"}
+[2021-05-19 03:07:31.363] macaco99 (as Ramon Lee at 63,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: create {"type":"pill","amount":10,"volume":"auto"}
+[2021-05-19 03:07:34.604] macaco99 (as Ramon Lee at 63,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: create {"type":"pill","amount":4,"volume":"auto"}
+[2021-05-19 03:07:37.621] macaco99 in tgui-window-1/close (suspending)
+[2021-05-19 03:07:37.621] macaco99 in tgui-window-1/close (suspending)
+[2021-05-19 03:07:43.720] macaco99 (as Ramon Lee at 63,33,3)
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - new ChemMaster fancy 1
+[2021-05-19 03:07:45.977] macaco99 in tgui-window-1/close (suspending)
+[2021-05-19 03:07:45.977] macaco99 in tgui-window-1/close (suspending)
+[2021-05-19 03:08:00.111] kaduh (as Tomas Miller at 171,180,2)
+ - Using: /obj/machinery/vending/coffee [0x2004e85]
+ - new Vending fancy 1
+[2021-05-19 03:08:04.069] kaduh in tgui-window-1/close (suspending)
+[2021-05-19 03:08:04.070] kaduh in tgui-window-1/close (suspending)
+[2021-05-19 03:08:21.061] kaduh (as Tomas Miller at 149,192,2)
+ - Using: /obj/machinery/vending/clothing [0x20046ac]
+ - new Vending fancy 1
+[2021-05-19 03:08:44.424] kaduh in tgui-window-1/close (suspending)
+[2021-05-19 03:08:44.425] kaduh in tgui-window-1/close (suspending)
+[2021-05-19 03:09:07.159] diolko (as Melisa Gray at 207,161,2)
+ - Using: /obj/machinery/vending/cigarette [0x2005814]
+ - new Vending fancy 1
+[2021-05-19 03:09:13.973] diolko (as Melisa Gray at 207,161,2)
+ - Using: /obj/machinery/vending/cola/space_up [0x200587a]
+ - new Vending fancy 1
+[2021-05-19 03:09:15.285] diolko in tgui-window-2/close (suspending)
+[2021-05-19 03:09:15.285] diolko in tgui-window-2/close (suspending)
+[2021-05-19 03:09:17.365] diolko in tgui-window-1/close (suspending)
+[2021-05-19 03:09:17.365] diolko in tgui-window-1/close (suspending)
+[2021-05-19 03:09:21.602] diolko (as Melisa Gray at 201,162,2)
+ - Using: /obj/machinery/jukebox [0x2005671]
+ - new Jukebox fancy 1
+[2021-05-19 03:09:30.766] diolko (as Melisa Gray at 195,167,2)
+ - Using: /obj/machinery/smartfridge/bottlerack [0x200544a]
+ - new SmartVend fancy 1
+[2021-05-19 03:09:32.239] diolko in tgui-window-1/close (suspending)
+[2021-05-19 03:09:32.239] diolko in tgui-window-1/close (suspending)
+[2021-05-19 03:10:06.834] baeiou (as Roderick Malkav at 203,52,2)
+ - Using: /obj/machinery/vending/nukacolavend [0x2005721]
+ - new Vending fancy 1
+[2021-05-19 03:10:11.904] baeiou (as Roderick Malkav at 203,52,2) in tgui-window-2
+ - Using: /obj/machinery/vending/nukacolavend [0x2005721]
+ - Action: vend {"ref":"[0x2100c40c]"}
+[2021-05-19 03:10:18.968] baeiou (as Roderick Malkav at 203,52,2) in tgui-window-2
+ - Using: /obj/machinery/vending/nukacolavend [0x2005721]
+ - Action: vend {"ref":"[0x2100c40a]"}
+[2021-05-19 03:10:24.422] baeiou in tgui-window-2/close (suspending)
+[2021-05-19 03:10:24.423] baeiou in tgui-window-2/close (suspending)
+[2021-05-19 03:10:41.231] sondtheanime (as Unknown at 147,201,2)
+ - Using: /datum/component/personal_crafting [0x21005c35]
+ - new PersonalCrafting fancy 1
+[2021-05-19 03:10:44.557] sondtheanime (as Unknown at 147,201,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21005c35]
+ - Action: set_category {"category":"Crafting","subcategory":"Scavenging & Tinkering"}
+[2021-05-19 03:10:45.351] sondtheanime (as Unknown at 147,201,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21005c35]
+ - Action: set_category {"category":"Crafting","subcategory":"Tools & Workbench"}
+[2021-05-19 03:10:53.548] macaco99 (as Ramon Lee at 62,33,3)
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - new ChemMaster fancy 1
+[2021-05-19 03:10:54.974] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: eject {}
+[2021-05-19 03:10:55.596] macaco99 in tgui-window-1/close (suspending)
+[2021-05-19 03:10:55.596] macaco99 in tgui-window-1/close (suspending)
+[2021-05-19 03:10:56.568] macaco99 (as Ramon Lee at 62,33,3)
+ - Using: /obj/machinery/chem_dispenser [0x20069e3]
+ - new ChemDispenser fancy 1
+[2021-05-19 03:11:15.374] sondtheanime in tgui-window-1/close (suspending)
+[2021-05-19 03:11:15.374] sondtheanime in tgui-window-1/close (suspending)
+[2021-05-19 03:11:20.857] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser [0x20069e3]
+ - Action: amount {"target":60}
+[2021-05-19 03:11:23.564] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser [0x20069e3]
+ - Action: dispense {"reagent":"carbon"}
+[2021-05-19 03:11:24.305] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser [0x20069e3]
+ - Action: dispense {"reagent":"silicon"}
+[2021-05-19 03:11:25.348] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser [0x20069e3]
+ - Action: eject {}
+[2021-05-19 03:11:27.665] macaco99 in tgui-window-1/close (suspending)
+[2021-05-19 03:11:27.665] macaco99 in tgui-window-1/close (suspending)
+[2021-05-19 03:11:28.646] macaco99 (as Ramon Lee at 62,33,3)
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - new ChemMaster fancy 1
+[2021-05-19 03:11:31.243] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: transfer {"id":"kelotane","amount":10,"to":"buffer"}
+[2021-05-19 03:11:31.422] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: transfer {"id":"kelotane","amount":10,"to":"buffer"}
+[2021-05-19 03:11:31.588] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: transfer {"id":"kelotane","amount":10,"to":"buffer"}
+[2021-05-19 03:11:31.758] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: transfer {"id":"kelotane","amount":10,"to":"buffer"}
+[2021-05-19 03:11:32.588] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: transfer {"id":"kelotane","amount":10,"to":"buffer"}
+[2021-05-19 03:11:40.098] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: create {"type":"pill","amount":10,"volume":"auto"}
+[2021-05-19 03:11:43.029] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: transfer {"id":"kelotane","amount":10,"to":"buffer"}
+[2021-05-19 03:11:43.178] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: transfer {"id":"kelotane","amount":10,"to":"buffer"}
+[2021-05-19 03:11:44.746] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: transfer {"id":"kelotane","amount":10,"to":"buffer"}
+[2021-05-19 03:11:44.922] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: transfer {"id":"kelotane","amount":10,"to":"buffer"}
+[2021-05-19 03:11:45.088] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: transfer {"id":"kelotane","amount":10,"to":"buffer"}
+[2021-05-19 03:11:45.250] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: transfer {"id":"kelotane","amount":10,"to":"buffer"}
+[2021-05-19 03:11:46.626] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: transfer {"id":"kelotane","amount":10,"to":"beaker"}
+[2021-05-19 03:11:47.554] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: create {"type":"pill","amount":10,"volume":"auto"}
+[2021-05-19 03:11:49.410] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: transfer {"id":"kelotane","amount":10,"to":"buffer"}
+[2021-05-19 03:11:49.610] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: transfer {"id":"kelotane","amount":10,"to":"buffer"}
+[2021-05-19 03:11:51.794] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: create {"type":"pill","amount":10,"volume":"auto"}
+[2021-05-19 03:11:53.314] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: create {"type":"pill","amount":4,"volume":"auto"}
+[2021-05-19 03:11:55.153] macaco99 in tgui-window-1/close (suspending)
+[2021-05-19 03:11:55.154] macaco99 in tgui-window-1/close (suspending)
+[2021-05-19 03:12:22.625] sondtheanime (as Unknown at 144,203,2)
+ - Using: /datum/component/personal_crafting [0x21005c35]
+ - new PersonalCrafting fancy 1
+[2021-05-19 03:12:26.402] sondtheanime (as Unknown at 144,203,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21005c35]
+ - Action: set_category {"category":"Crafting","subcategory":"Tools & Workbench"}
+[2021-05-19 03:12:28.424] sondtheanime in tgui-window-1/close (suspending)
+[2021-05-19 03:12:28.425] sondtheanime in tgui-window-1/close (suspending)
+[2021-05-19 03:12:36.985] baeiou in tgui-window-1/close (suspending)
+[2021-05-19 03:12:36.986] baeiou (as Roderick Malkav at 80,175,2)
+ - Using: /datum/component/personal_crafting [0x2103f524]
+ - new PersonalCrafting fancy 1
+[2021-05-19 03:14:01.029] diolko (as Melisa Gray at 171,130,2)
+ - Using: /obj/machinery/vending/coffee [0x2004ea2]
+ - new Vending fancy 1
+[2021-05-19 03:14:04.020] diolko in tgui-window-1/close (suspending)
+[2021-05-19 03:14:04.020] diolko in tgui-window-1/close (suspending)
+[2021-05-19 03:14:56.799] baeiou in browseroutput/initialize
+[2021-05-19 03:15:05.973] baeiou (as Roderick Malkav at 230,42,2)
+ - Using: /datum/component/personal_crafting [0x2103f524]
+ - new PersonalCrafting fancy 1
+[2021-05-19 03:15:05.973] baeiou in tgui-window-1/initialize
+ - Using: /datum/component/personal_crafting [0x2103f524]
+[2021-05-19 03:15:12.702] baeiou (as Roderick Malkav at 229,42,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f524]
+ - Action: set_category {"category":"Crafting","subcategory":"Scavenging & Tinkering"}
+[2021-05-19 03:15:13.207] baeiou (as Roderick Malkav at 229,42,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f524]
+ - Action: set_category {"category":"Misc","subcategory":"Burial & Execution"}
+[2021-05-19 03:15:13.865] baeiou (as Roderick Malkav at 229,42,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f524]
+ - Action: set_category {"category":"Clothing","subcategory":"General Clothing"}
+[2021-05-19 03:15:14.571] baeiou (as Roderick Malkav at 229,42,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f524]
+ - Action: set_category {"category":"Clothing","subcategory":"Wasteland Clothing"}
+[2021-05-19 03:15:14.907] baeiou (as Roderick Malkav at 229,42,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f524]
+ - Action: set_category {"category":"Weaponry","subcategory":"Melee Weapons"}
+[2021-05-19 03:15:15.323] baeiou (as Roderick Malkav at 229,42,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f524]
+ - Action: set_category {"category":"Weaponry","subcategory":"Ranged Weapons"}
+[2021-05-19 03:15:17.331] baeiou (as Roderick Malkav at 229,42,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f524]
+ - Action: set_category {"category":"Weaponry","subcategory":"Explosives & Cells"}
+[2021-05-19 03:15:17.687] baeiou (as Roderick Malkav at 229,42,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f524]
+ - Action: set_category {"category":"Weaponry","subcategory":"Explosives & Cells"}
+[2021-05-19 03:15:18.021] baeiou (as Roderick Malkav at 229,42,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f524]
+ - Action: set_category {"category":"Medical"}
+[2021-05-19 03:15:23.991] baeiou (as Roderick Malkav at 232,42,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f524]
+ - Action: make {"recipe":"[0x21001220]"}
+[2021-05-19 03:15:29.268] baeiou (as Roderick Malkav at 232,42,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f524]
+ - Action: make {"recipe":"[0x21001220]"}
+[2021-05-19 03:16:32.400] diolko (as Melisa Gray at 192,80,2)
+ - Using: /obj/machinery/vending/cola [0x200538c]
+ - new Vending fancy 1
+[2021-05-19 03:16:34.874] diolko (as Melisa Gray at 192,80,2) in tgui-window-1
+ - Using: /obj/machinery/vending/cola [0x200538c]
+ - Action: vend {"ref":"[0x2100be58]"}
+[2021-05-19 03:16:35.699] diolko in tgui-window-1/close (suspending)
+[2021-05-19 03:16:35.700] diolko in tgui-window-1/close (suspending)
+[2021-05-19 03:16:56.843]  in tgui-window-1/close (suspending)
+[2021-05-19 03:16:59.741] baeiou in browseroutput/initialize
+[2021-05-19 03:16:59.974] sondtheanime (as Unknown at 147,204,2)
+ - Using: /datum/component/personal_crafting [0x21005c35]
+ - new PersonalCrafting fancy 1
+[2021-05-19 03:17:03.738] sondtheanime (as Unknown at 147,204,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21005c35]
+ - Action: set_category {"category":"Crafting","subcategory":"Tools & Workbench"}
+[2021-05-19 03:17:07.798] sondtheanime (as Unknown at 147,204,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21005c35]
+ - Action: set_category {"category":"Crafting","subcategory":"Scavenging & Tinkering"}
+[2021-05-19 03:17:09.454] sondtheanime (as Unknown at 147,204,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21005c35]
+ - Action: set_category {"category":"Crafting","subcategory":"Forging & Smithing"}
+[2021-05-19 03:17:12.455] sondtheanime (as Unknown at 147,204,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21005c35]
+ - Action: set_category {"category":"Crafting","subcategory":"Electronics & Robots"}
+[2021-05-19 03:17:17.151] baeiou (as Roderick Malkav at 212,46,2)
+ - Using: /datum/component/personal_crafting [0x2103f524]
+ - new PersonalCrafting fancy 1
+[2021-05-19 03:17:17.151] baeiou in tgui-window-1/initialize
+ - Using: /datum/component/personal_crafting [0x2103f524]
+[2021-05-19 03:17:19.117] baeiou (as Roderick Malkav at 212,46,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f524]
+ - Action: set_category {"category":"Misc","subcategory":"Burial & Execution"}
+[2021-05-19 03:17:19.500] sondtheanime (as Unknown at 147,204,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21005c35]
+ - Action: set_category {"category":"Crafting","subcategory":"Scavenging & Tinkering"}
+[2021-05-19 03:17:19.589] baeiou (as Roderick Malkav at 212,46,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f524]
+ - Action: set_category {"category":"Misc","subcategory":"Miscellaneous"}
+[2021-05-19 03:17:20.165] sondtheanime (as Unknown at 147,204,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21005c35]
+ - Action: set_category {"category":"Crafting","subcategory":"Tools & Workbench"}
+[2021-05-19 03:17:21.082] baeiou (as Roderick Malkav at 212,46,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f524]
+ - Action: set_category {"category":"Misc","subcategory":"Burial & Execution"}
+[2021-05-19 03:17:21.225] sondtheanime (as Unknown at 147,204,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21005c35]
+ - Action: set_category {"category":"Misc","subcategory":"Farming"}
+[2021-05-19 03:17:22.493] sondtheanime (as Unknown at 147,204,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21005c35]
+ - Action: set_category {"category":"Misc","subcategory":"Bottling"}
+[2021-05-19 03:17:22.578] baeiou (as Roderick Malkav at 212,46,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f524]
+ - Action: set_category {"category":"Clothing","subcategory":"General Clothing"}
+[2021-05-19 03:17:23.080] sondtheanime (as Unknown at 147,204,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21005c35]
+ - Action: set_category {"category":"Misc","subcategory":"Farming"}
+[2021-05-19 03:17:23.223] baeiou (as Roderick Malkav at 212,46,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f524]
+ - Action: set_category {"category":"Clothing","subcategory":"General Clothing"}
+[2021-05-19 03:17:23.542] baeiou (as Roderick Malkav at 212,46,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f524]
+ - Action: set_category {"category":"Clothing","subcategory":"Belts"}
+[2021-05-19 03:17:23.938] baeiou (as Roderick Malkav at 212,46,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f524]
+ - Action: set_category {"category":"Crafting","subcategory":"Tools & Workbench"}
+[2021-05-19 03:17:24.537] sondtheanime (as Unknown at 147,204,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21005c35]
+ - Action: set_category {"category":"Misc","subcategory":"Bottling"}
+[2021-05-19 03:17:24.851] baeiou (as Roderick Malkav at 212,46,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f524]
+ - Action: set_category {"category":"Crafting","subcategory":"Scavenging & Tinkering"}
+[2021-05-19 03:17:25.521] sondtheanime (as Unknown at 147,204,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21005c35]
+ - Action: set_category {"category":"Misc","subcategory":"Miscellaneous"}
+[2021-05-19 03:17:26.652] baeiou (as Roderick Malkav at 212,46,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f524]
+ - Action: set_category {"category":"Medical"}
+[2021-05-19 03:17:26.853] sondtheanime (as Unknown at 147,204,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21005c35]
+ - Action: set_category {"category":"Misc","subcategory":"Burial & Execution"}
+[2021-05-19 03:17:27.063] baeiou (as Roderick Malkav at 212,46,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f524]
+ - Action: set_category {"category":"Tribal"}
+[2021-05-19 03:17:27.647] sondtheanime (as Unknown at 147,204,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21005c35]
+ - Action: set_category {"category":"Misc","subcategory":"Burial & Execution"}
+[2021-05-19 03:17:28.239] sondtheanime (as Unknown at 147,204,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21005c35]
+ - Action: set_category {"category":"Clothing","subcategory":"Belts"}
+[2021-05-19 03:17:28.539] baeiou (as Roderick Malkav at 212,46,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f524]
+ - Action: make {"recipe":"[0x21001246]"}
+[2021-05-19 03:17:29.650] sondtheanime in tgui-window-1/close (suspending)
+[2021-05-19 03:17:29.650] sondtheanime in tgui-window-1/close (suspending)
+[2021-05-19 03:17:54.092] macaco99 (as Ramon Lee at 62,33,3)
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - new ChemMaster fancy 1
+[2021-05-19 03:17:55.413] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: eject {}
+[2021-05-19 03:17:56.012] macaco99 in tgui-window-1/close (suspending)
+[2021-05-19 03:17:56.012] macaco99 in tgui-window-1/close (suspending)
+[2021-05-19 03:17:57.067] macaco99 (as Ramon Lee at 62,33,3)
+ - Using: /obj/machinery/chem_dispenser [0x20069e3]
+ - new ChemDispenser fancy 1
+[2021-05-19 03:18:28.098] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser [0x20069e3]
+ - Action: amount {"target":40}
+[2021-05-19 03:18:37.782] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser [0x20069e3]
+ - Action: dispense {"reagent":"nitrogen"}
+[2021-05-19 03:18:42.025] sondtheanime (as Unknown at 171,191,2)
+ - Using: /datum/component/personal_crafting [0x21005c35]
+ - new PersonalCrafting fancy 1
+[2021-05-19 03:18:45.322] sondtheanime (as Unknown at 171,191,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21005c35]
+ - Action: set_category {"category":"Crafting","subcategory":"Scavenging & Tinkering"}
+[2021-05-19 03:18:49.456] sondtheanime (as Unknown at 171,191,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21005c35]
+ - Action: make {"recipe":"[0x21001234]"}
+[2021-05-19 03:18:51.105] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser [0x20069e3]
+ - Action: dispense {"reagent":"silicon"}
+[2021-05-19 03:18:54.025] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser [0x20069e3]
+ - Action: dispense {"reagent":"potassium"}
+[2021-05-19 03:18:55.513] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser [0x20069e3]
+ - Action: eject {}
+[2021-05-19 03:18:55.606] sondtheanime in tgui-window-1/close (suspending)
+[2021-05-19 03:18:55.607] sondtheanime in tgui-window-1/close (suspending)
+[2021-05-19 03:18:56.346] macaco99 in tgui-window-1/close (suspending)
+[2021-05-19 03:18:56.346] macaco99 in tgui-window-1/close (suspending)
+[2021-05-19 03:18:57.509] macaco99 (as Ramon Lee at 62,33,3)
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - new ChemMaster fancy 1
+[2021-05-19 03:19:00.276] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: pillStyle {"id":11}
+[2021-05-19 03:19:03.377] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: transfer {"id":"antitoxin","amount":10,"to":"buffer"}
+[2021-05-19 03:19:03.548] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: transfer {"id":"antitoxin","amount":10,"to":"buffer"}
+[2021-05-19 03:19:03.706] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: transfer {"id":"antitoxin","amount":10,"to":"buffer"}
+[2021-05-19 03:19:04.448] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: transfer {"id":"antitoxin","amount":10,"to":"buffer"}
+[2021-05-19 03:19:04.625] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: transfer {"id":"antitoxin","amount":10,"to":"buffer"}
+[2021-05-19 03:19:08.359] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: create {"type":"pill","amount":10,"volume":"auto"}
+[2021-05-19 03:19:10.707] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: transfer {"id":"antitoxin","amount":10,"to":"buffer"}
+[2021-05-19 03:19:10.856] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: transfer {"id":"antitoxin","amount":10,"to":"buffer"}
+[2021-05-19 03:19:11.032] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: transfer {"id":"antitoxin","amount":10,"to":"buffer"}
+[2021-05-19 03:19:11.184] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: transfer {"id":"antitoxin","amount":10,"to":"buffer"}
+[2021-05-19 03:19:12.033] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: transfer {"id":"antitoxin","amount":10,"to":"buffer"}
+[2021-05-19 03:19:13.024] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: create {"type":"pill","amount":10,"volume":"auto"}
+[2021-05-19 03:19:17.546] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: transfer {"id":"antitoxin","amount":10,"to":"buffer"}
+[2021-05-19 03:19:18.760] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: transfer {"id":"antitoxin","amount":10,"to":"buffer"}
+[2021-05-19 03:19:20.263] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: create {"type":"pill","amount":4,"volume":"auto"}
+[2021-05-19 03:19:21.871] macaco99 in tgui-window-1/close (suspending)
+[2021-05-19 03:19:21.871] macaco99 in tgui-window-1/close (suspending)
+[2021-05-19 03:20:22.364] sondtheanime (as Unknown at 168,216,2)
+ - Using: /obj/item/radio/intercom [0x2004d85]
+ - new Radio fancy 1
+[2021-05-19 03:20:22.365] sondtheanime (as Unknown at 168,216,2)
+ - Using: /obj/item/radio/intercom [0x2004d85]
+ - new Radio fancy 1
+[2021-05-19 03:20:24.074] sondtheanime (as Unknown at 168,216,2) in tgui-window-1
+ - Using: /obj/item/radio/intercom [0x2004d85]
+ - Action: broadcast {}
+[2021-05-19 03:21:47.765] macaco99 (as Ramon Lee at 62,33,3)
+ - Using: /obj/machinery/chem_dispenser [0x20069e3]
+ - new ChemDispenser fancy 1
+[2021-05-19 03:21:48.926] macaco99 in tgui-window-1/close (suspending)
+[2021-05-19 03:21:48.927] macaco99 in tgui-window-1/close (suspending)
+[2021-05-19 03:21:49.437] macaco99 (as Ramon Lee at 62,33,3)
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - new ChemMaster fancy 1
+[2021-05-19 03:21:50.942] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: eject {}
+[2021-05-19 03:21:51.272] sondtheanime (as Unknown at 168,216,2) in tgui-window-1
+ - Using: /obj/item/radio/intercom [0x2004d85]
+ - Action: broadcast {}
+[2021-05-19 03:21:51.624] macaco99 in tgui-window-1/close (suspending)
+[2021-05-19 03:21:51.624] macaco99 in tgui-window-1/close (suspending)
+[2021-05-19 03:21:51.874] sondtheanime in tgui-window-1/close (suspending)
+[2021-05-19 03:21:51.874] sondtheanime in tgui-window-1/close (suspending)
+[2021-05-19 03:21:52.725] macaco99 (as Ramon Lee at 62,33,3)
+ - Using: /obj/machinery/chem_dispenser [0x20069e3]
+ - new ChemDispenser fancy 1
+[2021-05-19 03:22:03.273] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser [0x20069e3]
+ - Action: dispense {"reagent":"carbon"}
+[2021-05-19 03:22:07.278] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser [0x20069e3]
+ - Action: dispense {"reagent":"oxygen"}
+[2021-05-19 03:22:08.467] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser [0x20069e3]
+ - Action: dispense {"reagent":"sugar"}
+[2021-05-19 03:22:09.768] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser [0x20069e3]
+ - Action: eject {}
+[2021-05-19 03:22:10.572] macaco99 in tgui-window-1/close (suspending)
+[2021-05-19 03:22:10.573] macaco99 in tgui-window-1/close (suspending)
+[2021-05-19 03:22:24.155] macaco99 (as Ramon Lee at 62,33,3)
+ - Using: /obj/machinery/chem_dispenser [0x20069e3]
+ - new ChemDispenser fancy 1
+[2021-05-19 03:22:28.388] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser [0x20069e3]
+ - Action: amount {"target":60}
+[2021-05-19 03:22:37.006] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser [0x20069e3]
+ - Action: dispense {"reagent":"silicon"}
+[2021-05-19 03:22:38.492] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser [0x20069e3]
+ - Action: dispense {"reagent":"carbon"}
+[2021-05-19 03:22:39.980] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser [0x20069e3]
+ - Action: eject {}
+[2021-05-19 03:22:40.898] macaco99 in tgui-window-1/close (suspending)
+[2021-05-19 03:22:40.898] macaco99 in tgui-window-1/close (suspending)
+[2021-05-19 03:22:44.986] macaco99 (as Ramon Lee at 62,33,3)
+ - Using: /obj/machinery/chem_dispenser [0x20069e3]
+ - new ChemDispenser fancy 1
+[2021-05-19 03:22:50.155] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser [0x20069e3]
+ - Action: amount {"target":40}
+[2021-05-19 03:22:57.898] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser [0x20069e3]
+ - Action: dispense {"reagent":"silicon"}
+[2021-05-19 03:22:58.811] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser [0x20069e3]
+ - Action: dispense {"reagent":"nitrogen"}
+[2021-05-19 03:23:00.298] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser [0x20069e3]
+ - Action: dispense {"reagent":"potassium"}
+[2021-05-19 03:23:01.437] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_dispenser [0x20069e3]
+ - Action: eject {}
+[2021-05-19 03:23:02.690] macaco99 in tgui-window-1/close (suspending)
+[2021-05-19 03:23:02.690] macaco99 in tgui-window-1/close (suspending)
+[2021-05-19 03:23:25.907] macaco99 (as Ramon Lee at 62,33,3)
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - new ChemMaster fancy 1
+[2021-05-19 03:23:30.584] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: pillStyle {"id":12}
+[2021-05-19 03:23:32.329] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: eject {}
+[2021-05-19 03:23:35.909] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: pillStyle {"id":10}
+[2021-05-19 03:23:43.239] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: transfer {"id":"tricordrazine","amount":10,"to":"buffer"}
+[2021-05-19 03:23:43.876] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: transfer {"id":"tricordrazine","amount":10,"to":"buffer"}
+[2021-05-19 03:23:44.048] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: transfer {"id":"tricordrazine","amount":10,"to":"buffer"}
+[2021-05-19 03:23:44.239] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: transfer {"id":"tricordrazine","amount":10,"to":"buffer"}
+[2021-05-19 03:23:44.399] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: transfer {"id":"tricordrazine","amount":10,"to":"buffer"}
+[2021-05-19 03:23:45.544] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: create {"type":"pill","amount":10,"volume":"auto"}
+[2021-05-19 03:23:47.450] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: transfer {"id":"tricordrazine","amount":10,"to":"buffer"}
+[2021-05-19 03:23:47.607] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: transfer {"id":"tricordrazine","amount":10,"to":"buffer"}
+[2021-05-19 03:23:47.775] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: transfer {"id":"tricordrazine","amount":10,"to":"buffer"}
+[2021-05-19 03:23:48.591] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: transfer {"id":"tricordrazine","amount":10,"to":"buffer"}
+[2021-05-19 03:23:49.287] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: transfer {"id":"tricordrazine","amount":10,"to":"buffer"}
+[2021-05-19 03:23:50.632] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: create {"type":"pill","amount":10,"volume":"auto"}
+[2021-05-19 03:23:52.230] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: transfer {"id":"tricordrazine","amount":10,"to":"buffer"}
+[2021-05-19 03:23:53.029] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: transfer {"id":"tricordrazine","amount":10,"to":"buffer"}
+[2021-05-19 03:23:57.984] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: create {"type":"pill","amount":4,"volume":"auto"}
+[2021-05-19 03:23:59.902] macaco99 in tgui-window-1/close (suspending)
+[2021-05-19 03:23:59.902] macaco99 in tgui-window-1/close (suspending)
+[2021-05-19 03:24:40.667] macaco99 (as Ramon Lee at 62,33,3)
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - new ChemMaster fancy 1
+[2021-05-19 03:24:54.714] macaco99 in tgui-window-1/close (suspending)
+[2021-05-19 03:24:54.715] macaco99 in tgui-window-1/close (suspending)
+[2021-05-19 03:25:21.151] sondtheanime (as Unknown at 150,177,2)
+ - Using: /obj/item/radio/headset [0x2049d48]
+ - new Radio fancy 1
+[2021-05-19 03:25:23.909] sondtheanime in tgui-window-1/close (suspending)
+[2021-05-19 03:25:23.909] sondtheanime in tgui-window-1/close (suspending)
+[2021-05-19 03:27:54.203] hurimiko (as Amari Wolff at 202,27,2)
+ - Using: /obj/machinery/chem_dispenser/drinks [0x200562d]
+ - new ChemDispenser fancy 1
+[2021-05-19 03:27:54.203] hurimiko in tgui-window-1/initialize
+ - Using: /obj/machinery/chem_dispenser/drinks [0x200562d]
+[2021-05-19 03:27:57.412] hurimiko in tgui-window-1/close (suspending)
+[2021-05-19 03:27:57.412] hurimiko in tgui-window-1/close (suspending)
+[2021-05-19 03:28:34.495] baeiou in tgui-window-1/close (suspending)
+[2021-05-19 03:28:34.496] baeiou (as Roderick Malkav at 252,9,4)
+ - Using: /datum/component/personal_crafting [0x2103f524]
+ - new PersonalCrafting fancy 1
+[2021-05-19 03:29:33.090] macaco99 (as Ramon Lee at 66,29,3)
+ - Using: /obj/machinery/vending/medical [0x2006b1d]
+ - new Vending fancy 1
+[2021-05-19 03:29:42.735] macaco99 in tgui-window-1/close (suspending)
+[2021-05-19 03:29:42.735] macaco99 in tgui-window-1/close (suspending)
+[2021-05-19 03:29:46.753] macaco99 (as Ramon Lee at 70,31,3)
+ - Using: /obj/machinery/smartfridge/organ [0x2006bb8]
+ - new SmartVend fancy 1
+[2021-05-19 03:29:50.169] macaco99 in tgui-window-1/close (suspending)
+[2021-05-19 03:29:50.170] macaco99 in tgui-window-1/close (suspending)
+[2021-05-19 03:30:23.275] baeiou in browseroutput/initialize
+[2021-05-19 03:31:13.131] macaco99 in browseroutput/initialize
+[2021-05-19 03:33:37.404] macaco99 (as Ramon Lee at 68,36,2)
+ - Using: /obj/machinery/vending/snack [0x200349b]
+ - new Vending fancy 1
+[2021-05-19 03:33:37.405] macaco99 in tgui-window-1/initialize
+ - Using: /obj/machinery/vending/snack [0x200349b]
+[2021-05-19 03:33:39.140] macaco99 in tgui-window-1/close (suspending)
+[2021-05-19 03:33:39.140] macaco99 in tgui-window-1/close (suspending)
+[2021-05-19 03:35:25.489] brunoasbahr in browseroutput/initialize
+[2021-05-19 03:36:44.680] baeiou (as Roderick Malkav at 231,41,2)
+ - Using: /datum/component/personal_crafting [0x2103f524]
+ - new PersonalCrafting fancy 1
+[2021-05-19 03:36:44.680] baeiou in tgui-window-1/initialize
+ - Using: /datum/component/personal_crafting [0x2103f524]
+[2021-05-19 03:36:49.277] baeiou (as Roderick Malkav at 231,41,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f524]
+ - Action: set_category {"category":"Medical"}
+[2021-05-19 03:36:50.593] baeiou (as Roderick Malkav at 231,41,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f524]
+ - Action: make {"recipe":"[0x21001220]"}
+[2021-05-19 03:36:57.075] baeiou (as Roderick Malkav at 231,41,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f524]
+ - Action: make {"recipe":"[0x21001220]"}
+[2021-05-19 03:37:01.180] baeiou (as Roderick Malkav at 231,41,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f524]
+ - Action: make {"recipe":"[0x21001220]"}
+[2021-05-19 03:37:57.852] macaco99 (as Ramon Lee at 62,33,3)
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - new ChemMaster fancy 1
+[2021-05-19 03:38:28.427] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: transfer {"id":"bicaridine","amount":5,"to":"buffer"}
+[2021-05-19 03:38:29.635] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: pillStyle {"id":1}
+[2021-05-19 03:38:31.587] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: create {"type":"pill","amount":1,"volume":"auto"}
+[2021-05-19 03:38:33.027] macaco99 in tgui-window-1/close (suspending)
+[2021-05-19 03:38:33.027] macaco99 in tgui-window-1/close (suspending)
+[2021-05-19 03:38:35.342] macaco99 (as Ramon Lee at 62,33,3)
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - new ChemMaster fancy 1
+[2021-05-19 03:38:37.778] macaco99 in tgui-window-1/close (suspending)
+[2021-05-19 03:38:37.779] macaco99 in tgui-window-1/close (suspending)
+[2021-05-19 03:41:13.348] fidgetybacchus (as Yuri Daruski at 225,45,2)
+ - Using: /obj/machinery/smartfridge/bottlerack/seedbin [0x2005cc8]
+ - new SmartVend fancy 1
+[2021-05-19 03:41:13.349] fidgetybacchus in tgui-window-2/initialize
+ - Using: /obj/machinery/smartfridge/bottlerack/seedbin [0x2005cc8]
+[2021-05-19 03:41:15.713] fidgetybacchus in tgui-window-2/close (suspending)
+[2021-05-19 03:41:15.713] fidgetybacchus in tgui-window-2/close (suspending)
+[2021-05-19 03:43:23.984] sondtheanime (as Unknown at 77,35,2)
+ - Using: /obj/machinery/vending/nukacolavend [0x200369f]
+ - new Vending fancy 1
+[2021-05-19 03:43:26.233] sondtheanime in tgui-window-1/close (suspending)
+[2021-05-19 03:43:26.233] sondtheanime in tgui-window-1/close (suspending)
+[2021-05-19 03:43:58.929] sondtheanime (as Unknown at 68,36,2)
+ - Using: /obj/machinery/vending/snack [0x200349b]
+ - new Vending fancy 1
+[2021-05-19 03:44:01.226] sondtheanime in tgui-window-1/close (suspending)
+[2021-05-19 03:44:01.226] sondtheanime in tgui-window-1/close (suspending)
+[2021-05-19 03:46:57.813] albertovinhofino in browseroutput/initialize
+[2021-05-19 03:51:04.867] macaco99 (as Ramon Lee at 62,33,3)
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - new ChemMaster fancy 1
+[2021-05-19 03:51:06.959] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: create {"type":"pill","amount":1,"volume":"auto"}
+[2021-05-19 03:51:09.285] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: transfer {"id":"bicaridine","amount":10,"to":"buffer"}
+[2021-05-19 03:51:12.350] macaco99 (as Ramon Lee at 62,33,3) in tgui-window-1
+ - Using: /obj/machinery/chem_master [0x2006a26]
+ - Action: create {"type":"pill","amount":2,"volume":"auto"}
+[2021-05-19 03:51:14.245] macaco99 in tgui-window-1/close (suspending)
+[2021-05-19 03:51:14.245] macaco99 in tgui-window-1/close (suspending)
+[2021-05-19 03:51:33.252] macaco99 (as Ramon Lee at 68,36,2)
+ - Using: /obj/machinery/vending/snack [0x200349b]
+ - new Vending fancy 1
+[2021-05-19 03:51:34.963] macaco99 (as Ramon Lee at 68,36,2) in tgui-window-1
+ - Using: /obj/machinery/vending/snack [0x200349b]
+ - Action: vend {"ref":"[0x21009147]"}
+[2021-05-19 03:51:35.811] macaco99 in tgui-window-1/close (suspending)
+[2021-05-19 03:51:35.812] macaco99 in tgui-window-1/close (suspending)
+[2021-05-19 03:55:45.850] dantesousa in browseroutput/initialize
+[2021-05-19 03:55:47.583] sondtheanime (as Unknown at 146,205,2)
+ - Using: /obj/item/assembly/signaler/advanced [0x2006941]
+ - new Signaler fancy 1
+[2021-05-19 03:55:50.991] sondtheanime in tgui-window-1/close (suspending)
+[2021-05-19 03:55:50.992] sondtheanime in tgui-window-1/close (suspending)
+[2021-05-19 03:56:37.947] goldencatc (as Charlie Stroble at 101,232,2)
+ - Using: /obj/machinery/computer/shuttle/northbunkerelevator [0x2011efe]
+ - new ShuttleConsole fancy 1
+[2021-05-19 03:56:41.329] goldencatc (as Charlie Stroble at 101,232,2) in tgui-window-1
+ - Using: /obj/machinery/computer/shuttle/northbunkerelevator [0x2011efe]
+ - Action: move {"shuttle_id":"North_Level_1"}
+[2021-05-19 03:56:44.080] goldencatc (as Charlie Stroble at 44,234,4) in tgui-window-1
+ - Using: /obj/machinery/computer/shuttle/northbunkerelevator [0x2011efe]
+ - Action: move {"shuttle_id":"North_Ground"}
+[2021-05-19 03:56:47.483] goldencatc in tgui-window-1/close (suspending)
+[2021-05-19 03:57:33.603] sondtheanime (as Unknown at 142,206,2)
+ - Using: /obj/machinery/power/apc [0x200e027]
+ - new Apc fancy 1
+[2021-05-19 03:57:39.146] sondtheanime (as Unknown at 142,206,2) in tgui-window-1
+ - Using: /obj/machinery/power/apc [0x200e027]
+ - Action: cover {}
+[2021-05-19 03:57:42.657] sondtheanime in tgui-window-1/close (suspending)
+[2021-05-19 03:57:42.657] sondtheanime in tgui-window-1/close (suspending)
+[2021-05-19 03:58:04.174] dantesousa (as Dante Sousa at 251,66,2)
+ - Using: /datum/component/loadout_selector [0x21042de3]
+ - new LoadoutSelect fancy 1
+[2021-05-19 03:58:04.175] dantesousa in tgui-window-1/initialize
+ - Using: /datum/component/loadout_selector [0x21042de3]
+[2021-05-19 03:58:07.979] dantesousa (as Dante Sousa at 251,66,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21042de3]
+ - Action: loadout_select {"name":"Salvager"}
+[2021-05-19 03:58:08.754] dantesousa (as Dante Sousa at 251,66,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21042de3]
+ - Action: loadout_select {"name":"Wasteland Doctor"}
+[2021-05-19 03:58:09.557] dantesousa (as Dante Sousa at 251,66,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21042de3]
+ - Action: loadout_select {"name":"Wasteland Doctor"}
+[2021-05-19 03:58:17.000] dantesousa (as Dante Sousa at 251,66,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21042de3]
+ - Action: loadout_select {"name":"Roving Trader"}
+[2021-05-19 03:58:20.190] albertovinhofino (as Asher Atkinson at 238,194,3)
+ - Using: /datum/component/personal_crafting [0x21043488]
+ - new PersonalCrafting fancy 1
+[2021-05-19 03:58:20.190] albertovinhofino in tgui-window-1/initialize
+ - Using: /datum/component/personal_crafting [0x21043488]
+[2021-05-19 03:58:22.346] dantesousa (as Dante Sousa at 251,66,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21042de3]
+ - Action: loadout_select {"name":"Scavenger"}
+[2021-05-19 03:58:24.616] albertovinhofino (as Asher Atkinson at 238,194,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21043488]
+ - Action: set_category {"category":"Crafting","subcategory":"Forging & Smithing"}
+[2021-05-19 03:58:26.283] albertovinhofino (as Asher Atkinson at 238,194,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21043488]
+ - Action: set_category {"category":"Crafting","subcategory":"Scavenging & Tinkering"}
+[2021-05-19 03:58:27.347] albertovinhofino (as Asher Atkinson at 238,194,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21043488]
+ - Action: set_category {"category":"Crafting","subcategory":"Tools & Workbench"}
+[2021-05-19 03:58:27.937] sondtheanime (as Unknown at 142,206,2)
+ - Using: /obj/machinery/power/apc [0x200e027]
+ - new Apc fancy 1
+[2021-05-19 03:58:27.939] albertovinhofino (as Asher Atkinson at 238,194,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21043488]
+ - Action: set_category {"category":"Misc","subcategory":"Farming"}
+[2021-05-19 03:58:28.365] albertovinhofino (as Asher Atkinson at 238,194,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21043488]
+ - Action: set_category {"category":"Misc","subcategory":"Miscellaneous"}
+[2021-05-19 03:58:28.796] albertovinhofino (as Asher Atkinson at 238,194,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21043488]
+ - Action: set_category {"category":"Misc","subcategory":"Burial & Execution"}
+[2021-05-19 03:58:30.139] sondtheanime (as Unknown at 142,206,2) in tgui-window-1
+ - Using: /obj/machinery/power/apc [0x200e027]
+ - Action: breaker {}
+[2021-05-19 03:58:32.473] sondtheanime (as Unknown at 142,206,2) in tgui-window-1
+ - Using: /obj/machinery/power/apc [0x200e027]
+ - Action: breaker {}
+[2021-05-19 03:58:34.814] sondtheanime (as Unknown at 142,206,2) in tgui-window-1
+ - Using: /obj/machinery/power/apc [0x200e027]
+ - Action: cover {}
+[2021-05-19 03:58:34.815] sondtheanime (as Unknown at 142,206,2) in tgui-window-1
+ - Using: /obj/machinery/power/apc [0x200e027]
+ - Action: breaker {}
+[2021-05-19 03:58:37.144] sondtheanime (as Unknown at 142,206,2) in tgui-window-1
+ - Using: /obj/machinery/power/apc [0x200e027]
+ - Action: cover {}
+[2021-05-19 03:58:37.146] sondtheanime (as Unknown at 142,206,2) in tgui-window-1
+ - Using: /obj/machinery/power/apc [0x200e027]
+ - Action: cover {}
+[2021-05-19 03:58:37.147] sondtheanime (as Unknown at 142,206,2) in tgui-window-1
+ - Using: /obj/machinery/power/apc [0x200e027]
+ - Action: cover {}
+[2021-05-19 03:58:37.148] sondtheanime (as Unknown at 142,206,2) in tgui-window-1
+ - Using: /obj/machinery/power/apc [0x200e027]
+ - Action: breaker {}
+[2021-05-19 03:58:39.510] dantesousa (as Dante Sousa at 251,66,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21042de3]
+ - Action: loadout_select {"name":"Legion Citizen"}
+[2021-05-19 03:58:40.210] dantesousa (as Dante Sousa at 251,66,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21042de3]
+ - Action: loadout_select {"name":"Legion Citizen"}
+[2021-05-19 03:58:40.212] dantesousa (as Dante Sousa at 251,66,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21042de3]
+ - Action: loadout_select {"name":"Legion Citizen"}
+[2021-05-19 03:58:40.213] dantesousa (as Dante Sousa at 251,66,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21042de3]
+ - Action: loadout_select {"name":"Legion Citizen"}
+[2021-05-19 03:58:40.216] albertovinhofino (as Asher Atkinson at 238,194,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21043488]
+ - Action: set_category {"category":"Weaponry","subcategory":"Melee Weapons"}
+[2021-05-19 03:58:40.219] albertovinhofino (as Asher Atkinson at 238,194,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21043488]
+ - Action: set_category {"category":"Clothing","subcategory":"Armor"}
+[2021-05-19 03:58:40.222] albertovinhofino (as Asher Atkinson at 238,194,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21043488]
+ - Action: set_category {"category":"Clothing","subcategory":"Wasteland Clothing"}
+[2021-05-19 03:58:40.224] albertovinhofino (as Asher Atkinson at 238,194,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21043488]
+ - Action: set_category {"category":"Clothing","subcategory":"General Clothing"}
+[2021-05-19 03:58:40.227] albertovinhofino (as Asher Atkinson at 238,194,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21043488]
+ - Action: set_category {"category":"Clothing","subcategory":"Armor"}
+[2021-05-19 03:58:40.884] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-19 03:58:40.885] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-19 03:58:43.352] sondtheanime in tgui-window-1/close (suspending)
+[2021-05-19 03:58:43.352] sondtheanime in tgui-window-1/close (suspending)
+[2021-05-19 03:58:46.429] dantesousa (as Dante Sousa at 251,65,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21042de3]
+ - Action: loadout_select {"name":"NCR Citizen"}
+[2021-05-19 03:58:52.801] dantesousa (as Dante Sousa at 251,65,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21042de3]
+ - Action: loadout_select {"name":"Vaultie"}
+[2021-05-19 03:58:57.701] dantesousa (as Dante Sousa at 251,65,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21042de3]
+ - Action: loadout_select {"name":"Salvager"}
+[2021-05-19 03:59:02.996] dantesousa (as Dante Sousa at 251,65,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21042de3]
+ - Action: loadout_select {"name":"Wasteland Doctor"}
+[2021-05-19 03:59:16.102] dantesousa (as Dante Sousa at 251,65,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21042de3]
+ - Action: loadout_select {"name":"Roving Trader"}
+[2021-05-19 03:59:22.163] dantesousa (as Dante Sousa at 251,65,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21042de3]
+ - Action: loadout_select {"name":"Scavenger"}
+[2021-05-19 03:59:25.598] dantesousa (as Dante Sousa at 251,65,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21042de3]
+ - Action: loadout_select {"name":"Legion Citizen"}
+[2021-05-19 03:59:26.128] albertovinhofino (as Asher Atkinson at 238,194,3)
+ - Using: /datum/component/personal_crafting [0x21043488]
+ - new PersonalCrafting fancy 1
+[2021-05-19 03:59:26.398] dantesousa (as Dante Sousa at 251,65,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21042de3]
+ - Action: loadout_select {"name":"NCR Citizen"}
+[2021-05-19 03:59:28.550] dantesousa (as Dante Sousa at 251,65,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21042de3]
+ - Action: loadout_select {"name":"Vaultie"}
+[2021-05-19 03:59:29.065] dantesousa (as Dante Sousa at 251,65,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21042de3]
+ - Action: loadout_select {"name":"Salvager"}
+[2021-05-19 03:59:29.148] albertovinhofino (as Asher Atkinson at 238,194,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21043488]
+ - Action: toggle_compact {}
+[2021-05-19 03:59:30.517] dantesousa (as Dante Sousa at 251,65,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21042de3]
+ - Action: loadout_select {"name":"Vaultie"}
+[2021-05-19 03:59:33.971] albertovinhofino (as Asher Atkinson at 238,194,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21043488]
+ - Action: toggle_compact {}
+[2021-05-19 03:59:35.852] dantesousa (as Dante Sousa at 251,65,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21042de3]
+ - Action: loadout_confirm {}
+[2021-05-19 03:59:35.932] dantesousa in tgui-window-1/close (suspending)
+[2021-05-19 03:59:35.962] albertovinhofino (as Asher Atkinson at 238,194,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21043488]
+ - Action: set_category {"category":"Crafting","subcategory":"Electronics & Robots"}
+[2021-05-19 03:59:36.420] albertovinhofino (as Asher Atkinson at 238,194,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21043488]
+ - Action: set_category {"category":"Crafting","subcategory":"Forging & Smithing"}
+[2021-05-19 03:59:42.024] albertovinhofino (as Asher Atkinson at 238,194,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21043488]
+ - Action: set_category {"category":"Weaponry","subcategory":"Explosives & Cells"}
+[2021-05-19 03:59:43.008] albertovinhofino (as Asher Atkinson at 238,194,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21043488]
+ - Action: set_category {"category":"Foods","subcategory":"Food Spaghettis"}
+[2021-05-19 03:59:43.709] albertovinhofino (as Asher Atkinson at 238,194,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21043488]
+ - Action: set_category {"category":"Tribal"}
+[2021-05-19 03:59:44.783] albertovinhofino (as Asher Atkinson at 238,194,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21043488]
+ - Action: set_category {"category":"Medical"}
+[2021-05-19 03:59:47.428] albertovinhofino (as Asher Atkinson at 238,194,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21043488]
+ - Action: set_category {"category":"Weaponry","subcategory":"Explosives & Cells"}
+[2021-05-19 03:59:47.974] albertovinhofino (as Asher Atkinson at 238,194,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21043488]
+ - Action: set_category {"category":"Clothing","subcategory":"Misc Clothing"}
+[2021-05-19 03:59:48.318] albertovinhofino (as Asher Atkinson at 238,194,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21043488]
+ - Action: set_category {"category":"Clothing","subcategory":"Wasteland Clothing"}
+[2021-05-19 03:59:48.706] albertovinhofino (as Asher Atkinson at 238,194,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21043488]
+ - Action: set_category {"category":"Clothing","subcategory":"Armor"}
+[2021-05-19 03:59:50.023] albertovinhofino (as Asher Atkinson at 238,194,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21043488]
+ - Action: set_category {"category":"Clothing","subcategory":"Shoes"}
+[2021-05-19 03:59:51.641] albertovinhofino (as Asher Atkinson at 238,194,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21043488]
+ - Action: set_category {"category":"Crafting","subcategory":"Tools & Workbench"}
+[2021-05-19 03:59:51.970] albertovinhofino (as Asher Atkinson at 238,194,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21043488]
+ - Action: set_category {"category":"Crafting","subcategory":"Scavenging & Tinkering"}
+[2021-05-19 03:59:52.528] albertovinhofino (as Asher Atkinson at 238,194,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21043488]
+ - Action: set_category {"category":"Crafting","subcategory":"Scavenging & Tinkering"}
+[2021-05-19 03:59:52.810] albertovinhofino (as Asher Atkinson at 238,194,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21043488]
+ - Action: set_category {"category":"Crafting","subcategory":"Forging & Smithing"}
+[2021-05-19 03:59:55.852] albertovinhofino (as Asher Atkinson at 238,194,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21043488]
+ - Action: set_category {"category":"Crafting","subcategory":"Electronics & Robots"}
+[2021-05-19 03:59:58.274] albertovinhofino (as Asher Atkinson at 238,194,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21043488]
+ - Action: set_category {"category":"Crafting","subcategory":"Scavenging & Tinkering"}
+[2021-05-19 04:00:00.903] albertovinhofino (as Asher Atkinson at 238,194,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21043488]
+ - Action: set_category {"category":"Crafting","subcategory":"Tools & Workbench"}
+[2021-05-19 04:00:05.324] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-19 04:00:05.324] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-19 04:01:39.606] albertovinhofino (as Asher Atkinson at 225,195,3)
+ - Using: /obj/machinery/power/port_gen/pacman/super [0x2007dca]
+ - new PortableGenerator fancy 1
+[2021-05-19 04:01:42.359] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-19 04:01:42.360] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-19 04:01:43.334] albertovinhofino (as Asher Atkinson at 225,195,3)
+ - Using: /obj/machinery/vending/robotics [0x2007dc7]
+ - new Vending fancy 1
+[2021-05-19 04:01:52.556] albertovinhofino (as Asher Atkinson at 225,195,3) in tgui-window-1
+ - Using: /obj/machinery/vending/robotics [0x2007dc7]
+ - Action: vend {"ref":"[0x210103ff]"}
+[2021-05-19 04:01:53.706] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-19 04:01:53.706] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-19 04:02:05.965] albertovinhofino (as Asher Atkinson at 226,195,3)
+ - Using: /obj/machinery/vending/tool [0x2007e38]
+ - new Vending fancy 1
+[2021-05-19 04:02:11.674] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-19 04:02:11.674] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-19 04:03:50.526] baeiou in tgui-window-1/close (suspending)
+[2021-05-19 04:03:50.527] baeiou (as Roderick Malkav at 221,30,2)
+ - Using: /datum/component/personal_crafting [0x2103f524]
+ - new PersonalCrafting fancy 1
+[2021-05-19 04:03:57.034] albertovinhofino (as Asher Atkinson at 230,206,3)
+ - Using: /datum/component/gps/item [0x210107d8]
+ - new Gps fancy 1
+[2021-05-19 04:04:01.523] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-19 04:04:01.523] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-19 04:04:43.071] sondtheanime (as Unknown at 149,192,2)
+ - Using: /obj/machinery/vending/clothing [0x20046ac]
+ - new Vending fancy 1
+[2021-05-19 04:04:56.770] sondtheanime in tgui-window-1/close (suspending)
+[2021-05-19 04:04:56.770] sondtheanime in tgui-window-1/close (suspending)
+[2021-05-19 04:05:35.197] dantesousa (as John Snow at 5,184,2)
+ - Using: /datum/component/loadout_selector [0x2104335a]
+ - new LoadoutSelect fancy 1
+[2021-05-19 04:05:37.537] dantesousa (as John Snow at 5,184,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2104335a]
+ - Action: loadout_select {"name":"Wasteland Doctor"}
+[2021-05-19 04:05:56.833] dantesousa (as John Snow at 5,184,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2104335a]
+ - Action: loadout_select {"name":"Roving Trader"}
+[2021-05-19 04:05:58.060] dantesousa (as John Snow at 5,184,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2104335a]
+ - Action: loadout_select {"name":"Roving Trader"}
+[2021-05-19 04:06:02.949] dantesousa (as John Snow at 5,184,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2104335a]
+ - Action: loadout_select {"name":"Scavenger"}
+[2021-05-19 04:06:05.307] dantesousa (as John Snow at 5,184,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2104335a]
+ - Action: loadout_select {"name":"Roving Trader"}
+[2021-05-19 04:06:06.799] dantesousa (as John Snow at 5,184,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2104335a]
+ - Action: loadout_confirm {}
+[2021-05-19 04:06:06.838] dantesousa in tgui-window-1/close (suspending)
+[2021-05-19 04:06:37.720] sondtheanime (as John at 240,72,2)
+ - Using: /datum/orbit_menu [0x2104328d]
+ - new Orbit fancy 1
+[2021-05-19 04:06:40.049] sondtheanime (as John at 240,72,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2104328d]
+ - Action: orbit {"ref":"[mob_877]"}
+[2021-05-19 04:06:41.976] sondtheanime (as John at 232,26,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2104328d]
+ - Action: orbit {"ref":"[mob_869]"}
+[2021-05-19 04:06:42.814] sondtheanime (as John at 206,26,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2104328d]
+ - Action: orbit {"ref":"[mob_986]"}
+[2021-05-19 04:06:44.443] sondtheanime (as John at 243,250,3) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2104328d]
+ - Action: orbit {"ref":"[mob_948]"}
+[2021-05-19 04:06:45.733] sondtheanime (as John at 220,31,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2104328d]
+ - Action: orbit {"ref":"[mob_986]"}
+[2021-05-19 04:06:51.341] sondtheanime in tgui-window-1/close (suspending)
+[2021-05-19 04:06:51.342] sondtheanime in tgui-window-1/close (suspending)
+[2021-05-19 04:07:17.387] sondtheanime (as Courier at 238,236,3)
+ - Using: /datum/component/loadout_selector [0x2103c436]
+ - new LoadoutSelect fancy 1
+[2021-05-19 04:07:18.358] sondtheanime (as Courier at 238,236,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103c436]
+ - Action: loadout_select {"name":"Close Support"}
+[2021-05-19 04:07:19.531] sondtheanime (as Courier at 238,236,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103c436]
+ - Action: loadout_select {"name":"Standard"}
+[2021-05-19 04:07:20.197] sondtheanime (as Courier at 238,236,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103c436]
+ - Action: loadout_select {"name":"Standard"}
+[2021-05-19 04:07:20.199] sondtheanime (as Courier at 238,236,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103c436]
+ - Action: loadout_select {"name":"Standard"}
+[2021-05-19 04:07:20.200] sondtheanime (as Courier at 238,236,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103c436]
+ - Action: loadout_select {"name":"Close Support"}
+[2021-05-19 04:07:20.503] sondtheanime (as Courier at 238,236,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103c436]
+ - Action: loadout_select {"name":"Close Support"}
+[2021-05-19 04:07:21.576] sondtheanime (as Courier at 238,236,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103c436]
+ - Action: loadout_select {"name":"Standard"}
+[2021-05-19 04:07:22.765] sondtheanime (as Courier at 238,236,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103c436]
+ - Action: loadout_confirm {}
+[2021-05-19 04:07:22.809] sondtheanime in tgui-window-1/close (suspending)
+[2021-05-19 04:11:24.559] dantesousa (as John Snow at 207,119,2)
+ - Using: /obj/machinery/smartfridge/bottlerack/lootshelf/brews [0x20057c2]
+ - new SmartVend fancy 1
+[2021-05-19 04:11:26.748] dantesousa in tgui-window-1/close (suspending)
+[2021-05-19 04:11:26.748] dantesousa in tgui-window-1/close (suspending)
+[2021-05-19 04:15:36.105] albertovinhofino (as Asher Atkinson at 237,194,3)
+ - Using: /datum/component/personal_crafting [0x21043488]
+ - new PersonalCrafting fancy 1
+[2021-05-19 04:15:39.015] albertovinhofino (as Asher Atkinson at 237,194,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21043488]
+ - Action: set_category {"category":"Weaponry","subcategory":"Ranged Weapons"}
+[2021-05-19 04:15:39.316] albertovinhofino (as Asher Atkinson at 237,194,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21043488]
+ - Action: set_category {"category":"Weaponry","subcategory":"Ranged Weapons"}
+[2021-05-19 04:16:06.156] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-19 04:16:06.156] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-19 04:17:48.243] baeiou (as Roderick Malkav at 225,45,2)
+ - Using: /obj/machinery/smartfridge/bottlerack/seedbin [0x2005cc8]
+ - new SmartVend fancy 1
+[2021-05-19 04:17:52.727] baeiou (as Roderick Malkav at 226,45,2) in tgui-window-1
+ - Using: /obj/machinery/smartfridge/bottlerack/seedbin [0x2005cc8]
+ - Error: Zombie window detected, closing.
+[2021-05-19 04:17:52.727] baeiou in tgui-window-1/close
+[2021-05-19 04:17:55.001] baeiou (as Roderick Malkav at 226,45,2)
+ - Using: /obj/machinery/smartfridge/bottlerack/seedbin [0x2005cc8]
+ - new SmartVend fancy 1
+[2021-05-19 04:17:55.002] baeiou in tgui-window-1/initialize
+ - Using: /obj/machinery/smartfridge/bottlerack/seedbin [0x2005cc8]
+[2021-05-19 04:17:58.031] baeiou (as Roderick Malkav at 226,45,2) in tgui-window-1
+ - Using: /obj/machinery/smartfridge/bottlerack/seedbin [0x2005cc8]
+ - Action: Release {"name":"pack of wheat seeds","amount":1}
+[2021-05-19 04:17:59.610] baeiou (as Roderick Malkav at 226,45,2) in tgui-window-1
+ - Using: /obj/machinery/smartfridge/bottlerack/seedbin [0x2005cc8]
+ - Action: Release {"name":"pack of wheat seeds","amount":1}
+[2021-05-19 04:18:05.408] baeiou (as Roderick Malkav at 226,45,2) in tgui-window-1
+ - Using: /obj/machinery/smartfridge/bottlerack/seedbin [0x2005cc8]
+ - Action: Release {"name":"pack of wheat seeds","amount":1}
+[2021-05-19 04:18:05.686] baeiou (as Roderick Malkav at 226,45,2) in tgui-window-1
+ - Using: /obj/machinery/smartfridge/bottlerack/seedbin [0x2005cc8]
+ - Action: Release {"name":"pack of wheat seeds","amount":1}
+[2021-05-19 04:18:09.978] baeiou in tgui-window-1/close (suspending)
+[2021-05-19 04:26:03.722] albertovinhofino (as Asher Atkinson at 221,189,3)
+ - Using: /obj/structure/ore_box [0x2007bc9]
+ - new OreBox fancy 1
+[2021-05-19 04:26:05.595] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-19 04:26:05.596] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-19 04:28:24.516] goldencatc in browseroutput/initialize
+[2021-05-19 04:29:37.009] albertovinhofino (as Asher Atkinson at 183,202,3)
+ - Using: /obj/structure/ore_box [0x2007bcd]
+ - new OreBox fancy 1
+[2021-05-19 04:29:40.273] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-19 04:29:40.273] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-19 04:29:41.516] albertovinhofino (as Asher Atkinson at 182,201,3)
+ - Using: /obj/structure/ore_box [0x2007bcd]
+ - new OreBox fancy 1
+[2021-05-19 04:29:42.924] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-19 04:29:42.924] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-19 04:30:31.998]  in tgui-window-1/close (suspending)
+[2021-05-19 04:31:48.852] dantesousa (as John Snow at 223,37,2)
+ - Using: /obj/machinery/vending [0x204a290]
+ - new Vending fancy 1
+[2021-05-19 04:31:53.302] baeiou (as Roderick Malkav at 222,37,2)
+ - Using: /obj/machinery/vending [0x204a290]
+ - new Vending fancy 1
+[2021-05-19 04:31:55.653] baeiou in tgui-window-1/close (suspending)
+[2021-05-19 04:31:55.653] baeiou in tgui-window-1/close (suspending)
+[2021-05-19 04:32:01.167] dantesousa in tgui-window-1/close (suspending)
+[2021-05-19 04:32:01.167] dantesousa in tgui-window-1/close (suspending)
+[2021-05-19 04:32:02.435] dustinbriner in browseroutput/initialize
+[2021-05-19 04:32:44.348] dantesousa (as John Snow at 223,37,2)
+ - Using: /obj/machinery/vending [0x204a290]
+ - new Vending fancy 1
+[2021-05-19 04:32:46.195] dantesousa in tgui-window-1/close (suspending)
+[2021-05-19 04:32:46.196] dantesousa in tgui-window-1/close (suspending)
+[2021-05-19 04:32:51.173] albertovinhofino (as Asher Atkinson at 220,199,3)
+ - Using: /obj/structure/ore_box [0x2007bcd]
+ - new OreBox fancy 1
+[2021-05-19 04:32:56.083] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-19 04:32:56.083] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-19 04:33:06.282] dantesousa (as John Snow at 223,37,2)
+ - Using: /obj/machinery/vending [0x204a290]
+ - new Vending fancy 1
+[2021-05-19 04:33:11.609] dantesousa in tgui-window-1/close (suspending)
+[2021-05-19 04:33:11.609] dantesousa in tgui-window-1/close (suspending)
+[2021-05-19 04:33:19.115] albertovinhofino (as Asher Atkinson at 220,200,3)
+ - Using: /obj/structure/ore_box [0x2007bc9]
+ - new OreBox fancy 1
+[2021-05-19 04:33:20.324] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-19 04:33:20.324] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-19 04:33:21.097] albertovinhofino (as Asher Atkinson at 220,199,3)
+ - Using: /obj/machinery/mineral/ore_redemption [0x2007b61]
+ - new OreRedemptionMachine fancy 1
+[2021-05-19 04:33:23.466] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-19 04:33:23.466] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-19 04:34:41.663] albertovinhofino (as Asher Atkinson at 226,195,3)
+ - Using: /obj/machinery/vending/tool [0x2007e38]
+ - new Vending fancy 1
+[2021-05-19 04:34:45.456] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-19 04:34:45.457] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-19 04:34:59.486] albertovinhofino (as Asher Atkinson at 238,194,3)
+ - Using: /datum/component/personal_crafting [0x21043488]
+ - new PersonalCrafting fancy 1
+[2021-05-19 04:35:02.953] albertovinhofino (as Asher Atkinson at 238,194,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21043488]
+ - Action: set_category {"category":"Misc","subcategory":"Burial & Execution"}
+[2021-05-19 04:35:03.754] albertovinhofino (as Asher Atkinson at 238,194,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21043488]
+ - Action: set_category {"category":"Misc","subcategory":"Farming"}
+[2021-05-19 04:35:04.213] albertovinhofino (as Asher Atkinson at 238,194,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21043488]
+ - Action: set_category {"category":"Crafting","subcategory":"Tools & Workbench"}
+[2021-05-19 04:35:05.318] albertovinhofino (as Asher Atkinson at 238,194,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21043488]
+ - Action: set_category {"category":"Clothing","subcategory":"Armor"}
+[2021-05-19 04:35:10.776] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-19 04:35:10.776] albertovinhofino in tgui-window-1/close (suspending)
+[2021-05-19 04:44:25.614] baeiou in browseroutput/initialize

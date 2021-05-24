@@ -1,0 +1,26 @@
+[2021-05-16 00:36:54.833] SQL: Undeleted query: "SELECT ckey FROM mentor" LA: NextRow LAT: 0
+[2021-05-16 01:01:48.145] SQL: Undeleted query: "SELECT 1 FROM player WHERE ckey = :ckey" LA: NextRow LAT: 13302
+[2021-05-16 01:21:20.963] SQL: MySqlError { ERROR 1136 (21S01): Column count doesn't match value count at row 1 } | Query used: 
+ - 			INSERT INTO `admin_log` (`id` ,`datetime`, `round_id` ,`adminckey` ,`adminip` ,`log`, `target`)
+ - 			VALUES (NULL , NOW( ), :round_id, :adminckey, :addr, CONCAT('Added new mentor ', :mentorkey));
+[2021-05-16 01:27:19.921] SQL: Undeleted query: "INSERT INTO `mentor` (`id`, `ckey`) VALUES (null, :ckey)" LA: Execute LAT: 27409.5
+[2021-05-16 01:49:25.265] SQL: MySqlError { ERROR 1366 (22007): Incorrect string value: '\xE5\x8D\x90 \xE5\x8D...' for column `vault13`.`death`.`last_words` at row 1 } | Query used: 
+ - 		INSERT INTO death (pod, x_coord, y_coord, z_coord, mapname, server_ip, server_port, round_id, tod, job, special, name, byondkey, laname, lakey, bruteloss, fireloss, brainloss, oxyloss, toxloss, cloneloss, staminaloss, last_words, suicide)
+ - 		VALUES (:pod, :x_coord, :y_coord, :z_coord, :map, INET_ATON(:internet_address), :port, :round_id, :time, :job, :special, :name, :key, :laname, :lakey, :brute, :fire, :brain, :oxy, :tox, :clone, :stamina, :last_words, :suicide)
+ - 	
+[2021-05-16 02:08:29.908] SQL: Undeleted query: "SELECT job, minutes FROM role_time WHERE ckey = :ckey" LA: Execute LAT: 50488
+[2021-05-16 03:43:21.678] SQL: MySqlError { ERROR 1264 (22003): Out of range value for column 'flags' at row 7 } | Query used: INSERT INTO admin_ranks
+ - (rank, flags, exclude_flags, can_edit_flags)
+ - VALUES
+ -   (:p0, :p1, :p2, :p3),
+ -   (:p4, :p5, :p6, :p7),
+ -   (:p8, :p9, :p10, :p11),
+ -   (:p12, :p13, :p14, :p15),
+ -   (:p16, :p17, :p18, :p19),
+ -   (:p20, :p21, :p22, :p23),
+ -   (:p24, :p25, :p26, :p27),
+ -   (:p28, :p29, :p30, :p31),
+ -   (:p32, :p33, :p34, :p35),
+ -   (:p36, :p37, :p38, :p39)
+ - ON DUPLICATE KEY UPDATE rank = VALUES(rank), flags = VALUES(flags), exclude_flags = VALUES(exclude_flags), can_edit_flags = VALUES(can_edit_flags)
+[2021-05-16 03:43:21.712] SQL: MySqlError { ERROR 1264 (22003): Out of range value for column 'flags' at row 1 } | Query used: UPDATE admin_ranks SET flags = 1.67772e+007, can_edit_flags = 1.67772e+007 WHERE rank = :rank

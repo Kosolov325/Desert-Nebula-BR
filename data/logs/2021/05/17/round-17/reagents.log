@@ -1,0 +1,877 @@
+[2021-05-17 22:31:02.641] Starting up round ID 17.
+ - -------------------------
+[2021-05-17 22:38:14.880] MOB ADD: on_mob_add(): SpookyPineapple/(Tonhao Vermelho) at Tunnel (150, 126, 3) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 22:38:32.982] MOB ADD: on_mob_add(): SpookyPineapple/(Tonhao Vermelho) at Tunnel (148, 124, 3) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-17 22:38:38.895] MOB DELETE: on_mob_delete: SpookyPineapple/(Tonhao Vermelho) at Tunnel (155, 124, 3) - /datum/reagent/medicine/stimpak
+[2021-05-17 22:38:38.897] MOB DELETE: on_mob_delete: SpookyPineapple/(Tonhao Vermelho) at Tunnel (155, 124, 3) - /datum/reagent/medicine/healing_powder
+[2021-05-17 22:39:01.386] MOB ADD: on_mob_add(): Shirozinha/(Tio Osso) at Enclave (129, 19, 3) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 22:39:22.262] MOB DELETE: on_mob_delete: Shirozinha/(Tio Osso) at Enclave (140, 24, 3) - /datum/reagent/medicine/stimpak
+[2021-05-17 22:41:27.246] MOB ADD: on_mob_add(): Luciam/(Victoria Valentine) at Tunnel (184, 22, 3) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 22:41:56.700] MOB ADD: on_mob_add(): SpookyPineapple/(Tonhao Vermelho) at Wasteland (224, 133, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 22:42:04.059] MOB DELETE: on_mob_delete: Luciam/(Victoria Valentine) at Tunnel (184, 104, 3) - /datum/reagent/medicine/stimpak
+[2021-05-17 22:42:08.155] MOB DELETE: on_mob_delete: SpookyPineapple/(Tonhao Vermelho) at Wasteland (235, 134, 2) - /datum/reagent/medicine/stimpak
+[2021-05-17 22:42:29.340] MOB ADD: on_mob_add(): John_egbert3/(Borgos Comiamaedoluiz) at Wasteland (56, 85, 2) - 5 of /datum/reagent/toxin/cazador_venom with 1 purity
+[2021-05-17 22:42:45.575] MOB DELETE: on_mob_delete: John_egbert3/(Borgos Comiamaedoluiz) at Wasteland (75, 114, 2) - /datum/reagent/toxin/cazador_venom
+[2021-05-17 22:42:52.919] MOB ADD: on_mob_add(): John_egbert3/(Borgos Comiamaedoluiz) at Wasteland (77, 109, 2) - 5 of /datum/reagent/toxin/cazador_venom with 1 purity
+[2021-05-17 22:42:53.811] MOB ADD: on_mob_add(): OvelhaCosmica/(Adam Alves) at Wasteland (65, 36, 2) - 0.2 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-17 22:42:53.812] MOB ADD: on_mob_add(): OvelhaCosmica/(Adam Alves) at Wasteland (65, 36, 2) - 0.6 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-17 22:42:53.812] MOB ADD: on_mob_add(): OvelhaCosmica/(Adam Alves) at Wasteland (65, 36, 2) - 0.2 of /datum/reagent/consumable/sodiumchloride with 1 purity
+[2021-05-17 22:42:54.626] MOB DELETE: on_mob_delete: OvelhaCosmica/(Adam Alves) at Wasteland (65, 36, 2) - /datum/reagent/consumable/nutriment
+[2021-05-17 22:42:54.626] MOB DELETE: on_mob_delete: OvelhaCosmica/(Adam Alves) at Wasteland (65, 36, 2) - /datum/reagent/consumable/sugar
+[2021-05-17 22:42:54.627] MOB DELETE: on_mob_delete: OvelhaCosmica/(Adam Alves) at Wasteland (65, 36, 2) - /datum/reagent/consumable/sodiumchloride
+[2021-05-17 22:42:54.718] MOB ADD: on_mob_add(): OvelhaCosmica/(Adam Alves) at Wasteland (65, 36, 2) - 0.2 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-17 22:42:54.718] MOB ADD: on_mob_add(): OvelhaCosmica/(Adam Alves) at Wasteland (65, 36, 2) - 0.6 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-17 22:42:54.718] MOB ADD: on_mob_add(): OvelhaCosmica/(Adam Alves) at Wasteland (65, 36, 2) - 0.2 of /datum/reagent/consumable/sodiumchloride with 1 purity
+[2021-05-17 22:42:55.637] MOB ADD: on_merge(): OvelhaCosmica/(Adam Alves) at Wasteland (65, 36, 2) - 1.2 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-17 22:42:55.637] MOB ADD: on_merge(): OvelhaCosmica/(Adam Alves) at Wasteland (65, 36, 2) - 0.4 of /datum/reagent/consumable/sodiumchloride with 1 purity
+[2021-05-17 22:42:56.605] MOB ADD: on_merge(): OvelhaCosmica/(Adam Alves) at Wasteland (65, 36, 2) - 1.8 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-17 22:42:56.605] MOB ADD: on_merge(): OvelhaCosmica/(Adam Alves) at Wasteland (65, 36, 2) - 0.6 of /datum/reagent/consumable/sodiumchloride with 1 purity
+[2021-05-17 22:42:57.563] MOB ADD: on_merge(): OvelhaCosmica/(Adam Alves) at Wasteland (65, 36, 2) - 1.6 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-17 22:42:57.563] MOB ADD: on_merge(): OvelhaCosmica/(Adam Alves) at Wasteland (65, 36, 2) - 0.4 of /datum/reagent/consumable/sodiumchloride with 1 purity
+[2021-05-17 22:42:58.452] MOB ADD: on_merge(): OvelhaCosmica/(Adam Alves) at Wasteland (65, 36, 2) - 2.2 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-17 22:42:58.452] MOB ADD: on_merge(): OvelhaCosmica/(Adam Alves) at Wasteland (65, 36, 2) - 0.6 of /datum/reagent/consumable/sodiumchloride with 1 purity
+[2021-05-17 22:42:58.720] MOB ADD: on_mob_add(): John_egbert3/(Borgos Comiamaedoluiz) at Wasteland (80, 81, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 22:42:59.402] MOB ADD: on_merge(): OvelhaCosmica/(Adam Alves) at Wasteland (65, 36, 2) - 2 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-17 22:42:59.403] MOB ADD: on_merge(): OvelhaCosmica/(Adam Alves) at Wasteland (65, 36, 2) - 0.4 of /datum/reagent/consumable/sodiumchloride with 1 purity
+[2021-05-17 22:43:00.404] MOB ADD: on_merge(): OvelhaCosmica/(Adam Alves) at Wasteland (65, 36, 2) - 2.6 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-17 22:43:00.404] MOB ADD: on_merge(): OvelhaCosmica/(Adam Alves) at Wasteland (65, 36, 2) - 0.6 of /datum/reagent/consumable/sodiumchloride with 1 purity
+[2021-05-17 22:43:02.883] MOB DELETE: on_mob_delete: OvelhaCosmica/(Adam Alves) at Wasteland (59, 36, 2) - /datum/reagent/consumable/nutriment
+[2021-05-17 22:43:02.883] MOB DELETE: on_mob_delete: OvelhaCosmica/(Adam Alves) at Wasteland (59, 36, 2) - /datum/reagent/consumable/sodiumchloride
+[2021-05-17 22:43:06.788] MOB DELETE: on_mob_delete: OvelhaCosmica/(Adam Alves) at Wasteland (47, 42, 2) - /datum/reagent/consumable/sugar
+[2021-05-17 22:43:08.826] MOB DELETE: on_mob_delete: John_egbert3/(Borgos Comiamaedoluiz) at Wasteland (120, 79, 2) - /datum/reagent/toxin/cazador_venom
+[2021-05-17 22:43:11.038] MOB ADD: on_mob_add(): DarkPudding/(John Wick) at Ruins (14, 109, 4) - 5 of /datum/reagent/toxin with 1 purity
+[2021-05-17 22:43:13.040] MOB ADD: on_merge(): DarkPudding/(John Wick) at Ruins (14, 112, 4) - 9.6 of /datum/reagent/toxin with 1 purity
+[2021-05-17 22:43:16.399] MOB ADD: on_mob_add(): Shirozinha/(Tio Osso) at Wasteland (131, 133, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 22:43:17.627] MOB ADD: on_mob_add(): DarkPudding/(John Wick) at Ruins (13, 112, 4) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-17 22:43:37.674] MOB DELETE: on_mob_delete: John_egbert3/(Borgos Comiamaedoluiz) at Wasteland (211, 57, 2) - /datum/reagent/medicine/stimpak
+[2021-05-17 22:43:39.775] MOB DELETE: on_mob_delete: DarkPudding/(John Wick) at Ruins (14, 106, 4) - /datum/reagent/medicine/healing_powder
+[2021-05-17 22:43:39.825] MOB DELETE: on_mob_delete: Shirozinha/(Tio Osso) at Wasteland (110, 140, 2) - /datum/reagent/medicine/stimpak
+[2021-05-17 22:43:52.439] MOB DELETE: on_mob_delete: DarkPudding/(John Wick) at Ruins (13, 106, 4) - /datum/reagent/toxin
+[2021-05-17 22:43:58.539] MOB ADD: on_mob_add(): InicialPlayss/(Rayan Lindgrey) at Building (131, 36, 2) - 1 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-17 22:43:58.539] MOB ADD: on_mob_add(): InicialPlayss/(Rayan Lindgrey) at Building (131, 36, 2) - 1 of /datum/reagent/medicine/tricordrazine with 1 purity
+[2021-05-17 22:43:59.348] MOB ADD: on_merge(): InicialPlayss/(Rayan Lindgrey) at Building (131, 36, 2) - 2 of /datum/reagent/medicine/tricordrazine with 1 purity
+[2021-05-17 22:44:05.613] MOB ADD: on_mob_add(): Luciam/(Victoria Valentine) at Tunnel (184, 30, 3) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 22:44:07.843] MOB DELETE: on_mob_delete: InicialPlayss/(Rayan Lindgrey) at Building (128, 35, 2) - /datum/reagent/consumable/nutriment
+[2021-05-17 22:44:07.843] MOB DELETE: on_mob_delete: InicialPlayss/(Rayan Lindgrey) at Building (128, 35, 2) - /datum/reagent/medicine/tricordrazine
+[2021-05-17 22:44:46.169] MOB DELETE: on_mob_delete: Luciam/(Victoria Valentine) at Tunnel (184, 75, 3) - /datum/reagent/medicine/stimpak
+[2021-05-17 22:45:18.147] MOB ADD: on_mob_add(): DarkPudding/(John Wick) at Ruins (17, 109, 4) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-17 22:45:20.968] MOB ADD: on_merge(): DarkPudding/(John Wick) at Ruins (17, 109, 4) - 19.6 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-17 22:45:29.260] MOB ADD: on_mob_add(): SpookyPineapple/(Tonhao Vermelho) at Village (112, 118, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 22:45:33.291] MOB DELETE: on_mob_delete: DarkPudding/(John Wick) at Ruins (11, 98, 4) - /datum/reagent/medicine/healing_powder
+[2021-05-17 22:45:41.412] MOB DELETE: on_mob_delete: SpookyPineapple/(Tonhao Vermelho) at Village (113, 116, 2) - /datum/reagent/medicine/stimpak
+[2021-05-17 22:45:49.854] MOB ADD: on_mob_add(): Luciam/(Victoria Valentine) at Tunnel (184, 103, 3) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 22:45:51.491] MOB DELETE: on_mob_delete: Luciam/(Victoria Valentine) at Tunnel (184, 103, 3) - /datum/reagent/medicine/stimpak
+[2021-05-17 22:46:23.038] MOB ADD: on_mob_add(): OvelhaCosmica/(Adam Alves) at Wasteland (231, 89, 2) - 2.5 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-17 22:46:23.038] MOB ADD: on_mob_add(): OvelhaCosmica/(Adam Alves) at Wasteland (231, 89, 2) - 0.5 of /datum/reagent/consumable/nutriment/vitamin with 1 purity
+[2021-05-17 22:46:24.018] MOB ADD: on_mob_add(): DarkPudding/(John Wick) at Village (42, 125, 2) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-17 22:46:28.568] MOB DELETE: on_mob_delete: OvelhaCosmica/(Adam Alves) at Wasteland (230, 97, 2) - /datum/reagent/consumable/nutriment/vitamin
+[2021-05-17 22:46:28.699] MOB ADD: on_merge(): DarkPudding/(John Wick) at Village (42, 125, 2) - 19.4 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-17 22:46:30.243] MOB ADD: on_merge(): DarkPudding/(John Wick) at Village (42, 124, 2) - 29.4 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-17 22:46:33.535] MOB ADD: on_merge(): DarkPudding/(John Wick) at Village (42, 125, 2) - 39 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-17 22:46:34.771] MOB ADD: on_merge(): DarkPudding/(John Wick) at Village (42, 125, 2) - 49 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-17 22:46:34.931] OVERDOSE START: DarkPudding/(John Wick) at Village (42, 125, 2) started overdosing on 49 units of healing powder.
+[2021-05-17 22:46:38.946] MOB DELETE: on_mob_delete: DarkPudding/(John Wick) at Village (41, 126, 2) - /datum/reagent/medicine/healing_powder
+[2021-05-17 22:46:48.994] MOB DELETE: on_mob_delete: OvelhaCosmica/(Adam Alves) at Wasteland (231, 118, 2) - /datum/reagent/consumable/nutriment
+[2021-05-17 22:46:53.764] MOB ADD: on_mob_add(): SpookyPineapple/(Tonhao Vermelho) at Wasteland (165, 128, 2) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-17 22:47:20.048] MOB ADD: on_mob_add(): John_egbert3/(Borgos Comiamaedoluiz) at Wasteland (123, 173, 2) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-17 22:47:22.909] MOB ADD: on_mob_add(): Luciam/(Victoria Valentine) at Enclave (140, 21, 3) - 10 of /datum/reagent/medicine/synthflesh with 1 purity
+[2021-05-17 22:47:27.879] MOB ADD: on_mob_add(): DarkPudding/(John Wick) at Village (113, 120, 2) - 3 of /datum/reagent/medicine/radaway with 1 purity
+[2021-05-17 22:47:30.131] MOB ADD: on_merge(): DarkPudding/(John Wick) at Village (113, 120, 2) - 5.2 of /datum/reagent/medicine/radaway with 1 purity
+[2021-05-17 22:47:31.693] MOB DELETE: on_mob_delete: Luciam/(Victoria Valentine) at Enclave (140, 21, 3) - /datum/reagent/medicine/synthflesh
+[2021-05-17 22:47:32.702] MOB ADD: on_merge(): DarkPudding/(John Wick) at Village (113, 120, 2) - 7.4 of /datum/reagent/medicine/radaway with 1 purity
+[2021-05-17 22:47:36.384] MOB ADD: on_mob_add(): Luciam/(Victoria Valentine) at Enclave (140, 21, 3) - 10 of /datum/reagent/medicine/synthflesh with 1 purity
+[2021-05-17 22:47:47.456] MOB ADD: on_merge(): Luciam/(Victoria Valentine) at Enclave (140, 21, 3) - 16 of /datum/reagent/medicine/synthflesh with 1 purity
+[2021-05-17 22:47:48.859] MOB ADD: on_merge(): Luciam/(Victoria Valentine) at Enclave (140, 21, 3) - 26 of /datum/reagent/medicine/synthflesh with 1 purity
+[2021-05-17 22:47:49.661] MOB ADD: on_merge(): Luciam/(Victoria Valentine) at Enclave (140, 21, 3) - 34 of /datum/reagent/medicine/synthflesh with 1 purity
+[2021-05-17 22:47:50.513] MOB ADD: on_merge(): Luciam/(Victoria Valentine) at Enclave (140, 21, 3) - 44 of /datum/reagent/medicine/synthflesh with 1 purity
+[2021-05-17 22:47:51.133] OVERDOSE START: Luciam/(Victoria Valentine) at Enclave (140, 21, 3) started overdosing on 44 units of Synthflesh.
+[2021-05-17 22:47:59.617] MOB DELETE: on_mob_delete: DarkPudding/(John Wick) at Village (111, 126, 2) - /datum/reagent/medicine/radaway
+[2021-05-17 22:48:05.933] MOB DELETE: on_mob_delete: Luciam/(Victoria Valentine) at Enclave (137, 25, 3) - /datum/reagent/medicine/synthflesh
+[2021-05-17 22:48:32.548] MOB ADD: on_merge(): John_egbert3/(Borgos Comiamaedoluiz) at Wasteland (95, 192, 2) - 13.6 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-17 22:48:42.639] MOB DELETE: on_mob_delete: SpookyPineapple/(Tonhao Vermelho) at Legion (227, 18, 2) - /datum/reagent/medicine/healing_powder
+[2021-05-17 22:48:58.418] MOB ADD: on_mob_add(): InicialPlayss/(Rayan Lindgrey) at Wasteland (60, 36, 2) - 0.2 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-17 22:48:58.418] MOB ADD: on_mob_add(): InicialPlayss/(Rayan Lindgrey) at Wasteland (60, 36, 2) - 0.6 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-17 22:48:58.418] MOB ADD: on_mob_add(): InicialPlayss/(Rayan Lindgrey) at Wasteland (60, 36, 2) - 0.2 of /datum/reagent/consumable/sodiumchloride with 1 purity
+[2021-05-17 22:48:58.924] MOB DELETE: on_mob_delete: InicialPlayss/(Rayan Lindgrey) at Wasteland (58, 36, 2) - /datum/reagent/consumable/nutriment
+[2021-05-17 22:48:58.924] MOB DELETE: on_mob_delete: InicialPlayss/(Rayan Lindgrey) at Wasteland (58, 36, 2) - /datum/reagent/consumable/sugar
+[2021-05-17 22:48:58.925] MOB DELETE: on_mob_delete: InicialPlayss/(Rayan Lindgrey) at Wasteland (58, 36, 2) - /datum/reagent/consumable/sodiumchloride
+[2021-05-17 22:48:59.496] MOB ADD: on_mob_add(): InicialPlayss/(Rayan Lindgrey) at Wasteland (57, 38, 2) - 0.2 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-17 22:48:59.496] MOB ADD: on_mob_add(): InicialPlayss/(Rayan Lindgrey) at Wasteland (57, 38, 2) - 0.6 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-17 22:48:59.496] MOB ADD: on_mob_add(): InicialPlayss/(Rayan Lindgrey) at Wasteland (57, 38, 2) - 0.2 of /datum/reagent/consumable/sodiumchloride with 1 purity
+[2021-05-17 22:49:01.370] MOB DELETE: on_mob_delete: InicialPlayss/(Rayan Lindgrey) at Wasteland (56, 42, 2) - /datum/reagent/consumable/nutriment
+[2021-05-17 22:49:01.370] MOB DELETE: on_mob_delete: InicialPlayss/(Rayan Lindgrey) at Wasteland (56, 42, 2) - /datum/reagent/consumable/sugar
+[2021-05-17 22:49:01.370] MOB DELETE: on_mob_delete: InicialPlayss/(Rayan Lindgrey) at Wasteland (56, 42, 2) - /datum/reagent/consumable/sodiumchloride
+[2021-05-17 22:49:09.355] MOB ADD: on_mob_add(): SpookyPineapple/(Tonhao Vermelho) at Legion (206, 13, 2) - 2.353 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-17 22:49:09.356] MOB ADD: on_mob_add(): SpookyPineapple/(Tonhao Vermelho) at Legion (206, 13, 2) - 1.471 of /datum/reagent/water with 1 purity
+[2021-05-17 22:49:09.356] MOB ADD: on_mob_add(): SpookyPineapple/(Tonhao Vermelho) at Legion (206, 13, 2) - 1.176 of /datum/reagent/consumable/nutriment/vitamin with 1 purity
+[2021-05-17 22:49:10.430] MOB ADD: on_merge(): SpookyPineapple/(Tonhao Vermelho) at Legion (206, 13, 2) - 2.542 of /datum/reagent/water with 1 purity
+[2021-05-17 22:49:11.327] MOB ADD: on_merge(): SpookyPineapple/(Tonhao Vermelho) at Legion (206, 13, 2) - 4.013 of /datum/reagent/water with 1 purity
+[2021-05-17 22:49:12.227] MOB ADD: on_merge(): SpookyPineapple/(Tonhao Vermelho) at Legion (206, 13, 2) - 4.201 of /datum/reagent/water with 1 purity
+[2021-05-17 22:49:14.832] MOB ADD: on_mob_add(): SpookyPineapple/(Tonhao Vermelho) at Legion (203, 13, 2) - 1 of /datum/reagent/consumable/doctor_delight with 1 purity
+[2021-05-17 22:49:15.676] MOB ADD: on_merge(): SpookyPineapple/(Tonhao Vermelho) at Legion (204, 13, 2) - 1.6 of /datum/reagent/consumable/doctor_delight with 1 purity
+[2021-05-17 22:49:16.530] MOB ADD: on_merge(): SpookyPineapple/(Tonhao Vermelho) at Legion (206, 15, 2) - 2.6 of /datum/reagent/consumable/doctor_delight with 1 purity
+[2021-05-17 22:49:17.428] MOB ADD: on_merge(): SpookyPineapple/(Tonhao Vermelho) at Legion (206, 19, 2) - 3.6 of /datum/reagent/consumable/doctor_delight with 1 purity
+[2021-05-17 22:49:18.336] MOB ADD: on_merge(): SpookyPineapple/(Tonhao Vermelho) at Legion (206, 21, 2) - 4.2 of /datum/reagent/consumable/doctor_delight with 1 purity
+[2021-05-17 22:49:30.060] MOB DELETE: on_mob_delete: SpookyPineapple/(Tonhao Vermelho) at Legion (221, 38, 2) - /datum/reagent/water
+[2021-05-17 22:49:39.169] MOB DELETE: on_mob_delete: SpookyPineapple/(Tonhao Vermelho) at Wasteland (211, 60, 2) - /datum/reagent/consumable/nutriment/vitamin
+[2021-05-17 22:49:41.165] MOB DELETE: on_mob_delete: SpookyPineapple/(Tonhao Vermelho) at Wasteland (205, 64, 2) - /datum/reagent/consumable/doctor_delight
+[2021-05-17 22:49:44.461] MOB ADD: on_mob_add(): comicao1/(Sorrel Riker) at Wasteland (91, 223, 2) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-17 22:49:51.214] MOB DELETE: on_mob_delete: John_egbert3/(Borgos Comiamaedoluiz) at Wasteland (103, 223, 2) - /datum/reagent/medicine/healing_powder
+[2021-05-17 22:50:06.102] MOB ADD: on_merge(): comicao1/(Sorrel Riker) at Wasteland (100, 229, 2) - 18 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-17 22:50:13.643] MOB ADD: on_mob_add(): DarkPudding/(John Wick) at Wasteland (166, 143, 2) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-17 22:50:34.396] MOB DELETE: on_mob_delete: SpookyPineapple/(Tonhao Vermelho) at Wasteland (163, 65, 2) - /datum/reagent/consumable/nutriment
+[2021-05-17 22:50:46.762] MOB DELETE: on_mob_delete: DarkPudding/(John Wick) at Village (169, 124, 2) - /datum/reagent/medicine/healing_powder
+[2021-05-17 22:50:51.094] MOB DELETE: on_mob_delete: comicao1/(Sorrel Riker) at Bunker (44, 235, 4) - /datum/reagent/medicine/healing_powder
+[2021-05-17 22:51:25.960] MOB ADD: on_mob_add(): DarkPudding/(John Wick) at Wasteland (170, 130, 2) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-17 22:51:48.041] MOB DELETE: on_mob_delete: DarkPudding/(John Wick) at Wasteland (171, 127, 2) - /datum/reagent/medicine/healing_powder
+[2021-05-17 22:51:52.605] MOB ADD: on_mob_add(): OvelhaCosmica/(Adam Alves) at Tunnel (117, 129, 3) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 22:52:41.964] MOB DELETE: on_mob_delete: OvelhaCosmica/(Adam Alves) at Village (128, 127, 2) - /datum/reagent/medicine/stimpak
+[2021-05-17 22:52:59.376] MOB ADD: on_mob_add(): InicialPlayss/(Rayan Lindgrey) at Wasteland (106, 96, 2) - 1 of /datum/reagent/determination with 1 purity
+[2021-05-17 22:53:32.534] MOB ADD: on_merge(): *no key*/(Rayan Lindgrey) at Wasteland (104, 95, 2) - 2 of /datum/reagent/determination with 1 purity
+[2021-05-17 22:53:41.999] MOB ADD: on_mob_add(): comicao1/(Sorrel Riker) at Wasteland (106, 97, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 22:53:48.906] MOB ADD: on_merge(): *no key*/(Rayan Lindgrey) at Wasteland (104, 95, 2) - 4.5 of /datum/reagent/determination with 1 purity
+[2021-05-17 22:53:53.039] MOB ADD: on_mob_add(): DarkPudding/(John Wick) at Wasteland (160, 133, 2) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-17 22:53:54.657] MOB ADD: on_merge(): comicao1/(Sorrel Riker) at Wasteland (106, 99, 2) - 18.8 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 22:54:13.559] MOB DELETE: on_mob_delete: DarkPudding/(John Wick) at Building (198, 155, 2) - /datum/reagent/medicine/healing_powder
+[2021-05-17 22:54:14.141] MOB ADD: on_merge(): *no key*/(Rayan Lindgrey) at Wasteland (104, 95, 2) - 7 of /datum/reagent/determination with 1 purity
+[2021-05-17 22:54:15.400] MOB ADD: on_merge(): *no key*/(Rayan Lindgrey) at Wasteland (104, 95, 2) - 12 of /datum/reagent/determination with 1 purity
+[2021-05-17 22:54:16.725] MOB ADD: on_merge(): *no key*/(Rayan Lindgrey) at Wasteland (104, 95, 2) - 13 of /datum/reagent/determination with 1 purity
+[2021-05-17 22:54:17.668] MOB ADD: on_merge(): *no key*/(Rayan Lindgrey) at Wasteland (104, 95, 2) - 18 of /datum/reagent/determination with 1 purity
+[2021-05-17 22:54:18.477] MOB ADD: on_merge(): *no key*/(Rayan Lindgrey) at Wasteland (104, 95, 2) - 25.5 of /datum/reagent/determination with 1 purity
+[2021-05-17 22:54:19.503] MOB ADD: on_merge(): *no key*/(Rayan Lindgrey) at Wasteland (104, 95, 2) - 28 of /datum/reagent/determination with 1 purity
+[2021-05-17 22:54:38.763] MOB DELETE: on_mob_delete: comicao1/(Sorrel Riker) at Wasteland (104, 98, 2) - /datum/reagent/medicine/stimpak
+[2021-05-17 22:54:58.129] MOB ADD: on_mob_add(): SpookyPineapple/(Tonhao Vermelho) at City (74, 42, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 22:55:00.993] MOB DELETE: on_mob_delete: SpookyPineapple/(Tonhao Vermelho) at City (74, 42, 2) - /datum/reagent/medicine/stimpak
+[2021-05-17 22:56:24.327] MOB ADD: on_mob_add(): DarkPudding/(John Wick) at Building (222, 147, 2) - 6 of /datum/reagent/consumable/nutriment/vitamin with 1 purity
+[2021-05-17 22:56:24.327] MOB ADD: on_mob_add(): DarkPudding/(John Wick) at Building (222, 147, 2) - 6 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-17 22:56:24.327] MOB ADD: on_mob_add(): DarkPudding/(John Wick) at Building (222, 147, 2) - 6 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-17 22:56:40.244] MOB DELETE: on_mob_delete: DarkPudding/(John Wick) at Building (220, 146, 2) - /datum/reagent/consumable/sugar
+[2021-05-17 22:57:10.999] MOB DELETE: on_mob_delete: DarkPudding/(John Wick) at Caves (208, 146, 2) - /datum/reagent/consumable/nutriment/vitamin
+[2021-05-17 22:57:25.182] MOB DELETE: on_mob_delete: DarkPudding/(John Wick) at Wasteland (189, 130, 2) - /datum/reagent/consumable/nutriment
+[2021-05-17 22:57:39.953] MOB ADD: on_mob_add(): 2006f/(Paget Chauvin) at Followers of the Apocalypse (84, 56, 2) - 2.5 of /datum/reagent/determination with 1 purity
+[2021-05-17 22:57:45.688] MOB ADD: on_mob_add(): SpookyPineapple/(Tonhao Vermelho) at Wasteland (43, 61, 2) - 5 of /datum/reagent/toxin/cazador_venom with 1 purity
+[2021-05-17 22:57:49.465] MOB ADD: on_mob_add(): SpookyPineapple/(Tonhao Vermelho) at Wasteland (56, 61, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 22:57:57.843] MOB DELETE: on_mob_delete: 2006f/(Paget Chauvin) at Followers of the Apocalypse (84, 48, 2) - /datum/reagent/determination
+[2021-05-17 22:57:59.880] MOB DELETE: on_mob_delete: SpookyPineapple/(Tonhao Vermelho) at Wasteland (57, 61, 2) - /datum/reagent/toxin/cazador_venom
+[2021-05-17 22:58:02.053] MOB DELETE: on_mob_delete: SpookyPineapple/(Tonhao Vermelho) at Wasteland (56, 56, 2) - /datum/reagent/medicine/stimpak
+[2021-05-17 22:58:26.944] MOB ADD: on_mob_add(): 2006f/(Paget Chauvin) at Wasteland (106, 71, 2) - 10 of /datum/reagent/medicine/synthflesh with 1 purity
+[2021-05-17 22:58:33.373] MOB ADD: on_mob_add(): 2006f/(Paget Chauvin) at Wasteland (110, 75, 2) - 3 of /datum/reagent/medicine/epinephrine with 1 purity
+[2021-05-17 22:58:33.374] MOB ADD: on_mob_add(): 2006f/(Paget Chauvin) at Wasteland (110, 75, 2) - 4 of /datum/reagent/medicine/lesser_syndicate_nanites with 1 purity
+[2021-05-17 22:58:33.374] MOB ADD: on_mob_add(): 2006f/(Paget Chauvin) at Wasteland (110, 75, 2) - 1.5 of /datum/reagent/medicine/leporazine with 1 purity
+[2021-05-17 22:58:33.374] MOB ADD: on_mob_add(): 2006f/(Paget Chauvin) at Wasteland (110, 75, 2) - 1.5 of /datum/reagent/medicine/atropine with 1 purity
+[2021-05-17 22:58:36.954] MOB DELETE: on_mob_delete: 2006f/(Paget Chauvin) at Wasteland (113, 77, 2) - /datum/reagent/medicine/synthflesh
+[2021-05-17 22:58:41.031] MOB DELETE: on_mob_delete: 2006f/(Paget Chauvin) at Wasteland (118, 79, 2) - /datum/reagent/medicine/leporazine
+[2021-05-17 22:58:53.358] MOB DELETE: on_mob_delete: 2006f/(Paget Chauvin) at Wasteland (120, 111, 2) - /datum/reagent/medicine/lesser_syndicate_nanites
+[2021-05-17 22:59:03.493] MOB DELETE: on_mob_delete: 2006f/(Paget Chauvin) at Wasteland (118, 135, 2) - /datum/reagent/medicine/atropine
+[2021-05-17 22:59:04.949] MOB ADD: on_mob_add(): alexalbright/(Alex Magnus Primeiro) at Wasteland (207, 71, 2) - 10 of /datum/reagent/medicine/healing_powder/poultice with 1 purity
+[2021-05-17 22:59:34.436] MOB DELETE: on_mob_delete: 2006f/(Paget Chauvin) at Wasteland (122, 189, 2) - /datum/reagent/medicine/epinephrine
+[2021-05-17 22:59:47.030] MOB ADD: on_mob_add(): 2006f/(Paget Chauvin) at Wasteland (129, 202, 2) - 5 of /datum/reagent/toxin/cazador_venom with 1 purity
+[2021-05-17 22:59:47.033] MOB ADD: on_merge(): 2006f/(Paget Chauvin) at Wasteland (129, 202, 2) - 10 of /datum/reagent/toxin/cazador_venom with 1 purity
+[2021-05-17 22:59:49.034] MOB ADD: on_merge(): 2006f/(Paget Chauvin) at Wasteland (123, 202, 2) - 14.6 of /datum/reagent/toxin/cazador_venom with 1 purity
+[2021-05-17 22:59:51.036] MOB ADD: on_merge(): 2006f/(Paget Chauvin) at Wasteland (121, 198, 2) - 19.2 of /datum/reagent/toxin/cazador_venom with 1 purity
+[2021-05-17 22:59:51.040] MOB ADD: on_merge(): 2006f/(Paget Chauvin) at Wasteland (121, 198, 2) - 24.2 of /datum/reagent/toxin/cazador_venom with 1 purity
+[2021-05-17 22:59:52.099] MOB ADD: on_mob_add(): SpookyPineapple/(Tonhao Vermelho) at Wasteland (72, 79, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 22:59:57.110] MOB ADD: on_merge(): 2006f/(Paget Chauvin) at Wasteland (121, 179, 2) - 28 of /datum/reagent/toxin/cazador_venom with 1 purity
+[2021-05-17 22:59:57.117] MOB ADD: on_merge(): 2006f/(Paget Chauvin) at Wasteland (121, 179, 2) - 33 of /datum/reagent/toxin/cazador_venom with 1 purity
+[2021-05-17 22:59:59.195] MOB ADD: on_merge(): 2006f/(Paget Chauvin) at Wasteland (121, 178, 2) - 37.6 of /datum/reagent/toxin/cazador_venom with 1 purity
+[2021-05-17 22:59:59.223] MOB ADD: on_merge(): 2006f/(Paget Chauvin) at Wasteland (121, 178, 2) - 42.6 of /datum/reagent/toxin/cazador_venom with 1 purity
+[2021-05-17 23:00:01.126] MOB ADD: on_merge(): 2006f/(Paget Chauvin) at Wasteland (121, 178, 2) - 47.2 of /datum/reagent/toxin/cazador_venom with 1 purity
+[2021-05-17 23:00:01.130] MOB ADD: on_merge(): 2006f/(Paget Chauvin) at Wasteland (121, 178, 2) - 52.2 of /datum/reagent/toxin/cazador_venom with 1 purity
+[2021-05-17 23:00:03.129] MOB ADD: on_merge(): 2006f/(Paget Chauvin) at Wasteland (121, 178, 2) - 56.8 of /datum/reagent/toxin/cazador_venom with 1 purity
+[2021-05-17 23:00:07.040] MOB DELETE: on_mob_delete: alexalbright/(Alex Magnus Primeiro) at Wasteland (135, 43, 2) - /datum/reagent/medicine/healing_powder/poultice
+[2021-05-17 23:00:11.114] MOB DELETE: on_mob_delete: SpookyPineapple/(Tonhao Vermelho) at Tunnel (68, 37, 3) - /datum/reagent/medicine/stimpak
+[2021-05-17 23:00:35.325] MOB ADD: on_mob_add(): John_egbert3/(Borgos Comiamaedoluiz) at Tunnel (74, 41, 3) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 23:01:03.965] MOB DELETE: on_mob_delete: John_egbert3/(Borgos Comiamaedoluiz) at Tunnel (73, 37, 3) - /datum/reagent/medicine/stimpak
+[2021-05-17 23:02:14.708] MOB ADD: on_mob_add(): kaduh/(Erika Miller) at Tunnel (7, 199, 3) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 23:02:15.421] MOB ADD: on_mob_add(): AlbertoVinhofino/(Elias Ivanov) at Tunnel (6, 198, 3) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 23:02:50.497] MOB DELETE: on_mob_delete: kaduh/(Erika Miller) at Tunnel (16, 184, 3) - /datum/reagent/medicine/stimpak
+[2021-05-17 23:02:50.507] MOB DELETE: on_mob_delete: AlbertoVinhofino/(Elias Ivanov) at Tunnel (16, 185, 3) - /datum/reagent/medicine/stimpak
+[2021-05-17 23:03:02.527] MOB ADD: on_mob_add(): Degusta00/(Bob Loureiro) at Tunnel (184, 55, 3) - 10 of /datum/reagent/medicine/mentat with 1 purity
+[2021-05-17 23:03:53.165] MOB DELETE: on_mob_delete: Degusta00/(Bob Loureiro) at Tunnel (184, 37, 3) - /datum/reagent/medicine/mentat
+[2021-05-17 23:04:51.558] MOB ADD: on_mob_add(): Degusta00/(Bob Loureiro) at Tunnel (184, 13, 3) - 10 of /datum/reagent/medicine/styptic_powder with 1 purity
+[2021-05-17 23:04:58.719] MOB ADD: on_mob_add(): Degusta00/(Bob Loureiro) at Tunnel (184, 13, 3) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-17 23:05:00.238] MOB DELETE: on_mob_delete: Degusta00/(Bob Loureiro) at Tunnel (184, 13, 3) - /datum/reagent/medicine/styptic_powder
+[2021-05-17 23:05:45.323] MOB DELETE: on_mob_delete: Degusta00/(Bob Loureiro) at Tunnel (122, 68, 3) - /datum/reagent/medicine/healing_powder
+[2021-05-17 23:06:49.207] MOB ADD: on_mob_add(): OvelhaCosmica/(Adam Alves) at Legion (221, 32, 2) - 2.571 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-17 23:06:49.207] MOB ADD: on_mob_add(): OvelhaCosmica/(Adam Alves) at Legion (221, 32, 2) - 0.429 of /datum/reagent/consumable/nutriment/vitamin with 1 purity
+[2021-05-17 23:06:50.581] MOB ADD: on_mob_add(): Rodinha/(Eridan Hikaj) at Village (24, 175, 2) - 10 of /datum/reagent/water with 1 purity
+[2021-05-17 23:06:55.119] MOB DELETE: on_mob_delete: OvelhaCosmica/(Adam Alves) at Legion (221, 32, 2) - /datum/reagent/consumable/nutriment/vitamin
+[2021-05-17 23:07:19.585] MOB DELETE: on_mob_delete: OvelhaCosmica/(Adam Alves) at Legion (220, 43, 2) - /datum/reagent/consumable/nutriment
+[2021-05-17 23:07:39.834] MOB DELETE: on_mob_delete: Rodinha/(Eridan Hikaj) at Village (24, 176, 2) - /datum/reagent/water
+[2021-05-17 23:07:46.145] MOB ADD: on_mob_add(): DarkPudding/(John Wick) at Building (154, 54, 2) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-17 23:07:56.670] MOB ADD: on_mob_add(): AlbertoVinhofino/(Elias Ivanov) at Village (76, 161, 2) - 2 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-17 23:08:06.133] MOB DELETE: on_mob_delete: DarkPudding/(John Wick) at Building (155, 52, 2) - /datum/reagent/medicine/healing_powder
+[2021-05-17 23:08:24.578] MOB ADD: on_mob_add(): SpookyPineapple/(Tonhao Vermelho) at Wasteland (64, 36, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 23:08:34.708] MOB DELETE: on_mob_delete: SpookyPineapple/(Tonhao Vermelho) at City (63, 31, 2) - /datum/reagent/medicine/stimpak
+[2021-05-17 23:08:47.883] MOB ADD: on_mob_add(): OvelhaCosmica/(Adam Alves) at Wasteland (75, 52, 2) - 1 of /datum/reagent/determination with 1 purity
+[2021-05-17 23:08:53.742] MOB ADD: on_mob_add(): Degusta00/(Bob Loureiro) at Wasteland (74, 56, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 23:08:55.154] MOB DELETE: on_mob_delete: OvelhaCosmica/(Adam Alves) at Wasteland (75, 53, 2) - /datum/reagent/determination
+[2021-05-17 23:08:59.730] MOB ADD: on_mob_add(): Degusta00/(Bob Loureiro) at Followers of the Apocalypse (80, 56, 2) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-17 23:09:25.220] MOB ADD: on_mob_add(): OvelhaCosmica/(Adam Alves) at Wasteland (78, 55, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 23:09:37.212] MOB ADD: on_merge(): Degusta00/(Bob Loureiro) at Followers of the Apocalypse (83, 59, 2) - 16.2 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 23:10:00.225] MOB ADD: on_merge(): Degusta00[DC]/(Bob Loureiro) at Followers of the Apocalypse (83, 57, 2) - 24.2 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 23:10:15.999] MOB DELETE: on_mob_delete: AlbertoVinhofino/(Elias Ivanov) at Village (103, 171, 2) - /datum/reagent/consumable/nutriment
+[2021-05-17 23:10:16.009] MOB DELETE: on_mob_delete: OvelhaCosmica/(Adam Alves) at Followers of the Apocalypse (84, 56, 2) - /datum/reagent/medicine/stimpak
+[2021-05-17 23:10:48.981] MOB DELETE: on_mob_delete: Degusta00[DC]/(Bob Loureiro) at Wasteland (150, 64, 2) - /datum/reagent/medicine/healing_powder
+[2021-05-17 23:10:55.535] MOB ADD: on_mob_add(): DarkPudding/(John Wick) at Legion (240, 42, 2) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-17 23:10:56.703] MOB ADD: on_merge(): DarkPudding/(John Wick) at Legion (240, 42, 2) - 20 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-17 23:11:01.930] MOB DELETE: on_mob_delete: DarkPudding/(John Wick) at Legion (221, 36, 2) - /datum/reagent/medicine/healing_powder
+[2021-05-17 23:11:53.595] MOB DELETE: on_mob_delete: Degusta00[DC]/(Bob Loureiro) at Legion (221, 30, 2) - /datum/reagent/medicine/stimpak
+[2021-05-17 23:11:57.856] MOB ADD: on_mob_add(): kaduh/(Erika Miller) at Village (102, 166, 2) - 10 of /datum/reagent/medicine/bicaridine with 1 purity
+[2021-05-17 23:12:48.381] MOB DELETE: on_mob_delete: kaduh/(Erika Miller) at Village (115, 168, 2) - /datum/reagent/medicine/bicaridine
+[2021-05-17 23:14:34.377] MOB ADD: on_mob_add(): alexalbright/(Alex Magnus Primeiro) at Legion (240, 32, 2) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-17 23:14:41.868] MOB ADD: on_merge(): alexalbright/(Alex Magnus Primeiro) at Legion (230, 30, 2) - 19.4 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-17 23:15:19.956] MOB ADD: on_mob_add(): Rodinha/(Eridan Hikaj) at Village (76, 162, 2) - 2 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-17 23:15:32.810] MOB ADD: on_mob_add(): Luciam/(Victoria Valentine) at Tunnel (184, 119, 3) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-17 23:15:38.812] MOB DELETE: on_mob_delete: Rodinha/(Eridan Hikaj) at Wasteland (84, 162, 2) - /datum/reagent/consumable/nutriment
+[2021-05-17 23:15:38.819] MOB DELETE: on_mob_delete: alexalbright/(Alex Magnus Primeiro) at Legion (222, 32, 2) - /datum/reagent/medicine/healing_powder
+[2021-05-17 23:16:27.269] MOB ADD: on_mob_add(): Rodinha/(Eridan Hikaj) at Wasteland (84, 152, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 23:16:48.412] MOB ADD: on_mob_add(): DarkPudding/(John Wick) at Wasteland (36, 185, 2) - 2.5 of /datum/reagent/determination with 1 purity
+[2021-05-17 23:16:52.927] MOB ADD: on_mob_add(): SpookyPineapple/(Tonhao Vermelho) at Wasteland (35, 184, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 23:16:56.061] MOB DELETE: on_mob_delete: Luciam/(Victoria Valentine) at Bunker (174, 105, 3) - /datum/reagent/medicine/healing_powder
+[2021-05-17 23:17:02.517] MOB ADD: on_mob_add(): DarkPudding/(John Wick) at Wasteland (36, 186, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 23:17:06.136] MOB ADD: on_merge(): DarkPudding/(John Wick) at Wasteland (36, 186, 2) - 19.8 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 23:17:06.181] MOB DELETE: on_mob_delete: DarkPudding/(John Wick) at Wasteland (36, 186, 2) - /datum/reagent/determination
+[2021-05-17 23:17:14.400] MOB DELETE: on_mob_delete: SpookyPineapple/(Tonhao Vermelho) at Wasteland (28, 186, 2) - /datum/reagent/medicine/stimpak
+[2021-05-17 23:17:16.352] MOB DELETE: on_mob_delete: Rodinha/(Eridan Hikaj) at Wasteland (84, 139, 2) - /datum/reagent/medicine/stimpak
+[2021-05-17 23:17:18.378] MOB ADD: on_mob_add(): Zero9e1/(Garrety Wells) at Followers of the Apocalypse (89, 52, 3) - 20 of /datum/reagent/medicine/styptic_powder with 1 purity
+[2021-05-17 23:17:36.972] MOB DELETE: on_mob_delete: Zero9e1/(Garrety Wells) at Followers of the Apocalypse (84, 58, 2) - /datum/reagent/medicine/styptic_powder
+[2021-05-17 23:17:37.996] MOB ADD: on_mob_add(): Luciam/(Victoria Valentine) at Bunker (172, 102, 3) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-17 23:17:39.975] MOB ADD: on_mob_add(): SondTheAnime/(Kane Lens) at Bunker (175, 102, 3) - 10 of /datum/reagent/medicine/super_stimpak with 1 purity
+[2021-05-17 23:17:57.373] MOB DELETE: on_mob_delete: SondTheAnime/(Kane Lens) at Bunker (173, 102, 3) - /datum/reagent/medicine/super_stimpak
+[2021-05-17 23:18:52.053] MOB DELETE: on_mob_delete: DarkPudding/(John Wick) at Wasteland (24, 185, 2) - /datum/reagent/medicine/stimpak
+[2021-05-17 23:18:56.614] MOB ADD: on_mob_add(): Luciam/(Victoria Valentine) at Bunker (175, 103, 3) - 10 of /datum/reagent/drug/buffout with 1 purity
+[2021-05-17 23:19:00.510] MOB ADD: on_merge(): Luciam/(Victoria Valentine) at Bunker (175, 103, 3) - 19 of /datum/reagent/drug/buffout with 1 purity
+[2021-05-17 23:19:26.168] MOB ADD: on_mob_add(): OvelhaCosmica/(Adam Alves) at Wasteland (135, 65, 2) - 2.5 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-17 23:19:26.168] MOB ADD: on_mob_add(): OvelhaCosmica/(Adam Alves) at Wasteland (135, 65, 2) - 0.5 of /datum/reagent/consumable/nutriment/vitamin with 1 purity
+[2021-05-17 23:19:26.605] MOB DELETE: on_mob_delete: Luciam/(Victoria Valentine) at Bunker (169, 107, 3) - /datum/reagent/medicine/healing_powder
+[2021-05-17 23:19:31.019] MOB DELETE: on_mob_delete: OvelhaCosmica/(Adam Alves) at Wasteland (127, 65, 2) - /datum/reagent/consumable/nutriment/vitamin
+[2021-05-17 23:19:31.368] MOB ADD: on_mob_add(): *no key*/(Graham Rahl) at Bunker (170, 107, 3) - 1 of /datum/reagent/determination with 1 purity
+[2021-05-17 23:19:38.213] MOB ADD: on_mob_add(): Luciam/(Victoria Valentine) at Bunker (169, 106, 3) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 23:19:51.861] MOB DELETE: on_mob_delete: OvelhaCosmica/(Adam Alves) at Wasteland (68, 60, 2) - /datum/reagent/consumable/nutriment
+[2021-05-17 23:20:08.257] MOB DELETE: on_mob_delete: Luciam/(Victoria Valentine) at Bunker (169, 107, 3) - /datum/reagent/medicine/stimpak
+[2021-05-17 23:20:18.305] MOB DELETE: on_mob_delete: Luciam/(Victoria Valentine) at Bunker (170, 106, 3) - /datum/reagent/drug/buffout
+[2021-05-17 23:20:21.738] MOB ADD: on_mob_add(): Rodinha/(Eridan Hikaj) at Wasteland (98, 122, 2) - 2 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-17 23:21:21.224] MOB DELETE: on_mob_delete: Rodinha/(Eridan Hikaj) at Village (111, 117, 2) - /datum/reagent/consumable/nutriment
+[2021-05-17 23:23:23.768] MOB ADD: on_mob_add(): kaduh/(Erika Miller) at Wasteland (236, 200, 2) - 10 of /datum/reagent/water with 1 purity
+[2021-05-17 23:23:25.141] MOB ADD: on_merge(): kaduh/(Erika Miller) at Wasteland (236, 200, 2) - 17.6 of /datum/reagent/water with 1 purity
+[2021-05-17 23:24:55.000] MOB DELETE: on_mob_delete: kaduh/(Erika Miller) at Wasteland (235, 231, 2) - /datum/reagent/water
+[2021-05-17 23:25:18.309] MOB ADD: on_mob_add(): SpookyPineapple/(Tonhao Vermelho) at Wasteland (20, 195, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 23:25:21.453] MOB DELETE: on_mob_delete: SpookyPineapple/(Tonhao Vermelho) at Wasteland (9, 200, 2) - /datum/reagent/medicine/stimpak
+[2021-05-17 23:25:27.261] MOB ADD: on_mob_add(): Rodinha/(Eridan Hikaj) at Wasteland (131, 120, 2) - 1 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-17 23:25:27.261] MOB ADD: on_mob_add(): Rodinha/(Eridan Hikaj) at Wasteland (131, 120, 2) - 1 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-17 23:25:28.229] MOB ADD: on_merge(): Rodinha/(Eridan Hikaj) at Wasteland (131, 120, 2) - 1.2 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-17 23:25:29.344] MOB ADD: on_merge(): Rodinha/(Eridan Hikaj) at Wasteland (131, 120, 2) - 2.2 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-17 23:25:30.184] MOB ADD: on_merge(): Rodinha/(Eridan Hikaj) at Wasteland (131, 120, 2) - 2.4 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-17 23:25:35.533] MOB DELETE: on_mob_delete: Rodinha/(Eridan Hikaj) at Wasteland (131, 120, 2) - /datum/reagent/consumable/sugar
+[2021-05-17 23:25:45.793] MOB DELETE: on_mob_delete: Rodinha/(Eridan Hikaj) at Wasteland (131, 120, 2) - /datum/reagent/consumable/nutriment
+[2021-05-17 23:25:45.833] TRANSFER: FROM The red hypovial (bicaridine) ([0x204d0ec]) (0,0,0) TO The orange hypovial (kelotane) ([0x204cfda]) (0,0,0) - alexalbright/(Alex Magnus Primeiro) - reagentcontainer-glass afterattack transfer to: trans_to with arguments the orange hypovial (kelotane) 10 1 1 0 and reagents Bicaridine - 10
+[2021-05-17 23:25:45.961] TRANSFER: FROM The red hypovial (bicaridine) ([0x204d0ec]) (0,0,0) TO The orange hypovial (kelotane) ([0x204cfda]) (0,0,0) - alexalbright/(Alex Magnus Primeiro) - reagentcontainer-glass afterattack transfer to: trans_to with arguments the orange hypovial (kelotane) 10 1 1 0 and reagents Bicaridine - 10
+[2021-05-17 23:25:46.289] TRANSFER: FROM The red hypovial (bicaridine) ([0x204d0ec]) (0,0,0) TO The orange hypovial (kelotane) ([0x204cfda]) (0,0,0) - alexalbright/(Alex Magnus Primeiro) - reagentcontainer-glass afterattack transfer to: trans_to with arguments the orange hypovial (kelotane) 10 1 1 0 and reagents Bicaridine - 10
+[2021-05-17 23:25:48.744] TRANSFER: FROM The red hypovial (bicaridine) ([0x204d0eb]) (0,0,0) TO The orange hypovial (kelotane) ([0x204cff9]) (0,0,0) - alexalbright/(Alex Magnus Primeiro) - reagentcontainer-glass afterattack transfer to: trans_to with arguments the orange hypovial (kelotane) 10 1 1 0 and reagents Bicaridine - 10
+[2021-05-17 23:25:48.882] TRANSFER: FROM The red hypovial (bicaridine) ([0x204d0eb]) (0,0,0) TO The orange hypovial (kelotane) ([0x204cff9]) (0,0,0) - alexalbright/(Alex Magnus Primeiro) - reagentcontainer-glass afterattack transfer to: trans_to with arguments the orange hypovial (kelotane) 10 1 1 0 and reagents Bicaridine - 10
+[2021-05-17 23:25:48.977] TRANSFER: FROM The red hypovial (bicaridine) ([0x204d0eb]) (0,0,0) TO The orange hypovial (kelotane) ([0x204cff9]) (0,0,0) - alexalbright/(Alex Magnus Primeiro) - reagentcontainer-glass afterattack transfer to: trans_to with arguments the orange hypovial (kelotane) 10 1 1 0 and reagents Bicaridine - 10
+[2021-05-17 23:25:58.117] TRANSFER: FROM The red hypovial (bicaridine) ([0x204ce1f]) (0,0,0) TO The orange hypovial (kelotane) ([0x204c3f9]) (0,0,0) - alexalbright/(Alex Magnus Primeiro) - reagentcontainer-glass afterattack transfer to: trans_to with arguments the orange hypovial (kelotane) 10 1 1 0 and reagents Bicaridine - 10
+[2021-05-17 23:25:58.268] TRANSFER: FROM The red hypovial (bicaridine) ([0x204ce1f]) (0,0,0) TO The orange hypovial (kelotane) ([0x204c3f9]) (0,0,0) - alexalbright/(Alex Magnus Primeiro) - reagentcontainer-glass afterattack transfer to: trans_to with arguments the orange hypovial (kelotane) 10 1 1 0 and reagents Bicaridine - 10
+[2021-05-17 23:25:58.418] TRANSFER: FROM The red hypovial (bicaridine) ([0x204ce1f]) (0,0,0) TO The orange hypovial (kelotane) ([0x204c3f9]) (0,0,0) - alexalbright/(Alex Magnus Primeiro) - reagentcontainer-glass afterattack transfer to: trans_to with arguments the orange hypovial (kelotane) 10 1 1 0 and reagents Bicaridine - 10
+[2021-05-17 23:26:00.442] TRANSFER: FROM The red hypovial (bicaridine) ([0x204992b]) (0,0,0) TO The red hypovial (bicaridine) ([0x204992e]) (0,0,0) - Zero9e1/(Garrety Wells) - reagentcontainer-glass afterattack transfer to: trans_to with arguments the red hypovial (bicaridine) 10 1 1 0 and reagents Bicaridine - 10
+[2021-05-17 23:26:13.709] MOB ADD: on_mob_add(): Luciam/(Victoria Valentine) at Bunker (170, 108, 3) - 20 of /datum/reagent/medicine/styptic_powder with 1 purity
+[2021-05-17 23:26:20.276] TRANSFER: FROM The red hypovial (bicaridine) ([0x204d0e5]) (0,0,0) TO The orange hypovial (kelotane) ([0x204cfec]) (0,0,0) - alexalbright/(Alex Magnus Primeiro) - reagentcontainer-glass afterattack transfer to: trans_to with arguments the orange hypovial (kelotane) 10 1 1 0 and reagents Bicaridine - 10
+[2021-05-17 23:26:20.429] TRANSFER: FROM The red hypovial (bicaridine) ([0x204d0e5]) (0,0,0) TO The orange hypovial (kelotane) ([0x204cfec]) (0,0,0) - alexalbright/(Alex Magnus Primeiro) - reagentcontainer-glass afterattack transfer to: trans_to with arguments the orange hypovial (kelotane) 10 1 1 0 and reagents Bicaridine - 10
+[2021-05-17 23:26:20.505] TRANSFER: FROM The red hypovial (bicaridine) ([0x204d0e5]) (0,0,0) TO The orange hypovial (kelotane) ([0x204cfec]) (0,0,0) - alexalbright/(Alex Magnus Primeiro) - reagentcontainer-glass afterattack transfer to: trans_to with arguments the orange hypovial (kelotane) 10 1 1 0 and reagents Bicaridine - 10
+[2021-05-17 23:26:20.536] MOB ADD: on_merge(): Luciam/(Victoria Valentine) at Bunker (169, 108, 3) - 34 of /datum/reagent/medicine/styptic_powder with 1 purity
+[2021-05-17 23:26:22.851] TRANSFER: FROM The red hypovial (bicaridine) ([0x204d0ea]) (0,0,0) TO The orange hypovial (kelotane) ([0x204d09d]) (0,0,0) - alexalbright/(Alex Magnus Primeiro) - reagentcontainer-glass afterattack transfer to: trans_to with arguments the orange hypovial (kelotane) 10 1 1 0 and reagents Bicaridine - 10
+[2021-05-17 23:26:23.006] TRANSFER: FROM The red hypovial (bicaridine) ([0x204d0ea]) (0,0,0) TO The orange hypovial (kelotane) ([0x204d09d]) (0,0,0) - alexalbright/(Alex Magnus Primeiro) - reagentcontainer-glass afterattack transfer to: trans_to with arguments the orange hypovial (kelotane) 10 1 1 0 and reagents Bicaridine - 10
+[2021-05-17 23:26:23.089] TRANSFER: FROM The red hypovial (bicaridine) ([0x204d0ea]) (0,0,0) TO The orange hypovial (kelotane) ([0x204d09d]) (0,0,0) - alexalbright/(Alex Magnus Primeiro) - reagentcontainer-glass afterattack transfer to: trans_to with arguments the orange hypovial (kelotane) 10 1 1 0 and reagents Bicaridine - 10
+[2021-05-17 23:26:26.217] TRANSFER: FROM The red hypovial (bicaridine) ([0x204d0e6]) (0,0,0) TO The orange hypovial (kelotane) ([0x204d071]) (159,39,2) - alexalbright/(Alex Magnus Primeiro) - reagentcontainer-glass afterattack transfer to: trans_to with arguments the orange hypovial (kelotane) 10 1 1 0 and reagents Bicaridine - 10
+[2021-05-17 23:26:26.407] TRANSFER: FROM The red hypovial (bicaridine) ([0x204d0e6]) (0,0,0) TO The orange hypovial (kelotane) ([0x204d071]) (159,39,2) - alexalbright/(Alex Magnus Primeiro) - reagentcontainer-glass afterattack transfer to: trans_to with arguments the orange hypovial (kelotane) 10 1 1 0 and reagents Bicaridine - 10
+[2021-05-17 23:26:26.497] TRANSFER: FROM The red hypovial (bicaridine) ([0x204d0e6]) (0,0,0) TO The orange hypovial (kelotane) ([0x204d071]) (159,39,2) - alexalbright/(Alex Magnus Primeiro) - reagentcontainer-glass afterattack transfer to: trans_to with arguments the orange hypovial (kelotane) 10 1 1 0 and reagents Bicaridine - 10
+[2021-05-17 23:26:35.158] MOB ADD: on_mob_add(): Luciam/(Victoria Valentine) at Bunker (169, 107, 3) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 23:26:41.945] MOB ADD: on_mob_add(): Coffee_MasterOri/(Nickolas Priebe) at Wasteland (148, 160, 2) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-17 23:26:54.308] MOB DELETE: on_mob_delete: Luciam/(Victoria Valentine) at Bunker (169, 107, 3) - /datum/reagent/medicine/styptic_powder
+[2021-05-17 23:26:54.311] MOB DELETE: on_mob_delete: Luciam/(Victoria Valentine) at Bunker (169, 107, 3) - /datum/reagent/medicine/stimpak
+[2021-05-17 23:26:57.037] MOB ADD: on_mob_add(): Coffee_MasterOri/(Nickolas Priebe) at Village (151, 158, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 23:27:32.892] MOB ADD: on_mob_add(): Rodinha/(Eridan Hikaj) at Village (142, 138, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 23:27:45.130] MOB DELETE: on_mob_delete: Coffee_MasterOri/(Nickolas Priebe) at Wasteland (137, 161, 2) - /datum/reagent/medicine/stimpak
+[2021-05-17 23:27:47.208] MOB DELETE: on_mob_delete: Coffee_MasterOri/(Nickolas Priebe) at Wasteland (137, 161, 2) - /datum/reagent/medicine/healing_powder
+[2021-05-17 23:27:47.944] MOB ADD: on_mob_add(): Zero9e1/(Garrety Wells) at NCR (10, 207, 2) - 2.5 of /datum/reagent/determination with 1 purity
+[2021-05-17 23:28:05.846] MOB DELETE: on_mob_delete: Zero9e1/(Garrety Wells) at NCR (8, 212, 2) - /datum/reagent/determination
+[2021-05-17 23:28:07.923] MOB DELETE: on_mob_delete: Rodinha/(Eridan Hikaj) at Village (153, 127, 2) - /datum/reagent/medicine/stimpak
+[2021-05-17 23:28:49.003] MOB ADD: on_mob_add(): Luciam/(Victoria Valentine) at Bunker (169, 108, 3) - 10 of /datum/reagent/medicine/super_stimpak with 1 purity
+[2021-05-17 23:29:24.714] MOB ADD: on_mob_add(): Luciam/(Victoria Valentine) at Bunker (169, 108, 3) - 20 of /datum/reagent/medicine/silver_sulfadiazine with 1 purity
+[2021-05-17 23:29:36.204] MOB ADD: on_mob_add(): alexalbright/(Alex Magnus Primeiro) at Legion (221, 33, 2) - 5 of /datum/reagent/medicine/kelotane with 1 purity
+[2021-05-17 23:29:36.204] MOB ADD: on_mob_add(): alexalbright/(Alex Magnus Primeiro) at Legion (221, 33, 2) - 5 of /datum/reagent/medicine/bicaridine with 1 purity
+[2021-05-17 23:29:45.283] MOB DELETE: on_mob_delete: Luciam/(Victoria Valentine) at Bunker (170, 107, 3) - /datum/reagent/medicine/silver_sulfadiazine
+[2021-05-17 23:29:47.662] OVERDOSE STOP: Luciam/(Victoria Valentine) at Bunker (168, 107, 3) got over their need for Buffout Powder.
+[2021-05-17 23:30:02.077] MOB DELETE: on_mob_delete: alexalbright/(Alex Magnus Primeiro) at Legion (244, 29, 2) - /datum/reagent/medicine/kelotane
+[2021-05-17 23:30:02.078] MOB DELETE: on_mob_delete: alexalbright/(Alex Magnus Primeiro) at Legion (244, 29, 2) - /datum/reagent/medicine/bicaridine
+[2021-05-17 23:30:32.022] MOB ADD: on_mob_add(): Zero9e1/(Garrety Wells) at Wasteland (26, 195, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 23:30:57.010] MOB DELETE: on_mob_delete: Zero9e1/(Garrety Wells) at Wasteland (26, 198, 2) - /datum/reagent/medicine/stimpak
+[2021-05-17 23:31:53.885] MOB ADD: on_mob_add(): Coffee_MasterOri/(Nickolas Priebe) at Village (130, 176, 2) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-17 23:32:14.431] MOB ADD: on_mob_add(): Coffee_MasterOri/(Nickolas Priebe) at Village (130, 176, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 23:33:37.250] MOB DELETE: on_mob_delete: Coffee_MasterOri[DC]/(Nickolas Priebe) at Village (141, 173, 2) - /datum/reagent/medicine/healing_powder
+[2021-05-17 23:33:53.856] MOB DELETE: on_mob_delete: Coffee_MasterOri[DC]/(Nickolas Priebe) at Village (141, 173, 2) - /datum/reagent/medicine/stimpak
+[2021-05-17 23:34:24.606] MOB ADD: on_mob_add(): *no key*/(Garrety Wells) at Wasteland (26, 195, 2) - 2.5 of /datum/reagent/determination with 1 purity
+[2021-05-17 23:34:24.756] MOB ADD: on_merge(): *no key*/(Garrety Wells) at Wasteland (26, 195, 2) - 7.5 of /datum/reagent/determination with 1 purity
+[2021-05-17 23:34:24.958] MOB ADD: on_merge(): *no key*/(Garrety Wells) at Wasteland (26, 195, 2) - 12.5 of /datum/reagent/determination with 1 purity
+[2021-05-17 23:36:49.342] MOB ADD: on_mob_add(): Degusta00/(Monte Ehret) at Village (175, 138, 2) - 10 of /datum/reagent/consumable/soymilk with 1 purity
+[2021-05-17 23:36:59.194] MOB ADD: on_mob_add(): 2006f/(Dirk Cook) at Wasteland (141, 183, 2) - 10 of /datum/reagent/medicine/super_stimpak with 1 purity
+[2021-05-17 23:37:09.578] MOB DELETE: on_mob_delete: 2006f/(Dirk Cook) at Wasteland (171, 186, 2) - /datum/reagent/medicine/super_stimpak
+[2021-05-17 23:37:46.068] MOB DELETE: on_mob_delete: Degusta00/(Monte Ehret) at Village (147, 122, 2) - /datum/reagent/consumable/soymilk
+[2021-05-17 23:37:54.688] MOB ADD: on_mob_add(): alexalbright/(Alex Magnus Primeiro) at Building (35, 96, 2) - 5 of /datum/reagent/toxin with 1 purity
+[2021-05-17 23:38:10.972] MOB DELETE: on_mob_delete: alexalbright/(Alex Magnus Primeiro) at Building (34, 96, 2) - /datum/reagent/toxin
+[2021-05-17 23:41:27.259] MOB ADD: on_mob_add(): n0fun/(Peter Quill) at NCR (34, 205, 3) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 23:42:13.278] MOB ADD: on_mob_add(): n0fun/(Peter Quill) at NCR (35, 192, 3) - 10 of /datum/reagent/medicine/super_stimpak with 1 purity
+[2021-05-17 23:42:17.862] MOB ADD: on_mob_add(): alexalbright/(Alex Magnus Primeiro) at Building (30, 96, 2) - 5 of /datum/reagent/medicine/kelotane with 1 purity
+[2021-05-17 23:42:17.863] MOB ADD: on_mob_add(): alexalbright/(Alex Magnus Primeiro) at Building (30, 96, 2) - 5 of /datum/reagent/medicine/bicaridine with 1 purity
+[2021-05-17 23:42:41.602] MOB ADD: on_mob_add(): n0fun/(Peter Quill) at NCR (31, 203, 3) - 1 of /datum/reagent/determination with 1 purity
+[2021-05-17 23:42:44.619] MOB ADD: on_merge(): n0fun/(Peter Quill) at NCR (31, 205, 3) - 3.2 of /datum/reagent/determination with 1 purity
+[2021-05-17 23:42:45.513] MOB DELETE: on_mob_delete: alexalbright/(Alex Magnus Primeiro) at Building (37, 94, 2) - /datum/reagent/medicine/kelotane
+[2021-05-17 23:42:45.513] MOB DELETE: on_mob_delete: alexalbright/(Alex Magnus Primeiro) at Building (37, 94, 2) - /datum/reagent/medicine/bicaridine
+[2021-05-17 23:43:07.218] MOB DELETE: on_mob_delete: n0fun/(Peter Quill) at NCR (39, 195, 3) - /datum/reagent/determination
+[2021-05-17 23:43:17.825] MOB ADD: on_mob_add(): Harm Brade/(Rebecca Dawkins) at NCR (21, 192, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 23:43:21.351] MOB DELETE: on_mob_delete: n0fun/(Peter Quill) at NCR (40, 192, 3) - /datum/reagent/medicine/stimpak
+[2021-05-17 23:43:30.977] MOB DELETE: on_mob_delete: n0fun/(Peter Quill) at NCR (41, 191, 3) - /datum/reagent/medicine/super_stimpak
+[2021-05-17 23:43:34.944] MOB DELETE: on_mob_delete: Harm Brade/(Rebecca Dawkins) at Wasteland (10, 232, 2) - /datum/reagent/medicine/stimpak
+[2021-05-17 23:43:40.546] MOB ADD: on_mob_add(): Degusta00/(Monte Ehret) at Wasteland (129, 133, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 23:44:19.756] MOB DELETE: on_mob_delete: Degusta00/(Monte Ehret) at Wasteland (137, 133, 2) - /datum/reagent/medicine/stimpak
+[2021-05-17 23:44:26.173] MOB ADD: on_mob_add(): *no key*/(Peter Quill) at NCR (39, 193, 3) - 5 of /datum/reagent/determination with 1 purity
+[2021-05-17 23:44:27.075] MOB ADD: on_merge(): *no key*/(Peter Quill) at NCR (39, 193, 3) - 10 of /datum/reagent/determination with 1 purity
+[2021-05-17 23:44:28.103] MOB ADD: on_merge(): *no key*/(Peter Quill) at NCR (39, 193, 3) - 17.5 of /datum/reagent/determination with 1 purity
+[2021-05-17 23:46:22.659] MOB ADD: on_mob_add(): SpookyPineapple/(Tonhao Vermelho) at NCR (18, 207, 2) - 20 of /datum/reagent/medicine/styptic_powder with 1 purity
+[2021-05-17 23:46:42.784] MOB DELETE: on_mob_delete: SpookyPineapple/(Tonhao Vermelho) at Wasteland (26, 211, 2) - /datum/reagent/medicine/styptic_powder
+[2021-05-17 23:48:42.457] MOB ADD: on_mob_add(): John_egbert3/(Borgos Comiamaedoluiz) at Wasteland (18, 197, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 23:48:58.408] MOB DELETE: on_mob_delete: John_egbert3/(Borgos Comiamaedoluiz) at Wasteland (45, 200, 2) - /datum/reagent/medicine/stimpak
+[2021-05-17 23:49:03.632] MOB ADD: on_mob_add(): zero9e1/(Seth Lord) at Wasteland (17, 180, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 23:49:05.750] MOB ADD: on_mob_add(): zero9e1/(Seth Lord) at Wasteland (17, 180, 2) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-17 23:49:14.142] MOB ADD: on_mob_add(): Harm Brade/(Rebecca Dawkins) at Wasteland (30, 199, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 23:49:15.618] MOB ADD: on_merge(): zero9e1/(Seth Lord) at Wasteland (13, 184, 2) - 19 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-17 23:49:24.416] MOB ADD: on_mob_add(): SpookyPineapple/(Tonhao Vermelho) at Wasteland (25, 195, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 23:49:37.385] MOB ADD: on_merge(): zero9e1/(Seth Lord) at Wasteland (12, 185, 2) - 16.8 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 23:49:41.981] MOB DELETE: on_mob_delete: Harm Brade/(Rebecca Dawkins) at Wasteland (45, 231, 2) - /datum/reagent/medicine/stimpak
+[2021-05-17 23:50:35.532] MOB ADD: on_mob_add(): Harm Brade/(Rebecca Dawkins) at Wasteland (26, 199, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 23:50:39.505] MOB DELETE: on_mob_delete: SpookyPineapple/(Tonhao Vermelho) at Wasteland (17, 193, 2) - /datum/reagent/medicine/stimpak
+[2021-05-17 23:50:39.786] MOB ADD: on_mob_add(): sondtheanime/(Courier) at Wasteland (14, 179, 2) - 10 of /datum/reagent/medicine/super_stimpak with 1 purity
+[2021-05-17 23:50:45.768] MOB DELETE: on_mob_delete: zero9e1/(Seth Lord) at Wasteland (16, 188, 2) - /datum/reagent/medicine/stimpak
+[2021-05-17 23:50:45.769] MOB DELETE: on_mob_delete: zero9e1/(Seth Lord) at Wasteland (16, 188, 2) - /datum/reagent/medicine/healing_powder
+[2021-05-17 23:50:54.012] MOB DELETE: on_mob_delete: sondtheanime/(Courier) at Wasteland (21, 188, 2) - /datum/reagent/medicine/super_stimpak
+[2021-05-17 23:51:02.126] MOB ADD: on_merge(): Harm Brade/(Rebecca Dawkins) at Wasteland (19, 197, 2) - 17.6 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 23:51:51.818] MOB DELETE: on_mob_delete: Harm Brade/(Rebecca Dawkins) at Caves (55, 238, 3) - /datum/reagent/medicine/stimpak
+[2021-05-17 23:53:18.409] MOB ADD: on_mob_add(): Matheusgp9999/(Nykix Nywt) at Bar (57, 107, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 23:53:19.650] MOB ADD: on_mob_add(): Matheusgp9999/(Nykix Nywt) at Bar (57, 107, 2) - 1 of /datum/reagent/determination with 1 purity
+[2021-05-17 23:53:28.702] MOB DELETE: on_mob_delete: Matheusgp9999/(Nykix Nywt) at Bar (58, 105, 2) - /datum/reagent/determination
+[2021-05-17 23:53:29.148] MOB ADD: on_mob_add(): Matheusgp9999/(Nykix Nywt) at Bar (59, 104, 2) - 1 of /datum/reagent/determination with 1 purity
+[2021-05-17 23:53:31.151] SPLASH - the blackpowder bottle object SplashReagents() onto the floor at the floor (Village (153, 169, 2)) THROWN BY Degusta00/(Monte Ehret) at the floor (Village (156, 168, 2)) - /datum/reagent/blackpowder (60u)
+[2021-05-17 23:53:38.603] MOB DELETE: on_mob_delete: Matheusgp9999/(Nykix Nywt) at Bar (61, 102, 2) - /datum/reagent/determination
+[2021-05-17 23:53:48.402] MOB ADD: on_merge(): Matheusgp9999/(Nykix Nywt) at Bar (61, 102, 2) - 17.4 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 23:53:51.676] MOB ADD: on_mob_add(): 2006f/(Dirk Cook) at Wasteland (184, 7, 4) - 5 of /datum/reagent/toxin/cazador_venom with 1 purity
+[2021-05-17 23:54:11.968] MOB DELETE: on_mob_delete: 2006f/(Dirk Cook) at Wasteland (183, 2, 4) - /datum/reagent/toxin/cazador_venom
+[2021-05-17 23:54:58.594] MOB DELETE: on_mob_delete: Matheusgp9999/(Nykix Nywt) at Bar (60, 104, 2) - /datum/reagent/medicine/stimpak
+[2021-05-17 23:57:00.619] MOB ADD: on_mob_add(): zero9e1/(Seth Lord) at Wasteland (45, 225, 2) - 1 of /datum/reagent/determination with 1 purity
+[2021-05-17 23:57:01.687] MOB ADD: on_merge(): zero9e1/(Seth Lord) at Wasteland (45, 224, 2) - 3.2 of /datum/reagent/determination with 1 purity
+[2021-05-17 23:57:02.632] MOB ADD: on_merge(): zero9e1/(Seth Lord) at Wasteland (45, 224, 2) - 8.2 of /datum/reagent/determination with 1 purity
+[2021-05-17 23:57:02.782] MOB ADD: on_merge(): zero9e1/(Seth Lord) at Wasteland (45, 224, 2) - 10.7 of /datum/reagent/determination with 1 purity
+[2021-05-17 23:57:03.331] MOB ADD: on_merge(): zero9e1/(Seth Lord) at Wasteland (45, 224, 2) - 18.2 of /datum/reagent/determination with 1 purity
+[2021-05-17 23:57:04.116] MOB ADD: on_merge(): *no key*/(Seth Lord) at Wasteland (45, 224, 2) - 19.2 of /datum/reagent/determination with 1 purity
+[2021-05-17 23:57:04.313] MOB ADD: on_merge(): *no key*/(Seth Lord) at Wasteland (45, 224, 2) - 21.7 of /datum/reagent/determination with 1 purity
+[2021-05-17 23:57:19.424] MOB ADD: on_mob_add(): DropShip27/(Drake Gibson) at Wasteland (48, 185, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 23:57:38.244] MOB DELETE: on_mob_delete: DropShip27/(Drake Gibson) at Wasteland (108, 164, 2) - /datum/reagent/medicine/stimpak
+[2021-05-17 23:58:10.467] MOB ADD: on_mob_add(): johonasmexicanjo/(Heather Rose) at Wasteland (45, 201, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 23:58:16.715] MOB ADD: on_mob_add(): comicao1/(Sorrel Riker) at Wasteland (46, 204, 2) - 10 of /datum/reagent/medicine/super_stimpak with 1 purity
+[2021-05-17 23:58:23.344] MOB ADD: on_merge(): *no key*/(Heather Rose) at Wasteland (44, 203, 2) - 20 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 23:58:39.604] MOB DELETE: on_mob_delete: comicao1/(Sorrel Riker) at Wasteland (44, 201, 2) - /datum/reagent/medicine/super_stimpak
+[2021-05-17 23:58:44.836] MOB ADD: on_mob_add(): John_egbert3/(Borgos Comiamaedoluiz) at Wasteland (29, 195, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 23:58:54.829] MOB ADD: on_mob_add(): SpookyPineapple/(Tonhao Vermelho) at Wasteland (21, 199, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 23:59:04.510] MOB ADD: on_merge(): SpookyPineapple/(Tonhao Vermelho) at Wasteland (21, 199, 2) - 19 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-17 23:59:12.618] MOB DELETE: on_mob_delete: John_egbert3/(Borgos Comiamaedoluiz) at Wasteland (17, 197, 2) - /datum/reagent/medicine/stimpak
+[2021-05-17 23:59:27.118] MOB ADD: on_mob_add(): Harm Brade/(Rebecca Dawkins) at Wasteland (19, 195, 2) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-18 00:00:06.131] MOB DELETE: on_mob_delete: SpookyPineapple/(Tonhao Vermelho) at Wasteland (4, 197, 2) - /datum/reagent/medicine/stimpak
+[2021-05-18 00:01:03.024] MOB ADD: on_mob_add(): *no key*/(Valary Paynter) at Wasteland (7, 199, 2) - 5 of /datum/reagent/determination with 1 purity
+[2021-05-18 00:01:11.175] MOB DELETE: on_mob_delete: Harm Brade/(Rebecca Dawkins) at Wasteland (4, 196, 2) - /datum/reagent/medicine/healing_powder
+[2021-05-18 00:01:53.390] MOB ADD: on_mob_add(): Harm Brade/(Rebecca Dawkins) at Wasteland (23, 185, 2) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-18 00:02:02.368] MOB DELETE: on_mob_delete: Harm Brade/(Rebecca Dawkins) at Wasteland (23, 184, 2) - /datum/reagent/medicine/healing_powder
+[2021-05-18 00:05:43.299] MOB ADD: on_mob_add(): comicao1/(Sorrel Riker) at Wasteland (27, 194, 2) - 1 of /datum/reagent/determination with 1 purity
+[2021-05-18 00:05:44.236] MOB ADD: on_merge(): comicao1/(Sorrel Riker) at Wasteland (27, 194, 2) - 3.26 of /datum/reagent/determination with 1 purity
+[2021-05-18 00:06:13.441] MOB ADD: on_mob_add(): SpookyPineapple/(Tonhao Vermelho) at Wasteland (16, 184, 2) - 1 of /datum/reagent/determination with 1 purity
+[2021-05-18 00:06:23.269] MOB DELETE: on_mob_delete: SpookyPineapple/(Tonhao Vermelho) at Wasteland (11, 179, 2) - /datum/reagent/determination
+[2021-05-18 00:06:33.361] MOB ADD: on_mob_add(): Harm Brade/(Rebecca Dawkins) at Wasteland (16, 185, 2) - 1 of /datum/reagent/determination with 1 purity
+[2021-05-18 00:06:36.047] MOB ADD: on_merge(): Harm Brade/(Rebecca Dawkins) at Wasteland (16, 185, 2) - 3.02 of /datum/reagent/determination with 1 purity
+[2021-05-18 00:06:42.210] MOB ADD: on_merge(): *no key*/(Rebecca Dawkins) at Wasteland (16, 185, 2) - 7.78 of /datum/reagent/determination with 1 purity
+[2021-05-18 00:06:52.463] MOB ADD: on_mob_add(): Xandi_Masculu/(Jeremus Hardson) at Wasteland (210, 57, 2) - 2 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-18 00:06:57.641] MOB ADD: on_mob_add(): SpookyPineapple/(Tonhao Vermelho) at Wasteland (10, 153, 2) - 20 of /datum/reagent/medicine/radx with 1 purity
+[2021-05-18 00:08:44.552] MOB DELETE: on_mob_delete: Xandi_Masculu/(Jeremus Hardson) at Wasteland (207, 64, 2) - /datum/reagent/consumable/nutriment
+[2021-05-18 00:10:11.284] MOB ADD: on_mob_add(): SpookyPineapple/(Tonhao Vermelho) at Building (131, 199, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-18 00:10:20.574] MOB DELETE: on_mob_delete: SpookyPineapple/(Tonhao Vermelho) at Building (135, 197, 2) - /datum/reagent/medicine/radx
+[2021-05-18 00:10:58.614] MOB DELETE: on_mob_delete: SpookyPineapple/(Tonhao Vermelho) at Building (147, 192, 2) - /datum/reagent/medicine/stimpak
+[2021-05-18 00:13:17.712] MOB ADD: on_mob_add(): *no key*/(Bob Loureiro) at Building (214, 78, 2) - 1 of /datum/reagent/determination with 1 purity
+[2021-05-18 00:13:18.708] MOB ADD: on_merge(): *no key*/(Bob Loureiro) at Building (214, 78, 2) - 6 of /datum/reagent/determination with 1 purity
+[2021-05-18 00:13:19.522] MOB ADD: on_merge(): *no key*/(Bob Loureiro) at Building (214, 78, 2) - 11 of /datum/reagent/determination with 1 purity
+[2021-05-18 00:13:20.694] MOB ADD: on_merge(): *no key*/(Bob Loureiro) at Building (214, 78, 2) - 12 of /datum/reagent/determination with 1 purity
+[2021-05-18 00:19:37.817] MOB ADD: on_mob_add(): John_egbert3/(Borgos Comiamaedoluiz) at Wasteland (212, 54, 2) - 2 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-18 00:19:39.747] MOB ADD: on_mob_add(): *no key*/(Heather Rose) at NCR (36, 210, 2) - 5 of /datum/reagent/medicine/epinephrine with 1 purity
+[2021-05-18 00:20:06.988] MOB ADD: on_mob_add(): John_egbert3/(Borgos Comiamaedoluiz) at Legion (207, 44, 2) - 0.6 of /datum/reagent/consumable/nutriment/vitamin with 1 purity
+[2021-05-18 00:20:11.795] MOB ADD: on_mob_add(): John_egbert3/(Borgos Comiamaedoluiz) at Legion (205, 44, 2) - 1.471 of /datum/reagent/water with 1 purity
+[2021-05-18 00:20:12.762] MOB ADD: on_merge(): John_egbert3/(Borgos Comiamaedoluiz) at Legion (204, 44, 2) - 2.942 of /datum/reagent/water with 1 purity
+[2021-05-18 00:20:13.381] MOB ADD: on_mob_add(): Kaduh/(Erika Miller) at Vault (44, 171, 4) - 0.2 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-18 00:20:13.382] MOB ADD: on_mob_add(): Kaduh/(Erika Miller) at Vault (44, 171, 4) - 0.6 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 00:20:13.382] MOB ADD: on_mob_add(): Kaduh/(Erika Miller) at Vault (44, 171, 4) - 0.2 of /datum/reagent/consumable/sodiumchloride with 1 purity
+[2021-05-18 00:20:13.666] MOB ADD: on_merge(): John_egbert3/(Borgos Comiamaedoluiz) at Legion (206, 44, 2) - 4.013 of /datum/reagent/water with 1 purity
+[2021-05-18 00:20:14.570] MOB ADD: on_merge(): John_egbert3/(Borgos Comiamaedoluiz) at Legion (207, 44, 2) - 4.601 of /datum/reagent/water with 1 purity
+[2021-05-18 00:20:14.796] MOB ADD: on_merge(): Kaduh/(Erika Miller) at Vault (49, 171, 4) - 1.2 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 00:20:14.797] MOB ADD: on_merge(): Kaduh/(Erika Miller) at Vault (49, 171, 4) - 0.4 of /datum/reagent/consumable/sodiumchloride with 1 purity
+[2021-05-18 00:20:14.834] MOB DELETE: on_mob_delete: Kaduh/(Erika Miller) at Vault (49, 171, 4) - /datum/reagent/consumable/nutriment
+[2021-05-18 00:20:14.835] MOB DELETE: on_mob_delete: Kaduh/(Erika Miller) at Vault (49, 171, 4) - /datum/reagent/consumable/sodiumchloride
+[2021-05-18 00:20:16.202] MOB ADD: on_mob_add(): Kaduh/(Erika Miller) at Vault (51, 171, 4) - 0.2 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-18 00:20:16.202] MOB ADD: on_merge(): Kaduh/(Erika Miller) at Vault (51, 171, 4) - 1 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 00:20:16.202] MOB ADD: on_mob_add(): Kaduh/(Erika Miller) at Vault (51, 171, 4) - 0.2 of /datum/reagent/consumable/sodiumchloride with 1 purity
+[2021-05-18 00:20:16.988] MOB DELETE: on_mob_delete: Kaduh/(Erika Miller) at Vault (51, 171, 4) - /datum/reagent/consumable/nutriment
+[2021-05-18 00:20:16.989] MOB DELETE: on_mob_delete: Kaduh/(Erika Miller) at Vault (51, 171, 4) - /datum/reagent/consumable/sodiumchloride
+[2021-05-18 00:20:18.788] MOB ADD: on_mob_add(): Kaduh/(Erika Miller) at Vault (52, 171, 4) - 0.2 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-18 00:20:18.789] MOB ADD: on_merge(): Kaduh/(Erika Miller) at Vault (52, 171, 4) - 0.8 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 00:20:18.789] MOB ADD: on_mob_add(): Kaduh/(Erika Miller) at Vault (52, 171, 4) - 0.2 of /datum/reagent/consumable/sodiumchloride with 1 purity
+[2021-05-18 00:20:18.961] MOB DELETE: on_mob_delete: Kaduh/(Erika Miller) at Vault (53, 171, 4) - /datum/reagent/consumable/sugar
+[2021-05-18 00:20:18.962] MOB DELETE: on_mob_delete: Kaduh/(Erika Miller) at Vault (53, 171, 4) - /datum/reagent/consumable/nutriment
+[2021-05-18 00:20:18.962] MOB DELETE: on_mob_delete: Kaduh/(Erika Miller) at Vault (53, 171, 4) - /datum/reagent/consumable/sodiumchloride
+[2021-05-18 00:20:20.016] MOB ADD: on_mob_add(): Kaduh/(Erika Miller) at Vault (55, 171, 4) - 0.2 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-18 00:20:20.017] MOB ADD: on_mob_add(): Kaduh/(Erika Miller) at Vault (55, 171, 4) - 0.6 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 00:20:20.017] MOB ADD: on_mob_add(): Kaduh/(Erika Miller) at Vault (55, 171, 4) - 0.2 of /datum/reagent/consumable/sodiumchloride with 1 purity
+[2021-05-18 00:20:21.022] MOB DELETE: on_mob_delete: Kaduh/(Erika Miller) at Vault (55, 171, 4) - /datum/reagent/consumable/nutriment
+[2021-05-18 00:20:21.022] MOB DELETE: on_mob_delete: Kaduh/(Erika Miller) at Vault (55, 171, 4) - /datum/reagent/consumable/sugar
+[2021-05-18 00:20:21.022] MOB DELETE: on_mob_delete: Kaduh/(Erika Miller) at Vault (55, 171, 4) - /datum/reagent/consumable/sodiumchloride
+[2021-05-18 00:20:37.757] MOB DELETE: on_mob_delete: John_egbert3/(Borgos Comiamaedoluiz) at Legion (246, 51, 2) - /datum/reagent/consumable/nutriment/vitamin
+[2021-05-18 00:20:37.758] MOB DELETE: on_mob_delete: John_egbert3/(Borgos Comiamaedoluiz) at Legion (246, 51, 2) - /datum/reagent/water
+[2021-05-18 00:20:47.166] SPLASH - the x-large beaker object SplashReagents() onto the floor at the floor (Tunnel (63, 33, 3)) THROWN BY Macaco99/(Ramon Lee) at the floor (Tunnel (62, 33, 3)) - /datum/reagent/medicine/salglu_solution (45u)
+[2021-05-18 00:21:27.586] TRANSFER: FROM The large beaker ([0x20069d6]) (0,0,0) TO The x-large beaker ([0x20069d8]) (61,33,3) - Macaco99/(Ramon Lee) - reagentcontainer-glass afterattack transfer to: trans_to with arguments the x-large beaker 5 1 1 0 and reagents Table Salt - 5
+[2021-05-18 00:21:28.264] MOB ADD: on_mob_add(): Luiz20/(Luiz Borgos Primeiro) at Tunnel (33, 177, 3) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-18 00:21:44.614] MOB DELETE: on_mob_delete: John_egbert3/(Borgos Comiamaedoluiz) at Wasteland (215, 65, 2) - /datum/reagent/consumable/nutriment
+[2021-05-18 00:21:51.938] MOB DELETE: on_mob_delete: Luiz20/(Luiz Borgos Primeiro) at Tunnel (83, 176, 3) - /datum/reagent/medicine/stimpak
+[2021-05-18 00:22:26.731] MOB ADD: on_mob_add(): Luiz20/(Luiz Borgos Primeiro) at Tunnel (114, 166, 3) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-18 00:22:52.798] MOB ADD: on_mob_add(): luciam/(Skarlet D'Luker) at NCR (17, 204, 2) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-18 00:22:57.333] MOB DELETE: on_mob_delete: luciam/(Skarlet D'Luker) at NCR (17, 204, 2) - /datum/reagent/medicine/healing_powder
+[2021-05-18 00:22:58.476] SPLASH - the x-large beaker object SplashReagents() onto the floor at the floor (Tunnel (63, 33, 3)) THROWN BY Macaco99/(Ramon Lee) at the floor (Tunnel (62, 33, 3)) - /datum/reagent/consumable/sodiumchloride (5u), /datum/reagent/carbon (5u), /datum/reagent/toxin/acid (5u) and /datum/reagent/iron (25u)
+[2021-05-18 00:23:00.690] MOB ADD: on_merge(): Luiz20/(Luiz Borgos Primeiro) at Tunnel (121, 178, 3) - 16.8 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-18 00:23:03.243] MOB ADD: on_mob_add(): Luiz20/(Luiz Borgos Primeiro) at Tunnel (121, 178, 3) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-18 00:23:12.344] SPLASH - the large beaker object SplashReagents() onto the floor at the floor (Tunnel (63, 33, 3)) THROWN BY Macaco99/(Ramon Lee) at the floor (Tunnel (62, 33, 3)) - /datum/reagent/consumable/sodiumchloride (10u)
+[2021-05-18 00:23:13.420] MOB ADD: on_mob_add(): zero9e1/(Noton) at Village (143, 99, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-18 00:23:45.630] MOB DELETE: on_mob_delete: zero9e1/(Noton) at Village (146, 108, 2) - /datum/reagent/medicine/stimpak
+[2021-05-18 00:23:47.346] TRANSFER: FROM The large beaker ([0x20069d6]) (0,0,0) TO The large beaker ([0x20069d5]) (61,33,3) - Macaco99/(Ramon Lee) - reagentcontainer-glass afterattack transfer to: trans_to with arguments the large beaker 10 1 1 0 and reagents Oil - 10
+[2021-05-18 00:23:48.242] MOB ADD: on_mob_add(): zero9e1/(Noton) at Village (146, 108, 2) - 6.222 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-18 00:23:48.242] MOB ADD: on_mob_add(): zero9e1/(Noton) at Village (146, 108, 2) - 0.778 of /datum/reagent/consumable/nutriment/vitamin with 1 purity
+[2021-05-18 00:23:51.473] TRANSFER: FROM The large beaker ([0x20069d5]) (0,0,0) TO The large beaker ([0x20069d6]) (61,33,3) - Macaco99/(Ramon Lee) - reagentcontainer-glass afterattack transfer to: trans_to with arguments the large beaker 10 1 1 0 and reagents Oil - 10
+[2021-05-18 00:23:52.531] MOB ADD: on_mob_add(): harmbrade/(Tristen Jenner) at Wasteland (209, 61, 2) - 10 of /datum/reagent/medicine/super_stimpak with 1 purity
+[2021-05-18 00:24:01.048] TRANSFER: FROM The large beaker ([0x20069d6]) (0,0,0) TO The large beaker ([0x20069d5]) (61,33,3) - Macaco99/(Ramon Lee) - reagentcontainer-glass afterattack transfer to: trans_to with arguments the large beaker 5 1 1 0 and reagents Oil - 5
+[2021-05-18 00:24:08.411] MOB DELETE: on_mob_delete: zero9e1/(Noton) at Wasteland (120, 123, 2) - /datum/reagent/consumable/nutriment/vitamin
+[2021-05-18 00:24:10.677] MOB DELETE: on_mob_delete: harmbrade/(Tristen Jenner) at Wasteland (241, 67, 2) - /datum/reagent/medicine/super_stimpak
+[2021-05-18 00:24:26.472] TRANSFER: FROM The large beaker ([0x20069d5]) (0,0,0) TO The large beaker ([0x20069d4]) (0,0,0) - Macaco99/(Ramon Lee) - reagentcontainer-glass afterattack transfer to: trans_to with arguments the large beaker 5 1 1 0 and reagents Phenol - 5
+[2021-05-18 00:24:56.246] MOB DELETE: on_mob_delete: Luiz20/(Luiz Borgos Primeiro) at Wasteland (108, 163, 2) - /datum/reagent/medicine/stimpak
+[2021-05-18 00:25:00.799] MOB ADD: on_mob_add(): SpookyPineapple/(Tonhao Vermelho) at Legion (208, 41, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-18 00:25:10.789] MOB ADD: on_mob_add(): comicao1/(Allah Humdililah) at Legion (246, 46, 2) - 1 of /datum/reagent/determination with 1 purity
+[2021-05-18 00:25:11.095] MOB ADD: on_merge(): comicao1/(Allah Humdililah) at Legion (246, 45, 2) - 3.5 of /datum/reagent/determination with 1 purity
+[2021-05-18 00:25:14.884] MOB ADD: on_merge(): comicao1/(Allah Humdililah) at Legion (246, 43, 2) - 8.2 of /datum/reagent/determination with 1 purity
+[2021-05-18 00:25:15.353] MOB ADD: on_merge(): comicao1/(Allah Humdililah) at Legion (246, 43, 2) - 13.2 of /datum/reagent/determination with 1 purity
+[2021-05-18 00:25:15.709] MOB ADD: on_merge(): comicao1/(Allah Humdililah) at Legion (246, 43, 2) - 20.7 of /datum/reagent/determination with 1 purity
+[2021-05-18 00:25:16.802] MOB ADD: on_merge(): *no key*/(Allah Humdililah) at Legion (246, 43, 2) - 21.7 of /datum/reagent/determination with 1 purity
+[2021-05-18 00:25:30.116] MOB ADD: on_mob_add(): Xandi_Masculu/(Jeremus Hardson) at Legion (219, 22, 2) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-18 00:25:51.889] MOB DELETE: on_mob_delete: Xandi_Masculu/(Jeremus Hardson) at Legion (220, 26, 2) - /datum/reagent/medicine/healing_powder
+[2021-05-18 00:26:01.297] MOB ADD: on_mob_add(): John_egbert3/(Borgos Comiamaedoluiz) at Wasteland (196, 91, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-18 00:26:02.507] MOB DELETE: on_mob_delete: SpookyPineapple/(Tonhao Vermelho) at Wasteland (233, 87, 2) - /datum/reagent/medicine/stimpak
+[2021-05-18 00:26:04.457] MOB DELETE: on_mob_delete: Luiz20/(Luiz Borgos Primeiro) at Tunnel (117, 129, 3) - /datum/reagent/medicine/healing_powder
+[2021-05-18 00:26:12.674] MOB DELETE: on_mob_delete: John_egbert3/(Borgos Comiamaedoluiz) at Wasteland (198, 114, 2) - /datum/reagent/medicine/stimpak
+[2021-05-18 00:26:32.135] MOB DELETE: on_mob_delete: zero9e1/(Noton) at Wasteland (121, 194, 2) - /datum/reagent/consumable/nutriment
+[2021-05-18 00:26:51.788] MOB ADD: on_mob_add(): Xandi_Masculu/(Jeremus Hardson) at Wasteland (205, 65, 2) - 1 of /datum/reagent/determination with 1 purity
+[2021-05-18 00:27:03.649] MOB ADD: on_mob_add(): alexalbright/(Alex Magnus Primeiro) at Legion (227, 26, 2) - 2.353 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-18 00:27:03.650] MOB ADD: on_mob_add(): alexalbright/(Alex Magnus Primeiro) at Legion (227, 26, 2) - 1.471 of /datum/reagent/water with 1 purity
+[2021-05-18 00:27:03.650] MOB ADD: on_mob_add(): alexalbright/(Alex Magnus Primeiro) at Legion (227, 26, 2) - 1.176 of /datum/reagent/consumable/nutriment/vitamin with 1 purity
+[2021-05-18 00:27:03.740] MOB DELETE: on_mob_delete: Xandi_Masculu/(Jeremus Hardson) at Legion (210, 48, 2) - /datum/reagent/determination
+[2021-05-18 00:27:04.613] MOB ADD: on_merge(): alexalbright/(Alex Magnus Primeiro) at Legion (227, 26, 2) - 2.622 of /datum/reagent/water with 1 purity
+[2021-05-18 00:27:05.505] MOB ADD: on_merge(): alexalbright/(Alex Magnus Primeiro) at Legion (227, 26, 2) - 4.093 of /datum/reagent/water with 1 purity
+[2021-05-18 00:27:06.893] MOB ADD: on_merge(): alexalbright/(Alex Magnus Primeiro) at Legion (227, 26, 2) - 4.361 of /datum/reagent/water with 1 purity
+[2021-05-18 00:27:10.604] MOB ADD: on_mob_add(): Xandi_Masculu/(Jeremus Hardson) at Legion (210, 47, 2) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-18 00:27:29.802] MOB DELETE: on_mob_delete: alexalbright/(Alex Magnus Primeiro) at Legion (211, 49, 2) - /datum/reagent/consumable/nutriment/vitamin
+[2021-05-18 00:27:33.835] MOB DELETE: on_mob_delete: alexalbright/(Alex Magnus Primeiro) at Wasteland (211, 55, 2) - /datum/reagent/water
+[2021-05-18 00:27:58.436] MOB DELETE: on_mob_delete: alexalbright/(Alex Magnus Primeiro) at Wasteland (205, 65, 2) - /datum/reagent/consumable/nutriment
+[2021-05-18 00:28:14.992] MOB DELETE: on_mob_delete: Xandi_Masculu/(Jeremus Hardson) at Legion (238, 42, 2) - /datum/reagent/medicine/healing_powder
+[2021-05-18 00:28:44.186] MOB ADD: on_mob_add(): SpookyPineapple/(Tonhao Vermelho) at Legion (210, 50, 2) - 2.5 of /datum/reagent/determination with 1 purity
+[2021-05-18 00:28:58.139] MOB ADD: on_mob_add(): comicao1/(Allah Mashallah) at Wasteland (187, 50, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-18 00:29:02.535] MOB DELETE: on_mob_delete: SpookyPineapple/(Tonhao Vermelho) at Legion (221, 43, 2) - /datum/reagent/determination
+[2021-05-18 00:29:06.510] MOB ADD: on_mob_add(): comicao1/(Allah Mashallah) at Wasteland (180, 29, 2) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-18 00:29:10.652] MOB ADD: on_merge(): comicao1/(Allah Mashallah) at Wasteland (179, 22, 2) - 19.6 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-18 00:30:03.565] MOB ADD: on_mob_add(): Xandi_Masculu/(Jeremus Hardson) at Wasteland (187, 6, 2) - 1 of /datum/reagent/determination with 1 purity
+[2021-05-18 00:30:07.691] MOB ADD: on_merge(): Xandi_Masculu/(Jeremus Hardson) at Wasteland (179, 8, 2) - 1.4 of /datum/reagent/determination with 1 purity
+[2021-05-18 00:30:17.004] MOB ADD: on_mob_add(): alexalbright/(Alex Magnus Primeiro) at Wasteland (181, 10, 2) - 1 of /datum/reagent/determination with 1 purity
+[2021-05-18 00:30:18.790] MOB DELETE: on_mob_delete: Xandi_Masculu/(Jeremus Hardson) at Wasteland (185, 8, 2) - /datum/reagent/determination
+[2021-05-18 00:30:24.890] MOB DELETE: on_mob_delete: alexalbright/(Alex Magnus Primeiro) at Wasteland (182, 13, 2) - /datum/reagent/determination
+[2021-05-18 00:32:22.899] MOB ADD: on_mob_add(): alexalbright/(Alex Magnus Primeiro) at Legion (211, 48, 2) - 1 of /datum/reagent/determination with 1 purity
+[2021-05-18 00:32:30.574] MOB DELETE: on_mob_delete: alexalbright/(Alex Magnus Primeiro) at Legion (211, 48, 2) - /datum/reagent/determination
+[2021-05-18 00:32:38.575] MOB ADD: on_mob_add(): alexalbright/(Alex Magnus Primeiro) at Legion (211, 48, 2) - 1 of /datum/reagent/determination with 1 purity
+[2021-05-18 00:33:02.653] MOB ADD: on_mob_add(): darkpudding/(Brody Rathens) at Legion (212, 44, 2) - 1 of /datum/reagent/determination with 1 purity
+[2021-05-18 00:33:02.655] MOB ADD: on_merge(): darkpudding/(Brody Rathens) at Legion (212, 44, 2) - 2 of /datum/reagent/determination with 1 purity
+[2021-05-18 00:33:06.095] MOB ADD: on_mob_add(): SpookyPineapple/(Tonhao Vermelho) at Legion (219, 37, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-18 00:33:16.533] MOB DELETE: on_mob_delete: darkpudding/(Brody Rathens) at Legion (219, 43, 2) - /datum/reagent/determination
+[2021-05-18 00:33:23.227] MOB ADD: on_mob_add(): luciam/(Skarlet D'Luker) at Legion (216, 43, 2) - 2.5 of /datum/reagent/determination with 1 purity
+[2021-05-18 00:33:26.484] MOB ADD: on_merge(): luciam/(Skarlet D'Luker) at Legion (220, 43, 2) - 7.2 of /datum/reagent/determination with 1 purity
+[2021-05-18 00:33:27.262] MOB ADD: on_merge(): *no key*/(Skarlet D'Luker) at Legion (220, 43, 2) - 12.2 of /datum/reagent/determination with 1 purity
+[2021-05-18 00:33:27.419] MOB ADD: on_merge(): *no key*/(Skarlet D'Luker) at Legion (220, 43, 2) - 19.7 of /datum/reagent/determination with 1 purity
+[2021-05-18 00:33:42.038] MOB DELETE: on_mob_delete: SpookyPineapple/(Tonhao Vermelho) at Legion (210, 42, 2) - /datum/reagent/medicine/stimpak
+[2021-05-18 00:34:34.411] MOB ADD: on_mob_add(): comicao1/(Allah HamduliLyah) at Legion (208, 41, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-18 00:34:55.593] MOB DELETE: on_mob_delete: comicao1/(Allah HamduliLyah) at Legion (208, 40, 2) - /datum/reagent/medicine/stimpak
+[2021-05-18 00:35:01.587] SPLASH - the large beaker object SplashReagents() onto the floor at the floor (Tunnel (63, 33, 3)) THROWN BY Macaco99/(Ramon Lee) at the floor (Tunnel (62, 33, 3)) - /datum/reagent/phenol (5u), /datum/reagent/nitrogen (5u) and /datum/reagent/oxygen (5u)
+[2021-05-18 00:35:05.414] MOB ADD: on_mob_add(): SpookyPineapple/(Tonhao Vermelho) at Legion (208, 39, 2) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-18 00:35:05.902] MOB DELETE: on_mob_delete: SpookyPineapple/(Tonhao Vermelho) at Legion (208, 39, 2) - /datum/reagent/medicine/healing_powder
+[2021-05-18 00:35:08.961] MOB ADD: on_mob_add(): SpookyPineapple/(Tonhao Vermelho) at Legion (208, 39, 2) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-18 00:35:10.410] MOB DELETE: on_mob_delete: SpookyPineapple/(Tonhao Vermelho) at Legion (208, 39, 2) - /datum/reagent/medicine/healing_powder
+[2021-05-18 00:35:25.862] MOB ADD: on_mob_add(): SpookyPineapple/(Tonhao Vermelho) at Legion (208, 39, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-18 00:35:26.821] MOB DELETE: on_mob_delete: SpookyPineapple/(Tonhao Vermelho) at Legion (208, 39, 2) - /datum/reagent/medicine/stimpak
+[2021-05-18 00:36:03.453] MOB ADD: on_mob_add(): SpookyPineapple/(Tonhao Vermelho) at Legion (208, 39, 2) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-18 00:36:03.890] MOB DELETE: on_mob_delete: SpookyPineapple/(Tonhao Vermelho) at Legion (208, 39, 2) - /datum/reagent/medicine/healing_powder
+[2021-05-18 00:36:33.873] MOB ADD: on_mob_add(): SpookyPineapple/(Tonhao Vermelho) at Legion (208, 39, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-18 00:36:35.489] MOB DELETE: on_mob_delete: SpookyPineapple/(Tonhao Vermelho) at Legion (208, 39, 2) - /datum/reagent/medicine/stimpak
+[2021-05-18 00:37:19.480] MOB ADD: on_mob_add(): comicao1/(Allah HamduliLyah) at Legion (207, 44, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-18 00:37:25.504] MOB ADD: on_mob_add(): johonasmexicanjo/(Johonas Contreras) at Legion (220, 40, 2) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-18 00:37:30.078] MOB ADD: on_mob_add(): comicao1/(Allah HamduliLyah) at Legion (208, 40, 2) - 1 of /datum/reagent/determination with 1 purity
+[2021-05-18 00:37:32.039] MOB ADD: on_merge(): comicao1/(Allah HamduliLyah) at Legion (209, 39, 2) - 3.2 of /datum/reagent/determination with 1 purity
+[2021-05-18 00:37:53.462] MOB DELETE: on_mob_delete: comicao1/(Allah HamduliLyah) at Legion (210, 43, 2) - /datum/reagent/determination
+[2021-05-18 00:38:22.652] MOB DELETE: on_mob_delete: comicao1/(Allah HamduliLyah) at Legion (224, 37, 2) - /datum/reagent/medicine/stimpak
+[2021-05-18 00:38:51.067] MOB ADD: on_mob_add(): alexalbright/(Alexadre Magnus Segundo) at Legion (212, 43, 2) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-18 00:38:53.069] MOB ADD: on_merge(): alexalbright/(Alexadre Magnus Segundo) at Legion (214, 43, 2) - 20 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-18 00:39:06.841] MOB ADD: on_mob_add(): comicao1/(Allah HamduliLyah) at Legion (211, 30, 2) - 1 of /datum/reagent/determination with 1 purity
+[2021-05-18 00:39:08.205] MOB DELETE: on_mob_delete: alexalbright/(Alexadre Magnus Segundo) at Legion (210, 30, 2) - /datum/reagent/medicine/healing_powder
+[2021-05-18 00:39:10.358] MOB ADD: on_merge(): comicao1/(Allah HamduliLyah) at Legion (211, 30, 2) - 1.7 of /datum/reagent/determination with 1 purity
+[2021-05-18 00:39:10.398] MOB DELETE: on_mob_delete: johonasmexicanjo/(Johonas Contreras) at Legion (238, 29, 2) - /datum/reagent/medicine/healing_powder
+[2021-05-18 00:39:20.137] MOB ADD: on_merge(): comicao1/(Allah HamduliLyah) at Legion (211, 30, 2) - 6.7 of /datum/reagent/determination with 1 purity
+[2021-05-18 00:39:21.467] MOB ADD: on_merge(): comicao1/(Allah HamduliLyah) at Legion (211, 30, 2) - 11.7 of /datum/reagent/determination with 1 purity
+[2021-05-18 00:39:22.385] MOB ADD: on_merge(): comicao1/(Allah HamduliLyah) at Legion (211, 30, 2) - 19.2 of /datum/reagent/determination with 1 purity
+[2021-05-18 00:39:57.533] MOB ADD: on_mob_add(): 2006f/(Jordan Skywalker) at Legion (236, 19, 2) - 10 of /datum/reagent/medicine/super_stimpak with 1 purity
+[2021-05-18 00:40:01.848] MOB ADD: on_mob_add(): luciam/(Luciam D'Luker) at Legion (218, 45, 2) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-18 00:40:04.906] MOB ADD: on_merge(): luciam/(Luciam D'Luker) at Legion (218, 45, 2) - 19.6 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-18 00:40:08.539] MOB DELETE: on_mob_delete: 2006f/(Jordan Skywalker) at Caves (217, 17, 3) - /datum/reagent/medicine/super_stimpak
+[2021-05-18 00:40:09.956] MOB ADD: on_mob_add(): alexalbright/(Alexadre Magnus Segundo) at Legion (239, 31, 2) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-18 00:41:01.986] MOB DELETE: on_mob_delete: luciam/(Luciam D'Luker) at Legion (222, 28, 2) - /datum/reagent/medicine/healing_powder
+[2021-05-18 00:41:21.680] MOB ADD: on_mob_add(): alexalbright/(Alexadre Magnus Segundo) at Legion (201, 23, 2) - 1 of /datum/reagent/determination with 1 purity
+[2021-05-18 00:41:25.327] MOB ADD: on_merge(): *no key*/(Alexadre Magnus Segundo) at Legion (201, 23, 2) - 3.5 of /datum/reagent/determination with 1 purity
+[2021-05-18 00:41:26.401] MOB ADD: on_merge(): *no key*/(Alexadre Magnus Segundo) at Legion (201, 23, 2) - 8.5 of /datum/reagent/determination with 1 purity
+[2021-05-18 00:41:33.466] MOB ADD: on_mob_add(): zero9e1/(Noton) at Wasteland (150, 162, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-18 00:41:46.956] MOB ADD: on_mob_add(): luciam/(Luciam D'Luker) at Legion (219, 44, 2) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-18 00:42:16.198] MOB DELETE: on_mob_delete: zero9e1/(Noton) at Wasteland (119, 106, 2) - /datum/reagent/medicine/stimpak
+[2021-05-18 00:42:24.934] MOB ADD: on_mob_add(): alexalbright/(Burt Wardle) at Legion (216, 28, 2) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-18 00:42:26.342] MOB ADD: on_merge(): alexalbright/(Burt Wardle) at Legion (216, 28, 2) - 20 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-18 00:42:34.165] MOB ADD: on_mob_add(): Luiz20/(Luiz Borgos Primeiro) at Legion (203, 23, 2) - 10 of /datum/reagent/medicine/styptic_powder with 1 purity
+[2021-05-18 00:42:36.127] MOB ADD: on_mob_add(): *no key*/(Elliott Leslie) at Wasteland (76, 87, 2) - 1 of /datum/reagent/determination with 1 purity
+[2021-05-18 00:42:36.934] MOB ADD: on_mob_add(): DropShip27[DC]/(Drake Gibson) at Wasteland (147, 73, 2) - 1 of /datum/reagent/determination with 1 purity
+[2021-05-18 00:42:37.339] MOB ADD: on_merge(): *no key*/(Elliott Leslie) at Wasteland (76, 87, 2) - 3.5 of /datum/reagent/determination with 1 purity
+[2021-05-18 00:42:37.645] MOB ADD: on_merge(): DropShip27[DC]/(Drake Gibson) at Wasteland (147, 73, 2) - 3.5 of /datum/reagent/determination with 1 purity
+[2021-05-18 00:42:38.421] MOB ADD: on_merge(): *no key*/(Elliott Leslie) at Wasteland (76, 87, 2) - 8.5 of /datum/reagent/determination with 1 purity
+[2021-05-18 00:42:39.330] MOB ADD: on_merge(): *no key*/(Elliott Leslie) at Wasteland (76, 87, 2) - 11 of /datum/reagent/determination with 1 purity
+[2021-05-18 00:42:40.294] MOB ADD: on_merge(): *no key*/(Elliott Leslie) at Wasteland (76, 87, 2) - 12 of /datum/reagent/determination with 1 purity
+[2021-05-18 00:42:41.205] MOB ADD: on_merge(): *no key*/(Elliott Leslie) at Wasteland (76, 87, 2) - 14.5 of /datum/reagent/determination with 1 purity
+[2021-05-18 00:42:42.095] MOB ADD: on_merge(): *no key*/(Elliott Leslie) at Wasteland (76, 87, 2) - 22 of /datum/reagent/determination with 1 purity
+[2021-05-18 00:42:43.023] MOB ADD: on_merge(): *no key*/(Elliott Leslie) at Wasteland (76, 87, 2) - 29.5 of /datum/reagent/determination with 1 purity
+[2021-05-18 00:42:44.574] MOB DELETE: on_mob_delete: Luiz20/(Luiz Borgos Primeiro) at Legion (204, 17, 2) - /datum/reagent/medicine/styptic_powder
+[2021-05-18 00:43:07.113] MOB DELETE: on_mob_delete: DropShip27[DC]/(Drake Gibson) at Wasteland (147, 73, 2) - /datum/reagent/determination
+[2021-05-18 00:43:33.749] MOB ADD: on_mob_add(): alexalbright/(Burt Wardle) at Legion (206, 21, 2) - 1 of /datum/reagent/determination with 1 purity
+[2021-05-18 00:43:36.975] MOB DELETE: on_mob_delete: luciam/(Luciam D'Luker) at Legion (210, 21, 2) - /datum/reagent/medicine/healing_powder
+[2021-05-18 00:43:41.036] MOB DELETE: on_mob_delete: alexalbright/(Burt Wardle) at Legion (207, 22, 2) - /datum/reagent/determination
+[2021-05-18 00:43:41.957] MOB ADD: on_mob_add(): luciam/(Luciam D'Luker) at Legion (204, 20, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-18 00:43:46.788] MOB ADD: on_mob_add(): luciam/(Luciam D'Luker) at Legion (204, 18, 2) - 1 of /datum/reagent/determination with 1 purity
+[2021-05-18 00:43:53.770] MOB DELETE: on_mob_delete: luciam/(Luciam D'Luker) at Legion (204, 17, 2) - /datum/reagent/determination
+[2021-05-18 00:43:53.980] MOB ADD: on_mob_add(): luciam/(Luciam D'Luker) at Legion (204, 17, 2) - 2.5 of /datum/reagent/determination with 1 purity
+[2021-05-18 00:43:58.600] MOB ADD: on_merge(): luciam/(Luciam D'Luker) at Legion (204, 17, 2) - 6.9 of /datum/reagent/determination with 1 purity
+[2021-05-18 00:43:59.396] MOB ADD: on_merge(): luciam/(Luciam D'Luker) at Legion (204, 17, 2) - 9.4 of /datum/reagent/determination with 1 purity
+[2021-05-18 00:44:19.480] MOB ADD: on_mob_add(): alexalbright/(Burt Wardle) at Legion (204, 18, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-18 00:44:24.173] MOB DELETE: on_mob_delete: alexalbright/(Burt Wardle) at Legion (204, 22, 2) - /datum/reagent/medicine/stimpak
+[2021-05-18 00:44:26.199] MOB DELETE: on_mob_delete: alexalbright/(Burt Wardle) at Legion (212, 22, 2) - /datum/reagent/medicine/healing_powder
+[2021-05-18 00:45:56.533] MOB ADD: on_mob_add(): NizimGamer/(Nizin Veerriene Primeiro) at Building (128, 193, 2) - 2 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-18 00:45:59.637] MOB ADD: on_mob_add(): DropShip27[DC]/(Drake Gibson) at Wasteland (147, 73, 2) - 1 of /datum/reagent/determination with 1 purity
+[2021-05-18 00:46:00.544] MOB ADD: on_merge(): DropShip27[DC]/(Drake Gibson) at Wasteland (147, 73, 2) - 2 of /datum/reagent/determination with 1 purity
+[2021-05-18 00:46:59.739] MOB ADD: on_mob_add(): 2006f/(Mark Benford) at Wasteland (150, 135, 2) - 1 of /datum/reagent/determination with 1 purity
+[2021-05-18 00:47:01.840] MOB ADD: on_merge(): 2006f/(Mark Benford) at Wasteland (149, 136, 2) - 1.7 of /datum/reagent/determination with 1 purity
+[2021-05-18 00:47:03.856] MOB ADD: on_merge(): 2006f/(Mark Benford) at Wasteland (149, 136, 2) - 2.4 of /datum/reagent/determination with 1 purity
+[2021-05-18 00:48:01.112] MOB ADD: on_merge(): *no key*/(Luciam D'Luker) at Legion (204, 17, 2) - 16.6 of /datum/reagent/determination with 1 purity
+[2021-05-18 00:48:11.161] MOB ADD: on_mob_add(): thebanana3/(Macey Byers) at Wasteland (207, 59, 2) - 2.5 of /datum/reagent/determination with 1 purity
+[2021-05-18 00:48:22.998] MOB ADD: on_mob_add(): *no key*/(Luiz Borgos Primeiro) at Legion (207, 18, 2) - 1 of /datum/reagent/determination with 1 purity
+[2021-05-18 00:48:23.783] MOB ADD: on_merge(): *no key*/(Luiz Borgos Primeiro) at Legion (207, 18, 2) - 6 of /datum/reagent/determination with 1 purity
+[2021-05-18 00:48:24.680] MOB ADD: on_merge(): *no key*/(Luiz Borgos Primeiro) at Legion (207, 18, 2) - 11 of /datum/reagent/determination with 1 purity
+[2021-05-18 00:48:25.144] MOB ADD: on_mob_add(): thebanana3/(Macey Byers) at Wasteland (208, 59, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-18 00:48:25.961] MOB ADD: on_merge(): *no key*/(Luiz Borgos Primeiro) at Legion (207, 18, 2) - 18.5 of /datum/reagent/determination with 1 purity
+[2021-05-18 00:48:28.519] MOB DELETE: on_mob_delete: thebanana3/(Macey Byers) at Wasteland (208, 59, 2) - /datum/reagent/determination
+[2021-05-18 00:49:07.150] MOB DELETE: on_mob_delete: NizimGamer/(Nizin Veerriene Primeiro) at Wasteland (188, 187, 2) - /datum/reagent/consumable/nutriment
+[2021-05-18 00:49:35.261] MOB DELETE: on_mob_delete: thebanana3/(Macey Byers) at Wasteland (186, 126, 2) - /datum/reagent/medicine/stimpak
+[2021-05-18 00:49:58.822] MOB ADD: on_mob_add(): darkpudding/(Arthur Mueller) at Legion (219, 25, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-18 00:50:14.297] MOB DELETE: on_mob_delete: darkpudding/(Arthur Mueller) at Legion (221, 44, 2) - /datum/reagent/medicine/stimpak
+[2021-05-18 00:51:23.146] MOB ADD: on_mob_add(): zero9e1/(Noton) at Wasteland (214, 65, 2) - 1 of /datum/reagent/determination with 1 purity
+[2021-05-18 00:51:30.612] MOB DELETE: on_mob_delete: zero9e1/(Noton) at Wasteland (212, 53, 2) - /datum/reagent/determination
+[2021-05-18 00:51:34.960] MOB ADD: on_mob_add(): zero9e1/(Noton) at Legion (211, 50, 2) - 6.222 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-18 00:51:34.960] MOB ADD: on_mob_add(): zero9e1/(Noton) at Legion (211, 50, 2) - 0.778 of /datum/reagent/consumable/nutriment/vitamin with 1 purity
+[2021-05-18 00:51:39.047] MOB DELETE: on_mob_delete: zero9e1/(Noton) at Legion (211, 50, 2) - /datum/reagent/consumable/nutriment/vitamin
+[2021-05-18 00:51:46.666] MOB ADD: on_mob_add(): zero9e1/(Noton) at Legion (210, 51, 2) - 0.333 of /datum/reagent/consumable/nutriment/vitamin with 1 purity
+[2021-05-18 00:51:47.381] MOB DELETE: on_mob_delete: zero9e1/(Noton) at Legion (210, 51, 2) - /datum/reagent/consumable/nutriment/vitamin
+[2021-05-18 00:52:22.424] MOB DELETE: on_mob_delete: zero9e1/(Noton) at Wasteland (210, 64, 2) - /datum/reagent/consumable/nutriment
+[2021-05-18 00:52:31.411] MOB ADD: on_mob_add(): darkpudding/(Arthur Mueller) at Village (165, 93, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-18 00:52:56.561] MOB ADD: on_mob_add(): thebanana3/(Macey Byers) at Building (89, 86, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-18 00:52:57.171] MOB DELETE: on_mob_delete: thebanana3/(Macey Byers) at Building (89, 86, 2) - /datum/reagent/medicine/stimpak
+[2021-05-18 00:52:59.133] MOB DELETE: on_mob_delete: darkpudding/(Arthur Mueller) at Village (165, 96, 2) - /datum/reagent/medicine/stimpak
+[2021-05-18 00:53:13.511] MOB ADD: on_mob_add(): Degusta00/(Monte Ehret) at Village (156, 153, 2) - 1 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-18 00:53:13.511] MOB ADD: on_mob_add(): Degusta00/(Monte Ehret) at Village (156, 153, 2) - 1 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 00:53:14.496] MOB ADD: on_merge(): Degusta00/(Monte Ehret) at Village (156, 153, 2) - 2 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 00:53:19.437] MOB DELETE: on_mob_delete: Degusta00/(Monte Ehret) at Village (156, 153, 2) - /datum/reagent/consumable/sugar
+[2021-05-18 00:53:22.570] MOB ADD: on_mob_add(): Degusta00/(Monte Ehret) at Village (156, 153, 2) - 1 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 00:53:23.555] MOB ADD: on_merge(): Degusta00/(Monte Ehret) at Village (154, 154, 2) - 1.2 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 00:53:24.387] MOB ADD: on_merge(): Degusta00/(Monte Ehret) at Village (151, 155, 2) - 2.2 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 00:53:25.173] MOB ADD: on_merge(): Degusta00/(Monte Ehret) at Village (150, 155, 2) - 3.2 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 00:53:26.304] MOB ADD: on_merge(): Degusta00/(Monte Ehret) at Village (150, 156, 2) - 3.4 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 00:53:27.249] MOB ADD: on_merge(): Degusta00/(Monte Ehret) at Village (150, 157, 2) - 4.4 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 00:53:28.256] MOB ADD: on_merge(): Degusta00/(Monte Ehret) at Village (150, 157, 2) - 4.6 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 00:53:29.039] MOB ADD: on_merge(): Degusta00/(Monte Ehret) at Wasteland (148, 158, 2) - 5.6 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 00:53:29.971] MOB ADD: on_merge(): Degusta00/(Monte Ehret) at Wasteland (148, 158, 2) - 5.8 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 00:53:31.090] MOB ADD: on_merge(): Degusta00/(Monte Ehret) at Wasteland (148, 158, 2) - 6.8 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 00:53:48.104] MOB DELETE: on_mob_delete: Degusta00/(Monte Ehret) at Wasteland (165, 169, 2) - /datum/reagent/consumable/sugar
+[2021-05-18 00:53:48.379] MOB ADD: on_mob_add(): thebanana3/(Macey Byers) at Building (91, 87, 2) - 10 of /datum/reagent/medicine/super_stimpak with 1 purity
+[2021-05-18 00:54:15.307] MOB DELETE: on_mob_delete: Degusta00[DC]/(Monte Ehret) at Building (170, 194, 2) - /datum/reagent/consumable/nutriment
+[2021-05-18 00:54:38.592] MOB ADD: on_mob_add(): OvelhaCosmica/(Adam Alves) at Village (168, 90, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-18 00:55:31.711] MOB DELETE: on_mob_delete: thebanana3/(Macey Byers) at Tunnel (73, 39, 3) - /datum/reagent/medicine/super_stimpak
+[2021-05-18 00:55:43.975] MOB DELETE: on_mob_delete: OvelhaCosmica/(Adam Alves) at Wasteland (173, 75, 2) - /datum/reagent/medicine/stimpak
+[2021-05-18 00:58:12.641] MOB ADD: on_mob_add(): zero9e1/(Noton) at Wasteland (150, 136, 2) - 10 of /datum/reagent/medicine/super_stimpak with 1 purity
+[2021-05-18 00:58:15.913] MOB ADD: on_mob_add(): zero9e1/(Noton) at Wasteland (150, 136, 2) - 20 of /datum/reagent/medicine/radx with 1 purity
+[2021-05-18 00:58:33.187] MOB DELETE: on_mob_delete: zero9e1/(Noton) at Wasteland (149, 134, 2) - /datum/reagent/medicine/super_stimpak
+[2021-05-18 00:58:42.342] MOB ADD: on_mob_add(): BurningShingo/(Josisvaldo Joestar) at Wasteland (26, 186, 2) - 2.5 of /datum/reagent/determination with 1 purity
+[2021-05-18 00:58:43.268] MOB ADD: on_merge(): BurningShingo/(Josisvaldo Joestar) at Wasteland (26, 186, 2) - 7.5 of /datum/reagent/determination with 1 purity
+[2021-05-18 00:58:43.693] MOB ADD: on_merge(): BurningShingo/(Josisvaldo Joestar) at Wasteland (26, 186, 2) - 12.5 of /datum/reagent/determination with 1 purity
+[2021-05-18 00:58:44.174] MOB ADD: on_merge(): BurningShingo/(Josisvaldo Joestar) at Wasteland (26, 186, 2) - 20 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:00:02.294] MOB ADD: on_mob_add(): johonasmexicanjo/(Weston Demuth) at Wasteland (56, 191, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-18 01:00:55.315] MOB ADD: on_mob_add(): *no key*/(Vinicius Levenuyrabo) at Wasteland (19, 184, 2) - 5 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:01:04.794] MOB DELETE: on_mob_delete: johonasmexicanjo/(Weston Demuth) at Wasteland (18, 195, 2) - /datum/reagent/medicine/stimpak
+[2021-05-18 01:01:39.007] MOB ADD: on_mob_add(): zero9e1/(Noton) at Wasteland (212, 67, 2) - 10 of /datum/reagent/medicine/super_stimpak with 1 purity
+[2021-05-18 01:01:48.294] MOB DELETE: on_mob_delete: zero9e1/(Noton) at Wasteland (188, 65, 2) - /datum/reagent/medicine/super_stimpak
+[2021-05-18 01:01:50.321] MOB DELETE: on_mob_delete: zero9e1/(Noton) at Wasteland (187, 61, 2) - /datum/reagent/medicine/radx
+[2021-05-18 01:01:55.457] MOB ADD: on_mob_add(): John_egbert3/(Borgos Comiamaedoluiz) at Wasteland (6, 181, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-18 01:02:03.216] MOB ADD: on_merge(): John_egbert3/(Borgos Comiamaedoluiz) at Wasteland (6, 181, 2) - 19.2 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-18 01:02:08.950] MOB DELETE: on_mob_delete: John_egbert3/(Borgos Comiamaedoluiz) at Wasteland (6, 181, 2) - /datum/reagent/medicine/stimpak
+[2021-05-18 01:02:30.323] MOB ADD: on_mob_add(): zero9e1/(Noton) at Wasteland (184, 26, 2) - 1 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:02:36.517] MOB ADD: on_merge(): zero9e1/(Noton) at Wasteland (184, 43, 2) - 1.1 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:02:38.604] MOB ADD: on_merge(): zero9e1/(Noton) at Wasteland (184, 48, 2) - 1.8 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:02:50.869] MOB DELETE: on_mob_delete: zero9e1/(Noton) at Wasteland (184, 49, 2) - /datum/reagent/determination
+[2021-05-18 01:04:37.506] MOB ADD: on_mob_add(): darkpudding/(Arthur Mueller) at Wasteland (234, 214, 2) - 6 of /datum/reagent/water with 1 purity
+[2021-05-18 01:04:38.402] MOB ADD: on_merge(): darkpudding/(Arthur Mueller) at Wasteland (234, 218, 2) - 10.6 of /datum/reagent/water with 1 purity
+[2021-05-18 01:04:39.178] MOB ADD: on_merge(): darkpudding/(Arthur Mueller) at Wasteland (234, 222, 2) - 15.6 of /datum/reagent/water with 1 purity
+[2021-05-18 01:04:40.148] MOB ADD: on_merge(): darkpudding/(Arthur Mueller) at Wasteland (234, 227, 2) - 20.2 of /datum/reagent/water with 1 purity
+[2021-05-18 01:05:29.747] MOB ADD: on_mob_add(): *no key*/(Weston Demuth) at Wasteland (68, 188, 2) - 1 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:05:30.708] MOB ADD: on_merge(): *no key*/(Weston Demuth) at Wasteland (68, 188, 2) - 3.5 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:05:31.849] MOB ADD: on_merge(): *no key*/(Weston Demuth) at Wasteland (68, 188, 2) - 8.5 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:05:32.687] MOB ADD: on_merge(): *no key*/(Weston Demuth) at Wasteland (68, 188, 2) - 13.5 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:05:32.719] MOB ADD: on_merge(): *no key*/(Weston Demuth) at Wasteland (68, 188, 2) - 21 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:05:43.612] MOB ADD: on_mob_add(): Luiz20/(Luiz Borgos Segundo) at Wasteland (54, 189, 2) - 10 of /datum/reagent/medicine/super_stimpak with 1 purity
+[2021-05-18 01:06:01.064] MOB DELETE: on_mob_delete: Luiz20/(Luiz Borgos Segundo) at Wasteland (27, 190, 2) - /datum/reagent/medicine/super_stimpak
+[2021-05-18 01:06:21.421] MOB ADD: on_mob_add(): John_egbert3/(Borgos Comiamaedoluiz) at Wasteland (26, 208, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-18 01:06:29.899] MOB DELETE: on_mob_delete: darkpudding/(Arthur Mueller) at Building (245, 212, 2) - /datum/reagent/water
+[2021-05-18 01:06:34.065] MOB DELETE: on_mob_delete: John_egbert3/(Borgos Comiamaedoluiz) at NCR (39, 196, 3) - /datum/reagent/medicine/stimpak
+[2021-05-18 01:06:48.303] MOB ADD: on_mob_add(): Aedaris/(Daniel Payde) at Wasteland (7, 180, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-18 01:07:36.706] MOB DELETE: on_mob_delete: Aedaris/(Daniel Payde) at Wasteland (27, 197, 2) - /datum/reagent/medicine/stimpak
+[2021-05-18 01:09:44.061] MOB ADD: on_mob_add(): alexalbright/(Burt Wardle) at Wasteland (232, 124, 2) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-18 01:10:00.162] MOB ADD: on_mob_add(): BxsSvg/(Lia Pavlov) at Wasteland (90, 180, 2) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-18 01:10:32.241] MOB DELETE: on_mob_delete: alexalbright/(Burt Wardle) at Wasteland (210, 59, 2) - /datum/reagent/medicine/healing_powder
+[2021-05-18 01:10:34.856] MOB ADD: on_mob_add(): *no key*/(Noton) at Wasteland (184, 49, 2) - 1 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:10:35.834] MOB ADD: on_merge(): *no key*/(Noton) at Wasteland (184, 49, 2) - 3.5 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:11:09.735] MOB ADD: on_mob_add(): Aedaris/(Daniel Payde) at Wasteland (12, 199, 2) - 1 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:11:20.030] MOB ADD: on_merge(): *no key*/(Daniel Payde) at Wasteland (12, 199, 2) - 3.2 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:11:26.213] MOB ADD: on_merge(): *no key*/(Daniel Payde) at Wasteland (12, 199, 2) - 8.2 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:11:42.944] MOB DELETE: on_mob_delete: @BxsSvg[DC]/(Lia Pavlov) at Wasteland (91, 170, 2) - /datum/reagent/medicine/stimpak
+[2021-05-18 01:12:41.870] MOB ADD: on_mob_add(): darkpudding/(Arthur Mueller) at Wasteland (241, 158, 2) - 1.667 of /datum/reagent/consumable/nutriment/vitamin with 1 purity
+[2021-05-18 01:12:41.870] MOB ADD: on_mob_add(): darkpudding/(Arthur Mueller) at Wasteland (241, 158, 2) - 3.333 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-18 01:13:29.839] MOB DELETE: on_mob_delete: darkpudding/(Arthur Mueller) at Building (217, 214, 2) - /datum/reagent/consumable/nutriment/vitamin
+[2021-05-18 01:13:47.087] TRANSFER: FROM The large beaker ([0x20069d2]) (0,0,0) TO The large beaker ([0x20069d5]) (0,0,0) - Macaco99/(Ramon Lee) - reagentcontainer-glass afterattack transfer to: trans_to with arguments the large beaker 10 1 1 0 and reagents Table Salt - 10
+[2021-05-18 01:13:48.567] TRANSFER: FROM The large beaker ([0x20069d2]) (0,0,0) TO The large beaker ([0x20069d5]) (0,0,0) - Macaco99/(Ramon Lee) - reagentcontainer-glass afterattack transfer to: trans_to with arguments the large beaker 10 1 1 0 and reagents Table Salt - 10
+[2021-05-18 01:13:49.097] TRANSFER: FROM The large beaker ([0x20069d2]) (0,0,0) TO The large beaker ([0x20069d5]) (0,0,0) - Macaco99/(Ramon Lee) - reagentcontainer-glass afterattack transfer to: trans_to with arguments the large beaker 10 1 1 0 and reagents Table Salt - 10
+[2021-05-18 01:13:49.761] TRANSFER: FROM The large beaker ([0x20069d2]) (0,0,0) TO The large beaker ([0x20069d5]) (0,0,0) - Macaco99/(Ramon Lee) - reagentcontainer-glass afterattack transfer to: trans_to with arguments the large beaker 10 1 1 0 and reagents Table Salt - 10
+[2021-05-18 01:14:15.975] MOB DELETE: on_mob_delete: darkpudding/(Arthur Mueller) at Building (216, 201, 2) - /datum/reagent/consumable/nutriment
+[2021-05-18 01:14:41.654] MOB ADD: on_mob_add(): *no key*/(Jace Elderson) at Wasteland (207, 60, 2) - 2.5 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:14:43.077] MOB ADD: on_merge(): *no key*/(Jace Elderson) at Wasteland (207, 60, 2) - 7.5 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:14:45.447] MOB ADD: on_merge(): *no key*/(Jace Elderson) at Wasteland (207, 60, 2) - 8.5 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:14:46.023] MOB ADD: on_merge(): *no key*/(Jace Elderson) at Wasteland (207, 60, 2) - 11 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:14:48.248] MOB ADD: on_merge(): *no key*/(Jace Elderson) at Wasteland (207, 60, 2) - 12 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:14:48.711] MOB ADD: on_merge(): *no key*/(Jace Elderson) at Wasteland (207, 60, 2) - 13 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:15:14.000] MOB ADD: on_merge(): *no key*/(Jace Elderson) at Wasteland (207, 60, 2) - 15.5 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:15:25.803] MOB ADD: on_merge(): *no key*/(Jace Elderson) at Wasteland (207, 60, 2) - 20.5 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:15:32.857] MOB ADD: on_merge(): *no key*/(Jace Elderson) at Wasteland (207, 60, 2) - 21.5 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:15:34.013] MOB ADD: on_merge(): *no key*/(Jace Elderson) at Wasteland (207, 60, 2) - 22.5 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:15:35.294] MOB ADD: on_merge(): *no key*/(Jace Elderson) at Wasteland (207, 60, 2) - 27.5 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:15:36.309] MOB ADD: on_merge(): *no key*/(Jace Elderson) at Wasteland (207, 60, 2) - 35 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:16:43.554] SPLASH - the robust coffee object SplashReagents() onto the vault wall at the vault wall (Vault (79, 173, 4)) - /datum/reagent/consumable/coffee (30u)
+[2021-05-18 01:16:43.640] SPLASH - the robust coffee object SplashReagents() onto the vault wall at the vault wall (Vault (79, 173, 4)) - /datum/reagent/consumable/coffee (30u)
+[2021-05-18 01:16:43.661] SPLASH - the robust coffee object SplashReagents() onto the vault wall at the vault wall (Vault (79, 173, 4)) - /datum/reagent/consumable/coffee (30u)
+[2021-05-18 01:16:43.743] SPLASH - the robust coffee object SplashReagents() onto the vault wall at the vault wall (Vault (79, 173, 4)) - /datum/reagent/consumable/coffee (30u)
+[2021-05-18 01:16:43.753] SPLASH - the robust coffee object SplashReagents() onto the vault wall at the vault wall (Vault (79, 173, 4)) - /datum/reagent/consumable/coffee (30u)
+[2021-05-18 01:16:43.795] SPLASH - the robust coffee object SplashReagents() onto the vault wall at the vault wall (Vault (79, 173, 4)) - /datum/reagent/consumable/coffee (30u)
+[2021-05-18 01:17:35.110] MOB ADD: on_mob_add(): OvelhaCosmica/(Adam Alves) at Wasteland (68, 36, 2) - 0.2 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-18 01:17:35.110] MOB ADD: on_mob_add(): OvelhaCosmica/(Adam Alves) at Wasteland (68, 36, 2) - 0.6 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 01:17:35.111] MOB ADD: on_mob_add(): OvelhaCosmica/(Adam Alves) at Wasteland (68, 36, 2) - 0.2 of /datum/reagent/consumable/sodiumchloride with 1 purity
+[2021-05-18 01:17:35.995] MOB ADD: on_merge(): OvelhaCosmica/(Adam Alves) at Wasteland (68, 36, 2) - 1.2 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 01:17:35.995] MOB ADD: on_merge(): OvelhaCosmica/(Adam Alves) at Wasteland (68, 36, 2) - 0.4 of /datum/reagent/consumable/sodiumchloride with 1 purity
+[2021-05-18 01:17:36.848] MOB DELETE: on_mob_delete: OvelhaCosmica/(Adam Alves) at Wasteland (68, 35, 2) - /datum/reagent/consumable/nutriment
+[2021-05-18 01:17:36.848] MOB DELETE: on_mob_delete: OvelhaCosmica/(Adam Alves) at Wasteland (68, 35, 2) - /datum/reagent/consumable/sodiumchloride
+[2021-05-18 01:17:36.912] MOB ADD: on_mob_add(): OvelhaCosmica/(Adam Alves) at Wasteland (68, 35, 2) - 0.2 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-18 01:17:36.913] MOB ADD: on_merge(): OvelhaCosmica/(Adam Alves) at Wasteland (68, 35, 2) - 1 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 01:17:36.913] MOB ADD: on_mob_add(): OvelhaCosmica/(Adam Alves) at Wasteland (68, 35, 2) - 0.2 of /datum/reagent/consumable/sodiumchloride with 1 purity
+[2021-05-18 01:17:37.845] MOB ADD: on_merge(): OvelhaCosmica/(Adam Alves) at Wasteland (68, 35, 2) - 1.6 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 01:17:37.845] MOB ADD: on_merge(): OvelhaCosmica/(Adam Alves) at Wasteland (68, 35, 2) - 0.4 of /datum/reagent/consumable/sodiumchloride with 1 purity
+[2021-05-18 01:17:38.975] MOB ADD: on_merge(): OvelhaCosmica/(Adam Alves) at Wasteland (68, 35, 2) - 2.2 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 01:17:38.976] MOB ADD: on_merge(): OvelhaCosmica/(Adam Alves) at Wasteland (68, 35, 2) - 0.6 of /datum/reagent/consumable/sodiumchloride with 1 purity
+[2021-05-18 01:17:40.991] MOB DELETE: on_mob_delete: OvelhaCosmica/(Adam Alves) at Wasteland (68, 35, 2) - /datum/reagent/consumable/nutriment
+[2021-05-18 01:17:40.991] MOB DELETE: on_mob_delete: OvelhaCosmica/(Adam Alves) at Wasteland (68, 35, 2) - /datum/reagent/consumable/sodiumchloride
+[2021-05-18 01:17:41.086] MOB ADD: on_mob_add(): OvelhaCosmica/(Adam Alves) at Wasteland (68, 35, 2) - 0.2 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-18 01:17:41.086] MOB ADD: on_merge(): OvelhaCosmica/(Adam Alves) at Wasteland (68, 35, 2) - 1.2 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 01:17:41.086] MOB ADD: on_mob_add(): OvelhaCosmica/(Adam Alves) at Wasteland (68, 35, 2) - 0.2 of /datum/reagent/consumable/sodiumchloride with 1 purity
+[2021-05-18 01:17:41.918] MOB ADD: on_merge(): OvelhaCosmica/(Adam Alves) at Wasteland (68, 36, 2) - 1.8 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 01:17:41.918] MOB ADD: on_merge(): OvelhaCosmica/(Adam Alves) at Wasteland (68, 36, 2) - 0.4 of /datum/reagent/consumable/sodiumchloride with 1 purity
+[2021-05-18 01:17:43.357] MOB ADD: on_merge(): OvelhaCosmica/(Adam Alves) at Wasteland (68, 36, 2) - 2.4 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 01:17:43.357] MOB ADD: on_merge(): OvelhaCosmica/(Adam Alves) at Wasteland (68, 36, 2) - 0.6 of /datum/reagent/consumable/sodiumchloride with 1 purity
+[2021-05-18 01:17:44.275] MOB ADD: on_merge(): OvelhaCosmica/(Adam Alves) at Wasteland (68, 36, 2) - 2.2 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 01:17:44.275] MOB ADD: on_merge(): OvelhaCosmica/(Adam Alves) at Wasteland (68, 36, 2) - 0.4 of /datum/reagent/consumable/sodiumchloride with 1 purity
+[2021-05-18 01:17:46.157] MOB ADD: on_merge(): OvelhaCosmica/(Adam Alves) at Wasteland (68, 36, 2) - 2.8 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 01:17:46.158] MOB ADD: on_merge(): OvelhaCosmica/(Adam Alves) at Wasteland (68, 36, 2) - 0.6 of /datum/reagent/consumable/sodiumchloride with 1 purity
+[2021-05-18 01:17:48.932] MOB DELETE: on_mob_delete: OvelhaCosmica/(Adam Alves) at Wasteland (68, 36, 2) - /datum/reagent/consumable/nutriment
+[2021-05-18 01:17:48.933] MOB DELETE: on_mob_delete: OvelhaCosmica/(Adam Alves) at Wasteland (68, 36, 2) - /datum/reagent/consumable/sodiumchloride
+[2021-05-18 01:17:49.129] MOB ADD: on_mob_add(): OvelhaCosmica/(Adam Alves) at Wasteland (68, 36, 2) - 0.667 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-18 01:17:49.129] MOB ADD: on_merge(): OvelhaCosmica/(Adam Alves) at Wasteland (68, 36, 2) - 1.867 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 01:17:49.129] MOB ADD: on_mob_add(): OvelhaCosmica/(Adam Alves) at Wasteland (68, 36, 2) - 0.667 of /datum/reagent/consumable/coco with 1 purity
+[2021-05-18 01:17:50.206] MOB ADD: on_merge(): OvelhaCosmica/(Adam Alves) at Wasteland (68, 36, 2) - 2.534 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 01:17:50.206] MOB ADD: on_merge(): OvelhaCosmica/(Adam Alves) at Wasteland (68, 36, 2) - 1.334 of /datum/reagent/consumable/coco with 1 purity
+[2021-05-18 01:17:51.159] MOB ADD: on_merge(): OvelhaCosmica/(Adam Alves) at Wasteland (68, 36, 2) - 2.401 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 01:17:51.159] MOB ADD: on_merge(): OvelhaCosmica/(Adam Alves) at Wasteland (68, 36, 2) - 1.601 of /datum/reagent/consumable/coco with 1 purity
+[2021-05-18 01:17:54.172] MOB ADD: on_merge(): OvelhaCosmica/(Adam Alves) at Wasteland (68, 36, 2) - 2.268 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 01:17:54.173] MOB ADD: on_merge(): OvelhaCosmica/(Adam Alves) at Wasteland (68, 36, 2) - 1.868 of /datum/reagent/consumable/coco with 1 purity
+[2021-05-18 01:17:55.090] MOB ADD: on_merge(): OvelhaCosmica/(Adam Alves) at Wasteland (68, 36, 2) - 2.935 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 01:17:55.090] MOB ADD: on_merge(): OvelhaCosmica/(Adam Alves) at Wasteland (68, 36, 2) - 2.535 of /datum/reagent/consumable/coco with 1 purity
+[2021-05-18 01:17:56.059] MOB ADD: on_merge(): OvelhaCosmica/(Adam Alves) at Wasteland (68, 36, 2) - 2.802 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 01:17:56.059] MOB ADD: on_merge(): OvelhaCosmica/(Adam Alves) at Wasteland (68, 36, 2) - 2.802 of /datum/reagent/consumable/coco with 1 purity
+[2021-05-18 01:17:58.322] MOB ADD: on_merge(): OvelhaCosmica/(Adam Alves) at Wasteland (68, 36, 2) - 2.859 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 01:17:58.322] MOB ADD: on_merge(): OvelhaCosmica/(Adam Alves) at Wasteland (68, 36, 2) - 3.259 of /datum/reagent/consumable/coco with 1 purity
+[2021-05-18 01:17:59.263] MOB ADD: on_merge(): OvelhaCosmica/(Adam Alves) at Wasteland (68, 36, 2) - 3.716 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 01:17:59.263] MOB ADD: on_merge(): OvelhaCosmica/(Adam Alves) at Wasteland (68, 36, 2) - 4.116 of /datum/reagent/consumable/coco with 1 purity
+[2021-05-18 01:18:01.658] MOB ADD: on_merge(): OvelhaCosmica/(Adam Alves) at Wasteland (68, 36, 2) - 3.773 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 01:18:01.658] MOB ADD: on_merge(): OvelhaCosmica/(Adam Alves) at Wasteland (68, 36, 2) - 4.573 of /datum/reagent/consumable/coco with 1 purity
+[2021-05-18 01:18:03.461] MOB ADD: on_merge(): OvelhaCosmica/(Adam Alves) at Wasteland (68, 36, 2) - 4.202 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 01:18:03.461] MOB ADD: on_merge(): OvelhaCosmica/(Adam Alves) at Wasteland (68, 36, 2) - 5.002 of /datum/reagent/consumable/coco with 1 purity
+[2021-05-18 01:18:09.342] MOB ADD: on_merge(): OvelhaCosmica/(Adam Alves) at Wasteland (68, 36, 2) - 3.935 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 01:18:10.963] MOB ADD: on_merge(): OvelhaCosmica/(Adam Alves) at Wasteland (68, 36, 2) - 4.468 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 01:18:11.990] MOB ADD: on_merge(): OvelhaCosmica/(Adam Alves) at Wasteland (68, 36, 2) - 5.801 of /datum/reagent/consumable/sugar with 1 purity
+[2021-05-18 01:18:19.131] MOB ADD: on_mob_add(): OvelhaCosmica/(Adam Alves) at Wasteland (68, 36, 2) - 6 of /datum/reagent/consumable/dry_ramen with 1 purity
+[2021-05-18 01:18:20.123] MOB ADD: on_merge(): OvelhaCosmica/(Adam Alves) at Wasteland (68, 36, 2) - 11 of /datum/reagent/consumable/dry_ramen with 1 purity
+[2021-05-18 01:18:21.157] MOB ADD: on_merge(): OvelhaCosmica/(Adam Alves) at Wasteland (68, 36, 2) - 15.6 of /datum/reagent/consumable/dry_ramen with 1 purity
+[2021-05-18 01:18:22.112] MOB ADD: on_merge(): OvelhaCosmica/(Adam Alves) at Wasteland (68, 36, 2) - 20.6 of /datum/reagent/consumable/dry_ramen with 1 purity
+[2021-05-18 01:18:23.106] MOB ADD: on_merge(): OvelhaCosmica/(Adam Alves) at Wasteland (68, 36, 2) - 25.2 of /datum/reagent/consumable/dry_ramen with 1 purity
+[2021-05-18 01:18:24.026] MOB ADD: on_merge(): OvelhaCosmica/(Adam Alves) at Wasteland (68, 36, 2) - 29.2 of /datum/reagent/consumable/dry_ramen with 1 purity
+[2021-05-18 01:18:24.269] MOB ADD: on_mob_add(): Luiz20[DC]/(Luiz Borgos Segundo) at Brotherhood of Steel (152, 245, 2) - 1 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:18:25.432] MOB ADD: on_merge(): Luiz20[DC]/(Luiz Borgos Segundo) at Brotherhood of Steel (152, 245, 2) - 3.5 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:18:26.379] MOB ADD: on_merge(): Luiz20[DC]/(Luiz Borgos Segundo) at Brotherhood of Steel (152, 245, 2) - 4.5 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:18:27.066] MOB DELETE: on_mob_delete: OvelhaCosmica/(Adam Alves) at Wasteland (68, 36, 2) - /datum/reagent/consumable/sugar
+[2021-05-18 01:18:29.508] MOB ADD: on_merge(): Luiz20[DC]/(Luiz Borgos Segundo) at Brotherhood of Steel (152, 245, 2) - 5.5 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:18:30.550] MOB ADD: on_merge(): Luiz20[DC]/(Luiz Borgos Segundo) at Brotherhood of Steel (152, 245, 2) - 8 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:18:31.273] MOB DELETE: on_mob_delete: OvelhaCosmica/(Adam Alves) at Wasteland (65, 36, 2) - /datum/reagent/consumable/coco
+[2021-05-18 01:18:31.639] MOB ADD: on_merge(): Luiz20[DC]/(Luiz Borgos Segundo) at Brotherhood of Steel (152, 245, 2) - 9 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:18:32.607] MOB ADD: on_merge(): Luiz20[DC]/(Luiz Borgos Segundo) at Brotherhood of Steel (152, 245, 2) - 11.5 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:18:33.580] MOB ADD: on_merge(): Luiz20[DC]/(Luiz Borgos Segundo) at Brotherhood of Steel (152, 245, 2) - 16.5 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:18:34.665] MOB ADD: on_merge(): Luiz20[DC]/(Luiz Borgos Segundo) at Brotherhood of Steel (152, 245, 2) - 19 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:18:35.796] MOB ADD: on_merge(): Luiz20[DC]/(Luiz Borgos Segundo) at Brotherhood of Steel (152, 245, 2) - 26.5 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:18:39.916] MOB ADD: on_merge(): *no key*/(Seth Lord) at Wasteland (45, 224, 2) - 22.7 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:18:40.958] MOB ADD: on_merge(): *no key*/(Seth Lord) at Wasteland (45, 224, 2) - 27.7 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:18:41.904] MOB ADD: on_merge(): *no key*/(Seth Lord) at Wasteland (45, 224, 2) - 32.7 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:18:41.914] MOB ADD: on_merge(): *no key*/(Seth Lord) at Wasteland (45, 224, 2) - 40.2 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:18:42.836] MOB ADD: on_merge(): *no key*/(Seth Lord) at Wasteland (45, 224, 2) - 47.7 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:18:42.841] MOB ADD: on_merge(): *no key*/(Seth Lord) at Wasteland (45, 224, 2) - 55.2 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:18:43.769] MOB ADD: on_merge(): *no key*/(Seth Lord) at Wasteland (45, 224, 2) - 62.7 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:18:43.774] MOB ADD: on_merge(): *no key*/(Seth Lord) at Wasteland (45, 224, 2) - 70.2 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:18:44.701] MOB ADD: on_merge(): *no key*/(Seth Lord) at Wasteland (45, 224, 2) - 77.7 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:18:44.709] MOB ADD: on_merge(): *no key*/(Seth Lord) at Wasteland (45, 224, 2) - 85.2 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:18:45.848] MOB ADD: on_merge(): *no key*/(Seth Lord) at Wasteland (45, 224, 2) - 92.7 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:18:45.857] MOB ADD: on_merge(): *no key*/(Seth Lord) at Wasteland (45, 224, 2) - 100.2 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:18:46.667] MOB ADD: on_merge(): *no key*/(Seth Lord) at Wasteland (45, 224, 2) - 107.7 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:18:46.672] MOB ADD: on_merge(): *no key*/(Seth Lord) at Wasteland (45, 224, 2) - 115.2 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:18:53.380] MOB ADD: on_merge(): *no key*/(Luiz Borgos Segundo) at Brotherhood of Steel (151, 245, 2) - 29 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:18:54.372] MOB ADD: on_merge(): *no key*/(Luiz Borgos Segundo) at Brotherhood of Steel (151, 245, 2) - 34 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:18:55.938] MOB ADD: on_merge(): *no key*/(Luiz Borgos Segundo) at Brotherhood of Steel (151, 245, 2) - 36.5 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:18:56.948] MOB ADD: on_merge(): *no key*/(Luiz Borgos Segundo) at Brotherhood of Steel (151, 245, 2) - 44 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:18:57.858] MOB ADD: on_merge(): *no key*/(Luiz Borgos Segundo) at Brotherhood of Steel (151, 245, 2) - 49 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:19:01.388] MOB ADD: on_merge(): *no key*/(Luiz Borgos Segundo) at Brotherhood of Steel (151, 245, 2) - 54 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:19:02.524] MOB ADD: on_merge(): *no key*/(Luiz Borgos Segundo) at Brotherhood of Steel (151, 245, 2) - 56.5 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:19:03.384] MOB ADD: on_merge(): *no key*/(Luiz Borgos Segundo) at Brotherhood of Steel (151, 245, 2) - 61.5 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:19:04.376] MOB ADD: on_merge(): *no key*/(Luiz Borgos Segundo) at Brotherhood of Steel (151, 245, 2) - 64 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:19:05.334] MOB ADD: on_merge(): *no key*/(Luiz Borgos Segundo) at Brotherhood of Steel (151, 245, 2) - 71.5 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:19:05.346] MOB ADD: on_merge(): *no key*/(Luiz Borgos Segundo) at Brotherhood of Steel (151, 245, 2) - 79 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:19:08.385] MOB ADD: on_merge(): *no key*/(Luiz Borgos Segundo) at Brotherhood of Steel (151, 245, 2) - 80 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:19:09.454] MOB ADD: on_merge(): *no key*/(Luiz Borgos Segundo) at Brotherhood of Steel (151, 245, 2) - 82.5 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:19:10.369] MOB ADD: on_merge(): *no key*/(Luiz Borgos Segundo) at Brotherhood of Steel (151, 245, 2) - 87.5 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:19:11.388] MOB ADD: on_merge(): *no key*/(Luiz Borgos Segundo) at Brotherhood of Steel (151, 245, 2) - 90 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:19:12.275] MOB ADD: on_merge(): *no key*/(Luiz Borgos Segundo) at Brotherhood of Steel (151, 245, 2) - 92.5 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:19:13.343] MOB ADD: on_merge(): *no key*/(Luiz Borgos Segundo) at Brotherhood of Steel (151, 245, 2) - 100 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:19:14.338] MOB ADD: on_merge(): *no key*/(Luiz Borgos Segundo) at Brotherhood of Steel (151, 245, 2) - 107.5 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:19:14.350] MOB ADD: on_merge(): *no key*/(Luiz Borgos Segundo) at Brotherhood of Steel (151, 245, 2) - 115 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:19:15.284] MOB ADD: on_merge(): *no key*/(Luiz Borgos Segundo) at Brotherhood of Steel (151, 245, 2) - 122.5 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:19:18.611] MOB ADD: on_merge(): *no key*/(Luiz Borgos Segundo) at Brotherhood of Steel (151, 245, 2) - 127.5 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:19:19.684] MOB ADD: on_merge(): *no key*/(Luiz Borgos Segundo) at Brotherhood of Steel (151, 245, 2) - 130 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:19:20.628] MOB ADD: on_merge(): *no key*/(Luiz Borgos Segundo) at Brotherhood of Steel (151, 245, 2) - 137.5 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:19:20.647] MOB ADD: on_merge(): *no key*/(Luiz Borgos Segundo) at Brotherhood of Steel (151, 245, 2) - 145 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:19:21.711] MOB ADD: on_merge(): *no key*/(Luiz Borgos Segundo) at Brotherhood of Steel (151, 245, 2) - 152.5 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:19:23.478] MOB ADD: on_mob_add(): Mollwu[DC]/(Vaughn Baxter) at Wasteland (249, 230, 2) - 2.5 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:19:35.654] MOB DELETE: on_mob_delete: OvelhaCosmica/(Adam Alves) at Wasteland (57, 44, 2) - /datum/reagent/consumable/nutriment
+[2021-05-18 01:19:37.439] MOB ADD: on_merge(): *no key*/(Luiz Borgos Segundo) at Brotherhood of Steel (154, 246, 2) - 157.5 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:19:38.532] MOB ADD: on_merge(): *no key*/(Luiz Borgos Segundo) at Brotherhood of Steel (154, 246, 2) - 165 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:19:39.476] MOB ADD: on_merge(): *no key*/(Luiz Borgos Segundo) at Brotherhood of Steel (154, 246, 2) - 172.5 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:19:40.446] MOB ADD: on_merge(): *no key*/(Luiz Borgos Segundo) at Brotherhood of Steel (154, 246, 2) - 180 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:19:41.477] MOB ADD: on_merge(): *no key*/(Luiz Borgos Segundo) at Brotherhood of Steel (154, 246, 2) - 187.5 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:19:42.405] MOB ADD: on_merge(): *no key*/(Luiz Borgos Segundo) at Brotherhood of Steel (154, 246, 2) - 195 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:19:43.304] MOB ADD: on_merge(): *no key*/(Luiz Borgos Segundo) at Brotherhood of Steel (154, 246, 2) - 202.5 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:19:44.331] MOB ADD: on_merge(): *no key*/(Luiz Borgos Segundo) at Brotherhood of Steel (154, 246, 2) - 210 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:19:45.288] MOB ADD: on_merge(): *no key*/(Luiz Borgos Segundo) at Brotherhood of Steel (154, 246, 2) - 217.5 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:19:46.188] MOB DELETE: on_mob_delete: Mollwu[DC]/(Vaughn Baxter) at Wasteland (249, 233, 2) - /datum/reagent/determination
+[2021-05-18 01:20:56.319] MOB DELETE: on_mob_delete: OvelhaCosmica/(Adam Alves) at Wasteland (85, 134, 2) - /datum/reagent/consumable/dry_ramen
+[2021-05-18 01:21:23.344] MOB ADD: on_mob_add(): bxssvg/(Lia Pavlov) at Wasteland (245, 225, 2) - 10 of /datum/reagent/water with 1 purity
+[2021-05-18 01:21:28.204] MOB ADD: on_merge(): bxssvg/(Lia Pavlov) at Wasteland (245, 225, 2) - 16.8 of /datum/reagent/water with 1 purity
+[2021-05-18 01:21:30.518] MOB ADD: on_merge(): bxssvg/(Lia Pavlov) at Wasteland (245, 225, 2) - 22.4 of /datum/reagent/water with 1 purity
+[2021-05-18 01:21:34.163] MOB ADD: on_merge(): bxssvg/(Lia Pavlov) at Wasteland (245, 224, 2) - 26.6 of /datum/reagent/water with 1 purity
+[2021-05-18 01:21:38.258] MOB ADD: on_merge(): bxssvg/(Lia Pavlov) at Building (245, 219, 2) - 30.8 of /datum/reagent/water with 1 purity
+[2021-05-18 01:22:03.056] MOB ADD: on_mob_add(): NizimGamer/(Nizin Veerriene Primeiro) at Village (165, 113, 2) - 10 of /datum/reagent/medicine/kelotane with 1 purity
+[2021-05-18 01:22:31.569] MOB ADD: on_mob_add(): darkpudding/(Arthur Mueller) at Wasteland (244, 228, 2) - 10 of /datum/reagent/medicine/healing_powder with 1 purity
+[2021-05-18 01:22:32.998] MOB ADD: on_merge(): bxssvg/(Lia Pavlov) at Wasteland (245, 225, 2) - 25.4 of /datum/reagent/water with 1 purity
+[2021-05-18 01:22:34.710] MOB ADD: on_merge(): bxssvg/(Lia Pavlov) at Wasteland (245, 225, 2) - 30 of /datum/reagent/water with 1 purity
+[2021-05-18 01:22:43.298] MOB ADD: on_merge(): bxssvg/(Lia Pavlov) at Wasteland (245, 225, 2) - 33.4 of /datum/reagent/water with 1 purity
+[2021-05-18 01:22:44.677] MOB ADD: on_merge(): bxssvg/(Lia Pavlov) at Wasteland (245, 225, 2) - 34 of /datum/reagent/water with 1 purity
+[2021-05-18 01:22:49.036] MOB ADD: on_merge(): *no key*/(Rebecca Dawkins) at Wasteland (95, 144, 2) - 12.78 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:22:53.953] MOB DELETE: on_mob_delete: NizimGamer/(Nizin Veerriene Primeiro) at Wasteland (195, 132, 2) - /datum/reagent/medicine/kelotane
+[2021-05-18 01:23:00.676] MOB ADD: on_mob_add(): bxssvg/(Lia Pavlov) at Building (244, 212, 2) - 5 of /datum/reagent/consumable/nuka_cola with 1 purity
+[2021-05-18 01:23:08.542] MOB DELETE: on_mob_delete: darkpudding/(Arthur Mueller) at Emergency Shuttle (249, 245, 2) - /datum/reagent/medicine/healing_powder
+[2021-05-18 01:23:14.064] SPLASH - the glass of Nuka Cola object SplashReagents() onto the floor at the floor (Building (245, 216, 2)) THROWN BY bxssvg/(Lia Pavlov) at the floor (Building (244, 219, 2)) - /datum/reagent/consumable/nuka_cola (45u)
+[2021-05-18 01:23:14.308] MOB ADD: on_mob_add(): OvelhaCosmica/(Adam Alves) at Village (195, 126, 2) - 10 of /datum/reagent/medicine/kelotane with 1 purity
+[2021-05-18 01:23:26.839] MOB DELETE: on_mob_delete: bxssvg/(Lia Pavlov) at Emergency Shuttle (248, 233, 2) - /datum/reagent/consumable/nuka_cola
+[2021-05-18 01:24:02.035] MOB ADD: on_merge(): OvelhaCosmica/(Adam Alves) at Wasteland (239, 203, 2) - 10.4 of /datum/reagent/medicine/kelotane with 1 purity
+[2021-05-18 01:24:19.403] TRANSFER: FROM The large beaker ([0x204fdd1]) (0,0,0) TO The large beaker ([0x204e70b]) (38,163,4) - Kaduh/(Erika Miller) - reagentcontainer-glass afterattack transfer to: trans_to with arguments the large beaker 10 1 1 0 and reagents Potassium - 2, Sulfur - 2 and Oxygen - 6
+[2021-05-18 01:24:54.478] MOB DELETE: on_mob_delete: OvelhaCosmica/(Adam Alves) at Emergency Shuttle (251, 227, 2) - /datum/reagent/medicine/kelotane
+[2021-05-18 01:25:37.077] MOB DELETE: on_mob_delete: bxssvg/(Lia Pavlov) at Emergency Shuttle (248, 233, 2) - /datum/reagent/water
+[2021-05-18 01:26:24.372] TRANSFER: FROM The large beaker ([0x204fdd1]) (0,0,0) TO The large beaker ([0x204e70b]) (38,163,4) - Kaduh/(Erika Miller) - reagentcontainer-glass afterattack transfer to: trans_to with arguments the large beaker 10 1 1 0 and reagents Potassium - 1.42857, Oxygen - 4.28571 and Sulfur - 4.28571
+[2021-05-18 01:26:25.163] TRANSFER: FROM The large beaker ([0x204fdd1]) (0,0,0) TO The large beaker ([0x204e70b]) (38,163,4) - Kaduh/(Erika Miller) - reagentcontainer-glass afterattack transfer to: trans_to with arguments the large beaker 10 1 1 0 and reagents Potassium - 1.42857, Oxygen - 4.28571 and Sulfur - 4.28571
+[2021-05-18 01:26:25.671] TRANSFER: FROM The large beaker ([0x204fdd1]) (0,0,0) TO The large beaker ([0x204e70b]) (38,163,4) - Kaduh/(Erika Miller) - reagentcontainer-glass afterattack transfer to: trans_to with arguments the large beaker 10 1 1 0 and reagents Potassium - 1.42857, Oxygen - 4.28571 and Sulfur - 4.28571
+[2021-05-18 01:26:26.023] TRANSFER: FROM The large beaker ([0x204fdd1]) (0,0,0) TO The large beaker ([0x204e70b]) (38,163,4) - Kaduh/(Erika Miller) - reagentcontainer-glass afterattack transfer to: trans_to with arguments the large beaker 10 1 1 0 and reagents Potassium - 1.42857, Oxygen - 4.28571 and Sulfur - 4.28571
+[2021-05-18 01:26:26.742] TRANSFER: FROM The large beaker ([0x204fdd1]) (0,0,0) TO The large beaker ([0x204e70b]) (38,163,4) - Kaduh/(Erika Miller) - reagentcontainer-glass afterattack transfer to: trans_to with arguments the large beaker 9.996 1 1 0 and reagents Potassium - 1.428, Oxygen - 4.284 and Sulfur - 4.284
+[2021-05-18 01:26:57.117] MOB ADD: on_mob_add(): NizimGamer/(Nizin Veerriene Primeiro) at Emergency Shuttle (114, 40, 5) - 2.5 of /datum/reagent/consumable/nutriment with 1 purity
+[2021-05-18 01:26:57.118] MOB ADD: on_mob_add(): NizimGamer/(Nizin Veerriene Primeiro) at Emergency Shuttle (114, 40, 5) - 0.5 of /datum/reagent/consumable/capsaicin with 1 purity
+[2021-05-18 01:26:57.118] MOB ADD: on_mob_add(): NizimGamer/(Nizin Veerriene Primeiro) at Emergency Shuttle (114, 40, 5) - 1 of /datum/reagent/consumable/tomatojuice with 1 purity
+[2021-05-18 01:26:57.118] MOB ADD: on_mob_add(): NizimGamer/(Nizin Veerriene Primeiro) at Emergency Shuttle (114, 40, 5) - 1 of /datum/reagent/consumable/nutriment/vitamin with 1 purity
+[2021-05-18 01:27:00.557] MOB DELETE: on_mob_delete: NizimGamer/(Nizin Veerriene Primeiro) at Emergency Shuttle (114, 40, 5) - /datum/reagent/consumable/capsaicin
+[2021-05-18 01:27:02.561] MOB DELETE: on_mob_delete: NizimGamer/(Nizin Veerriene Primeiro) at Emergency Shuttle (114, 41, 5) - /datum/reagent/consumable/tomatojuice
+[2021-05-18 01:27:02.563] MOB DELETE: on_mob_delete: NizimGamer/(Nizin Veerriene Primeiro) at Emergency Shuttle (114, 41, 5) - /datum/reagent/consumable/nutriment/vitamin
+[2021-05-18 01:27:10.638] MOB DELETE: on_mob_delete: NizimGamer/(Nizin Veerriene Primeiro) at Emergency Shuttle (115, 31, 5) - /datum/reagent/consumable/nutriment
+[2021-05-18 01:28:15.420] MOB ADD: on_mob_add(): bxssvg/(Lia Pavlov) at CentCom Recovery Ship (112, 32, 1) - 1 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:28:16.812] MOB ADD: on_mob_add(): Gabrielmilla123/(Gabriel Milla) at Wasteland (56, 78, 2) - 2.5 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:28:17.835] MOB ADD: on_merge(): Gabrielmilla123/(Gabriel Milla) at Wasteland (56, 78, 2) - 7.5 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:28:18.468] MOB ADD: on_merge(): Gabrielmilla123/(Gabriel Milla) at Wasteland (56, 78, 2) - 12.5 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:28:18.691] MOB ADD: on_merge(): bxssvg/(Lia Pavlov) at CentCom Recovery Ship (99, 32, 1) - 2.9 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:28:18.917] MOB ADD: on_merge(): Gabrielmilla123/(Gabriel Milla) at Wasteland (56, 78, 2) - 20 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:28:19.481] MOB ADD: on_merge(): Gabrielmilla123/(Gabriel Milla) at Wasteland (56, 78, 2) - 27.5 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:28:21.570] MOB ADD: on_merge(): bxssvg/(Lia Pavlov) at CentCom Recovery Ship (100, 32, 1) - 3.6 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:28:22.521] MOB ADD: on_merge(): bxssvg/(Lia Pavlov) at CentCom Recovery Ship (100, 32, 1) - 8.6 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:28:23.332] MOB ADD: on_merge(): *no key*/(Lia Pavlov) at CentCom Recovery Ship (100, 32, 1) - 13.6 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:28:24.135] MOB ADD: on_merge(): *no key*/(Lia Pavlov) at CentCom Recovery Ship (100, 32, 1) - 21.1 of /datum/reagent/determination with 1 purity
+[2021-05-18 01:28:37.247] SPLASH - the large beaker object SplashReagents() onto the reinforced window at the floor (Vault (37, 162, 4)) - /datum/reagent/potassium (2.858u), /datum/reagent/oxygen (8.573u) and /datum/reagent/sulfur (8.573u)
+[2021-05-18 01:28:37.552] SPLASH - Duke Purple tea object SplashReagents() onto the reinforced window at the plating (Vault (51, 175, 4)) - /datum/reagent/consumable/tea (30u)
+[2021-05-18 01:28:37.580] SPLASH - Duke Purple tea object SplashReagents() onto the reinforced window at the plating (Vault (51, 175, 4)) - /datum/reagent/consumable/tea (30u)
+[2021-05-18 01:28:53.361] MOB ADD: on_mob_add(): darkpudding/(Arthur Mueller) at CentCom Recovery Ship (89, 32, 1) - 10 of /datum/reagent/medicine/stimpak with 1 purity
+[2021-05-18 01:28:54.977] MOB ADD: on_merge(): darkpudding/(Arthur Mueller) at CentCom Recovery Ship (95, 32, 1) - 19.84 of /datum/reagent/medicine/stimpak with 1 purity

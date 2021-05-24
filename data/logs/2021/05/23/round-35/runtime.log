@@ -1,0 +1,178 @@
+[2021-05-23 23:37:36.087] Starting up round ID 35.
+ - -------------------------
+[2021-05-23 23:37:36.107] Running /tg/ revision: 
+ - origin/master: 03a83e2ef4473a3107578d22120b9150fe6284e5
+[2021-05-23 23:37:36.136] runtime error: Admin datum created without a rank
+ - proc name: New (/datum/admins/New)
+ -   source file: holder2.dm,45
+ -   usr: null
+ -   src: nobody\'s admin datum (no rank... (/datum/admins)
+ -   call stack:
+ - nobody\'s admin datum (no rank... (/datum/admins): New(null, "dantesousa", 0, 1)
+ - load admins(null)
+ - world: New()
+ - 
+[2021-05-23 23:37:37.584] Loading Yuma...
+[2021-05-23 23:37:49.717] Loaded Wasteland in 12.2s!
+[2021-05-23 23:37:52.244] Loaded Dungeons in 2.5s!
+[2021-05-23 23:37:53.501] Ruin loader finished with 0 left to spend.
+[2021-05-23 23:38:12.041] runtime error: undefined proc or verb /turf/open/floor/wood/update equipment speed mods().
+ - 
+ - proc name: powerDown (/obj/item/clothing/head/helmet/f13/power_armor/proc/powerDown)
+ -   source file: f13head.dm,317
+ -   usr: null
+ -   src: T-45d power helmet (/obj/item/clothing/head/helmet/f13/power_armor/t45d)
+ -   src.loc: the floor (238,237,3) (/turf/open/floor/wood)
+ -   call stack:
+ - T-45d power helmet (/obj/item/clothing/head/helmet/f13/power_armor/t45d): powerDown()
+ - T-45d power helmet (/obj/item/clothing/head/helmet/f13/power_armor/t45d): processPower()
+ - T-45d power helmet (/obj/item/clothing/head/helmet/f13/power_armor/t45d): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(T-45d power helmet (/obj/item/clothing/head/helmet/f13/power_armor/t45d), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(850736)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-23 23:38:12.042] runtime error: undefined proc or verb /turf/open/floor/wood/update equipment speed mods().
+ - 
+ - proc name: powerDown (/obj/item/clothing/head/helmet/f13/power_armor/proc/powerDown)
+ -   source file: f13head.dm,317
+ -   usr: null
+ -   src: T-45d power helmet (/obj/item/clothing/head/helmet/f13/power_armor/t45d)
+ -   src.loc: the floor (238,237,3) (/turf/open/floor/wood)
+ -   call stack:
+ - T-45d power helmet (/obj/item/clothing/head/helmet/f13/power_armor/t45d): powerDown()
+ - T-45d power helmet (/obj/item/clothing/head/helmet/f13/power_armor/t45d): processPower()
+ - T-45d power helmet (/obj/item/clothing/head/helmet/f13/power_armor/t45d): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(T-45d power helmet (/obj/item/clothing/head/helmet/f13/power_armor/t45d), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(850736)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-23 23:38:12.044] runtime error: undefined proc or verb /turf/open/floor/wood/update equipment speed mods().
+ - 
+ - proc name: powerDown (/obj/item/clothing/suit/armor/f13/power_armor/proc/powerDown)
+ -   source file: f13armor.dm,306
+ -   usr: null
+ -   src: Knight-Captain\'s T-45d Power ... (/obj/item/clothing/suit/armor/f13/power_armor/t45d/knightcaptain)
+ -   src.loc: the floor (238,237,3) (/turf/open/floor/wood)
+ -   call stack:
+ - Knight-Captain\'s T-45d Power ... (/obj/item/clothing/suit/armor/f13/power_armor/t45d/knightcaptain): powerDown(null)
+ - Knight-Captain\'s T-45d Power ... (/obj/item/clothing/suit/armor/f13/power_armor/t45d/knightcaptain): processPower()
+ - Knight-Captain\'s T-45d Power ... (/obj/item/clothing/suit/armor/f13/power_armor/t45d/knightcaptain): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(Knight-Captain\'s T-45d Power ... (/obj/item/clothing/suit/armor/f13/power_armor/t45d/knightcaptain), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(850736)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-23 23:38:12.045] runtime error: undefined proc or verb /turf/open/floor/wood/update equipment speed mods().
+ - 
+ - proc name: powerDown (/obj/item/clothing/suit/armor/f13/power_armor/proc/powerDown)
+ -   source file: f13armor.dm,306
+ -   usr: null
+ -   src: Knight-Captain\'s T-45d Power ... (/obj/item/clothing/suit/armor/f13/power_armor/t45d/knightcaptain)
+ -   src.loc: the floor (238,237,3) (/turf/open/floor/wood)
+ -   call stack:
+ - Knight-Captain\'s T-45d Power ... (/obj/item/clothing/suit/armor/f13/power_armor/t45d/knightcaptain): powerDown(null)
+ - Knight-Captain\'s T-45d Power ... (/obj/item/clothing/suit/armor/f13/power_armor/t45d/knightcaptain): processPower()
+ - Knight-Captain\'s T-45d Power ... (/obj/item/clothing/suit/armor/f13/power_armor/t45d/knightcaptain): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(Knight-Captain\'s T-45d Power ... (/obj/item/clothing/suit/armor/f13/power_armor/t45d/knightcaptain), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(850736)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-23 23:38:12.661] runtime error: undefined proc or verb /turf/open/floor/mineral/plastitanium/airless/update equipment speed mods().
+ - 
+ - proc name: powerDown (/obj/item/clothing/head/helmet/f13/power_armor/proc/powerDown)
+ -   source file: f13head.dm,317
+ -   usr: null
+ -   src: the helm of a fallen Brother (/obj/item/clothing/head/helmet/f13/power_armor/t51b)
+ -   src.loc: the shuttle floor (248,195,3) (/turf/open/floor/mineral/plastitanium/airless)
+ -   call stack:
+ - the helm of a fallen Brother (/obj/item/clothing/head/helmet/f13/power_armor/t51b): powerDown()
+ - the helm of a fallen Brother (/obj/item/clothing/head/helmet/f13/power_armor/t51b): processPower()
+ - the helm of a fallen Brother (/obj/item/clothing/head/helmet/f13/power_armor/t51b): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the helm of a fallen Brother (/obj/item/clothing/head/helmet/f13/power_armor/t51b), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(850736)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-23 23:38:12.661] runtime error: undefined proc or verb /turf/open/floor/mineral/plastitanium/airless/update equipment speed mods().
+ - 
+ - proc name: powerDown (/obj/item/clothing/head/helmet/f13/power_armor/proc/powerDown)
+ -   source file: f13head.dm,317
+ -   usr: null
+ -   src: the helm of a fallen Brother (/obj/item/clothing/head/helmet/f13/power_armor/t51b)
+ -   src.loc: the shuttle floor (248,195,3) (/turf/open/floor/mineral/plastitanium/airless)
+ -   call stack:
+ - the helm of a fallen Brother (/obj/item/clothing/head/helmet/f13/power_armor/t51b): powerDown()
+ - the helm of a fallen Brother (/obj/item/clothing/head/helmet/f13/power_armor/t51b): processPower()
+ - the helm of a fallen Brother (/obj/item/clothing/head/helmet/f13/power_armor/t51b): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the helm of a fallen Brother (/obj/item/clothing/head/helmet/f13/power_armor/t51b), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(850736)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-23 23:38:14.712] runtime error: undefined proc or verb /turf/open/floor/plasteel/dark/update equipment speed mods().
+ - 
+ - proc name: powerDown (/obj/item/clothing/suit/armor/f13/power_armor/proc/powerDown)
+ -   source file: f13armor.dm,306
+ -   usr: null
+ -   src: the excavator power armor (/obj/item/clothing/suit/armor/f13/power_armor/excavator)
+ -   src.loc: the floor (44,183,4) (/turf/open/floor/plasteel/dark)
+ -   call stack:
+ - the excavator power armor (/obj/item/clothing/suit/armor/f13/power_armor/excavator): powerDown(null)
+ - the excavator power armor (/obj/item/clothing/suit/armor/f13/power_armor/excavator): processPower()
+ - the excavator power armor (/obj/item/clothing/suit/armor/f13/power_armor/excavator): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the excavator power armor (/obj/item/clothing/suit/armor/f13/power_armor/excavator), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(850736)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-23 23:38:14.713] runtime error: undefined proc or verb /turf/open/floor/plasteel/dark/update equipment speed mods().
+ - 
+ - proc name: powerDown (/obj/item/clothing/suit/armor/f13/power_armor/proc/powerDown)
+ -   source file: f13armor.dm,306
+ -   usr: null
+ -   src: the excavator power armor (/obj/item/clothing/suit/armor/f13/power_armor/excavator)
+ -   src.loc: the floor (44,183,4) (/turf/open/floor/plasteel/dark)
+ -   call stack:
+ - the excavator power armor (/obj/item/clothing/suit/armor/f13/power_armor/excavator): powerDown(null)
+ - the excavator power armor (/obj/item/clothing/suit/armor/f13/power_armor/excavator): processPower()
+ - the excavator power armor (/obj/item/clothing/suit/armor/f13/power_armor/excavator): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the excavator power armor (/obj/item/clothing/suit/armor/f13/power_armor/excavator), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(850736)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-23 23:38:14.715] runtime error: undefined proc or verb /turf/open/floor/plasteel/dark/update equipment speed mods().
+ - 
+ - proc name: powerDown (/obj/item/clothing/head/helmet/f13/power_armor/proc/powerDown)
+ -   source file: f13head.dm,317
+ -   usr: null
+ -   src: the excavator power helmet (/obj/item/clothing/head/helmet/f13/power_armor/excavator)
+ -   src.loc: the floor (44,183,4) (/turf/open/floor/plasteel/dark)
+ -   call stack:
+ - the excavator power helmet (/obj/item/clothing/head/helmet/f13/power_armor/excavator): powerDown()
+ - the excavator power helmet (/obj/item/clothing/head/helmet/f13/power_armor/excavator): processPower()
+ - the excavator power helmet (/obj/item/clothing/head/helmet/f13/power_armor/excavator): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the excavator power helmet (/obj/item/clothing/head/helmet/f13/power_armor/excavator), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(850736)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-23 23:38:14.716] runtime error: undefined proc or verb /turf/open/floor/plasteel/dark/update equipment speed mods().
+ - 
+ - proc name: powerDown (/obj/item/clothing/head/helmet/f13/power_armor/proc/powerDown)
+ -   source file: f13head.dm,317
+ -   usr: null
+ -   src: the excavator power helmet (/obj/item/clothing/head/helmet/f13/power_armor/excavator)
+ -   src.loc: the floor (44,183,4) (/turf/open/floor/plasteel/dark)
+ -   call stack:
+ - the excavator power helmet (/obj/item/clothing/head/helmet/f13/power_armor/excavator): powerDown()
+ - the excavator power helmet (/obj/item/clothing/head/helmet/f13/power_armor/excavator): processPower()
+ - the excavator power helmet (/obj/item/clothing/head/helmet/f13/power_armor/excavator): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the excavator power helmet (/obj/item/clothing/head/helmet/f13/power_armor/excavator), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(850736)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 

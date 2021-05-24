@@ -1,0 +1,2375 @@
+[2021-05-23 18:38:14.793] Starting up round ID 33.
+ - -------------------------
+[2021-05-23 18:38:29.241] kaduh in browseroutput/initialize
+[2021-05-23 18:38:31.758] richardcampi in browseroutput/initialize
+[2021-05-23 18:38:32.130] matheusgp9999 in browseroutput/initialize
+[2021-05-23 18:38:32.551] senhordosdoguinho in browseroutput/initialize
+[2021-05-23 18:38:32.867] mruniverso in browseroutput/initialize
+[2021-05-23 18:38:33.224] alexalbright in browseroutput/initialize
+[2021-05-23 18:38:34.180] dantesousa in browseroutput/initialize
+[2021-05-23 18:38:38.875] elvisaaron in browseroutput/initialize
+[2021-05-23 18:38:39.462] fidgetybacchus in browseroutput/initialize
+[2021-05-23 18:39:39.280] elvisaaron in browseroutput/initialize
+[2021-05-23 18:42:28.328] matheusgp9999 (as Unknown at 220,151,2)
+ - Using: /datum/component/loadout_selector [0x21013053]
+ - new LoadoutSelect fancy 1
+[2021-05-23 18:42:28.328] matheusgp9999 in tgui-window-1/initialize
+ - Using: /datum/component/loadout_selector [0x21013053]
+[2021-05-23 18:42:30.755] matheusgp9999 (as Unknown at 220,151,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21013053]
+ - Action: loadout_select {"name":"Badlands"}
+[2021-05-23 18:42:34.255] matheusgp9999 (as Unknown at 220,151,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21013053]
+ - Action: loadout_select {"name":"Brotherhood Exile"}
+[2021-05-23 18:42:36.186] matheusgp9999 (as Unknown at 220,151,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21013053]
+ - Action: loadout_select {"name":"Brotherhood Exile"}
+[2021-05-23 18:42:39.397] matheusgp9999 (as Unknown at 220,151,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21013053]
+ - Action: loadout_confirm {}
+[2021-05-23 18:42:39.402] matheusgp9999 in tgui-window-1/close (suspending)
+[2021-05-23 18:44:08.888] elvisaaron (as Elvis Aaron at 254,67,2)
+ - Using: /datum/component/loadout_selector [0x2103b8be]
+ - new LoadoutSelect fancy 1
+[2021-05-23 18:44:08.888] elvisaaron in tgui-window-1/initialize
+ - Using: /datum/component/loadout_selector [0x2103b8be]
+[2021-05-23 18:44:47.922] elvisaaron (as Elvis Aaron at 254,67,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103b8be]
+ - Action: loadout_select {"name":"Salvager"}
+[2021-05-23 18:44:49.345] elvisaaron (as Elvis Aaron at 254,67,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103b8be]
+ - Action: loadout_select {"name":"Vaultie"}
+[2021-05-23 18:44:56.236] elvisaaron (as Elvis Aaron at 254,67,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103b8be]
+ - Action: loadout_select {"name":"Salvager"}
+[2021-05-23 18:45:03.243] elvisaaron (as Elvis Aaron at 254,67,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103b8be]
+ - Action: loadout_select {"name":"Wasteland Doctor"}
+[2021-05-23 18:45:06.095] elvisaaron (as Elvis Aaron at 254,67,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103b8be]
+ - Action: loadout_preview_direction {"direction":1}
+[2021-05-23 18:45:06.499] elvisaaron (as Elvis Aaron at 254,67,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103b8be]
+ - Action: loadout_preview_direction {"direction":1}
+[2021-05-23 18:45:07.056] elvisaaron (as Elvis Aaron at 254,67,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103b8be]
+ - Action: loadout_preview_direction {"direction":1}
+[2021-05-23 18:45:07.396] elvisaaron (as Elvis Aaron at 254,67,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103b8be]
+ - Action: loadout_preview_direction {"direction":1}
+[2021-05-23 18:45:12.420] elvisaaron (as Elvis Aaron at 254,67,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103b8be]
+ - Action: loadout_select {"name":"Roving Trader"}
+[2021-05-23 18:45:17.623] elvisaaron (as Elvis Aaron at 254,67,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103b8be]
+ - Action: loadout_select {"name":"Scavenger"}
+[2021-05-23 18:45:22.493] elvisaaron (as Elvis Aaron at 254,67,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103b8be]
+ - Action: loadout_select {"name":"Legion Citizen"}
+[2021-05-23 18:45:24.512] elvisaaron (as Elvis Aaron at 254,67,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103b8be]
+ - Action: loadout_select {"name":"NCR Citizen"}
+[2021-05-23 18:45:26.911] elvisaaron (as Elvis Aaron at 254,67,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103b8be]
+ - Action: loadout_select {"name":"Salvager"}
+[2021-05-23 18:45:32.614] elvisaaron (as Elvis Aaron at 254,67,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103b8be]
+ - Action: loadout_confirm {}
+[2021-05-23 18:45:32.646] elvisaaron in tgui-window-1/close (suspending)
+[2021-05-23 18:46:19.847] alexalbright (as Alex Magnus Primeiro at 61,46,2)
+ - Using: /datum/orbit_menu [0x2103f11b]
+ - new Orbit fancy 1
+[2021-05-23 18:46:19.847] alexalbright in tgui-window-1/initialize
+ - Using: /datum/orbit_menu [0x2103f11b]
+[2021-05-23 18:46:21.282] alexalbright (as Alex Magnus Primeiro at 61,46,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2103f11b]
+ - Action: orbit {"ref":"[mob_828]"}
+[2021-05-23 18:46:23.833] alexalbright (as Alex Magnus Primeiro at 253,67,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2103f11b]
+ - Action: orbit {"ref":"[mob_829]"}
+[2021-05-23 18:46:26.833] alexalbright (as Alex Magnus Primeiro at 74,21,3) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2103f11b]
+ - Action: orbit {"ref":"[mob_792]"}
+[2021-05-23 18:46:29.297] alexalbright (as Alex Magnus Primeiro at 24,201,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2103f11b]
+ - Action: orbit {"ref":"[mob_788]"}
+[2021-05-23 18:47:46.867] elvisaaron (as Elvis Aaron at 252,67,2)
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - new PersonalCrafting fancy 1
+[2021-05-23 18:47:50.734] elvisaaron (as Elvis Aaron at 252,67,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Crafting","subcategory":"Forging & Smithing"}
+[2021-05-23 18:47:51.580] elvisaaron (as Elvis Aaron at 252,67,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Crafting","subcategory":"Scavenging & Tinkering"}
+[2021-05-23 18:47:52.206] elvisaaron (as Elvis Aaron at 252,67,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Crafting","subcategory":"Tools & Workbench"}
+[2021-05-23 18:47:53.145] elvisaaron (as Elvis Aaron at 252,67,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Crafting","subcategory":"Scavenging & Tinkering"}
+[2021-05-23 18:47:54.307] elvisaaron (as Elvis Aaron at 252,67,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Crafting","subcategory":"Electronics & Robots"}
+[2021-05-23 18:47:55.437] elvisaaron in tgui-window-1/close (suspending)
+[2021-05-23 18:47:55.437] elvisaaron in tgui-window-1/close (suspending)
+[2021-05-23 18:47:57.409] alexalbright in tgui-window-1/close (suspending)
+[2021-05-23 18:47:57.409] alexalbright in tgui-window-1/close (suspending)
+[2021-05-23 18:50:54.472] richardcampi (as Owen Brown at 231,81,2)
+ - Using: /datum/orbit_menu [0x2103f4df]
+ - new Orbit fancy 1
+[2021-05-23 18:50:54.472] richardcampi in tgui-window-1/initialize
+ - Using: /datum/orbit_menu [0x2103f4df]
+[2021-05-23 18:50:56.924] richardcampi in tgui-window-1/close (suspending)
+[2021-05-23 18:50:56.924] richardcampi in tgui-window-1/close (suspending)
+[2021-05-23 18:51:33.500] guizog in browseroutput/initialize
+[2021-05-23 18:51:42.841] richardcampi (as Owen Brown at 205,125,2)
+ - Using: /datum/orbit_menu [0x2103f4df]
+ - new Orbit fancy 1
+[2021-05-23 18:51:44.266] richardcampi (as Owen Brown at 205,125,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2103f4df]
+ - Action: orbit {"ref":"[mob_788]"}
+[2021-05-23 18:51:49.502] richardcampi (as Owen Brown at 116,176,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2103f4df]
+ - Action: orbit {"ref":"[mob_845]"}
+[2021-05-23 18:51:51.306] richardcampi in tgui-window-1/close (suspending)
+[2021-05-23 18:51:51.306] richardcampi in tgui-window-1/close (suspending)
+[2021-05-23 18:52:12.857] ritalina09 in browseroutput/initialize
+[2021-05-23 18:52:31.420] ritalina09 in browseroutput/initialize
+[2021-05-23 18:52:56.238] guizog (as Unknown at 222,146,2)
+ - Using: /datum/component/loadout_selector [0x2103f526]
+ - new LoadoutSelect fancy 1
+[2021-05-23 18:52:56.238] guizog in tgui-window-1/initialize
+ - Using: /datum/component/loadout_selector [0x2103f526]
+[2021-05-23 18:52:58.080] guizog (as Unknown at 222,146,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f526]
+ - Action: loadout_select {"name":"Supa-fly"}
+[2021-05-23 18:52:59.262] guizog (as Unknown at 222,146,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f526]
+ - Action: loadout_select {"name":"Blastmaster"}
+[2021-05-23 18:52:59.939] guizog (as Unknown at 222,146,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f526]
+ - Action: loadout_select {"name":"Blastmaster"}
+[2021-05-23 18:53:00.250] guizog (as Unknown at 222,146,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f526]
+ - Action: loadout_select {"name":"Blastmaster"}
+[2021-05-23 18:53:01.067] guizog (as Unknown at 222,146,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f526]
+ - Action: loadout_select {"name":"Sadist"}
+[2021-05-23 18:53:01.651] guizog (as Unknown at 222,146,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f526]
+ - Action: loadout_select {"name":"Sadist"}
+[2021-05-23 18:53:02.461] guizog (as Unknown at 222,146,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f526]
+ - Action: loadout_select {"name":"Badlands"}
+[2021-05-23 18:53:03.072] guizog (as Unknown at 222,146,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f526]
+ - Action: loadout_select {"name":"Badlands"}
+[2021-05-23 18:53:08.176] guizog (as Unknown at 222,146,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f526]
+ - Action: loadout_select {"name":"Punished Legionnaire"}
+[2021-05-23 18:53:09.634] guizog (as Unknown at 222,146,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f526]
+ - Action: loadout_select {"name":"Punished Legionnaire"}
+[2021-05-23 18:53:11.015] guizog (as Unknown at 222,146,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f526]
+ - Action: loadout_select {"name":"Desperado"}
+[2021-05-23 18:53:11.599] guizog (as Unknown at 222,146,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f526]
+ - Action: loadout_select {"name":"Desperado"}
+[2021-05-23 18:53:13.713] guizog (as Unknown at 222,146,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f526]
+ - Action: loadout_select {"name":"NCR Deserter"}
+[2021-05-23 18:53:14.282] guizog (as Unknown at 222,146,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f526]
+ - Action: loadout_select {"name":"NCR Deserter"}
+[2021-05-23 18:53:14.477] guizog (as Unknown at 222,146,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f526]
+ - Action: loadout_select {"name":"Brotherhood Exile"}
+[2021-05-23 18:53:15.079] guizog (as Unknown at 222,146,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f526]
+ - Action: loadout_select {"name":"Brotherhood Exile"}
+[2021-05-23 18:53:15.116] guizog (as Unknown at 222,146,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f526]
+ - Action: loadout_select {"name":"Brotherhood Exile"}
+[2021-05-23 18:53:17.351] guizog (as Unknown at 222,146,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f526]
+ - Action: loadout_select {"name":"NCR Deserter"}
+[2021-05-23 18:53:17.676] guizog (as Unknown at 222,146,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f526]
+ - Action: loadout_select {"name":"NCR Deserter"}
+[2021-05-23 18:53:18.518] guizog (as Unknown at 222,146,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f526]
+ - Action: loadout_select {"name":"Brotherhood Exile"}
+[2021-05-23 18:53:21.241] guizog (as Unknown at 222,146,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f526]
+ - Action: loadout_select {"name":"NCR Deserter"}
+[2021-05-23 18:53:24.973] guizog (as Unknown at 222,146,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f526]
+ - Action: loadout_select {"name":"Desperado"}
+[2021-05-23 18:53:27.425] guizog (as Unknown at 222,146,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f526]
+ - Action: loadout_confirm {}
+[2021-05-23 18:53:27.478] guizog in tgui-window-1/close (suspending)
+[2021-05-23 18:54:28.421] richardcampi (as Owen Brown at 33,214,2)
+ - Using: /datum/orbit_menu [0x2103f4df]
+ - new Orbit fancy 1
+[2021-05-23 18:54:30.213] richardcampi (as Owen Brown at 33,214,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2103f4df]
+ - Action: orbit {"ref":"[mob_849]"}
+[2021-05-23 18:54:38.410] elvisaaron (as Elvis Aaron at 207,119,2)
+ - Using: /obj/machinery/smartfridge/bottlerack/lootshelf/brews [0x20057a4]
+ - new SmartVend fancy 1
+[2021-05-23 18:54:41.773] richardcampi in tgui-window-1/close (suspending)
+[2021-05-23 18:54:41.773] richardcampi in tgui-window-1/close (suspending)
+[2021-05-23 18:54:44.235] elvisaaron in tgui-window-1/close (suspending)
+[2021-05-23 18:54:44.235] elvisaaron in tgui-window-1/close (suspending)
+[2021-05-23 18:55:02.058] elvisaaron (as Elvis Aaron at 213,127,2)
+ - Using: /obj/machinery/vending/coffee [0x20059b6]
+ - new Vending fancy 1
+[2021-05-23 18:55:17.274] elvisaaron (as Elvis Aaron at 213,127,2) in tgui-window-1
+ - Using: /obj/machinery/vending/coffee [0x20059b6]
+ - Action: vend {"ref":"[0x2100c73b]"}
+[2021-05-23 18:55:18.666] elvisaaron in tgui-window-1/close (suspending)
+[2021-05-23 18:55:18.667] elvisaaron in tgui-window-1/close (suspending)
+[2021-05-23 18:55:25.786] elvisaaron (as Elvis Aaron at 211,127,2)
+ - Using: /obj/machinery/vending/cigarette [0x200594c]
+ - new Vending fancy 1
+[2021-05-23 18:55:38.363] elvisaaron in tgui-window-1/close (suspending)
+[2021-05-23 18:55:38.363] elvisaaron in tgui-window-1/close (suspending)
+[2021-05-23 18:55:59.260] elvisaaron (as Elvis Aaron at 216,124,2)
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - new PersonalCrafting fancy 1
+[2021-05-23 18:56:01.736] elvisaaron (as Elvis Aaron at 216,124,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Crafting","subcategory":"Forging & Smithing"}
+[2021-05-23 18:56:02.229] elvisaaron (as Elvis Aaron at 216,124,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Crafting","subcategory":"Scavenging & Tinkering"}
+[2021-05-23 18:56:02.827] elvisaaron (as Elvis Aaron at 216,124,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Crafting","subcategory":"Tools & Workbench"}
+[2021-05-23 18:56:03.601] elvisaaron (as Elvis Aaron at 216,124,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Misc","subcategory":"Farming"}
+[2021-05-23 18:56:05.477] elvisaaron (as Elvis Aaron at 216,124,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Misc","subcategory":"Bottling"}
+[2021-05-23 18:56:05.950] elvisaaron (as Elvis Aaron at 216,124,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Misc","subcategory":"Miscellaneous"}
+[2021-05-23 18:56:06.421] elvisaaron (as Elvis Aaron at 216,124,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Misc","subcategory":"Burial & Execution"}
+[2021-05-23 18:56:09.132] elvisaaron (as Elvis Aaron at 216,124,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Weaponry","subcategory":"Melee Weapons"}
+[2021-05-23 18:56:10.308] elvisaaron (as Elvis Aaron at 216,124,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Weaponry","subcategory":"Ranged Weapons"}
+[2021-05-23 18:56:12.056] elvisaaron (as Elvis Aaron at 216,124,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Weaponry","subcategory":"Melee Weapons"}
+[2021-05-23 18:56:16.468] ritalina09 in browseroutput/initialize
+[2021-05-23 18:56:45.398] elvisaaron (as Elvis Aaron at 216,124,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Clothing","subcategory":"Misc Clothing"}
+[2021-05-23 18:56:47.043] elvisaaron (as Elvis Aaron at 216,124,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Clothing","subcategory":"General Clothing"}
+[2021-05-23 18:56:50.369] elvisaaron (as Elvis Aaron at 216,124,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Tribal"}
+[2021-05-23 18:57:07.464] elvisaaron (as Elvis Aaron at 216,124,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: make {"recipe":"[0x210012ac]"}
+[2021-05-23 18:57:15.646] ritalina09 in browseroutput/initialize
+[2021-05-23 18:57:24.651] dantesousa (as Dante Sousa at 22,63,2)
+ - Using: /datum/component/loadout_selector [0x2103f977]
+ - new LoadoutSelect fancy 1
+[2021-05-23 18:57:24.651] dantesousa in tgui-window-1/initialize
+ - Using: /datum/component/loadout_selector [0x2103f977]
+[2021-05-23 18:57:29.460] dantesousa (as Dante Sousa at 22,63,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f977]
+ - Action: loadout_select {"name":"Scout Officer"}
+[2021-05-23 18:57:30.810] dantesousa (as Dante Sousa at 22,63,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f977]
+ - Action: loadout_select {"name":"Scout Officer"}
+[2021-05-23 18:57:31.091] dantesousa (as Dante Sousa at 22,63,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f977]
+ - Action: loadout_select {"name":"Scout Officer"}
+[2021-05-23 18:57:31.898] elvisaaron in tgui-window-1/close (suspending)
+[2021-05-23 18:57:31.898] elvisaaron in tgui-window-1/close (suspending)
+[2021-05-23 18:57:32.742] dantesousa (as Dante Sousa at 22,63,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f977]
+ - Action: loadout_select {"name":"Pistoleer Officer"}
+[2021-05-23 18:57:34.044] dantesousa (as Dante Sousa at 22,63,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f977]
+ - Action: loadout_select {"name":"Pistoleer Officer"}
+[2021-05-23 18:57:34.045] dantesousa (as Dante Sousa at 22,63,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f977]
+ - Action: loadout_select {"name":"Pistoleer Officer"}
+[2021-05-23 18:57:34.335] dantesousa (as Dante Sousa at 22,63,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f977]
+ - Action: loadout_select {"name":"Pistoleer Officer"}
+[2021-05-23 18:57:41.763] dantesousa (as Dante Sousa at 22,63,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f977]
+ - Action: loadout_select {"name":"Line Officer"}
+[2021-05-23 18:57:53.391] elvisaaron (as Elvis Aaron at 216,124,2)
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - new PersonalCrafting fancy 1
+[2021-05-23 18:57:54.252] dantesousa (as Dante Sousa at 22,63,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103f977]
+ - Action: loadout_confirm {}
+[2021-05-23 18:57:54.439] dantesousa in tgui-window-1/close (suspending)
+[2021-05-23 18:57:56.790] elvisaaron in tgui-window-1/close (suspending)
+[2021-05-23 18:57:56.790] elvisaaron in tgui-window-1/close (suspending)
+[2021-05-23 18:57:58.311] elvisaaron (as Elvis Aaron at 216,124,2)
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - new PersonalCrafting fancy 1
+[2021-05-23 18:58:01.038] elvisaaron (as Elvis Aaron at 216,124,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Tribal"}
+[2021-05-23 18:58:10.512] elvisaaron (as Elvis Aaron at 216,124,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Foods","subcategory":"Food Bread"}
+[2021-05-23 18:58:15.209] elvisaaron (as Elvis Aaron at 216,124,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Foods","subcategory":"Food Pastries"}
+[2021-05-23 18:58:15.727] elvisaaron (as Elvis Aaron at 216,124,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Foods","subcategory":"Food Old World"}
+[2021-05-23 18:58:17.126] elvisaaron (as Elvis Aaron at 216,124,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Foods","subcategory":"Food Misc"}
+[2021-05-23 18:58:17.579] elvisaaron (as Elvis Aaron at 216,124,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Foods","subcategory":"Food Frozen"}
+[2021-05-23 18:58:18.523] elvisaaron (as Elvis Aaron at 216,124,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Foods","subcategory":"Food Meats"}
+[2021-05-23 18:58:18.957] elvisaaron (as Elvis Aaron at 216,124,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Foods","subcategory":"Food Soups"}
+[2021-05-23 18:58:19.487] elvisaaron (as Elvis Aaron at 216,124,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Foods","subcategory":"Food Soups"}
+[2021-05-23 18:58:20.088] elvisaaron (as Elvis Aaron at 216,124,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Foods","subcategory":"Food Wasteland"}
+[2021-05-23 18:58:21.128] elvisaaron (as Elvis Aaron at 216,124,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"","subcategory":"Food Pies & Sweets"}
+[2021-05-23 18:58:22.181] elvisaaron in tgui-window-1/close (suspending)
+[2021-05-23 18:58:22.182] elvisaaron in tgui-window-1/close (suspending)
+[2021-05-23 19:00:38.329] richardcampi (as Owen Brown at 25,204,2)
+ - Using: /datum/orbit_menu [0x2103ffb6]
+ - new Orbit fancy 1
+[2021-05-23 19:00:39.506] richardcampi (as Owen Brown at 25,204,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x2103ffb6]
+ - Action: orbit {"ref":"[mob_873]"}
+[2021-05-23 19:00:41.844] richardcampi in tgui-window-1/close (suspending)
+[2021-05-23 19:00:41.845] richardcampi in tgui-window-1/close (suspending)
+[2021-05-23 19:00:46.625] elvisaaron (as Elvis Aaron at 227,122,2)
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - new PersonalCrafting fancy 1
+[2021-05-23 19:00:50.350] elvisaaron (as Elvis Aaron at 227,122,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Foods","subcategory":"Food Bread"}
+[2021-05-23 19:00:52.727] elvisaaron (as Elvis Aaron at 227,122,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Foods","subcategory":"Food Meats"}
+[2021-05-23 19:00:58.118] elvisaaron in tgui-window-1/close (suspending)
+[2021-05-23 19:00:58.118] elvisaaron in tgui-window-1/close (suspending)
+[2021-05-23 19:00:59.778] elvisaaron (as Elvis Aaron at 227,122,2)
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - new PersonalCrafting fancy 1
+[2021-05-23 19:01:03.410] elvisaaron (as Elvis Aaron at 227,122,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Crafting","subcategory":"Electronics & Robots"}
+[2021-05-23 19:01:03.796] elvisaaron (as Elvis Aaron at 227,122,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Crafting","subcategory":"Forging & Smithing"}
+[2021-05-23 19:01:04.821] elvisaaron (as Elvis Aaron at 227,122,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Crafting","subcategory":"Scavenging & Tinkering"}
+[2021-05-23 19:01:05.365] elvisaaron (as Elvis Aaron at 227,122,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Crafting","subcategory":"Tools & Workbench"}
+[2021-05-23 19:01:05.943] elvisaaron (as Elvis Aaron at 227,122,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Crafting","subcategory":"Scavenging & Tinkering"}
+[2021-05-23 19:01:07.564] elvisaaron (as Elvis Aaron at 227,122,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: make {"recipe":"[0x21001210]"}
+[2021-05-23 19:02:14.494] elvisaaron in tgui-window-1/close (suspending)
+[2021-05-23 19:02:14.494] elvisaaron in tgui-window-1/close (suspending)
+[2021-05-23 19:02:16.840] richardcampi (as Michael Rose at 233,254,2)
+ - Using: /datum/component/loadout_selector [0x2103ff60]
+ - new LoadoutSelect fancy 1
+[2021-05-23 19:02:18.041] richardcampi (as Michael Rose at 233,254,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103ff60]
+ - Action: loadout_select {"name":"Vaultie"}
+[2021-05-23 19:02:18.517] elvisaaron (as Elvis Aaron at 227,122,2)
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - new PersonalCrafting fancy 1
+[2021-05-23 19:02:19.424] richardcampi (as Michael Rose at 233,254,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103ff60]
+ - Action: loadout_select {"name":"Vaultie"}
+[2021-05-23 19:02:20.356] richardcampi (as Michael Rose at 233,254,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103ff60]
+ - Action: loadout_confirm {}
+[2021-05-23 19:02:20.419] richardcampi in tgui-window-1/close (suspending)
+[2021-05-23 19:02:23.116] elvisaaron (as Elvis Aaron at 227,122,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Foods","subcategory":"Food Meats"}
+[2021-05-23 19:02:31.924] elvisaaron (as Elvis Aaron at 227,122,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Foods","subcategory":"Food Frozen"}
+[2021-05-23 19:02:32.469] elvisaaron (as Elvis Aaron at 227,122,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Foods","subcategory":"Food Meats"}
+[2021-05-23 19:02:33.453] elvisaaron (as Elvis Aaron at 227,122,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Foods","subcategory":"Food Pies & Sweets"}
+[2021-05-23 19:02:33.970] elvisaaron (as Elvis Aaron at 227,122,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Foods","subcategory":"Food Soups"}
+[2021-05-23 19:02:34.616] elvisaaron (as Elvis Aaron at 227,122,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Foods","subcategory":"Food Wasteland"}
+[2021-05-23 19:02:35.133] elvisaaron (as Elvis Aaron at 227,122,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Foods","subcategory":"Food Spaghettis"}
+[2021-05-23 19:02:35.829] elvisaaron (as Elvis Aaron at 227,122,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Foods","subcategory":"Food Meats"}
+[2021-05-23 19:02:36.472] elvisaaron (as Elvis Aaron at 227,122,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Foods","subcategory":"Food Frozen"}
+[2021-05-23 19:02:37.114] elvisaaron (as Elvis Aaron at 227,122,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Foods","subcategory":"Food Misc"}
+[2021-05-23 19:02:38.100] elvisaaron (as Elvis Aaron at 227,122,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Foods","subcategory":"Food Pastries"}
+[2021-05-23 19:02:38.489] elvisaaron (as Elvis Aaron at 227,122,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Foods","subcategory":"Food Old World"}
+[2021-05-23 19:02:39.063] elvisaaron (as Elvis Aaron at 227,122,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Foods","subcategory":"Food Bread"}
+[2021-05-23 19:02:39.558] elvisaaron (as Elvis Aaron at 227,122,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Tribal"}
+[2021-05-23 19:02:57.341] elvisaaron (as Elvis Aaron at 227,122,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Medical"}
+[2021-05-23 19:02:59.204] elvisaaron (as Elvis Aaron at 227,122,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Weaponry","subcategory":"Explosives & Cells"}
+[2021-05-23 19:02:59.948] elvisaaron (as Elvis Aaron at 227,122,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Weaponry","subcategory":"Ranged Weapons"}
+[2021-05-23 19:03:00.597] elvisaaron (as Elvis Aaron at 227,122,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Weaponry","subcategory":"Melee Weapons"}
+[2021-05-23 19:03:01.333] elvisaaron (as Elvis Aaron at 227,122,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Clothing","subcategory":"Misc Clothing"}
+[2021-05-23 19:03:02.020] elvisaaron (as Elvis Aaron at 227,122,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Clothing","subcategory":"General Clothing"}
+[2021-05-23 19:03:02.691] elvisaaron (as Elvis Aaron at 227,122,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Clothing","subcategory":"Wasteland Clothing"}
+[2021-05-23 19:03:03.272] elvisaaron (as Elvis Aaron at 227,122,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Clothing","subcategory":"Armor"}
+[2021-05-23 19:03:03.757] elvisaaron (as Elvis Aaron at 227,122,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Clothing","subcategory":"Shoes"}
+[2021-05-23 19:03:04.495] elvisaaron (as Elvis Aaron at 227,122,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Clothing","subcategory":"Belts"}
+[2021-05-23 19:03:04.972] elvisaaron (as Elvis Aaron at 227,122,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Misc","subcategory":"Burial & Execution"}
+[2021-05-23 19:03:05.577] elvisaaron (as Elvis Aaron at 227,122,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Misc","subcategory":"Miscellaneous"}
+[2021-05-23 19:03:06.110] elvisaaron (as Elvis Aaron at 227,122,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Misc","subcategory":"Bottling"}
+[2021-05-23 19:03:06.718] elvisaaron (as Elvis Aaron at 227,122,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Misc","subcategory":"Farming"}
+[2021-05-23 19:03:07.339] elvisaaron (as Elvis Aaron at 227,122,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Misc","subcategory":"Farming"}
+[2021-05-23 19:03:08.018] elvisaaron (as Elvis Aaron at 227,122,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Crafting","subcategory":"Tools & Workbench"}
+[2021-05-23 19:03:08.471] elvisaaron (as Elvis Aaron at 227,122,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Crafting","subcategory":"Scavenging & Tinkering"}
+[2021-05-23 19:03:09.267] elvisaaron (as Elvis Aaron at 227,122,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Crafting","subcategory":"Tools & Workbench"}
+[2021-05-23 19:03:12.151] elvisaaron (as Elvis Aaron at 227,122,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Crafting","subcategory":"Scavenging & Tinkering"}
+[2021-05-23 19:03:12.993] elvisaaron (as Elvis Aaron at 227,122,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Crafting","subcategory":"Forging & Smithing"}
+[2021-05-23 19:03:13.582] elvisaaron (as Elvis Aaron at 227,122,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Crafting","subcategory":"Electronics & Robots"}
+[2021-05-23 19:03:14.728] elvisaaron in tgui-window-1/close (suspending)
+[2021-05-23 19:03:14.728] elvisaaron in tgui-window-1/close (suspending)
+[2021-05-23 19:04:23.513] elvisaaron (as Elvis Aaron at 245,151,2)
+ - Using: /obj/machinery/vending/cigarette [0x2005fd7]
+ - new Vending fancy 1
+[2021-05-23 19:04:25.642] elvisaaron in tgui-window-1/close (suspending)
+[2021-05-23 19:04:25.642] elvisaaron in tgui-window-1/close (suspending)
+[2021-05-23 19:04:42.859] guizog (as Bob Merlin at 111,173,2)
+ - Using: /datum/component/personal_crafting [0x2103f3d4]
+ - new PersonalCrafting fancy 1
+[2021-05-23 19:04:46.416] guizog (as Bob Merlin at 111,173,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3d4]
+ - Action: set_category {"category":"Crafting","subcategory":"Forging & Smithing"}
+[2021-05-23 19:04:51.016] guizog (as Bob Merlin at 111,173,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3d4]
+ - Action: set_category {"category":"Clothing","subcategory":"Belts"}
+[2021-05-23 19:04:58.048] guizog (as Bob Merlin at 111,173,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3d4]
+ - Action: set_category {"category":"Weaponry","subcategory":"Melee Weapons"}
+[2021-05-23 19:04:58.467] guizog (as Bob Merlin at 111,173,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3d4]
+ - Action: set_category {"category":"Weaponry","subcategory":"Ranged Weapons"}
+[2021-05-23 19:05:01.597] guizog (as Bob Merlin at 111,173,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3d4]
+ - Action: set_category {"category":"Weaponry","subcategory":"Ranged Weapons"}
+[2021-05-23 19:05:02.897] elvisaaron (as Elvis Aaron at 249,148,2)
+ - Using: /obj/machinery/vending/games [0x20060aa]
+ - new Vending fancy 1
+[2021-05-23 19:05:05.733] elvisaaron in tgui-window-1/close (suspending)
+[2021-05-23 19:05:05.734] elvisaaron in tgui-window-1/close (suspending)
+[2021-05-23 19:05:06.959] guizog (as Bob Merlin at 111,173,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3d4]
+ - Action: set_category {"category":"Weaponry","subcategory":"Explosives & Cells"}
+[2021-05-23 19:05:07.694] guizog (as Bob Merlin at 111,173,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3d4]
+ - Action: set_category {"category":"Weaponry","subcategory":"Melee Weapons"}
+[2021-05-23 19:05:09.412] guizog (as Bob Merlin at 111,173,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3d4]
+ - Action: set_category {"category":"Clothing","subcategory":"Misc Clothing"}
+[2021-05-23 19:05:10.297] guizog (as Bob Merlin at 111,173,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3d4]
+ - Action: set_category {"category":"Clothing","subcategory":"General Clothing"}
+[2021-05-23 19:05:12.342] guizog (as Bob Merlin at 111,173,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3d4]
+ - Action: set_category {"category":"Clothing","subcategory":"Wasteland Clothing"}
+[2021-05-23 19:05:12.960] guizog (as Bob Merlin at 111,173,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3d4]
+ - Action: set_category {"category":"Clothing","subcategory":"Armor"}
+[2021-05-23 19:05:13.976] guizog (as Bob Merlin at 111,173,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3d4]
+ - Action: set_category {"category":"Misc","subcategory":"Burial & Execution"}
+[2021-05-23 19:05:15.180] guizog (as Bob Merlin at 111,173,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3d4]
+ - Action: set_category {"category":"Misc","subcategory":"Miscellaneous"}
+[2021-05-23 19:05:17.718] guizog (as Bob Merlin at 111,173,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3d4]
+ - Action: set_category {"category":"Crafting","subcategory":"Tools & Workbench"}
+[2021-05-23 19:05:18.938] guizog (as Bob Merlin at 111,173,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3d4]
+ - Action: set_category {"category":"Crafting","subcategory":"Scavenging & Tinkering"}
+[2021-05-23 19:05:19.705] guizog (as Bob Merlin at 111,173,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3d4]
+ - Action: set_category {"category":"Crafting","subcategory":"Forging & Smithing"}
+[2021-05-23 19:05:20.344] guizog (as Bob Merlin at 111,173,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3d4]
+ - Action: set_category {"category":"Crafting","subcategory":"Scavenging & Tinkering"}
+[2021-05-23 19:05:23.208] guizog (as Bob Merlin at 111,173,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3d4]
+ - Action: set_category {"category":"Crafting","subcategory":"Forging & Smithing"}
+[2021-05-23 19:05:23.707] guizog (as Bob Merlin at 111,173,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3d4]
+ - Action: set_category {"category":"Crafting","subcategory":"Electronics & Robots"}
+[2021-05-23 19:05:24.788] elvisaaron (as Elvis Aaron at 251,146,2)
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - new PersonalCrafting fancy 1
+[2021-05-23 19:05:25.543] guizog (as Bob Merlin at 111,173,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3d4]
+ - Action: set_category {"category":"Clothing","subcategory":"Armor"}
+[2021-05-23 19:05:27.425] elvisaaron (as Elvis Aaron at 251,146,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Crafting","subcategory":"Forging & Smithing"}
+[2021-05-23 19:05:27.875] elvisaaron (as Elvis Aaron at 251,146,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Crafting","subcategory":"Scavenging & Tinkering"}
+[2021-05-23 19:05:29.879] guizog (as Bob Merlin at 111,173,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103f3d4]
+ - Action: set_category {"category":"Clothing","subcategory":"Belts"}
+[2021-05-23 19:05:30.256] elvisaaron (as Elvis Aaron at 251,146,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Tribal"}
+[2021-05-23 19:05:34.860] elvisaaron in tgui-window-1/close (suspending)
+[2021-05-23 19:05:34.860] elvisaaron in tgui-window-1/close (suspending)
+[2021-05-23 19:06:59.508] dantesousa (as Dante Sousa at 25,193,2)
+ - Using: /obj/item/electronics/airlock [0x204972a]
+ - new AirlockElectronics fancy 1
+[2021-05-23 19:07:05.769] dantesousa (as Dante Sousa at 25,193,2) in tgui-window-1
+ - Using: /obj/item/electronics/airlock [0x204972a]
+ - Action: set {"access":134}
+[2021-05-23 19:07:08.804] dantesousa (as Dante Sousa at 25,193,2) in tgui-window-1
+ - Using: /obj/item/electronics/airlock [0x204972a]
+ - Action: set {"access":134}
+[2021-05-23 19:07:09.505] dantesousa (as Dante Sousa at 25,193,2) in tgui-window-1
+ - Using: /obj/item/electronics/airlock [0x204972a]
+ - Action: set {"access":121}
+[2021-05-23 19:07:15.224] dantesousa in tgui-window-1/close (suspending)
+[2021-05-23 19:07:15.224] dantesousa (as Dante Sousa at 25,193,2)
+ - Using: /obj/item/electronics/airlock [0x204972a]
+ - new AirlockElectronics fancy 1
+[2021-05-23 19:07:16.910] dantesousa (as Dante Sousa at 27,193,2)
+ - Using: /obj/item/electronics/airlock [0x204968d]
+ - new AirlockElectronics fancy 1
+[2021-05-23 19:07:21.114] dantesousa (as Dante Sousa at 27,193,2) in tgui-window-1
+ - Using: /obj/item/electronics/airlock [0x204968d]
+ - Action: set {"access":121}
+[2021-05-23 19:07:28.786] dantesousa in tgui-window-1/close (suspending)
+[2021-05-23 19:07:28.787] dantesousa (as Dante Sousa at 27,193,2)
+ - Using: /obj/item/electronics/airlock [0x204968d]
+ - new AirlockElectronics fancy 1
+[2021-05-23 19:07:59.921] luiz20 in browseroutput/initialize
+[2021-05-23 19:08:05.191] matheusgp9999 (as Nycolly Nywt at 121,136,2)
+ - Using: /datum/component/personal_crafting [0x21012fe1]
+ - new PersonalCrafting fancy 1
+[2021-05-23 19:08:08.047] matheusgp9999 (as Nycolly Nywt at 121,136,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21012fe1]
+ - Action: set_category {"category":"Crafting","subcategory":"Forging & Smithing"}
+[2021-05-23 19:08:40.093] matheusgp9999 (as Nycolly Nywt at 120,107,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21012fe1]
+ - Action: set_category {"category":"Crafting","subcategory":"Electronics & Robots"}
+[2021-05-23 19:09:02.801] jhonatanlima in browseroutput/initialize
+[2021-05-23 19:09:54.263] matheusgp9999 (as Nycolly Nywt at 122,27,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21012fe1]
+ - Action: set_category {"category":"Crafting","subcategory":"Scavenging & Tinkering"}
+[2021-05-23 19:09:56.305] matheusgp9999 (as Nycolly Nywt at 122,35,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21012fe1]
+ - Action: set_category {"category":"Crafting","subcategory":"Forging & Smithing"}
+[2021-05-23 19:09:57.833] matheusgp9999 (as Nycolly Nywt at 124,39,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21012fe1]
+ - Action: set_category {"category":"Crafting","subcategory":"Tools & Workbench"}
+[2021-05-23 19:10:00.956] matheusgp9999 (as Nycolly Nywt at 135,38,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21012fe1]
+ - Action: set_category {"category":"Crafting","subcategory":"Electronics & Robots"}
+[2021-05-23 19:10:01.700] matheusgp9999 (as Nycolly Nywt at 136,37,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21012fe1]
+ - Action: set_category {"category":"Crafting","subcategory":"Forging & Smithing"}
+[2021-05-23 19:10:03.572] matheusgp9999 in tgui-window-1/close (suspending)
+[2021-05-23 19:10:03.572] matheusgp9999 in tgui-window-1/close (suspending)
+[2021-05-23 19:10:55.494] fidgetybacchus (as Aster Crowley at 30,215,3)
+ - Using: /datum/component/loadout_selector [0x2103fd23]
+ - new LoadoutSelect fancy 1
+[2021-05-23 19:10:55.495] fidgetybacchus in tgui-window-1/initialize
+ - Using: /datum/component/loadout_selector [0x2103fd23]
+[2021-05-23 19:11:00.393] fidgetybacchus (as Aster Crowley at 30,215,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103fd23]
+ - Error: Zombie window detected, closing.
+[2021-05-23 19:11:00.393] fidgetybacchus in tgui-window-1/close
+[2021-05-23 19:11:06.009] fidgetybacchus (as Aster Crowley at 30,215,3)
+ - Using: /datum/component/loadout_selector [0x2103fd23]
+ - new LoadoutSelect fancy 1
+[2021-05-23 19:11:06.009] fidgetybacchus in tgui-window-1/initialize
+ - Using: /datum/component/loadout_selector [0x2103fd23]
+[2021-05-23 19:11:08.745] fidgetybacchus (as Aster Crowley at 30,215,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103fd23]
+ - Action: loadout_select {"name":"Light Veteran Ranger"}
+[2021-05-23 19:11:10.477] fidgetybacchus (as Aster Crowley at 30,215,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103fd23]
+ - Action: loadout_select {"name":"Light Veteran Ranger"}
+[2021-05-23 19:11:11.259] fidgetybacchus (as Aster Crowley at 30,215,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103fd23]
+ - Action: loadout_select {"name":"Classic Veteran Ranger"}
+[2021-05-23 19:11:13.327] fidgetybacchus (as Aster Crowley at 30,215,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2103fd23]
+ - Action: loadout_confirm {}
+[2021-05-23 19:11:13.356] fidgetybacchus in tgui-window-1/close (suspending)
+[2021-05-23 19:12:33.826] luiz20 (as Luiz Borgos Primeiro at 123,136,3)
+ - Using: /datum/component/loadout_selector [0x210404db]
+ - new LoadoutSelect fancy 1
+[2021-05-23 19:12:33.827] luiz20 in tgui-window-1/initialize
+ - Using: /datum/component/loadout_selector [0x210404db]
+[2021-05-23 19:12:37.045] luiz20 (as Luiz Borgos Primeiro at 123,136,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210404db]
+ - Action: loadout_select {"name":"Blastmaster"}
+[2021-05-23 19:12:38.185] luiz20 (as Luiz Borgos Primeiro at 123,136,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210404db]
+ - Action: loadout_select {"name":"Yankee"}
+[2021-05-23 19:12:39.362] luiz20 (as Luiz Borgos Primeiro at 123,136,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210404db]
+ - Action: loadout_select {"name":"Yankee"}
+[2021-05-23 19:12:42.836] luiz20 (as Luiz Borgos Primeiro at 123,136,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210404db]
+ - Action: loadout_select {"name":"Painspike"}
+[2021-05-23 19:12:43.566] luiz20 (as Luiz Borgos Primeiro at 123,136,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210404db]
+ - Action: loadout_select {"name":"Painspike"}
+[2021-05-23 19:12:44.807] elvisaaron (as Elvis Aaron at 242,216,2)
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - new PersonalCrafting fancy 1
+[2021-05-23 19:12:47.422] luiz20 (as Luiz Borgos Primeiro at 123,136,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210404db]
+ - Action: loadout_select {"name":"Badlands"}
+[2021-05-23 19:12:48.068] luiz20 (as Luiz Borgos Primeiro at 123,136,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210404db]
+ - Action: loadout_select {"name":"Badlands"}
+[2021-05-23 19:12:48.081] elvisaaron (as Elvis Aaron at 242,216,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Tribal"}
+[2021-05-23 19:12:50.512] luiz20 (as Luiz Borgos Primeiro at 123,136,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210404db]
+ - Action: loadout_confirm {}
+[2021-05-23 19:12:50.567] luiz20 in tgui-window-1/close (suspending)
+[2021-05-23 19:12:55.117] elvisaaron in tgui-window-1/close (suspending)
+[2021-05-23 19:12:55.118] elvisaaron in tgui-window-1/close (suspending)
+[2021-05-23 19:13:14.702] elvisaaron (as Unknown at 246,216,2)
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - new PersonalCrafting fancy 1
+[2021-05-23 19:13:17.706] elvisaaron (as Unknown at 246,216,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Tribal"}
+[2021-05-23 19:13:20.374] elvisaaron (as Unknown at 246,216,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: make {"recipe":"[0x2100129e]"}
+[2021-05-23 19:13:26.839] elvisaaron in tgui-window-1/close (suspending)
+[2021-05-23 19:13:26.839] elvisaaron in tgui-window-1/close (suspending)
+[2021-05-23 19:14:25.217] elvisaaron (as Unknown at 246,208,2)
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - new PersonalCrafting fancy 1
+[2021-05-23 19:14:27.922] elvisaaron (as Unknown at 246,208,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Tribal"}
+[2021-05-23 19:14:48.001] elvisaaron (as Unknown at 246,208,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: make {"recipe":"[0x2100129a]"}
+[2021-05-23 19:14:57.119] elvisaaron in tgui-window-1/close (suspending)
+[2021-05-23 19:14:57.119] elvisaaron in tgui-window-1/close (suspending)
+[2021-05-23 19:15:16.982] mruniverso (as Lucas Chikui at 184,12,4)
+ - Using: /obj/machinery/smartfridge/bottlerack/lootshelf/diy [0x2009c11]
+ - new SmartVend fancy 1
+[2021-05-23 19:15:16.983] mruniverso in tgui-window-1/initialize
+ - Using: /obj/machinery/smartfridge/bottlerack/lootshelf/diy [0x2009c11]
+[2021-05-23 19:15:21.360] elvisaaron (as Unknown at 246,209,2)
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - new PersonalCrafting fancy 1
+[2021-05-23 19:15:22.803] mruniverso in tgui-window-1/close (suspending)
+[2021-05-23 19:15:22.803] mruniverso in tgui-window-1/close (suspending)
+[2021-05-23 19:15:24.496] elvisaaron (as Unknown at 246,209,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Tribal"}
+[2021-05-23 19:15:28.969] elvisaaron in tgui-window-1/close (suspending)
+[2021-05-23 19:15:28.970] elvisaaron in tgui-window-1/close (suspending)
+[2021-05-23 19:15:54.780] elvisaaron (as Unknown at 246,211,2)
+ - Using: /obj/machinery/vending/cigarette [0x2005ffb]
+ - new Vending fancy 1
+[2021-05-23 19:15:57.451] elvisaaron (as Unknown at 245,212,2)
+ - Using: /obj/machinery/vending/nukacolavend [0x2005fd5]
+ - new Vending fancy 1
+[2021-05-23 19:15:57.452] elvisaaron in tgui-window-2/initialize
+ - Using: /obj/machinery/vending/nukacolavend [0x2005fd5]
+[2021-05-23 19:15:59.197] elvisaaron in tgui-window-2/close (suspending)
+[2021-05-23 19:15:59.197] elvisaaron in tgui-window-2/close (suspending)
+[2021-05-23 19:15:59.720] elvisaaron in tgui-window-1/close (suspending)
+[2021-05-23 19:15:59.721] elvisaaron in tgui-window-1/close (suspending)
+[2021-05-23 19:17:11.558] euzinho123 in browseroutput/initialize
+[2021-05-23 19:18:05.821] jhonatanlima (as Luicio Notav at 234,250,2)
+ - Using: /datum/component/loadout_selector [0x21040864]
+ - new LoadoutSelect fancy 1
+[2021-05-23 19:18:05.822] jhonatanlima in tgui-window-1/initialize
+ - Using: /datum/component/loadout_selector [0x21040864]
+[2021-05-23 19:18:08.293] jhonatanlima (as Luicio Notav at 234,250,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040864]
+ - Action: loadout_select {"name":"Legion Citizen"}
+[2021-05-23 19:18:09.660] jhonatanlima (as Luicio Notav at 234,250,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040864]
+ - Action: loadout_select {"name":"Salvager"}
+[2021-05-23 19:18:10.358] jhonatanlima (as Luicio Notav at 234,250,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040864]
+ - Action: loadout_select {"name":"Vaultie"}
+[2021-05-23 19:18:10.920] jhonatanlima (as Luicio Notav at 234,250,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040864]
+ - Action: loadout_select {"name":"Vaultie"}
+[2021-05-23 19:18:11.097] jhonatanlima (as Luicio Notav at 234,250,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040864]
+ - Action: loadout_select {"name":"Vaultie"}
+[2021-05-23 19:18:14.009] jhonatanlima (as Luicio Notav at 234,250,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040864]
+ - Action: loadout_select {"name":"Salvager"}
+[2021-05-23 19:18:14.500] jhonatanlima (as Luicio Notav at 234,250,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040864]
+ - Action: loadout_select {"name":"Wasteland Doctor"}
+[2021-05-23 19:18:15.545] jhonatanlima (as Luicio Notav at 234,250,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040864]
+ - Action: loadout_select {"name":"Vaultie"}
+[2021-05-23 19:18:20.519] jhonatanlima (as Luicio Notav at 234,250,2) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21040864]
+ - Action: loadout_confirm {}
+[2021-05-23 19:18:20.583] jhonatanlima in tgui-window-1/close (suspending)
+[2021-05-23 19:20:35.172] guizog in tgui-window-1/close (suspending)
+[2021-05-23 19:21:17.760] kaduh (as Erika Miller at 107,6,2)
+ - Using: /datum/orbit_menu [0x210406cf]
+ - new Orbit fancy 1
+[2021-05-23 19:21:17.760] kaduh in tgui-window-1/initialize
+ - Using: /datum/orbit_menu [0x210406cf]
+[2021-05-23 19:21:19.386] kaduh (as Erika Miller at 107,6,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x210406cf]
+ - Action: orbit {"ref":"[mob_898]"}
+[2021-05-23 19:21:21.465] kaduh (as Erika Miller at 26,217,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x210406cf]
+ - Action: orbit {"ref":"[mob_850]"}
+[2021-05-23 19:21:59.813] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 19:21:59.813] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 19:22:10.305] gabrieldoombr in browseroutput/initialize
+[2021-05-23 19:22:38.785] kaduh (as Erika Miller at 86,78,2)
+ - Using: /datum/orbit_menu [0x210406cf]
+ - new Orbit fancy 1
+[2021-05-23 19:22:40.594] kaduh (as Erika Miller at 86,78,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x210406cf]
+ - Action: orbit {"ref":"[mob_828]"}
+[2021-05-23 19:22:42.267] kaduh (as Erika Miller at 174,192,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x210406cf]
+ - Action: orbit {"ref":"[mob_889]"}
+[2021-05-23 19:22:43.609] kaduh (as Erika Miller at 86,85,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x210406cf]
+ - Action: orbit {"ref":"[mob_788]"}
+[2021-05-23 19:22:49.700] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 19:22:49.700] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 19:23:56.528] matheusgp9999 (as Nycolly Nywt at 193,186,2)
+ - Using: /datum/component/personal_crafting [0x21012fe1]
+ - new PersonalCrafting fancy 1
+[2021-05-23 19:23:59.526] matheusgp9999 (as Nycolly Nywt at 197,185,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21012fe1]
+ - Action: set_category {"category":"Crafting","subcategory":"Tools & Workbench"}
+[2021-05-23 19:24:00.726] matheusgp9999 (as Nycolly Nywt at 197,185,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21012fe1]
+ - Action: set_category {"category":"Weaponry","subcategory":"Ranged Weapons"}
+[2021-05-23 19:24:01.038] matheusgp9999 (as Nycolly Nywt at 197,185,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21012fe1]
+ - Action: set_category {"category":"Weaponry","subcategory":"Ranged Weapons"}
+[2021-05-23 19:24:17.488] elvisaaron (as Unknown at 174,213,2)
+ - Using: /obj/item/radio/intercom [0x2004f56]
+ - new Radio fancy 1
+[2021-05-23 19:24:17.488] elvisaaron (as Unknown at 174,213,2)
+ - Using: /obj/item/radio/intercom [0x2004f56]
+ - new Radio fancy 1
+[2021-05-23 19:24:20.383] elvisaaron in tgui-window-1/close (suspending)
+[2021-05-23 19:24:20.383] elvisaaron in tgui-window-1/close (suspending)
+[2021-05-23 19:24:28.917] elvisaaron (as Unknown at 168,215,2)
+ - Using: /obj/item/radio/intercom [0x2004d67]
+ - new Radio fancy 1
+[2021-05-23 19:24:28.917] elvisaaron (as Unknown at 168,215,2)
+ - Using: /obj/item/radio/intercom [0x2004d67]
+ - new Radio fancy 1
+[2021-05-23 19:24:36.292] luiz20 (as Luiz Borgos Segundo at 135,137,3)
+ - Using: /datum/component/loadout_selector [0x210039c8]
+ - new LoadoutSelect fancy 1
+[2021-05-23 19:24:38.817] luiz20 (as Luiz Borgos Segundo at 135,137,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210039c8]
+ - Action: loadout_select {"name":"Punished Legionnaire"}
+[2021-05-23 19:24:40.745] luiz20 (as Luiz Borgos Segundo at 135,137,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210039c8]
+ - Action: loadout_confirm {}
+[2021-05-23 19:24:40.758] luiz20 in tgui-window-1/close (suspending)
+[2021-05-23 19:24:42.079] elvisaaron (as Unknown at 168,215,2) in tgui-window-1
+ - Using: /obj/item/radio/intercom [0x2004d67]
+ - Action: listen {}
+[2021-05-23 19:24:42.763] elvisaaron (as Unknown at 168,215,2) in tgui-window-1
+ - Using: /obj/item/radio/intercom [0x2004d67]
+ - Action: listen {}
+[2021-05-23 19:24:45.397] elvisaaron (as Unknown at 168,215,2) in tgui-window-1
+ - Using: /obj/item/radio/intercom [0x2004d67]
+ - Action: frequency {"adjust":0}
+[2021-05-23 19:24:48.136] matheusgp9999 (as Nycolly Nywt at 229,187,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21012fe1]
+ - Action: set_category {"category":"Weaponry","subcategory":"Explosives & Cells"}
+[2021-05-23 19:24:49.635] matheusgp9999 (as Nycolly Nywt at 229,191,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21012fe1]
+ - Action: set_category {"category":"Weaponry","subcategory":"Melee Weapons"}
+[2021-05-23 19:24:51.835] matheusgp9999 (as Nycolly Nywt at 231,191,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21012fe1]
+ - Action: set_category {"category":"Clothing","subcategory":"Misc Clothing"}
+[2021-05-23 19:24:52.897] matheusgp9999 (as Nycolly Nywt at 231,191,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21012fe1]
+ - Action: set_category {"category":"Clothing","subcategory":"General Clothing"}
+[2021-05-23 19:24:53.594] matheusgp9999 (as Nycolly Nywt at 231,191,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21012fe1]
+ - Action: set_category {"category":"Clothing","subcategory":"Armor"}
+[2021-05-23 19:25:07.212] elvisaaron in tgui-window-1/close (suspending)
+[2021-05-23 19:25:07.213] elvisaaron in tgui-window-1/close (suspending)
+[2021-05-23 19:25:29.077] matheusgp9999 (as Nycolly Nywt at 231,191,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21012fe1]
+ - Action: set_category {"category":"Clothing","subcategory":"Wasteland Clothing"}
+[2021-05-23 19:25:30.539] matheusgp9999 (as Nycolly Nywt at 231,191,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21012fe1]
+ - Action: set_category {"category":"Clothing","subcategory":"General Clothing"}
+[2021-05-23 19:25:32.783] matheusgp9999 (as Nycolly Nywt at 231,191,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21012fe1]
+ - Action: set_category {"category":"Tribal"}
+[2021-05-23 19:25:34.002] matheusgp9999 (as Nycolly Nywt at 231,191,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21012fe1]
+ - Action: set_category {"category":"Medical"}
+[2021-05-23 19:25:36.281] matheusgp9999 (as Nycolly Nywt at 231,191,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21012fe1]
+ - Action: set_category {"category":"Misc","subcategory":"Farming"}
+[2021-05-23 19:25:38.746] matheusgp9999 (as Nycolly Nywt at 231,191,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21012fe1]
+ - Action: set_category {"category":"Crafting","subcategory":"Tools & Workbench"}
+[2021-05-23 19:26:01.760] matheusgp9999 in tgui-window-1/close (suspending)
+[2021-05-23 19:26:01.760] matheusgp9999 in tgui-window-1/close (suspending)
+[2021-05-23 19:26:30.079] dantesousa (as Dante Sousa at 31,195,2)
+ - Using: /obj/item/electronics/airlock [0x204a2b9]
+ - new AirlockElectronics fancy 1
+[2021-05-23 19:26:39.348] dantesousa (as Dante Sousa at 31,195,2) in tgui-window-1
+ - Using: /obj/item/electronics/airlock [0x204a2b9]
+ - Action: set {"access":121}
+[2021-05-23 19:26:45.804] dantesousa in tgui-window-1/close (suspending)
+[2021-05-23 19:26:45.804] dantesousa (as Dante Sousa at 31,195,2)
+ - Using: /obj/item/electronics/airlock [0x204a2b9]
+ - new AirlockElectronics fancy 1
+[2021-05-23 19:26:59.245] gabrieldoombr (as Baam Frest at 76,37,3)
+ - Using: /datum/component/personal_crafting [0x21040add]
+ - new PersonalCrafting fancy 1
+[2021-05-23 19:26:59.246] gabrieldoombr in tgui-window-1/initialize
+ - Using: /datum/component/personal_crafting [0x21040add]
+[2021-05-23 19:27:02.272] gabrieldoombr (as Baam Frest at 76,37,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21040add]
+ - Action: set_category {"category":"Clothing","subcategory":"Armor"}
+[2021-05-23 19:27:02.786] gabrieldoombr (as Baam Frest at 76,37,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21040add]
+ - Action: set_category {"category":"Clothing","subcategory":"Shoes"}
+[2021-05-23 19:27:04.390] gabrieldoombr (as Baam Frest at 76,37,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21040add]
+ - Action: set_category {"category":"Clothing","subcategory":"Belts"}
+[2021-05-23 19:27:05.179] gabrieldoombr (as Baam Frest at 76,37,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21040add]
+ - Action: make {"recipe":"[0x210011c5]"}
+[2021-05-23 19:27:05.611] gabrieldoombr in tgui-window-1/close (suspending)
+[2021-05-23 19:27:05.612] gabrieldoombr in tgui-window-1/close (suspending)
+[2021-05-23 19:28:20.252] kaduh in browseroutput/initialize
+[2021-05-23 19:30:21.356] kaduh (as Erika Miller at 107,38,3)
+ - Using: /datum/component/loadout_selector [0x210410c9]
+ - new LoadoutSelect fancy 1
+[2021-05-23 19:30:21.356] kaduh in tgui-window-1/initialize
+ - Using: /datum/component/loadout_selector [0x210410c9]
+[2021-05-23 19:30:25.061] kaduh (as Erika Miller at 107,38,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210410c9]
+ - Action: loadout_select {"name":"Pharmacist"}
+[2021-05-23 19:30:29.370] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 19:30:29.370] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 19:30:45.495] kaduh (as Erika Miller at 104,38,3)
+ - Using: /datum/component/loadout_selector [0x210410c9]
+ - new LoadoutSelect fancy 1
+[2021-05-23 19:30:47.818] kaduh (as Erika Miller at 104,38,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210410c9]
+ - Action: loadout_select {"name":"Paramedic"}
+[2021-05-23 19:30:49.132] kaduh (as Erika Miller at 104,38,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210410c9]
+ - Action: loadout_select {"name":"Paramedic"}
+[2021-05-23 19:30:52.977] kaduh (as Erika Miller at 104,38,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210410c9]
+ - Action: loadout_select {"name":"Emergency Physician"}
+[2021-05-23 19:30:58.226] kaduh (as Erika Miller at 104,38,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210410c9]
+ - Action: loadout_select {"name":"Paramedic"}
+[2021-05-23 19:30:59.949] kaduh (as Erika Miller at 104,38,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210410c9]
+ - Action: loadout_select {"name":"Medical Researcher"}
+[2021-05-23 19:31:00.947] elvisaaron (as Unknown at 150,176,2)
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - new PersonalCrafting fancy 1
+[2021-05-23 19:31:01.797] kaduh (as Erika Miller at 104,38,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210410c9]
+ - Action: loadout_select {"name":"Medical Researcher"}
+[2021-05-23 19:31:02.684] elvisaaron (as Unknown at 150,176,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Foods","subcategory":"Food Misc"}
+[2021-05-23 19:31:04.696] elvisaaron (as Unknown at 150,176,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Tribal"}
+[2021-05-23 19:31:07.435] kaduh (as Erika Miller at 104,38,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210410c9]
+ - Action: loadout_select {"name":"Paramedic"}
+[2021-05-23 19:31:08.128] kaduh (as Erika Miller at 104,38,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210410c9]
+ - Action: loadout_select {"name":"Pharmacist"}
+[2021-05-23 19:31:08.951] kaduh (as Erika Miller at 104,38,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210410c9]
+ - Action: loadout_select {"name":"Emergency Physician"}
+[2021-05-23 19:31:09.386] kaduh (as Erika Miller at 104,38,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210410c9]
+ - Action: loadout_select {"name":"Emergency Physician"}
+[2021-05-23 19:31:11.626] kaduh (as Erika Miller at 104,38,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210410c9]
+ - Action: loadout_select {"name":"Medical Researcher"}
+[2021-05-23 19:31:13.441] kaduh (as Erika Miller at 104,38,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210410c9]
+ - Action: loadout_select {"name":"Emergency Physician"}
+[2021-05-23 19:31:15.019] kaduh (as Erika Miller at 104,38,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210410c9]
+ - Action: loadout_select {"name":"Medical Researcher"}
+[2021-05-23 19:31:15.982] kaduh (as Erika Miller at 104,38,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210410c9]
+ - Action: loadout_confirm {}
+[2021-05-23 19:31:15.997] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 19:31:19.444] elvisaaron in tgui-window-1/close (suspending)
+[2021-05-23 19:31:19.444] elvisaaron in tgui-window-1/close (suspending)
+[2021-05-23 19:31:49.612] matheusgp9999 (as Nycolly Nywt at 39,222,2)
+ - Using: /datum/component/personal_crafting [0x21012fe1]
+ - new PersonalCrafting fancy 1
+[2021-05-23 19:31:54.201] matheusgp9999 (as Nycolly Nywt at 39,222,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21012fe1]
+ - Action: set_category {"category":"Clothing","subcategory":"Shoes"}
+[2021-05-23 19:31:54.592] matheusgp9999 (as Nycolly Nywt at 39,222,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21012fe1]
+ - Action: set_category {"category":"Clothing","subcategory":"Shoes"}
+[2021-05-23 19:31:54.981] matheusgp9999 (as Nycolly Nywt at 39,222,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21012fe1]
+ - Action: set_category {"category":"Crafting","subcategory":"Electronics & Robots"}
+[2021-05-23 19:31:55.628] matheusgp9999 (as Nycolly Nywt at 39,222,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21012fe1]
+ - Action: set_category {"category":"Crafting","subcategory":"Forging & Smithing"}
+[2021-05-23 19:31:56.977] matheusgp9999 (as Nycolly Nywt at 39,222,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21012fe1]
+ - Action: set_category {"category":"Crafting","subcategory":"Scavenging & Tinkering"}
+[2021-05-23 19:31:58.132] matheusgp9999 (as Nycolly Nywt at 39,222,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21012fe1]
+ - Action: set_category {"category":"Crafting","subcategory":"Tools & Workbench"}
+[2021-05-23 19:32:00.332] matheusgp9999 (as Nycolly Nywt at 39,222,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21012fe1]
+ - Action: set_category {"category":"Misc","subcategory":"Farming"}
+[2021-05-23 19:32:06.100] matheusgp9999 (as Nycolly Nywt at 39,222,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21012fe1]
+ - Action: set_category {"category":"Misc","subcategory":"Bottling"}
+[2021-05-23 19:32:07.680] matheusgp9999 (as Nycolly Nywt at 39,222,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21012fe1]
+ - Action: set_category {"category":"Misc","subcategory":"Miscellaneous"}
+[2021-05-23 19:32:09.553] matheusgp9999 (as Nycolly Nywt at 39,222,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21012fe1]
+ - Action: set_category {"category":"Misc","subcategory":"Burial & Execution"}
+[2021-05-23 19:32:11.168] matheusgp9999 (as Nycolly Nywt at 39,222,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21012fe1]
+ - Action: set_category {"category":"Clothing","subcategory":"Belts"}
+[2021-05-23 19:32:12.117] matheusgp9999 (as Nycolly Nywt at 39,222,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21012fe1]
+ - Action: set_category {"category":"Misc","subcategory":"Burial & Execution"}
+[2021-05-23 19:32:13.612] matheusgp9999 (as Nycolly Nywt at 39,222,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21012fe1]
+ - Action: set_category {"category":"Clothing","subcategory":"Belts"}
+[2021-05-23 19:32:14.452] matheusgp9999 (as Nycolly Nywt at 39,222,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21012fe1]
+ - Action: set_category {"category":"Clothing","subcategory":"Shoes"}
+[2021-05-23 19:32:15.384] matheusgp9999 (as Nycolly Nywt at 39,222,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21012fe1]
+ - Action: set_category {"category":"Clothing","subcategory":"Armor"}
+[2021-05-23 19:32:22.738] matheusgp9999 (as Nycolly Nywt at 39,222,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21012fe1]
+ - Action: set_category {"category":"Clothing","subcategory":"Misc Clothing"}
+[2021-05-23 19:32:23.345] matheusgp9999 (as Nycolly Nywt at 39,222,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21012fe1]
+ - Action: set_category {"category":"Clothing","subcategory":"Wasteland Clothing"}
+[2021-05-23 19:32:24.194] matheusgp9999 (as Nycolly Nywt at 39,222,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21012fe1]
+ - Action: set_category {"category":"Clothing","subcategory":"General Clothing"}
+[2021-05-23 19:32:24.990] matheusgp9999 (as Nycolly Nywt at 39,222,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21012fe1]
+ - Action: set_category {"category":"Weaponry","subcategory":"Melee Weapons"}
+[2021-05-23 19:32:27.495] matheusgp9999 (as Nycolly Nywt at 39,222,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21012fe1]
+ - Action: set_category {"category":"Weaponry","subcategory":"Melee Weapons"}
+[2021-05-23 19:32:28.200] matheusgp9999 (as Nycolly Nywt at 39,222,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21012fe1]
+ - Action: set_category {"category":"Weaponry","subcategory":"Ranged Weapons"}
+[2021-05-23 19:32:28.485] kaduh (as Erika Miller at 105,42,3)
+ - Using: /obj/machinery/vending/medical [0x2007068]
+ - new Vending fancy 1
+[2021-05-23 19:32:29.289] matheusgp9999 (as Nycolly Nywt at 39,222,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21012fe1]
+ - Action: set_category {"category":"Weaponry","subcategory":"Explosives & Cells"}
+[2021-05-23 19:32:30.231] matheusgp9999 (as Nycolly Nywt at 39,222,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21012fe1]
+ - Action: set_category {"category":"Weaponry","subcategory":"Ranged Weapons"}
+[2021-05-23 19:32:31.099] matheusgp9999 (as Nycolly Nywt at 39,222,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21012fe1]
+ - Action: set_category {"category":"Weaponry","subcategory":"Ranged Weapons"}
+[2021-05-23 19:32:31.884] matheusgp9999 (as Nycolly Nywt at 39,222,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21012fe1]
+ - Action: set_category {"category":"Weaponry","subcategory":"Ranged Weapons"}
+[2021-05-23 19:32:32.376] kaduh (as Erika Miller at 105,42,3)
+ - Using: /obj/machinery/vending/wardrobe/chem_wardrobe [0x2007069]
+ - new Vending fancy 1
+[2021-05-23 19:32:32.376] kaduh in tgui-window-2/initialize
+ - Using: /obj/machinery/vending/wardrobe/chem_wardrobe [0x2007069]
+[2021-05-23 19:32:33.470] matheusgp9999 (as Nycolly Nywt at 39,222,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21012fe1]
+ - Action: set_category {"category":"Tribal"}
+[2021-05-23 19:32:33.480] kaduh (as Erika Miller at 105,42,3)
+ - Using: /obj/machinery/vending/wardrobe/science_wardrobe [0x200706a]
+ - new Vending fancy 1
+[2021-05-23 19:32:33.481] kaduh in tgui-window-3/initialize
+ - Using: /obj/machinery/vending/wardrobe/science_wardrobe [0x200706a]
+[2021-05-23 19:32:35.302] matheusgp9999 in tgui-window-1/close (suspending)
+[2021-05-23 19:32:35.303] matheusgp9999 in tgui-window-1/close (suspending)
+[2021-05-23 19:32:35.312] kaduh (as Erika Miller at 105,41,3)
+ - Using: /obj/machinery/vending/wardrobe/medi_wardrobe [0x200706b]
+ - new Vending fancy 1
+[2021-05-23 19:32:35.313] kaduh in tgui-window-4/initialize
+ - Using: /obj/machinery/vending/wardrobe/medi_wardrobe [0x200706b]
+[2021-05-23 19:32:48.977] kaduh in tgui-window-4/close (suspending)
+[2021-05-23 19:32:48.977] kaduh in tgui-window-4/close (suspending)
+[2021-05-23 19:32:49.450] kaduh in tgui-window-3/close (suspending)
+[2021-05-23 19:32:49.450] kaduh in tgui-window-3/close (suspending)
+[2021-05-23 19:32:49.850] kaduh in tgui-window-2/close (suspending)
+[2021-05-23 19:32:49.850] kaduh in tgui-window-2/close (suspending)
+[2021-05-23 19:32:51.636] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 19:32:51.636] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 19:32:52.414] kaduh (as Erika Miller at 105,42,3)
+ - Using: /obj/machinery/vending/medical [0x2007068]
+ - new Vending fancy 1
+[2021-05-23 19:33:00.318] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 19:33:00.318] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 19:33:01.112] kaduh (as Erika Miller at 105,42,3)
+ - Using: /obj/machinery/vending/wardrobe/chem_wardrobe [0x2007069]
+ - new Vending fancy 1
+[2021-05-23 19:33:02.776] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 19:33:02.776] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 19:33:04.559] kaduh (as Erika Miller at 105,40,3)
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - new PersonalCrafting fancy 1
+[2021-05-23 19:33:08.684] kaduh (as Erika Miller at 105,40,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Medical"}
+[2021-05-23 19:33:13.243] kaduh (as Erika Miller at 105,40,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Misc","subcategory":"Miscellaneous"}
+[2021-05-23 19:33:13.651] kaduh (as Erika Miller at 105,40,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Misc","subcategory":"Miscellaneous"}
+[2021-05-23 19:33:16.142] kaduh (as Erika Miller at 105,40,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"","subcategory":"Food Pies & Sweets"}
+[2021-05-23 19:33:17.271] kaduh (as Erika Miller at 105,40,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Foods","subcategory":"Food Pies & Sweets"}
+[2021-05-23 19:33:17.682] kaduh (as Erika Miller at 105,40,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Foods","subcategory":"Food Meats"}
+[2021-05-23 19:33:18.295] kaduh (as Erika Miller at 105,40,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Tribal"}
+[2021-05-23 19:33:21.313] kaduh (as Erika Miller at 105,40,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Crafting","subcategory":"Electronics & Robots"}
+[2021-05-23 19:33:24.281] elvisaaron (as Unknown at 148,195,2)
+ - Using: /obj/machinery/vending/autodrobe [0x200460b]
+ - new Vending fancy 1
+[2021-05-23 19:33:37.500] elvisaaron in tgui-window-1/close (suspending)
+[2021-05-23 19:33:37.501] elvisaaron in tgui-window-1/close (suspending)
+[2021-05-23 19:33:46.713] elvisaaron (as Unknown at 149,192,2)
+ - Using: /obj/machinery/vending/clothing [0x200468e]
+ - new Vending fancy 1
+[2021-05-23 19:33:51.463] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 19:33:51.464] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 19:34:05.758] elvisaaron (as Unknown at 149,192,2) in tgui-window-1
+ - Using: /obj/machinery/vending/clothing [0x200468e]
+ - Action: vend {"ref":"[0x2100a736]"}
+[2021-05-23 19:34:23.363] kaduh (as Erika Miller at 84,52,2)
+ - Using: /obj/machinery/vending/medical [0x20037d2]
+ - new Vending fancy 1
+[2021-05-23 19:34:25.985] elvisaaron (as Unknown at 149,192,2) in tgui-window-1
+ - Using: /obj/machinery/vending/clothing [0x200468e]
+ - Action: vend {"ref":"[0x2100a69c]"}
+[2021-05-23 19:34:30.544] elvisaaron in tgui-window-1/close (suspending)
+[2021-05-23 19:34:30.544] elvisaaron in tgui-window-1/close (suspending)
+[2021-05-23 19:34:31.580] kaduh (as Erika Miller at 84,52,2) in tgui-window-1
+ - Using: /obj/machinery/vending/medical [0x20037d2]
+ - Action: vend {"ref":"[0x21009556]"}
+[2021-05-23 19:34:47.625] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 19:34:47.626] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 19:35:24.697] kaduh (as Erika Miller at 89,49,2)
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - new PersonalCrafting fancy 1
+[2021-05-23 19:35:26.240] elvisaaron (as Unknown at 150,171,2)
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - new PersonalCrafting fancy 1
+[2021-05-23 19:35:31.478] kaduh (as Erika Miller at 88,49,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Crafting","subcategory":"Forging & Smithing"}
+[2021-05-23 19:35:32.990] kaduh (as Erika Miller at 88,49,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Crafting","subcategory":"Scavenging & Tinkering"}
+[2021-05-23 19:35:34.290] kaduh (as Erika Miller at 88,49,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Crafting","subcategory":"Tools & Workbench"}
+[2021-05-23 19:35:35.990] kaduh (as Erika Miller at 88,49,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Misc","subcategory":"Farming"}
+[2021-05-23 19:35:38.721] kaduh (as Erika Miller at 88,49,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Misc","subcategory":"Bottling"}
+[2021-05-23 19:35:40.668] kaduh (as Erika Miller at 88,49,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Misc","subcategory":"Miscellaneous"}
+[2021-05-23 19:35:42.198] elvisaaron (as Unknown at 150,171,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Crafting","subcategory":"Forging & Smithing"}
+[2021-05-23 19:35:42.798] elvisaaron (as Unknown at 150,171,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Crafting","subcategory":"Scavenging & Tinkering"}
+[2021-05-23 19:35:43.253] elvisaaron (as Unknown at 150,171,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Crafting","subcategory":"Tools & Workbench"}
+[2021-05-23 19:35:43.935] elvisaaron (as Unknown at 150,171,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Crafting","subcategory":"Scavenging & Tinkering"}
+[2021-05-23 19:35:50.507] kaduh (as Erika Miller at 88,49,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Misc","subcategory":"Burial & Execution"}
+[2021-05-23 19:35:51.604] elvisaaron (as Unknown at 150,171,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Crafting","subcategory":"Tools & Workbench"}
+[2021-05-23 19:35:51.700] kaduh (as Erika Miller at 88,49,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Clothing","subcategory":"Belts"}
+[2021-05-23 19:35:52.319] elvisaaron (as Unknown at 150,171,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Misc","subcategory":"Farming"}
+[2021-05-23 19:35:52.822] kaduh (as Erika Miller at 88,49,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Clothing","subcategory":"Belts"}
+[2021-05-23 19:35:52.847] elvisaaron (as Unknown at 150,171,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Misc","subcategory":"Bottling"}
+[2021-05-23 19:35:53.254] kaduh (as Erika Miller at 88,49,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Misc","subcategory":"Burial & Execution"}
+[2021-05-23 19:35:53.980] elvisaaron (as Unknown at 150,171,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Misc","subcategory":"Miscellaneous"}
+[2021-05-23 19:35:54.132] kaduh (as Erika Miller at 88,49,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Clothing","subcategory":"Belts"}
+[2021-05-23 19:35:54.538] kaduh (as Erika Miller at 88,49,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Clothing","subcategory":"Shoes"}
+[2021-05-23 19:35:54.566] elvisaaron (as Unknown at 150,171,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Misc","subcategory":"Burial & Execution"}
+[2021-05-23 19:35:55.040] elvisaaron (as Unknown at 150,171,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Clothing","subcategory":"Belts"}
+[2021-05-23 19:35:55.579] elvisaaron (as Unknown at 150,171,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Clothing","subcategory":"Belts"}
+[2021-05-23 19:35:55.981] elvisaaron (as Unknown at 150,171,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Clothing","subcategory":"Shoes"}
+[2021-05-23 19:35:56.469] elvisaaron (as Unknown at 150,171,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Clothing","subcategory":"Armor"}
+[2021-05-23 19:35:56.751] kaduh (as Erika Miller at 88,49,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Clothing","subcategory":"Armor"}
+[2021-05-23 19:35:56.910] elvisaaron (as Unknown at 150,171,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Clothing","subcategory":"Wasteland Clothing"}
+[2021-05-23 19:35:57.787] elvisaaron (as Unknown at 150,171,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Clothing","subcategory":"General Clothing"}
+[2021-05-23 19:35:58.358] elvisaaron (as Unknown at 150,171,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Clothing","subcategory":"Misc Clothing"}
+[2021-05-23 19:35:58.866] elvisaaron (as Unknown at 150,171,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Weaponry","subcategory":"Melee Weapons"}
+[2021-05-23 19:35:59.279] elvisaaron (as Unknown at 150,171,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Weaponry","subcategory":"Ranged Weapons"}
+[2021-05-23 19:36:00.061] elvisaaron (as Unknown at 150,171,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Weaponry","subcategory":"Explosives & Cells"}
+[2021-05-23 19:36:00.511] elvisaaron (as Unknown at 150,171,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Medical"}
+[2021-05-23 19:36:00.975] elvisaaron (as Unknown at 150,171,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Tribal"}
+[2021-05-23 19:36:01.473] elvisaaron (as Unknown at 150,171,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Foods","subcategory":"Food Bread"}
+[2021-05-23 19:36:02.575] elvisaaron (as Unknown at 150,171,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Tribal"}
+[2021-05-23 19:36:03.157] elvisaaron (as Unknown at 150,171,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Foods","subcategory":"Food Old World"}
+[2021-05-23 19:36:04.064] elvisaaron (as Unknown at 150,171,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Foods","subcategory":"Food Pastries"}
+[2021-05-23 19:36:04.566] elvisaaron (as Unknown at 150,171,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Foods","subcategory":"Food Misc"}
+[2021-05-23 19:36:04.891] elvisaaron (as Unknown at 150,171,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Foods","subcategory":"Food Meats"}
+[2021-05-23 19:36:05.416] elvisaaron (as Unknown at 150,171,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Foods","subcategory":"Food Frozen"}
+[2021-05-23 19:36:05.844] kaduh (as Erika Miller at 88,49,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Clothing","subcategory":"Wasteland Clothing"}
+[2021-05-23 19:36:05.865] elvisaaron (as Unknown at 150,171,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Foods","subcategory":"Food Pies & Sweets"}
+[2021-05-23 19:36:06.287] elvisaaron (as Unknown at 150,171,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Foods","subcategory":"Food Spaghettis"}
+[2021-05-23 19:36:06.805] elvisaaron (as Unknown at 150,171,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"","subcategory":"Food Pies & Sweets"}
+[2021-05-23 19:36:07.385] elvisaaron (as Unknown at 150,171,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Foods","subcategory":"Food Wasteland"}
+[2021-05-23 19:36:08.348] kaduh (as Erika Miller at 88,49,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Clothing","subcategory":"General Clothing"}
+[2021-05-23 19:36:09.552] elvisaaron in tgui-window-1/close (suspending)
+[2021-05-23 19:36:09.552] elvisaaron in tgui-window-1/close (suspending)
+[2021-05-23 19:36:10.494] kaduh (as Erika Miller at 88,49,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Clothing","subcategory":"Misc Clothing"}
+[2021-05-23 19:36:11.869] kaduh (as Erika Miller at 88,49,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Weaponry","subcategory":"Melee Weapons"}
+[2021-05-23 19:36:12.837] kaduh (as Erika Miller at 88,49,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Weaponry","subcategory":"Ranged Weapons"}
+[2021-05-23 19:36:13.487] kaduh (as Erika Miller at 88,49,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Weaponry","subcategory":"Explosives & Cells"}
+[2021-05-23 19:36:14.118] kaduh (as Erika Miller at 88,49,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Medical"}
+[2021-05-23 19:36:19.088] kaduh (as Erika Miller at 88,49,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Tribal"}
+[2021-05-23 19:36:28.209] kaduh (as Erika Miller at 88,49,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Foods","subcategory":"Food Bread"}
+[2021-05-23 19:36:34.314] kaduh (as Erika Miller at 88,49,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Foods","subcategory":"Food Old World"}
+[2021-05-23 19:36:35.487] luiz20 (as Luiz Borgos Segundo at 14,187,2)
+ - Using: /obj/item/radio/off [0x204a7de]
+ - new Radio fancy 1
+[2021-05-23 19:36:36.182] kaduh (as Erika Miller at 88,49,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Foods","subcategory":"Food Pastries"}
+[2021-05-23 19:36:36.593] luiz20 (as Luiz Borgos Segundo at 14,187,2) in tgui-window-1
+ - Using: /obj/item/radio/off [0x204a7de]
+ - Action: frequency {"adjust":0}
+[2021-05-23 19:36:36.632] luiz20 (as Luiz Borgos Segundo at 14,187,2) in tgui-window-1
+ - Using: /obj/item/radio/off [0x204a7de]
+ - Action: listen {}
+[2021-05-23 19:36:37.437] kaduh (as Erika Miller at 88,49,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Tribal"}
+[2021-05-23 19:36:37.842] luiz20 (as Luiz Borgos Segundo at 14,187,2) in tgui-window-1
+ - Using: /obj/item/radio/off [0x204a7de]
+ - Action: broadcast {}
+[2021-05-23 19:36:38.045] kaduh (as Erika Miller at 88,49,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Foods","subcategory":"Food Old World"}
+[2021-05-23 19:36:38.446] kaduh (as Erika Miller at 88,49,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Foods","subcategory":"Food Pastries"}
+[2021-05-23 19:36:38.797] kaduh (as Erika Miller at 88,49,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Foods","subcategory":"Food Misc"}
+[2021-05-23 19:36:38.892] luiz20 in tgui-window-1/close (suspending)
+[2021-05-23 19:36:38.892] luiz20 in tgui-window-1/close (suspending)
+[2021-05-23 19:36:46.205] kaduh (as Erika Miller at 88,49,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Foods","subcategory":"Food Frozen"}
+[2021-05-23 19:36:54.632] kaduh (as Erika Miller at 88,49,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Foods","subcategory":"Food Meats"}
+[2021-05-23 19:36:55.258] kaduh (as Erika Miller at 88,49,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Foods","subcategory":"Food Pies & Sweets"}
+[2021-05-23 19:37:05.975] kaduh (as Erika Miller at 88,49,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Foods","subcategory":"Food Soups"}
+[2021-05-23 19:37:09.694] kaduh (as Erika Miller at 88,49,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Foods","subcategory":"Food Spaghettis"}
+[2021-05-23 19:37:10.690] kaduh (as Erika Miller at 88,49,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Foods","subcategory":"Food Wasteland"}
+[2021-05-23 19:37:14.530] kaduh (as Erika Miller at 88,49,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"","subcategory":"Food Pies & Sweets"}
+[2021-05-23 19:37:16.540] kaduh (as Erika Miller at 88,49,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Foods","subcategory":"Food Soups"}
+[2021-05-23 19:37:16.873] kaduh (as Erika Miller at 88,49,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Foods","subcategory":"Food Wasteland"}
+[2021-05-23 19:37:17.339] kaduh (as Erika Miller at 88,49,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Foods","subcategory":"Food Wasteland"}
+[2021-05-23 19:37:17.831] kaduh (as Erika Miller at 88,49,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"","subcategory":"Food Pies & Sweets"}
+[2021-05-23 19:37:20.394] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 19:37:20.394] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 19:37:52.150] kaduh (as Erika Miller at 86,54,3)
+ - Using: /datum/skill_holder [0x210412bf]
+ - new SkillPanel fancy 1
+[2021-05-23 19:38:00.256] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 19:38:00.257] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 19:38:07.654] kaduh (as Erika Miller at 80,57,3)
+ - Using: /obj/machinery/chem_dispenser [0x2006d1b]
+ - new ChemDispenser fancy 1
+[2021-05-23 19:38:11.131] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 19:38:11.131] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 19:38:35.039] luiz20 (as Luiz Borgos Segundo at 34,187,2)
+ - Using: /obj/item/radio/off [0x204a7de]
+ - new Radio fancy 1
+[2021-05-23 19:38:35.897] luiz20 (as Luiz Borgos Segundo at 34,187,2) in tgui-window-1
+ - Using: /obj/item/radio/off [0x204a7de]
+ - Action: broadcast {}
+[2021-05-23 19:38:36.746] luiz20 in tgui-window-1/close (suspending)
+[2021-05-23 19:38:36.747] luiz20 in tgui-window-1/close (suspending)
+[2021-05-23 19:38:48.015] matheusgp9999 (as Nycolly Nywt at 0,0,0)
+ - Using: /datum/component/personal_crafting [0x21012fe1]
+ - new PersonalCrafting fancy 1
+[2021-05-23 19:38:50.132] matheusgp9999 (as Nycolly Nywt at 0,0,0)
+ - Using: /datum/component/personal_crafting [0x21012fe1]
+ - new PersonalCrafting fancy 1
+[2021-05-23 19:38:50.346] matheusgp9999 (as Nycolly Nywt at 0,0,0)
+ - Using: /datum/component/personal_crafting [0x21012fe1]
+ - new PersonalCrafting fancy 1
+[2021-05-23 19:38:50.677] matheusgp9999 (as Nycolly Nywt at 0,0,0)
+ - Using: /datum/component/personal_crafting [0x21012fe1]
+ - new PersonalCrafting fancy 1
+[2021-05-23 19:38:51.571] gabrieldoombr (as Baam Frest at 70,39,3)
+ - Using: /obj/item/toy/crayon/spraycan [0x200ddc5]
+ - new Crayon fancy 1
+[2021-05-23 19:38:52.652] gabrieldoombr (as Baam Frest at 70,39,3) in tgui-window-1
+ - Using: /obj/item/toy/crayon/spraycan [0x200ddc5]
+ - Action: select_colour {}
+[2021-05-23 19:38:55.925] gabrieldoombr in tgui-window-1/close (suspending)
+[2021-05-23 19:38:55.925] gabrieldoombr in tgui-window-1/close (suspending)
+[2021-05-23 19:38:57.882] kaduh (as Erika Miller at 106,48,3)
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - new PersonalCrafting fancy 1
+[2021-05-23 19:39:00.950] kaduh (as Erika Miller at 106,48,3)
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - new PersonalCrafting fancy 1
+[2021-05-23 19:39:04.870] elvisaaron (as Unknown at 155,171,2)
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - new PersonalCrafting fancy 1
+[2021-05-23 19:39:05.551] kaduh (as Erika Miller at 106,48,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Misc","subcategory":"Miscellaneous"}
+[2021-05-23 19:39:05.991] kaduh (as Erika Miller at 106,48,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Misc","subcategory":"Bottling"}
+[2021-05-23 19:39:07.579] kaduh (as Erika Miller at 106,48,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Crafting","subcategory":"Tools & Workbench"}
+[2021-05-23 19:39:11.060] kaduh (as Erika Miller at 106,48,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Crafting","subcategory":"Scavenging & Tinkering"}
+[2021-05-23 19:39:13.379] kaduh (as Erika Miller at 106,48,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Crafting","subcategory":"Forging & Smithing"}
+[2021-05-23 19:39:13.484] elvisaaron (as Unknown at 155,171,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Crafting","subcategory":"Forging & Smithing"}
+[2021-05-23 19:39:14.638] elvisaaron (as Unknown at 155,171,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Crafting","subcategory":"Scavenging & Tinkering"}
+[2021-05-23 19:39:14.885] kaduh (as Erika Miller at 106,48,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Crafting","subcategory":"Electronics & Robots"}
+[2021-05-23 19:39:15.345] kaduh (as Erika Miller at 106,48,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Crafting","subcategory":"Forging & Smithing"}
+[2021-05-23 19:39:15.771] jhonatanlima (as Luicio Notav at 48,146,4)
+ - Using: /obj/item/radio/intercom [0x2009396]
+ - new Radio fancy 1
+[2021-05-23 19:39:15.771] jhonatanlima (as Luicio Notav at 48,146,4)
+ - Using: /obj/item/radio/intercom [0x2009396]
+ - new Radio fancy 1
+[2021-05-23 19:39:16.248] kaduh (as Erika Miller at 106,48,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Crafting","subcategory":"Scavenging & Tinkering"}
+[2021-05-23 19:39:16.757] elvisaaron (as Unknown at 155,171,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Crafting","subcategory":"Tools & Workbench"}
+[2021-05-23 19:39:17.501] elvisaaron (as Unknown at 155,171,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Misc","subcategory":"Farming"}
+[2021-05-23 19:39:17.913] elvisaaron (as Unknown at 155,171,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Misc","subcategory":"Bottling"}
+[2021-05-23 19:39:18.563] elvisaaron (as Unknown at 155,171,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Misc","subcategory":"Miscellaneous"}
+[2021-05-23 19:39:19.002] elvisaaron (as Unknown at 155,171,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Misc","subcategory":"Burial & Execution"}
+[2021-05-23 19:39:19.597] elvisaaron (as Unknown at 155,171,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Clothing","subcategory":"Belts"}
+[2021-05-23 19:39:20.470] kaduh (as Erika Miller at 106,48,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Misc","subcategory":"Miscellaneous"}
+[2021-05-23 19:39:21.233] kaduh (as Erika Miller at 106,48,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Misc","subcategory":"Burial & Execution"}
+[2021-05-23 19:39:21.698] kaduh (as Erika Miller at 106,48,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Clothing","subcategory":"Belts"}
+[2021-05-23 19:39:22.141] kaduh (as Erika Miller at 106,48,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Clothing","subcategory":"Shoes"}
+[2021-05-23 19:39:22.593] kaduh (as Erika Miller at 106,48,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Clothing","subcategory":"Armor"}
+[2021-05-23 19:39:22.892] elvisaaron (as Unknown at 155,171,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Clothing","subcategory":"Shoes"}
+[2021-05-23 19:39:22.974] kaduh (as Erika Miller at 106,48,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Clothing","subcategory":"Wasteland Clothing"}
+[2021-05-23 19:39:23.284] elvisaaron (as Unknown at 155,171,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Clothing","subcategory":"Armor"}
+[2021-05-23 19:39:23.345] kaduh (as Erika Miller at 106,48,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Clothing","subcategory":"Misc Clothing"}
+[2021-05-23 19:39:23.790] kaduh (as Erika Miller at 106,48,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Weaponry","subcategory":"Melee Weapons"}
+[2021-05-23 19:39:24.196] kaduh (as Erika Miller at 106,48,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Weaponry","subcategory":"Explosives & Cells"}
+[2021-05-23 19:39:24.659] kaduh (as Erika Miller at 106,48,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Medical"}
+[2021-05-23 19:39:25.061] kaduh (as Erika Miller at 106,48,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Foods","subcategory":"Food Bread"}
+[2021-05-23 19:39:27.247] kaduh (as Erika Miller at 106,48,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Foods","subcategory":"Food Soups"}
+[2021-05-23 19:39:28.898] kaduh (as Erika Miller at 106,48,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Foods","subcategory":"Food Meats"}
+[2021-05-23 19:39:29.415] kaduh (as Erika Miller at 106,48,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Foods","subcategory":"Food Pastries"}
+[2021-05-23 19:39:30.570] kaduh (as Erika Miller at 106,48,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Tribal"}
+[2021-05-23 19:39:30.823] elvisaaron in tgui-window-1/close (suspending)
+[2021-05-23 19:39:30.823] elvisaaron in tgui-window-1/close (suspending)
+[2021-05-23 19:39:41.013] jhonatanlima (as Luicio Notav at 48,146,4) in tgui-window-1
+ - Using: /obj/item/radio/intercom [0x2009396]
+ - Action: broadcast {}
+[2021-05-23 19:39:41.724] jhonatanlima in tgui-window-1/close (suspending)
+[2021-05-23 19:39:41.725] jhonatanlima in tgui-window-1/close (suspending)
+[2021-05-23 19:40:03.393] elvisaaron (as Unknown at 149,167,2)
+ - Using: /obj/machinery/vending/hydroseeds [0x200462a]
+ - new Vending fancy 1
+[2021-05-23 19:40:05.104] elvisaaron in tgui-window-1/close (suspending)
+[2021-05-23 19:40:05.104] elvisaaron in tgui-window-1/close (suspending)
+[2021-05-23 19:40:36.721] goldencatc in browseroutput/initialize
+[2021-05-23 19:40:59.133] jhonatanlima (as Luicio Notav at 49,146,4)
+ - Using: /obj/machinery/holopad [0x2009412]
+ - new Holopad fancy 1
+[2021-05-23 19:41:01.246] jhonatanlima (as Luicio Notav at 49,146,4) in tgui-window-1
+ - Using: /obj/machinery/holopad [0x2009412]
+ - Action: holocall {"headcall":0}
+[2021-05-23 19:41:03.765] jhonatanlima (as Luicio Notav at 49,146,4) in tgui-window-1
+ - Using: /obj/machinery/holopad [0x2009412]
+ - Action: holocall {"headcall":0}
+[2021-05-23 19:41:05.847] jhonatanlima (as Luicio Notav at 49,146,4) in tgui-window-1
+ - Using: /obj/machinery/holopad [0x2009412]
+ - Action: holocall {"headcall":0}
+[2021-05-23 19:41:06.570] jhonatanlima (as Luicio Notav at 49,146,4) in tgui-window-1
+ - Using: /obj/machinery/holopad [0x2009412]
+ - Action: holocall {"headcall":0}
+[2021-05-23 19:41:07.249] jhonatanlima (as Luicio Notav at 49,146,4) in tgui-window-1
+ - Using: /obj/machinery/holopad [0x2009412]
+ - Action: AIrequest {}
+[2021-05-23 19:41:09.537] jhonatanlima in tgui-window-1/close (suspending)
+[2021-05-23 19:41:09.537] jhonatanlima in tgui-window-1/close (suspending)
+[2021-05-23 19:42:54.514] gabrieldoombr (as Baam Frest at 29,184,2)
+ - Using: /datum/component/personal_crafting [0x21040add]
+ - new PersonalCrafting fancy 1
+[2021-05-23 19:42:57.506] gabrieldoombr (as Baam Frest at 29,184,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21040add]
+ - Action: set_category {"category":"Misc","subcategory":"Burial & Execution"}
+[2021-05-23 19:42:59.549] gabrieldoombr (as Baam Frest at 29,184,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21040add]
+ - Action: set_category {"category":"Clothing","subcategory":"Belts"}
+[2021-05-23 19:43:00.166] gabrieldoombr (as Baam Frest at 29,184,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21040add]
+ - Action: set_category {"category":"Clothing","subcategory":"Shoes"}
+[2021-05-23 19:43:00.769] gabrieldoombr (as Baam Frest at 29,184,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21040add]
+ - Action: set_category {"category":"Clothing","subcategory":"Armor"}
+[2021-05-23 19:43:01.585] gabrieldoombr (as Baam Frest at 29,184,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21040add]
+ - Action: set_category {"category":"Clothing","subcategory":"Wasteland Clothing"}
+[2021-05-23 19:43:02.233] gabrieldoombr (as Baam Frest at 29,184,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21040add]
+ - Action: set_category {"category":"Clothing","subcategory":"General Clothing"}
+[2021-05-23 19:43:03.118] gabrieldoombr in tgui-window-1/close (suspending)
+[2021-05-23 19:43:03.118] gabrieldoombr in tgui-window-1/close (suspending)
+[2021-05-23 19:45:10.550] elvisaaron (as Unknown at 133,172,2)
+ - Using: /obj/machinery/vending/nukacolavend [0x20041e2]
+ - new Vending fancy 1
+[2021-05-23 19:45:12.046] elvisaaron in tgui-window-1/close (suspending)
+[2021-05-23 19:45:12.047] elvisaaron in tgui-window-1/close (suspending)
+[2021-05-23 19:47:42.039] shirozinha in browseroutput/initialize
+[2021-05-23 19:50:00.720] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 19:50:00.720] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 19:51:01.038] kaduh (as Erika Miller at 81,58,2)
+ - Using: /obj/machinery/vending/snack [0x200370e]
+ - new Vending fancy 1
+[2021-05-23 19:51:07.296] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 19:51:07.296] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 19:53:41.562] kaduh (as Erika Miller at 99,36,3)
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - new PersonalCrafting fancy 1
+[2021-05-23 19:53:45.406] kaduh (as Erika Miller at 99,36,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Foods","subcategory":"Food Wasteland"}
+[2021-05-23 19:53:46.350] kaduh (as Erika Miller at 99,36,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Foods","subcategory":"Food Spaghettis"}
+[2021-05-23 19:53:46.352] kaduh (as Erika Miller at 99,36,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Foods","subcategory":"Food Soups"}
+[2021-05-23 19:53:46.942] kaduh (as Erika Miller at 99,36,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Tribal"}
+[2021-05-23 19:54:00.783] kaduh (as Erika Miller at 99,36,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Medical"}
+[2021-05-23 19:54:02.361] kaduh (as Erika Miller at 99,36,3) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Weaponry","subcategory":"Explosives & Cells"}
+[2021-05-23 19:54:03.582] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 19:54:03.582] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 19:55:54.671] kaduh (as Erika Miller at 96,57,2)
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - new PersonalCrafting fancy 1
+[2021-05-23 19:55:57.259] kaduh (as Erika Miller at 96,57,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: set_category {"category":"Tribal"}
+[2021-05-23 19:55:58.144] kaduh (as Erika Miller at 96,57,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: make {"recipe":"[0x21001225]"}
+[2021-05-23 19:56:02.613] kaduh (as Erika Miller at 96,57,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: make {"recipe":"[0x21001225]"}
+[2021-05-23 19:56:06.584] kaduh (as Erika Miller at 96,57,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - Action: make {"recipe":"[0x21001225]"}
+[2021-05-23 19:56:10.154] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 19:56:10.154] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 19:56:20.475] kaduh (as Erika Miller at 96,52,2)
+ - Using: /datum/component/personal_crafting [0x21041261]
+ - new PersonalCrafting fancy 1
+[2021-05-23 19:56:22.857] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 19:56:22.858] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 19:58:05.188] luiz20 (as Luiz Borgos Segundo at 168,215,2)
+ - Using: /obj/item/radio/intercom [0x2004d67]
+ - new Radio fancy 1
+[2021-05-23 19:58:05.188] luiz20 (as Luiz Borgos Segundo at 168,215,2)
+ - Using: /obj/item/radio/intercom [0x2004d67]
+ - new Radio fancy 1
+[2021-05-23 19:58:06.496] luiz20 (as Luiz Borgos Segundo at 168,215,2) in tgui-window-1
+ - Using: /obj/item/radio/intercom [0x2004d67]
+ - Action: broadcast {}
+[2021-05-23 19:58:07.122] luiz20 in tgui-window-1/close (suspending)
+[2021-05-23 19:58:07.122] luiz20 in tgui-window-1/close (suspending)
+[2021-05-23 19:58:26.002] xxlucaswesleyxx in browseroutput/initialize
+[2021-05-23 19:58:45.674] luiz20 (as Luiz Borgos Segundo at 168,215,2)
+ - Using: /obj/item/radio/intercom [0x2004d67]
+ - new Radio fancy 1
+[2021-05-23 19:58:45.674] luiz20 (as Luiz Borgos Segundo at 168,215,2)
+ - Using: /obj/item/radio/intercom [0x2004d67]
+ - new Radio fancy 1
+[2021-05-23 19:58:46.636] luiz20 (as Luiz Borgos Segundo at 168,215,2) in tgui-window-1
+ - Using: /obj/item/radio/intercom [0x2004d67]
+ - Action: broadcast {}
+[2021-05-23 19:58:47.675] luiz20 in tgui-window-1/close (suspending)
+[2021-05-23 19:58:47.675] luiz20 in tgui-window-1/close (suspending)
+[2021-05-23 19:59:45.884] kaduh in browseroutput/initialize
+[2021-05-23 20:06:12.246] elvisaaron (as Unknown at 139,177,2)
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - new PersonalCrafting fancy 1
+[2021-05-23 20:06:28.671] elvisaaron (as Unknown at 139,177,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Crafting","subcategory":"Forging & Smithing"}
+[2021-05-23 20:06:29.340] elvisaaron (as Unknown at 139,177,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Crafting","subcategory":"Scavenging & Tinkering"}
+[2021-05-23 20:06:29.840] elvisaaron (as Unknown at 139,177,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Crafting","subcategory":"Tools & Workbench"}
+[2021-05-23 20:06:30.823] elvisaaron (as Unknown at 139,177,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Misc","subcategory":"Farming"}
+[2021-05-23 20:06:31.297] elvisaaron (as Unknown at 139,177,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Misc","subcategory":"Bottling"}
+[2021-05-23 20:06:31.728] elvisaaron (as Unknown at 139,177,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Misc","subcategory":"Miscellaneous"}
+[2021-05-23 20:06:32.260] elvisaaron (as Unknown at 139,177,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Misc","subcategory":"Burial & Execution"}
+[2021-05-23 20:06:32.842] elvisaaron (as Unknown at 139,177,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Clothing","subcategory":"Belts"}
+[2021-05-23 20:06:33.475] elvisaaron (as Unknown at 139,177,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Clothing","subcategory":"Shoes"}
+[2021-05-23 20:06:33.875] elvisaaron (as Unknown at 139,177,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Clothing","subcategory":"Armor"}
+[2021-05-23 20:06:34.686] elvisaaron (as Unknown at 139,177,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Clothing","subcategory":"Wasteland Clothing"}
+[2021-05-23 20:06:35.242] elvisaaron (as Unknown at 139,177,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Clothing","subcategory":"General Clothing"}
+[2021-05-23 20:06:35.648] elvisaaron (as Unknown at 139,177,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Clothing","subcategory":"Misc Clothing"}
+[2021-05-23 20:06:36.145] elvisaaron (as Unknown at 139,177,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Weaponry","subcategory":"Melee Weapons"}
+[2021-05-23 20:06:36.648] elvisaaron (as Unknown at 139,177,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Weaponry","subcategory":"Melee Weapons"}
+[2021-05-23 20:06:37.216] elvisaaron (as Unknown at 139,177,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Weaponry","subcategory":"Ranged Weapons"}
+[2021-05-23 20:06:37.751] elvisaaron (as Unknown at 139,177,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Medical"}
+[2021-05-23 20:06:38.367] elvisaaron (as Unknown at 139,177,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Weaponry","subcategory":"Explosives & Cells"}
+[2021-05-23 20:06:39.144] elvisaaron (as Unknown at 139,177,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Tribal"}
+[2021-05-23 20:06:59.222] elvisaaron (as Unknown at 139,177,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Foods","subcategory":"Food Bread"}
+[2021-05-23 20:06:59.607] elvisaaron (as Unknown at 139,177,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Clothing","subcategory":"Wasteland Clothing"}
+[2021-05-23 20:07:01.156] elvisaaron in tgui-window-1/close (suspending)
+[2021-05-23 20:07:01.157] elvisaaron in tgui-window-1/close (suspending)
+[2021-05-23 20:07:51.208] elvisaaron (as Unknown at 140,177,2)
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - new PersonalCrafting fancy 1
+[2021-05-23 20:07:54.072] elvisaaron (as Unknown at 140,177,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: set_category {"category":"Tribal"}
+[2021-05-23 20:07:58.088] elvisaaron (as Unknown at 140,177,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2103b8d7]
+ - Action: make {"recipe":"[0x2100129f]"}
+[2021-05-23 20:08:03.846] elvisaaron in tgui-window-1/close (suspending)
+[2021-05-23 20:08:03.847] elvisaaron in tgui-window-1/close (suspending)
+[2021-05-23 20:13:45.893] elvisaaron (as Unknown at 157,128,2)
+ - Using: /obj/machinery/vending/cola/starkist [0x200d0a6]
+ - new Vending fancy 1
+[2021-05-23 20:13:48.625] elvisaaron (as Unknown at 157,128,2) in tgui-window-1
+ - Using: /obj/machinery/vending/cola/starkist [0x200d0a6]
+ - Action: vend {"ref":"[0x2100ac57]"}
+[2021-05-23 20:14:00.843] luiz20 (as Luiz Borgos Segundo at 29,198,2)
+ - Using: /datum/orbit_menu [0x210433a0]
+ - new Orbit fancy 1
+[2021-05-23 20:14:00.847] elvisaaron in tgui-window-1/close (suspending)
+[2021-05-23 20:14:06.025] luiz20 in tgui-window-1/close (suspending)
+[2021-05-23 20:14:06.026] luiz20 in tgui-window-1/close (suspending)
+[2021-05-23 20:15:30.857] elvisaaron (as Unknown at 150,126,2)
+ - Using: /obj/machinery/vending/nukacolavend [0x200471e]
+ - new Vending fancy 1
+[2021-05-23 20:15:32.154] elvisaaron (as Unknown at 150,126,2)
+ - Using: /obj/machinery/vending/cigarette [0x20046b0]
+ - new Vending fancy 1
+[2021-05-23 20:15:33.908] elvisaaron in tgui-window-2/close (suspending)
+[2021-05-23 20:15:33.908] elvisaaron in tgui-window-2/close (suspending)
+[2021-05-23 20:15:34.742] elvisaaron in tgui-window-1/close (suspending)
+[2021-05-23 20:15:34.742] elvisaaron in tgui-window-1/close (suspending)
+[2021-05-23 20:18:44.971] jhonatanlima (as Yuri Stigat at 72,189,4)
+ - Using: /obj/machinery/power/smes/engineering [0x2009948]
+ - new Smes fancy 1
+[2021-05-23 20:18:46.743] jhonatanlima in tgui-window-1/close (suspending)
+[2021-05-23 20:18:46.743] jhonatanlima in tgui-window-1/close (suspending)
+[2021-05-23 20:18:47.677] jhonatanlima (as Yuri Stigat at 72,189,4)
+ - Using: /obj/machinery/power/smes/engineering [0x200990b]
+ - new Smes fancy 1
+[2021-05-23 20:18:50.361] jhonatanlima in tgui-window-1/close (suspending)
+[2021-05-23 20:18:50.361] jhonatanlima in tgui-window-1/close (suspending)
+[2021-05-23 20:19:21.627] jhonatanlima (as Yuri Stigat at 73,190,4)
+ - Using: /obj/machinery/power/smes/engineering [0x2009948]
+ - new Smes fancy 1
+[2021-05-23 20:19:23.027] jhonatanlima (as Yuri Stigat at 73,190,4) in tgui-window-1
+ - Using: /obj/machinery/power/smes/engineering [0x2009948]
+ - Action: input {"target":"max"}
+[2021-05-23 20:19:24.102] jhonatanlima (as Yuri Stigat at 73,190,4) in tgui-window-1
+ - Using: /obj/machinery/power/smes/engineering [0x2009948]
+ - Action: output {"target":"max"}
+[2021-05-23 20:19:25.353] jhonatanlima (as Yuri Stigat at 73,190,4) in tgui-window-1
+ - Using: /obj/machinery/power/smes/engineering [0x2009948]
+ - Action: output {"adjust":-10000}
+[2021-05-23 20:19:26.141] jhonatanlima in tgui-window-1/close (suspending)
+[2021-05-23 20:19:26.141] jhonatanlima in tgui-window-1/close (suspending)
+[2021-05-23 20:19:27.054] jhonatanlima (as Yuri Stigat at 72,190,4)
+ - Using: /obj/machinery/power/smes/engineering [0x200990b]
+ - new Smes fancy 1
+[2021-05-23 20:19:28.618] jhonatanlima (as Yuri Stigat at 72,190,4) in tgui-window-1
+ - Using: /obj/machinery/power/smes/engineering [0x200990b]
+ - Action: input {"target":"max"}
+[2021-05-23 20:19:29.199] jhonatanlima (as Yuri Stigat at 72,190,4) in tgui-window-1
+ - Using: /obj/machinery/power/smes/engineering [0x200990b]
+ - Action: output {"target":"max"}
+[2021-05-23 20:19:29.926] jhonatanlima (as Yuri Stigat at 72,190,4) in tgui-window-1
+ - Using: /obj/machinery/power/smes/engineering [0x200990b]
+ - Action: output {"adjust":-10000}
+[2021-05-23 20:19:31.521] jhonatanlima in tgui-window-1/close (suspending)
+[2021-05-23 20:19:31.521] jhonatanlima in tgui-window-1/close (suspending)
+[2021-05-23 20:19:39.117] jhonatanlima (as Yuri Stigat at 68,186,4)
+ - Using: /obj/machinery/vending/engineering [0x20098c5]
+ - new Vending fancy 1
+[2021-05-23 20:19:41.933] baeiou in browseroutput/initialize
+[2021-05-23 20:19:47.203] jhonatanlima in tgui-window-1/close (suspending)
+[2021-05-23 20:19:47.203] jhonatanlima in tgui-window-1/close (suspending)
+[2021-05-23 20:20:02.371] kaduh (as Erika Miller at 44,215,2)
+ - Using: /datum/component/personal_crafting [0x21042dfc]
+ - new PersonalCrafting fancy 1
+[2021-05-23 20:20:02.372] kaduh in tgui-window-1/initialize
+ - Using: /datum/component/personal_crafting [0x21042dfc]
+[2021-05-23 20:20:05.715] kaduh (as Erika Miller at 44,215,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21042dfc]
+ - Action: set_category {"category":"Medical"}
+[2021-05-23 20:20:09.542] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 20:20:09.542] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 20:22:10.388] luiz20 (as Unknown at 48,146,4)
+ - Using: /obj/item/radio/intercom [0x2009396]
+ - new Radio fancy 1
+[2021-05-23 20:22:10.388] luiz20 (as Unknown at 48,146,4)
+ - Using: /obj/item/radio/intercom [0x2009396]
+ - new Radio fancy 1
+[2021-05-23 20:22:11.397] luiz20 (as Unknown at 48,146,4) in tgui-window-1
+ - Using: /obj/item/radio/intercom [0x2009396]
+ - Action: broadcast {}
+[2021-05-23 20:22:12.421] luiz20 in tgui-window-1/close (suspending)
+[2021-05-23 20:22:12.422] luiz20 in tgui-window-1/close (suspending)
+[2021-05-23 20:22:55.882] kosolov325 in browseroutput/initialize
+[2021-05-23 20:23:48.016] jhonatanlima (as Yuri Stigat at 34,163,4)
+ - Using: /obj/machinery/vending/robotics [0x2008f95]
+ - new Vending fancy 1
+[2021-05-23 20:23:50.418] jhonatanlima (as Yuri Stigat at 34,163,4) in tgui-window-1
+ - Using: /obj/machinery/vending/robotics [0x2008f95]
+ - Action: vend {"ref":"[0x21011f96]"}
+[2021-05-23 20:24:06.719] jhonatanlima in tgui-window-1/close (suspending)
+[2021-05-23 20:24:06.720] jhonatanlima in tgui-window-1/close (suspending)
+[2021-05-23 20:24:09.936] jhonatanlima (as Yuri Stigat at 33,163,4)
+ - Using: /obj/machinery/vending/wardrobe/science_wardrobe [0x2008eb8]
+ - new Vending fancy 1
+[2021-05-23 20:24:12.511] jhonatanlima in tgui-window-1/close (suspending)
+[2021-05-23 20:24:12.511] jhonatanlima in tgui-window-1/close (suspending)
+[2021-05-23 20:24:59.266] elvisaaron (as Unknown at 149,126,2)
+ - Using: /datum/skill_holder [0x21026947]
+ - new SkillPanel fancy 1
+[2021-05-23 20:25:04.592] kaduh (as Erika Miller at 53,202,2)
+ - Using: /obj/machinery/seed_extractor [0x2002e7a]
+ - new SeedExtractor fancy 1
+[2021-05-23 20:25:05.834] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 20:25:05.834] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 20:25:06.568] kaduh (as Erika Miller at 53,202,2)
+ - Using: /obj/machinery/biogenerator [0x2002ef2]
+ - new Biogenerator fancy 1
+[2021-05-23 20:25:08.477] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 20:25:08.478] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 20:25:10.256] jhonatanlima (as Yuri Stigat at 38,161,4)
+ - Using: /datum/component/personal_crafting [0x2104342e]
+ - new PersonalCrafting fancy 1
+[2021-05-23 20:25:12.269] luiz20 (as Luiz Borgos Segundo at 36,204,2)
+ - Using: /datum/orbit_menu [0x21043b06]
+ - new Orbit fancy 1
+[2021-05-23 20:25:13.328] jhonatanlima (as Yuri Stigat at 38,161,4) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2104342e]
+ - Action: set_category {"category":"Clothing","subcategory":"Wasteland Clothing"}
+[2021-05-23 20:25:14.081] jhonatanlima (as Yuri Stigat at 38,161,4) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2104342e]
+ - Action: set_category {"category":"Clothing","subcategory":"General Clothing"}
+[2021-05-23 20:25:14.759] jhonatanlima (as Yuri Stigat at 38,161,4) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2104342e]
+ - Action: set_category {"category":"Weaponry","subcategory":"Melee Weapons"}
+[2021-05-23 20:25:18.022] luiz20 (as Luiz Borgos Segundo at 36,204,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21043b06]
+ - Action: orbit {"ref":"[mob_898]"}
+[2021-05-23 20:25:19.041] luiz20 in tgui-window-1/close (suspending)
+[2021-05-23 20:25:19.041] luiz20 in tgui-window-1/close (suspending)
+[2021-05-23 20:25:31.185] jhonatanlima (as Yuri Stigat at 38,161,4) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2104342e]
+ - Action: set_category {"category":"Weaponry","subcategory":"Ranged Weapons"}
+[2021-05-23 20:25:45.097] jhonatanlima (as Yuri Stigat at 38,161,4) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2104342e]
+ - Action: set_category {"category":"Crafting","subcategory":"Scavenging & Tinkering"}
+[2021-05-23 20:25:46.144] jhonatanlima (as Yuri Stigat at 38,161,4) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2104342e]
+ - Action: set_category {"category":"Crafting","subcategory":"Forging & Smithing"}
+[2021-05-23 20:25:48.149] jhonatanlima (as Yuri Stigat at 38,161,4) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2104342e]
+ - Action: set_category {"category":"Crafting","subcategory":"Tools & Workbench"}
+[2021-05-23 20:25:57.725] jhonatanlima (as Yuri Stigat at 38,161,4) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x2104342e]
+ - Action: make {"recipe":"[0x2100128d]"}
+[2021-05-23 20:27:24.094] elvisaaron in tgui-window-1/close (suspending)
+[2021-05-23 20:27:24.094] elvisaaron in tgui-window-1/close (suspending)
+[2021-05-23 20:27:39.613] kosolov325 (as Lucas Calado at 231,251,3)
+ - Using: /datum/component/loadout_selector [0x21043b0b]
+ - new LoadoutSelect fancy 1
+[2021-05-23 20:27:39.613] kosolov325 in tgui-window-1/initialize
+ - Using: /datum/component/loadout_selector [0x21043b0b]
+[2021-05-23 20:27:47.200] baeiou (as Roderick Malkav at 39,210,2)
+ - Using: /obj/machinery/computer/operating [0x2002a17]
+ - new OperatingComputer fancy 1
+[2021-05-23 20:27:47.200] baeiou in tgui-window-1/initialize
+ - Using: /obj/machinery/computer/operating [0x2002a17]
+[2021-05-23 20:27:47.242] kosolov325 (as Lucas Calado at 231,251,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21043b0b]
+ - Action: loadout_select {"name":"Junior Knight"}
+[2021-05-23 20:27:48.140] kosolov325 (as Lucas Calado at 231,251,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21043b0b]
+ - Action: loadout_select {"name":"Knight"}
+[2021-05-23 20:27:49.883] kosolov325 (as Lucas Calado at 231,251,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21043b0b]
+ - Action: loadout_select {"name":"Senior Knight"}
+[2021-05-23 20:27:50.413] baeiou in tgui-window-1/close (suspending)
+[2021-05-23 20:27:50.413] baeiou in tgui-window-1/close (suspending)
+[2021-05-23 20:27:52.106] kosolov325 (as Lucas Calado at 231,251,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21043b0b]
+ - Action: loadout_select {"name":"Knight-Captain"}
+[2021-05-23 20:27:54.641] kosolov325 (as Lucas Calado at 231,251,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21043b0b]
+ - Action: loadout_select {"name":"Junior Scribe"}
+[2021-05-23 20:27:56.289] kosolov325 (as Lucas Calado at 231,251,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21043b0b]
+ - Action: loadout_select {"name":"Scribe"}
+[2021-05-23 20:27:56.807] kosolov325 (as Lucas Calado at 231,251,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21043b0b]
+ - Action: loadout_select {"name":"Scribe"}
+[2021-05-23 20:27:58.370] kosolov325 (as Lucas Calado at 231,251,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21043b0b]
+ - Action: loadout_select {"name":"Senior Scribe"}
+[2021-05-23 20:27:59.287] kosolov325 (as Lucas Calado at 231,251,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21043b0b]
+ - Action: loadout_select {"name":"Head Scribe"}
+[2021-05-23 20:28:07.146] kosolov325 (as Lucas Calado at 231,251,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21043b0b]
+ - Action: loadout_select {"name":"Junior Paladin"}
+[2021-05-23 20:28:08.534] kosolov325 (as Lucas Calado at 231,251,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21043b0b]
+ - Action: loadout_select {"name":"Junior Paladin"}
+[2021-05-23 20:28:09.030] kosolov325 (as Lucas Calado at 231,251,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21043b0b]
+ - Action: loadout_select {"name":"Paladin"}
+[2021-05-23 20:28:10.388] kosolov325 (as Lucas Calado at 231,251,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21043b0b]
+ - Action: loadout_select {"name":"Senior Paladin"}
+[2021-05-23 20:28:11.165] kosolov325 (as Lucas Calado at 231,251,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21043b0b]
+ - Action: loadout_select {"name":"Sentinel"}
+[2021-05-23 20:28:13.949] kosolov325 (as Lucas Calado at 231,251,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21043b0b]
+ - Action: loadout_select {"name":"Knight-Captain"}
+[2021-05-23 20:28:15.253] kosolov325 (as Lucas Calado at 231,251,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21043b0b]
+ - Action: loadout_confirm {}
+[2021-05-23 20:28:15.257] kosolov325 in tgui-window-1/close (suspending)
+[2021-05-23 20:28:15.663] jhonatanlima (as Yuri Stigat at 69,186,4)
+ - Using: /obj/machinery/vending/engineering [0x20098c5]
+ - new Vending fancy 1
+[2021-05-23 20:28:15.664] jhonatanlima in tgui-window-2/initialize
+ - Using: /obj/machinery/vending/engineering [0x20098c5]
+[2021-05-23 20:28:23.829] jhonatanlima (as Yuri Stigat at 69,186,4) in tgui-window-2
+ - Using: /obj/machinery/vending/engineering [0x20098c5]
+ - Action: vend {"ref":"[0x21012b07]"}
+[2021-05-23 20:28:25.023] jhonatanlima in tgui-window-2/close (suspending)
+[2021-05-23 20:28:25.024] jhonatanlima in tgui-window-2/close (suspending)
+[2021-05-23 20:29:13.519] gabrieldoombr in browseroutput/initialize
+[2021-05-23 20:30:20.949] goldencatc (as Kaleb Mcloskey at 48,164,4)
+ - Using: /obj/machinery/mineral/ore_redemption [0x2009321]
+ - new OreRedemptionMachine fancy 1
+[2021-05-23 20:30:20.950] goldencatc in tgui-window-1/initialize
+ - Using: /obj/machinery/mineral/ore_redemption [0x2009321]
+[2021-05-23 20:30:26.027] goldencatc in tgui-window-1/close (suspending)
+[2021-05-23 20:30:26.028] goldencatc in tgui-window-1/close (suspending)
+[2021-05-23 20:30:31.340] goldencatc (as Kaleb Mcloskey at 48,163,4)
+ - Using: /obj/machinery/mineral/equipment_vendor [0x2009323]
+ - new MiningVendor fancy 1
+[2021-05-23 20:30:35.289] goldencatc in tgui-window-1/close (suspending)
+[2021-05-23 20:30:35.289] goldencatc in tgui-window-1/close (suspending)
+[2021-05-23 20:31:23.027] jhonatanlima in tgui-window-1/close (suspending)
+[2021-05-23 20:31:23.027] jhonatanlima (as Yuri Stigat at 34,163,4)
+ - Using: /datum/component/personal_crafting [0x2104342e]
+ - new PersonalCrafting fancy 1
+[2021-05-23 20:36:07.449] kaduh in browseroutput/initialize
+[2021-05-23 20:37:42.616] baeiou (as Roderick Malkav at 39,209,2)
+ - Using: /obj/machinery/computer/operating [0x2002a17]
+ - new OperatingComputer fancy 1
+[2021-05-23 20:37:44.635] xxlucaswesleyxx (as Will Riker at 53,179,4)
+ - Using: /datum/crewmonitor [0x2100008a]
+ - new CrewConsole fancy 1
+[2021-05-23 20:37:44.636] xxlucaswesleyxx in tgui-window-1/initialize
+ - Using: /datum/crewmonitor [0x2100008a]
+[2021-05-23 20:37:47.497] baeiou (as Roderick Malkav at 39,209,2) in tgui-window-1
+ - Using: /obj/machinery/computer/operating [0x2002a17]
+ - Action: sync {}
+[2021-05-23 20:37:48.291] baeiou in tgui-window-1/close (suspending)
+[2021-05-23 20:37:48.291] baeiou in tgui-window-1/close (suspending)
+[2021-05-23 20:37:49.616] baeiou (as Roderick Malkav at 37,209,2)
+ - Using: /obj/machinery/computer/operating [0x200285b]
+ - new OperatingComputer fancy 1
+[2021-05-23 20:37:49.733] xxlucaswesleyxx in tgui-window-1/close (suspending)
+[2021-05-23 20:37:49.734] xxlucaswesleyxx in tgui-window-1/close (suspending)
+[2021-05-23 20:37:51.298] baeiou (as Roderick Malkav at 37,209,2) in tgui-window-1
+ - Using: /obj/machinery/computer/operating [0x200285b]
+ - Action: sync {}
+[2021-05-23 20:37:55.398] baeiou in tgui-window-1/close (suspending)
+[2021-05-23 20:37:55.398] baeiou in tgui-window-1/close (suspending)
+[2021-05-23 20:38:20.150] gabrieldoombr (as Baam Frest at 101,233,2)
+ - Using: /obj/machinery/computer/shuttle/northbunkerelevator [0x20126b3]
+ - new ShuttleConsole fancy 1
+[2021-05-23 20:38:20.150] gabrieldoombr in tgui-window-1/initialize
+ - Using: /obj/machinery/computer/shuttle/northbunkerelevator [0x20126b3]
+[2021-05-23 20:38:21.086] gabrieldoombr (as Baam Frest at 101,233,2) in tgui-window-1
+ - Using: /obj/machinery/computer/shuttle/northbunkerelevator [0x20126b3]
+ - Action: move {"shuttle_id":"North_Level_1"}
+[2021-05-23 20:38:21.967] gabrieldoombr (as Baam Frest at 44,233,4) in tgui-window-1
+ - Using: /obj/machinery/computer/shuttle/northbunkerelevator [0x20126b3]
+ - Action: move {"shuttle_id":"North_Ground"}
+[2021-05-23 20:38:22.854] gabrieldoombr in tgui-window-1/close (suspending)
+[2021-05-23 20:38:22.854] gabrieldoombr in tgui-window-1/close (suspending)
+[2021-05-23 20:40:56.775] gabrieldoombr in browseroutput/initialize
+[2021-05-23 20:41:05.589] sherifftubbynips in browseroutput/initialize
+[2021-05-23 20:41:18.975] sherifftubbynips in browseroutput/initialize
+[2021-05-23 20:41:53.399] kaduh (as Erika Miller at 58,201,2)
+ - Using: /datum/component/personal_crafting [0x21042dfc]
+ - new PersonalCrafting fancy 1
+[2021-05-23 20:41:53.399] kaduh in tgui-window-1/initialize
+ - Using: /datum/component/personal_crafting [0x21042dfc]
+[2021-05-23 20:41:57.122] kaduh (as Erika Miller at 58,201,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21042dfc]
+ - Action: set_category {"category":"Tribal"}
+[2021-05-23 20:42:33.700] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 20:42:33.701] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 20:42:57.732] kaduh (as Erika Miller at 58,201,2)
+ - Using: /datum/component/personal_crafting [0x21042dfc]
+ - new PersonalCrafting fancy 1
+[2021-05-23 20:43:01.367] kaduh (as Erika Miller at 58,201,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21042dfc]
+ - Action: set_category {"category":"Tribal"}
+[2021-05-23 20:43:02.541] kaduh (as Erika Miller at 58,201,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21042dfc]
+ - Action: make {"recipe":"[0x21001225]"}
+[2021-05-23 20:43:14.523] kaduh (as Erika Miller at 51,201,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21042dfc]
+ - Action: make {"recipe":"[0x21001225]"}
+[2021-05-23 20:43:18.622] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 20:43:18.622] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 20:44:13.858] sondtheanime in browseroutput/initialize
+[2021-05-23 20:45:23.774] sherifftubbynips (as RINGO EL GRINGO at 219,227,3)
+ - Using: /datum/component/loadout_selector [0x2104427d]
+ - new LoadoutSelect fancy 1
+[2021-05-23 20:45:23.775] sherifftubbynips in tgui-window-1/initialize
+ - Using: /datum/component/loadout_selector [0x2104427d]
+[2021-05-23 20:45:25.218] gabrieldoombr in browseroutput/initialize
+[2021-05-23 20:45:38.121] sherifftubbynips (as RINGO EL GRINGO at 219,227,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2104427d]
+ - Action: loadout_select {"name":"Shock Head Paladin"}
+[2021-05-23 20:45:39.344] sherifftubbynips (as RINGO EL GRINGO at 219,227,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2104427d]
+ - Action: loadout_select {"name":"Shock Head Paladin"}
+[2021-05-23 20:45:39.346] sherifftubbynips (as RINGO EL GRINGO at 219,227,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2104427d]
+ - Action: loadout_select {"name":"Heavy Head Paladin"}
+[2021-05-23 20:45:41.695] sherifftubbynips (as RINGO EL GRINGO at 219,227,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2104427d]
+ - Action: loadout_select {"name":"Shock Head Paladin"}
+[2021-05-23 20:45:43.331] sherifftubbynips (as RINGO EL GRINGO at 219,227,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2104427d]
+ - Action: loadout_select {"name":"Heavy Head Paladin"}
+[2021-05-23 20:45:47.709] sherifftubbynips (as RINGO EL GRINGO at 219,227,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2104427d]
+ - Action: loadout_confirm {}
+[2021-05-23 20:45:50.674] sherifftubbynips in tgui-window-1/close (suspending)
+[2021-05-23 20:46:09.881] kaduh (as Erika Miller at 53,200,2)
+ - Using: /obj/machinery/seed_extractor [0x2002e7a]
+ - new SeedExtractor fancy 1
+[2021-05-23 20:46:11.166] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 20:46:11.166] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 20:46:12.168] kaduh (as Erika Miller at 53,200,2)
+ - Using: /obj/machinery/biogenerator [0x2002ef2]
+ - new Biogenerator fancy 1
+[2021-05-23 20:46:13.454] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 20:46:13.454] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 20:46:35.054] goldencatc (as Unknown at 133,137,3)
+ - Using: /datum/component/loadout_selector [0x21045bf9]
+ - new LoadoutSelect fancy 1
+[2021-05-23 20:46:37.505] goldencatc (as Unknown at 133,137,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21045bf9]
+ - Action: loadout_select {"name":"Blastmaster"}
+[2021-05-23 20:46:38.707] goldencatc (as Unknown at 133,137,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21045bf9]
+ - Action: loadout_select {"name":"Blastmaster"}
+[2021-05-23 20:46:38.708] goldencatc (as Unknown at 133,137,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21045bf9]
+ - Action: loadout_select {"name":"Blastmaster"}
+[2021-05-23 20:46:38.710] goldencatc (as Unknown at 133,137,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21045bf9]
+ - Action: loadout_select {"name":"Blastmaster"}
+[2021-05-23 20:46:38.877] goldencatc (as Unknown at 133,137,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21045bf9]
+ - Action: loadout_select {"name":"Blastmaster"}
+[2021-05-23 20:46:40.464] goldencatc (as Unknown at 133,137,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21045bf9]
+ - Action: loadout_select {"name":"Sadist"}
+[2021-05-23 20:46:43.428] goldencatc (as Unknown at 133,137,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21045bf9]
+ - Action: loadout_select {"name":"Painspike"}
+[2021-05-23 20:46:45.046] goldencatc (as Unknown at 133,137,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21045bf9]
+ - Action: loadout_select {"name":"Painspike"}
+[2021-05-23 20:46:47.166] goldencatc (as Unknown at 133,137,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21045bf9]
+ - Action: loadout_select {"name":"Badlands"}
+[2021-05-23 20:46:48.292] goldencatc (as Unknown at 133,137,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21045bf9]
+ - Action: loadout_select {"name":"Badlands"}
+[2021-05-23 20:46:53.503] goldencatc (as Unknown at 133,137,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21045bf9]
+ - Action: loadout_select {"name":"Brotherhood Exile"}
+[2021-05-23 20:46:54.627] goldencatc (as Unknown at 133,137,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21045bf9]
+ - Action: loadout_select {"name":"Brotherhood Exile"}
+[2021-05-23 20:46:54.628] goldencatc (as Unknown at 133,137,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21045bf9]
+ - Action: loadout_select {"name":"Brotherhood Exile"}
+[2021-05-23 20:46:56.628] goldencatc (as Unknown at 133,137,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21045bf9]
+ - Action: loadout_select {"name":"NCR Deserter"}
+[2021-05-23 20:46:57.914] goldencatc (as Unknown at 133,137,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21045bf9]
+ - Action: loadout_select {"name":"Punished Legionnaire"}
+[2021-05-23 20:46:58.844] goldencatc (as Unknown at 133,137,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21045bf9]
+ - Action: loadout_select {"name":"Punished Legionnaire"}
+[2021-05-23 20:47:01.816] goldencatc (as Unknown at 133,137,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21045bf9]
+ - Action: loadout_select {"name":"Desperado"}
+[2021-05-23 20:47:02.971] goldencatc (as Unknown at 133,137,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21045bf9]
+ - Action: loadout_select {"name":"Desperado"}
+[2021-05-23 20:47:06.515] kaduh in browseroutput/initialize
+[2021-05-23 20:47:09.544] luiz20 (as Luiz Borgos Segundo at 63,140,4)
+ - Using: /datum/orbit_menu [0x21045bb5]
+ - new Orbit fancy 1
+[2021-05-23 20:47:10.481] goldencatc (as Unknown at 133,137,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21045bf9]
+ - Action: loadout_select {"name":"Blastmaster"}
+[2021-05-23 20:47:12.136] luiz20 (as Luiz Borgos Segundo at 63,140,4) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21045bb5]
+ - Action: orbit {"ref":"[mob_1064]"}
+[2021-05-23 20:47:12.796] goldencatc (as Unknown at 133,137,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x21045bf9]
+ - Action: loadout_confirm {}
+[2021-05-23 20:47:12.860] goldencatc in tgui-window-1/close (suspending)
+[2021-05-23 20:47:14.886] luiz20 in tgui-window-1/close (suspending)
+[2021-05-23 20:47:14.886] luiz20 in tgui-window-1/close (suspending)
+[2021-05-23 20:47:16.617] gabrieldoombr in browseroutput/initialize
+[2021-05-23 20:47:18.590] luiz20 (as Luiz Borgos Segundo at 223,223,3)
+ - Using: /datum/orbit_menu [0x21045bb5]
+ - new Orbit fancy 1
+[2021-05-23 20:47:26.016] luiz20 (as Luiz Borgos Segundo at 223,223,3) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21045bb5]
+ - Action: orbit {"ref":"[mob_1055]"}
+[2021-05-23 20:47:27.556] luiz20 in tgui-window-1/close (suspending)
+[2021-05-23 20:47:27.557] luiz20 in tgui-window-1/close (suspending)
+[2021-05-23 20:47:52.407] luiz20 (as Luiz Borgos Segundo at 62,153,4)
+ - Using: /datum/orbit_menu [0x21045bb5]
+ - new Orbit fancy 1
+[2021-05-23 20:47:57.168] gabrieldoombr (as Baam Frest at 42,73,2)
+ - Using: /datum/orbit_menu [0x21044079]
+ - new Orbit fancy 1
+[2021-05-23 20:47:57.168] gabrieldoombr in tgui-window-1/initialize
+ - Using: /datum/orbit_menu [0x21044079]
+[2021-05-23 20:47:58.068] luiz20 (as Luiz Borgos Segundo at 62,145,4) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21045bb5]
+ - Action: orbit {"ref":"[mob_923]"}
+[2021-05-23 20:47:59.638] luiz20 in tgui-window-1/close (suspending)
+[2021-05-23 20:47:59.639] luiz20 in tgui-window-1/close (suspending)
+[2021-05-23 20:48:01.380] gabrieldoombr (as Baam Frest at 42,73,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21044079]
+ - Action: orbit {"ref":"[mob_1021]"}
+[2021-05-23 20:48:08.137] gabrieldoombr (as Baam Frest at 221,199,3) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21044079]
+ - Action: orbit {"ref":"[mob_968]"}
+[2021-05-23 20:48:13.215] gabrieldoombr (as Baam Frest at 52,178,4) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21044079]
+ - Action: orbit {"ref":"[mob_1074]"}
+[2021-05-23 20:48:14.857] gabrieldoombr (as Baam Frest at 162,134,3) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21044079]
+ - Action: orbit {"ref":"[mob_1016]"}
+[2021-05-23 20:48:16.013] gabrieldoombr (as Baam Frest at 22,190,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21044079]
+ - Action: orbit {"ref":"[mob_889]"}
+[2021-05-23 20:48:16.921] gabrieldoombr (as Baam Frest at 86,85,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21044079]
+ - Action: orbit {"ref":"[mob_1093]"}
+[2021-05-23 20:48:18.138] gabrieldoombr (as Baam Frest at 16,211,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21044079]
+ - Action: orbit {"ref":"[mob_898]"}
+[2021-05-23 20:48:20.731] gabrieldoombr (as Baam Frest at 100,134,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21044079]
+ - Action: orbit {"ref":"[mob_975]"}
+[2021-05-23 20:48:21.938] gabrieldoombr (as Baam Frest at 57,227,2) in tgui-window-1
+ - Using: /datum/orbit_menu [0x21044079]
+ - Action: orbit {"ref":"[mob_829]"}
+[2021-05-23 20:48:27.374] gabrieldoombr in tgui-window-1/close (suspending)
+[2021-05-23 20:48:27.375] gabrieldoombr in tgui-window-1/close (suspending)
+[2021-05-23 20:50:29.074] luiz20 (as Luiz Borgos Terceiro at 247,202,3)
+ - Using: /datum/component/loadout_selector [0x210458f4]
+ - new LoadoutSelect fancy 1
+[2021-05-23 20:50:30.919] luiz20 (as Luiz Borgos Terceiro at 247,200,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210458f4]
+ - Action: loadout_select {"name":"Administrative Leader"}
+[2021-05-23 20:50:32.013] luiz20 (as Luiz Borgos Terceiro at 247,200,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210458f4]
+ - Action: loadout_select {"name":"Administrative Leader"}
+[2021-05-23 20:50:33.332] luiz20 (as Luiz Borgos Terceiro at 247,200,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x210458f4]
+ - Action: loadout_confirm {}
+[2021-05-23 20:50:33.360] luiz20 in tgui-window-1/close (suspending)
+[2021-05-23 20:50:58.778] sherifftubbynips (as RINGO EL GRINGO at 241,242,3)
+ - Using: /datum/language_menu [0x21045d13]
+ - new LanguageMenu fancy 1
+[2021-05-23 20:50:59.911] sherifftubbynips in tgui-window-1/close (suspending)
+[2021-05-23 20:50:59.911] sherifftubbynips in tgui-window-1/close (suspending)
+[2021-05-23 20:51:21.099] kaduh (as Erika Miller at 52,202,2)
+ - Using: /obj/machinery/seed_extractor [0x2002e7a]
+ - new SeedExtractor fancy 1
+[2021-05-23 20:51:21.100] kaduh in tgui-window-1/initialize
+ - Using: /obj/machinery/seed_extractor [0x2002e7a]
+[2021-05-23 20:51:22.476] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 20:51:22.476] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 20:51:25.369] kaduh (as Erika Miller at 53,202,2)
+ - Using: /obj/machinery/biogenerator [0x2002ef2]
+ - new Biogenerator fancy 1
+[2021-05-23 20:51:26.842] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 20:51:26.842] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 20:55:04.770] luiz20 (as Luiz Borgos Terceiro at 226,195,3)
+ - Using: /obj/machinery/vending/tool [0x2007e23]
+ - new Vending fancy 1
+[2021-05-23 20:55:11.529] luiz20 (as Luiz Borgos Terceiro at 226,195,3) in tgui-window-1
+ - Using: /obj/machinery/vending/tool [0x2007e23]
+ - Action: vend {"ref":"[0x210104f2]"}
+[2021-05-23 20:55:13.807] luiz20 in tgui-window-1/close (suspending)
+[2021-05-23 20:55:13.808] luiz20 in tgui-window-1/close (suspending)
+[2021-05-23 20:57:14.955] xandimasculu in browseroutput/initialize
+[2021-05-23 20:57:23.404] kaduh (as Erika Miller at 53,202,2)
+ - Using: /obj/machinery/biogenerator [0x2002ef2]
+ - new Biogenerator fancy 1
+[2021-05-23 20:57:27.324] kaduh (as Erika Miller at 53,202,2) in tgui-window-1
+ - Using: /obj/machinery/biogenerator [0x2002ef2]
+ - Action: activate {}
+[2021-05-23 20:58:18.157] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 20:58:18.157] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 20:58:51.376] kaduh (as Erika Miller at 51,202,2)
+ - Using: /datum/component/personal_crafting [0x21042dfc]
+ - new PersonalCrafting fancy 1
+[2021-05-23 20:58:58.365] kaduh (as Erika Miller at 51,202,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21042dfc]
+ - Action: set_category {"category":"Medical"}
+[2021-05-23 20:58:59.603] kaduh (as Erika Miller at 51,202,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21042dfc]
+ - Action: make {"recipe":"[0x210011ff]"}
+[2021-05-23 20:59:04.626] kaduh (as Erika Miller at 51,202,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21042dfc]
+ - Action: make {"recipe":"[0x210011ff]"}
+[2021-05-23 20:59:08.771] kaduh (as Erika Miller at 51,202,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21042dfc]
+ - Action: make {"recipe":"[0x210011ff]"}
+[2021-05-23 20:59:13.656] kaduh (as Erika Miller at 51,202,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21042dfc]
+ - Action: make {"recipe":"[0x210011ff]"}
+[2021-05-23 20:59:18.778] kaduh (as Erika Miller at 51,202,2) in tgui-window-1
+ - Using: /datum/component/personal_crafting [0x21042dfc]
+ - Action: make {"recipe":"[0x210011ff]"}
+[2021-05-23 20:59:28.219] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 20:59:28.219] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 20:59:46.123] kaduh (as Erika Miller at 52,202,2)
+ - Using: /obj/machinery/biogenerator [0x2002ef2]
+ - new Biogenerator fancy 1
+[2021-05-23 20:59:47.244] kaduh (as Erika Miller at 52,202,2) in tgui-window-1
+ - Using: /obj/machinery/biogenerator [0x2002ef2]
+ - Action: activate {}
+[2021-05-23 20:59:49.734] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 20:59:49.734] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 20:59:57.229] kaduh (as Erika Miller at 53,202,2)
+ - Using: /obj/machinery/biogenerator [0x2002ef2]
+ - new Biogenerator fancy 1
+[2021-05-23 20:59:59.596] kaduh (as Erika Miller at 53,202,2) in tgui-window-1
+ - Using: /obj/machinery/biogenerator [0x2002ef2]
+ - Action: activate {}
+[2021-05-23 21:00:01.060] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 21:00:01.060] kaduh in tgui-window-1/close (suspending)
+[2021-05-23 21:03:04.179] goldencatc (as Juan Picard at 240,236,3)
+ - Using: /datum/component/loadout_selector [0x2100d0cd]
+ - new LoadoutSelect fancy 1
+[2021-05-23 21:03:07.377] goldencatc (as Juan Picard at 240,236,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2100d0cd]
+ - Action: loadout_select {"name":"Warden-Defender"}
+[2021-05-23 21:03:08.618] goldencatc (as Juan Picard at 240,236,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2100d0cd]
+ - Action: loadout_select {"name":"Warden-Defender"}
+[2021-05-23 21:03:11.223] goldencatc (as Juan Picard at 240,236,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2100d0cd]
+ - Action: loadout_select {"name":"Close Support"}
+[2021-05-23 21:03:20.857] goldencatc (as Juan Picard at 240,236,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2100d0cd]
+ - Action: loadout_preview_direction {"direction":-1}
+[2021-05-23 21:03:21.937] goldencatc (as Juan Picard at 240,236,3) in tgui-window-1
+ - Using: /datum/component/loadout_selector [0x2100d0cd]
+ - Action: loadout_confirm {}
+[2021-05-23 21:03:22.080] goldencatc in tgui-window-1/close (suspending)

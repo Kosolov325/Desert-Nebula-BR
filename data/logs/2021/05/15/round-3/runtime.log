@@ -1,0 +1,1651 @@
+[2021-05-15 23:11:21.168] Starting up round ID 3.
+ - -------------------------
+[2021-05-15 23:11:21.192] Running /tg/ revision: 
+ - No commit information
+[2021-05-15 23:11:21.261] runtime error: Admin datum created without a rank
+ - proc name: New (/datum/admins/New)
+ -   source file: holder2.dm,45
+ -   usr: null
+ -   src: nobody\'s admin datum (no rank... (/datum/admins)
+ -   call stack:
+ - nobody\'s admin datum (no rank... (/datum/admins): New(null, "dantesousa", 0, 1)
+ - load admins(null)
+ - world: New()
+ - 
+[2021-05-15 23:11:22.660] Loading Yuma...
+[2021-05-15 23:11:39.235] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(200)
+ - the air vent (/obj/machinery/atmospherics/components/unary/vent_pump/on): New(the vault floor (235,194,3) (/turf/open/floor/plasteel/f13/vault_floor/plating))
+ - the air vent (/obj/machinery/atmospherics/components/unary/vent_pump/on): New(the vault floor (235,194,3) (/turf/open/floor/plasteel/f13/vault_floor/plating))
+ - /datum/parsed_map (/datum/parsed_map): create atom(/obj/machinery/atmospherics/co... (/obj/machinery/atmospherics/components/unary/vent_pump/on), the vault floor (235,194,3) (/turf/open/floor/plasteel/f13/vault_floor/plating))
+ - /datum/parsed_map (/datum/parsed_map): instance atom(/obj/machinery/atmospherics/co... (/obj/machinery/atmospherics/components/unary/vent_pump/on), /list (/list), the vault floor (235,194,3) (/turf/open/floor/plasteel/f13/vault_floor/plating), 1, 0, 0, 0, 0, 0)
+ - /datum/parsed_map (/datum/parsed_map): build coordinate(/list (/list), /list (/list), the vault floor (235,194,3) (/turf/open/floor/plasteel/f13/vault_floor/plating), 1, 0, 0, 0, 0, 0, 0)
+ - /datum/parsed_map (/datum/parsed_map):  load impl(1, 1, 3, 0, 1, -1e+031, 1e+031, -1e+031, 1e+031, 0, 2, 0, null)
+ - /datum/parsed_map (/datum/parsed_map): load(1, 1, 3, null, 1, null, null, null, null, null, 2, null, null)
+ - Mapping (/datum/controller/subsystem/mapping): LoadGroup(/list (/list), "Wasteland", "map_files/Pahrump", /list (/list), /list (/list), /list (/list), 0, 2)
+ - Mapping (/datum/controller/subsystem/mapping): loadWorld()
+ - Mapping (/datum/controller/subsystem/mapping): Initialize(834826)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:11:39.250] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(200)
+ - the air vent (/obj/machinery/atmospherics/components/unary/vent_pump/on): New(the metal floor (235,191,3) (/turf/open/floor/plating/tunnel))
+ - the air vent (/obj/machinery/atmospherics/components/unary/vent_pump/on): New(the metal floor (235,191,3) (/turf/open/floor/plating/tunnel))
+ - /datum/parsed_map (/datum/parsed_map): create atom(/obj/machinery/atmospherics/co... (/obj/machinery/atmospherics/components/unary/vent_pump/on), the metal floor (235,191,3) (/turf/open/floor/plating/tunnel))
+ - /datum/parsed_map (/datum/parsed_map): instance atom(/obj/machinery/atmospherics/co... (/obj/machinery/atmospherics/components/unary/vent_pump/on), /list (/list), the metal floor (235,191,3) (/turf/open/floor/plating/tunnel), 1, 0, 0, 0, 0, 0)
+ - /datum/parsed_map (/datum/parsed_map): build coordinate(/list (/list), /list (/list), the metal floor (235,191,3) (/turf/open/floor/plating/tunnel), 1, 0, 0, 0, 0, 0, 0)
+ - /datum/parsed_map (/datum/parsed_map):  load impl(1, 1, 3, 0, 1, -1e+031, 1e+031, -1e+031, 1e+031, 0, 2, 0, null)
+ - /datum/parsed_map (/datum/parsed_map): load(1, 1, 3, null, 1, null, null, null, null, null, 2, null, null)
+ - Mapping (/datum/controller/subsystem/mapping): LoadGroup(/list (/list), "Wasteland", "map_files/Pahrump", /list (/list), /list (/list), /list (/list), 0, 2)
+ - Mapping (/datum/controller/subsystem/mapping): loadWorld()
+ - Mapping (/datum/controller/subsystem/mapping): Initialize(834826)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:11:39.454] Loaded Wasteland in 16.8s!
+[2021-05-15 23:11:42.969] Loaded Dungeons in 3.5s!
+[2021-05-15 23:11:46.389] Ruin loader finished with 0 left to spend.
+[2021-05-15 23:11:47.270] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(70)
+ - the plasma tank (/obj/item/tank/internals/plasma): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the plasma tank (/obj/item/tank/internals/plasma), /list (/list))
+ - the plasma tank (/obj/item/tank/internals/plasma): New(1)
+ - the tank dispenser (/obj/structure/tank_dispenser/plasma): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the tank dispenser (/obj/structure/tank_dispenser/plasma), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(835065)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:11:47.284] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(70)
+ - the plasma tank (/obj/item/tank/internals/plasma): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the plasma tank (/obj/item/tank/internals/plasma), /list (/list))
+ - the plasma tank (/obj/item/tank/internals/plasma): New(1)
+ - the tank dispenser (/obj/structure/tank_dispenser/plasma): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the tank dispenser (/obj/structure/tank_dispenser/plasma), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(835065)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:11:47.297] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(70)
+ - the plasma tank (/obj/item/tank/internals/plasma): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the plasma tank (/obj/item/tank/internals/plasma), /list (/list))
+ - the plasma tank (/obj/item/tank/internals/plasma): New(1)
+ - the tank dispenser (/obj/structure/tank_dispenser/plasma): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the tank dispenser (/obj/structure/tank_dispenser/plasma), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(835065)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:11:47.313] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(70)
+ - the plasma tank (/obj/item/tank/internals/plasma): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the plasma tank (/obj/item/tank/internals/plasma), /list (/list))
+ - the plasma tank (/obj/item/tank/internals/plasma): New(1)
+ - the tank dispenser (/obj/structure/tank_dispenser/plasma): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the tank dispenser (/obj/structure/tank_dispenser/plasma), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(835065)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:11:47.327] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(70)
+ - the plasma tank (/obj/item/tank/internals/plasma): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the plasma tank (/obj/item/tank/internals/plasma), /list (/list))
+ - the plasma tank (/obj/item/tank/internals/plasma): New(1)
+ - the tank dispenser (/obj/structure/tank_dispenser/plasma): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the tank dispenser (/obj/structure/tank_dispenser/plasma), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(835065)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:11:47.341] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(70)
+ - the plasma tank (/obj/item/tank/internals/plasma): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the plasma tank (/obj/item/tank/internals/plasma), /list (/list))
+ - the plasma tank (/obj/item/tank/internals/plasma): New(1)
+ - the tank dispenser (/obj/structure/tank_dispenser/plasma): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the tank dispenser (/obj/structure/tank_dispenser/plasma), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(835065)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:11:47.355] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(70)
+ - the plasma tank (/obj/item/tank/internals/plasma): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the plasma tank (/obj/item/tank/internals/plasma), /list (/list))
+ - the plasma tank (/obj/item/tank/internals/plasma): New(1)
+ - the tank dispenser (/obj/structure/tank_dispenser/plasma): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the tank dispenser (/obj/structure/tank_dispenser/plasma), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(835065)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:11:47.369] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(70)
+ - the plasma tank (/obj/item/tank/internals/plasma): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the plasma tank (/obj/item/tank/internals/plasma), /list (/list))
+ - the plasma tank (/obj/item/tank/internals/plasma): New(1)
+ - the tank dispenser (/obj/structure/tank_dispenser/plasma): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the tank dispenser (/obj/structure/tank_dispenser/plasma), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(835065)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:11:47.382] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(70)
+ - the plasma tank (/obj/item/tank/internals/plasma): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the plasma tank (/obj/item/tank/internals/plasma), /list (/list))
+ - the plasma tank (/obj/item/tank/internals/plasma): New(1)
+ - the tank dispenser (/obj/structure/tank_dispenser/plasma): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the tank dispenser (/obj/structure/tank_dispenser/plasma), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(835065)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:11:47.397] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(70)
+ - the plasma tank (/obj/item/tank/internals/plasma): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the plasma tank (/obj/item/tank/internals/plasma), /list (/list))
+ - the plasma tank (/obj/item/tank/internals/plasma): New(1)
+ - the tank dispenser (/obj/structure/tank_dispenser/plasma): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the tank dispenser (/obj/structure/tank_dispenser/plasma), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(835065)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:11:47.414] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(70)
+ - the oxygen tank (/obj/item/tank/internals/oxygen): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the oxygen tank (/obj/item/tank/internals/oxygen), /list (/list))
+ - the oxygen tank (/obj/item/tank/internals/oxygen): New(1)
+ - the tank dispenser (/obj/structure/tank_dispenser/oxygen): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the tank dispenser (/obj/structure/tank_dispenser/oxygen), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(835065)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:11:47.429] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(70)
+ - the oxygen tank (/obj/item/tank/internals/oxygen): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the oxygen tank (/obj/item/tank/internals/oxygen), /list (/list))
+ - the oxygen tank (/obj/item/tank/internals/oxygen): New(1)
+ - the tank dispenser (/obj/structure/tank_dispenser/oxygen): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the tank dispenser (/obj/structure/tank_dispenser/oxygen), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(835065)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:11:47.444] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(70)
+ - the oxygen tank (/obj/item/tank/internals/oxygen): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the oxygen tank (/obj/item/tank/internals/oxygen), /list (/list))
+ - the oxygen tank (/obj/item/tank/internals/oxygen): New(1)
+ - the tank dispenser (/obj/structure/tank_dispenser/oxygen): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the tank dispenser (/obj/structure/tank_dispenser/oxygen), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(835065)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:11:47.458] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(70)
+ - the oxygen tank (/obj/item/tank/internals/oxygen): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the oxygen tank (/obj/item/tank/internals/oxygen), /list (/list))
+ - the oxygen tank (/obj/item/tank/internals/oxygen): New(1)
+ - the tank dispenser (/obj/structure/tank_dispenser/oxygen): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the tank dispenser (/obj/structure/tank_dispenser/oxygen), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(835065)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:11:47.472] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(70)
+ - the oxygen tank (/obj/item/tank/internals/oxygen): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the oxygen tank (/obj/item/tank/internals/oxygen), /list (/list))
+ - the oxygen tank (/obj/item/tank/internals/oxygen): New(1)
+ - the tank dispenser (/obj/structure/tank_dispenser/oxygen): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the tank dispenser (/obj/structure/tank_dispenser/oxygen), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(835065)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:11:47.485] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(70)
+ - the oxygen tank (/obj/item/tank/internals/oxygen): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the oxygen tank (/obj/item/tank/internals/oxygen), /list (/list))
+ - the oxygen tank (/obj/item/tank/internals/oxygen): New(1)
+ - the tank dispenser (/obj/structure/tank_dispenser/oxygen): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the tank dispenser (/obj/structure/tank_dispenser/oxygen), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(835065)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:11:47.500] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(70)
+ - the oxygen tank (/obj/item/tank/internals/oxygen): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the oxygen tank (/obj/item/tank/internals/oxygen), /list (/list))
+ - the oxygen tank (/obj/item/tank/internals/oxygen): New(1)
+ - the tank dispenser (/obj/structure/tank_dispenser/oxygen): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the tank dispenser (/obj/structure/tank_dispenser/oxygen), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(835065)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:11:47.515] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(70)
+ - the oxygen tank (/obj/item/tank/internals/oxygen): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the oxygen tank (/obj/item/tank/internals/oxygen), /list (/list))
+ - the oxygen tank (/obj/item/tank/internals/oxygen): New(1)
+ - the tank dispenser (/obj/structure/tank_dispenser/oxygen): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the tank dispenser (/obj/structure/tank_dispenser/oxygen), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(835065)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:11:47.530] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(70)
+ - the oxygen tank (/obj/item/tank/internals/oxygen): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the oxygen tank (/obj/item/tank/internals/oxygen), /list (/list))
+ - the oxygen tank (/obj/item/tank/internals/oxygen): New(1)
+ - the tank dispenser (/obj/structure/tank_dispenser/oxygen): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the tank dispenser (/obj/structure/tank_dispenser/oxygen), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(835065)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:11:47.545] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(70)
+ - the oxygen tank (/obj/item/tank/internals/oxygen): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the oxygen tank (/obj/item/tank/internals/oxygen), /list (/list))
+ - the oxygen tank (/obj/item/tank/internals/oxygen): New(1)
+ - the tank dispenser (/obj/structure/tank_dispenser/oxygen): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the tank dispenser (/obj/structure/tank_dispenser/oxygen), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(835065)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:11:47.914] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(70)
+ - the oxygen tank (/obj/item/tank/internals/oxygen/red): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the oxygen tank (/obj/item/tank/internals/oxygen/red), /list (/list))
+ - the oxygen tank (/obj/item/tank/internals/oxygen/red): New(1)
+ - the fire-safety closet (/obj/structure/closet/firecloset/full): PopulateContents()
+ - the fire-safety closet (/obj/structure/closet/firecloset/full): PopulateContents()
+ - the fire-safety closet (/obj/structure/closet/firecloset/full): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the fire-safety closet (/obj/structure/closet/firecloset/full), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(835065)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:11:47.932] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(70)
+ - the oxygen tank (/obj/item/tank/internals/oxygen/red): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the oxygen tank (/obj/item/tank/internals/oxygen/red), /list (/list))
+ - the oxygen tank (/obj/item/tank/internals/oxygen/red): New(1)
+ - the fire-safety closet (/obj/structure/closet/firecloset/full): PopulateContents()
+ - the fire-safety closet (/obj/structure/closet/firecloset/full): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the fire-safety closet (/obj/structure/closet/firecloset/full), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(835065)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:11:48.363] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(6)
+ - the extended-capacity emergenc... (/obj/item/tank/internals/emergency_oxygen/engi): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the extended-capacity emergenc... (/obj/item/tank/internals/emergency_oxygen/engi), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(835065)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:11:48.382] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(6)
+ - the extended-capacity emergenc... (/obj/item/tank/internals/emergency_oxygen/engi): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the extended-capacity emergenc... (/obj/item/tank/internals/emergency_oxygen/engi), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(835065)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:11:48.943] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(3)
+ - the emergency oxygen tank (/obj/item/tank/internals/emergency_oxygen): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the emergency oxygen tank (/obj/item/tank/internals/emergency_oxygen), /list (/list))
+ - the emergency oxygen tank (/obj/item/tank/internals/emergency_oxygen): New(1)
+ - the emergency closet (/obj/structure/closet/emcloset): PopulateContents()
+ - the emergency closet (/obj/structure/closet/emcloset): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the emergency closet (/obj/structure/closet/emcloset), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(835065)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:11:48.956] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(6)
+ - the extended-capacity emergenc... (/obj/item/tank/internals/emergency_oxygen/engi): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the extended-capacity emergenc... (/obj/item/tank/internals/emergency_oxygen/engi), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(835065)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:11:48.968] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(6)
+ - the extended-capacity emergenc... (/obj/item/tank/internals/emergency_oxygen/engi): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the extended-capacity emergenc... (/obj/item/tank/internals/emergency_oxygen/engi), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(835065)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:11:48.980] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(6)
+ - the extended-capacity emergenc... (/obj/item/tank/internals/emergency_oxygen/engi): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the extended-capacity emergenc... (/obj/item/tank/internals/emergency_oxygen/engi), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(835065)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:11:49.336] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(70)
+ - the air tank (/obj/item/tank/internals/air): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the air tank (/obj/item/tank/internals/air), /list (/list))
+ - the air tank (/obj/item/tank/internals/air): New(1)
+ - the emergency closet (/obj/structure/closet/emcloset): PopulateContents()
+ - the emergency closet (/obj/structure/closet/emcloset): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the emergency closet (/obj/structure/closet/emcloset), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(835065)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:11:49.346] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(6)
+ - the extended-capacity emergenc... (/obj/item/tank/internals/emergency_oxygen/engi): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the extended-capacity emergenc... (/obj/item/tank/internals/emergency_oxygen/engi), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(835065)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:11:49.356] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(6)
+ - the extended-capacity emergenc... (/obj/item/tank/internals/emergency_oxygen/engi): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the extended-capacity emergenc... (/obj/item/tank/internals/emergency_oxygen/engi), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(835065)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:11:49.367] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(6)
+ - the extended-capacity emergenc... (/obj/item/tank/internals/emergency_oxygen/engi): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the extended-capacity emergenc... (/obj/item/tank/internals/emergency_oxygen/engi), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(835065)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:11:49.755] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(6)
+ - the extended-capacity emergenc... (/obj/item/tank/internals/emergency_oxygen/engi): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the extended-capacity emergenc... (/obj/item/tank/internals/emergency_oxygen/engi), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(835065)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:11:49.820] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(3)
+ - the emergency oxygen tank (/obj/item/tank/internals/emergency_oxygen): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the emergency oxygen tank (/obj/item/tank/internals/emergency_oxygen), /list (/list))
+ - the emergency oxygen tank (/obj/item/tank/internals/emergency_oxygen): New(1)
+ - quartermaster\'s locker (/obj/structure/closet/secure_closet/quartermaster): PopulateContents()
+ - quartermaster\'s locker (/obj/structure/closet/secure_closet/quartermaster): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(quartermaster\'s locker (/obj/structure/closet/secure_closet/quartermaster), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(835065)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:11:50.535] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(3)
+ - the emergency oxygen tank (/obj/item/tank/internals/emergency_oxygen): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the emergency oxygen tank (/obj/item/tank/internals/emergency_oxygen), /list (/list))
+ - the emergency oxygen tank (/obj/item/tank/internals/emergency_oxygen): New(1)
+ - the emergency closet (/obj/structure/closet/emcloset): PopulateContents()
+ - the emergency closet (/obj/structure/closet/emcloset): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the emergency closet (/obj/structure/closet/emcloset), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(835065)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:11:50.551] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(3)
+ - the emergency oxygen tank (/obj/item/tank/internals/emergency_oxygen): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the emergency oxygen tank (/obj/item/tank/internals/emergency_oxygen), /list (/list))
+ - the emergency oxygen tank (/obj/item/tank/internals/emergency_oxygen): New(1)
+ - the emergency closet (/obj/structure/closet/emcloset): PopulateContents()
+ - the emergency closet (/obj/structure/closet/emcloset): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the emergency closet (/obj/structure/closet/emcloset), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(835065)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:11:50.837] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(70)
+ - the oxygen tank (/obj/item/tank/internals/oxygen): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the oxygen tank (/obj/item/tank/internals/oxygen), /list (/list))
+ - the oxygen tank (/obj/item/tank/internals/oxygen): New(1)
+ - the random internal tank(s) sp... (/obj/effect/spawner/lootdrop/breathing_tanks/no_turf): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the random internal tank(s) sp... (/obj/effect/spawner/lootdrop/breathing_tanks/no_turf), /list (/list))
+ - the random internal tank(s) sp... (/obj/effect/spawner/lootdrop/breathing_tanks/no_turf): New(1)
+ - the emergency closet (/obj/structure/closet/emcloset): PopulateContents()
+ - the emergency closet (/obj/structure/closet/emcloset): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the emergency closet (/obj/structure/closet/emcloset), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(835065)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:11:50.855] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(70)
+ - the plasma internals tank (/obj/item/tank/internals/plasmaman): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the plasma internals tank (/obj/item/tank/internals/plasmaman), /list (/list))
+ - the plasma internals tank (/obj/item/tank/internals/plasmaman): New(1)
+ - the random internal tank(s) sp... (/obj/effect/spawner/lootdrop/breathing_tanks/no_turf): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the random internal tank(s) sp... (/obj/effect/spawner/lootdrop/breathing_tanks/no_turf), /list (/list))
+ - the random internal tank(s) sp... (/obj/effect/spawner/lootdrop/breathing_tanks/no_turf): New(1)
+ - the emergency closet (/obj/structure/closet/emcloset): PopulateContents()
+ - the emergency closet (/obj/structure/closet/emcloset): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the emergency closet (/obj/structure/closet/emcloset), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(835065)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:11:51.021] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(3)
+ - the emergency oxygen tank (/obj/item/tank/internals/emergency_oxygen): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the emergency oxygen tank (/obj/item/tank/internals/emergency_oxygen), /list (/list))
+ - the emergency oxygen tank (/obj/item/tank/internals/emergency_oxygen): New(1)
+ - the emergency closet (/obj/structure/closet/emcloset): PopulateContents()
+ - the emergency closet (/obj/structure/closet/emcloset): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the emergency closet (/obj/structure/closet/emcloset), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(835065)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:11:51.103] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(3)
+ - the emergency oxygen tank (/obj/item/tank/internals/emergency_oxygen): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the emergency oxygen tank (/obj/item/tank/internals/emergency_oxygen), /list (/list))
+ - the emergency oxygen tank (/obj/item/tank/internals/emergency_oxygen): New(1)
+ - the emergency closet (/obj/structure/closet/emcloset): PopulateContents()
+ - the emergency closet (/obj/structure/closet/emcloset): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the emergency closet (/obj/structure/closet/emcloset), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(835065)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:11:51.118] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(3)
+ - the emergency oxygen tank (/obj/item/tank/internals/emergency_oxygen): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the emergency oxygen tank (/obj/item/tank/internals/emergency_oxygen), /list (/list))
+ - the emergency oxygen tank (/obj/item/tank/internals/emergency_oxygen): New(1)
+ - the emergency closet (/obj/structure/closet/emcloset): PopulateContents()
+ - the emergency closet (/obj/structure/closet/emcloset): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the emergency closet (/obj/structure/closet/emcloset), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(835065)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:11:52.939] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(70)
+ - the anesthetic tank (/obj/item/tank/internals/anesthetic): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the anesthetic tank (/obj/item/tank/internals/anesthetic), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(835065)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:11:52.950] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(70)
+ - the anesthetic tank (/obj/item/tank/internals/anesthetic): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the anesthetic tank (/obj/item/tank/internals/anesthetic), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(835065)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:11:53.149] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(70)
+ - the anesthetic tank (/obj/item/tank/internals/anesthetic): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the anesthetic tank (/obj/item/tank/internals/anesthetic), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(835065)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:11:53.158] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(70)
+ - the anesthetic tank (/obj/item/tank/internals/anesthetic): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the anesthetic tank (/obj/item/tank/internals/anesthetic), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(835065)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:11:54.293] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(70)
+ - the anesthetic tank (/obj/item/tank/internals/anesthetic): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the anesthetic tank (/obj/item/tank/internals/anesthetic), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(835065)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:11:54.310] runtime error: The specified procedure could not be found.
+ - 
+ - proc name: AUXTOOLS CHECK (/proc/AUXTOOLS_CHECK)
+ -   source file: _extools_api.dm,14
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - AUXTOOLS CHECK("auxmos.dll")
+ - /datum/gas_mixture (/datum/gas_mixture): New(70)
+ - the anesthetic tank (/obj/item/tank/internals/anesthetic): Initialize(1)
+ - Atoms (/datum/controller/subsystem/atoms): InitAtom(the anesthetic tank (/obj/item/tank/internals/anesthetic), /list (/list))
+ - Atoms (/datum/controller/subsystem/atoms): InitializeAtoms(null)
+ - Atoms (/datum/controller/subsystem/atoms): Initialize(835065)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:13:40.543] runtime error: Division by zero
+ - proc name: create gas (/obj/machinery/portable_atmospherics/canister/proc/create_gas)
+ -   source file: canister.dm,220
+ -   usr: null
+ -   src: the o2 canister (/obj/machinery/portable_atmospherics/canister/oxygen)
+ -   src.loc: the floor (57,22,5) (/turf/open/floor/plasteel/dark)
+ -   call stack:
+ - the o2 canister (/obj/machinery/portable_atmospherics/canister/oxygen): create gas()
+ - the o2 canister (/obj/machinery/portable_atmospherics/canister/oxygen): New(the floor (57,22,5) (/turf/open/floor/plasteel/dark), null)
+ - /datum/parsed_map (/datum/parsed_map): create atom(/obj/machinery/portable_atmosp... (/obj/machinery/portable_atmospherics/canister/oxygen), the floor (57,22,5) (/turf/open/floor/plasteel/dark))
+ - /datum/parsed_map (/datum/parsed_map): instance atom(/obj/machinery/portable_atmosp... (/obj/machinery/portable_atmospherics/canister/oxygen), /list (/list), the floor (57,22,5) (/turf/open/floor/plasteel/dark), 0, 1, 0, 0, 0, 0)
+ - /datum/parsed_map (/datum/parsed_map): build coordinate(/list (/list), /list (/list), the floor (57,22,5) (/turf/open/floor/plasteel/dark), 0, 1, 0, 0, 0, 0, 0)
+ - /datum/parsed_map (/datum/parsed_map):  load impl(52, 10, 5, 1, 0, -1e+031, 1e+031, -1e+031, 1e+031, 1, 2, 0, null)
+ - /datum/parsed_map (/datum/parsed_map): load(52, 10, 5, 1, 0, null, null, null, null, 1, 2, 0, null)
+ - basic syndicate infiltrator (/datum/map_template/shuttle/infiltrator/basic): load(the hull (52,10,5) (/turf/closed/wall/r_wall/syndicate), 0, 2, 0, 0, 0, 0)
+ - basic syndicate infiltrator (/datum/map_template/shuttle/infiltrator/basic): load(the hull (52,10,5) (/turf/closed/wall/r_wall/syndicate), 0, 2, 0, 0, 0, 0)
+ - Shuttle (/datum/controller/subsystem/shuttle): load template(basic syndicate infiltrator (/datum/map_template/shuttle/infiltrator/basic))
+ - Shuttle (/datum/controller/subsystem/shuttle): action load(basic syndicate infiltrator (/datum/map_template/shuttle/infiltrator/basic), the syndicate recon outpost (/obj/docking_port/stationary))
+ - the syndicate recon outpost (/obj/docking_port/stationary): load roundstart()
+ - Shuttle (/datum/controller/subsystem/shuttle): initial load()
+ - Shuttle (/datum/controller/subsystem/shuttle): Initialize(836183)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-15 23:13:41.640] ## WARNING: No /obj/docking_port/mobile/arrivals placed on the map! in code/controllers/subsystem/shuttle.dm at line 80 src: Shuttle usr: .
+[2021-05-15 23:13:46.620] Initializations complete within 144.4 seconds!
+[2021-05-15 23:13:46.833] runtime error: Auxtools not found! Callback subsystem shutting itself off.
+ - proc name: process callbacks (/proc/process_callbacks)
+ -   source file: callback.dm,10
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - process callbacks(null, 46.5)
+ - Auxtools Callbacks (/datum/controller/subsystem/callbacks): fire(0)
+ - Auxtools Callbacks (/datum/controller/subsystem/callbacks): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-15 23:15:41.908] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ -   usr: null
+ -   src: the tcom Air Alarm (/obj/machinery/airalarm)
+ -   src.loc: the floor (251,4,3) (/turf/open/floor/plasteel)
+ -   call stack:
+ - the tcom Air Alarm (/obj/machinery/airalarm): process(2)
+ - Machines (/datum/controller/subsystem/machines): fire(0)
+ - Machines (/datum/controller/subsystem/machines): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-15 23:15:42.033] Game start took 0s
+[2021-05-15 23:15:43.366] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ -   usr: null
+ -   src: the mountain Air Alarm (/obj/machinery/airalarm)
+ -   src.loc: the floor (194,141,1) (/turf/open/floor/plasteel)
+ -   call stack:
+ - the mountain Air Alarm (/obj/machinery/airalarm): process(2)
+ - Machines (/datum/controller/subsystem/machines): fire(1)
+ - Machines (/datum/controller/subsystem/machines): ignite(1)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-15 23:15:43.397] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ -   usr: null
+ -   src: the mountain Air Alarm (/obj/machinery/airalarm)
+ -   src.loc: the floor (194,135,1) (/turf/open/floor/plasteel/brown)
+ -   call stack:
+ - the mountain Air Alarm (/obj/machinery/airalarm): process(2)
+ - Machines (/datum/controller/subsystem/machines): fire(1)
+ - Machines (/datum/controller/subsystem/machines): ignite(1)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-15 23:15:43.647] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ -   usr: null
+ -   src: the mountain Air Alarm (/obj/machinery/airalarm)
+ -   src.loc: the floor (190,135,1) (/turf/open/floor/plasteel/vault)
+ -   call stack:
+ - the mountain Air Alarm (/obj/machinery/airalarm): process(2)
+ - Machines (/datum/controller/subsystem/machines): fire(1)
+ - Machines (/datum/controller/subsystem/machines): ignite(1)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-15 23:15:43.656] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ -   usr: null
+ -   src: CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm)
+ -   src.loc: the floor (100,120,1) (/turf/open/floor/plasteel)
+ -   call stack:
+ - CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm): process(2)
+ - Machines (/datum/controller/subsystem/machines): fire(1)
+ - Machines (/datum/controller/subsystem/machines): ignite(1)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-15 23:15:43.667] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ -   usr: null
+ -   src: CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm)
+ -   src.loc: the floor (134,89,1) (/turf/open/floor/plasteel/vault)
+ -   call stack:
+ - CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm): process(2)
+ - Machines (/datum/controller/subsystem/machines): fire(1)
+ - Machines (/datum/controller/subsystem/machines): ignite(1)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-15 23:15:43.676] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ -   usr: null
+ -   src: CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm)
+ -   src.loc: the floor (122,88,1) (/turf/open/floor/plasteel/vault)
+ -   call stack:
+ - CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm): process(2)
+ - Machines (/datum/controller/subsystem/machines): fire(1)
+ - Machines (/datum/controller/subsystem/machines): ignite(1)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-15 23:15:43.795] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ -   usr: null
+ -   src: Thunderdome (Observer.) Air Al... (/obj/machinery/airalarm)
+ -   src.loc: the floor (99,88,1) (/turf/open/floor/plasteel/vault)
+ -   call stack:
+ - Thunderdome (Observer.) Air Al... (/obj/machinery/airalarm): process(2)
+ - Machines (/datum/controller/subsystem/machines): fire(1)
+ - Machines (/datum/controller/subsystem/machines): ignite(1)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-15 23:15:43.898] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ -   usr: null
+ -   src: CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm)
+ -   src.loc: the floor (62,86,1) (/turf/open/floor/plasteel/vault)
+ -   call stack:
+ - CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm): process(2)
+ - Machines (/datum/controller/subsystem/machines): fire(1)
+ - Machines (/datum/controller/subsystem/machines): ignite(1)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-15 23:15:43.945] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ -   usr: null
+ -   src: CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm)
+ -   src.loc: the floor (137,84,1) (/turf/open/floor/plasteel)
+ -   call stack:
+ - CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm): process(2)
+ - Machines (/datum/controller/subsystem/machines): fire(1)
+ - Machines (/datum/controller/subsystem/machines): ignite(1)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-15 23:15:43.955] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ -   usr: null
+ -   src: CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm)
+ -   src.loc: the floor (80,81,1) (/turf/open/floor/plasteel/dark)
+ -   call stack:
+ - CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm): process(2)
+ - Machines (/datum/controller/subsystem/machines): fire(1)
+ - Machines (/datum/controller/subsystem/machines): ignite(1)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-15 23:15:43.998] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ -   usr: null
+ -   src: CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm)
+ -   src.loc: the floor (123,77,1) (/turf/open/floor/plasteel/vault)
+ -   call stack:
+ - CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm): process(2)
+ - Machines (/datum/controller/subsystem/machines): fire(1)
+ - Machines (/datum/controller/subsystem/machines): ignite(1)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-15 23:15:44.048] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ -   usr: null
+ -   src: CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm)
+ -   src.loc: the floor (74,75,1) (/turf/open/floor/plasteel/vault)
+ -   call stack:
+ - CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm): process(2)
+ - Machines (/datum/controller/subsystem/machines): fire(1)
+ - Machines (/datum/controller/subsystem/machines): ignite(1)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-15 23:15:44.057] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ -   usr: null
+ -   src: CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm)
+ -   src.loc: the floor (112,67,1) (/turf/open/floor/plasteel/cmo)
+ -   call stack:
+ - CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm): process(2)
+ - Machines (/datum/controller/subsystem/machines): fire(1)
+ - Machines (/datum/controller/subsystem/machines): ignite(1)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-15 23:15:46.418] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ -   usr: null
+ -   src: the tcom Air Alarm (/obj/machinery/airalarm)
+ -   src.loc: the floor (251,4,3) (/turf/open/floor/plasteel)
+ -   call stack:
+ - the tcom Air Alarm (/obj/machinery/airalarm): process(2)
+ - Machines (/datum/controller/subsystem/machines): fire(0)
+ - Machines (/datum/controller/subsystem/machines): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-15 23:15:46.502] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ -   usr: null
+ -   src: the mountain Air Alarm (/obj/machinery/airalarm)
+ -   src.loc: the floor (194,141,1) (/turf/open/floor/plasteel)
+ -   call stack:
+ - the mountain Air Alarm (/obj/machinery/airalarm): process(2)
+ - Machines (/datum/controller/subsystem/machines): fire(1)
+ - Machines (/datum/controller/subsystem/machines): ignite(1)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-15 23:15:46.512] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ -   usr: null
+ -   src: the mountain Air Alarm (/obj/machinery/airalarm)
+ -   src.loc: the floor (194,135,1) (/turf/open/floor/plasteel/brown)
+ -   call stack:
+ - the mountain Air Alarm (/obj/machinery/airalarm): process(2)
+ - Machines (/datum/controller/subsystem/machines): fire(1)
+ - Machines (/datum/controller/subsystem/machines): ignite(1)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-15 23:15:46.521] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ -   usr: null
+ -   src: the mountain Air Alarm (/obj/machinery/airalarm)
+ -   src.loc: the floor (190,135,1) (/turf/open/floor/plasteel/vault)
+ -   call stack:
+ - the mountain Air Alarm (/obj/machinery/airalarm): process(2)
+ - Machines (/datum/controller/subsystem/machines): fire(1)
+ - Machines (/datum/controller/subsystem/machines): ignite(1)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-15 23:15:46.530] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ -   usr: null
+ -   src: CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm)
+ -   src.loc: the floor (100,120,1) (/turf/open/floor/plasteel)
+ -   call stack:
+ - CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm): process(2)
+ - Machines (/datum/controller/subsystem/machines): fire(1)
+ - Machines (/datum/controller/subsystem/machines): ignite(1)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-15 23:15:46.540] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ -   usr: null
+ -   src: CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm)
+ -   src.loc: the floor (134,89,1) (/turf/open/floor/plasteel/vault)
+ -   call stack:
+ - CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm): process(2)
+ - Machines (/datum/controller/subsystem/machines): fire(1)
+ - Machines (/datum/controller/subsystem/machines): ignite(1)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-15 23:15:46.563] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ -   usr: null
+ -   src: CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm)
+ -   src.loc: the floor (122,88,1) (/turf/open/floor/plasteel/vault)
+ -   call stack:
+ - CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm): process(2)
+ - Machines (/datum/controller/subsystem/machines): fire(1)
+ - Machines (/datum/controller/subsystem/machines): ignite(1)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-15 23:15:46.572] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ -   usr: null
+ -   src: Thunderdome (Observer.) Air Al... (/obj/machinery/airalarm)
+ -   src.loc: the floor (99,88,1) (/turf/open/floor/plasteel/vault)
+ -   call stack:
+ - Thunderdome (Observer.) Air Al... (/obj/machinery/airalarm): process(2)
+ - Machines (/datum/controller/subsystem/machines): fire(1)
+ - Machines (/datum/controller/subsystem/machines): ignite(1)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-15 23:15:46.586] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ -   usr: null
+ -   src: CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm)
+ -   src.loc: the floor (62,86,1) (/turf/open/floor/plasteel/vault)
+ -   call stack:
+ - CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm): process(2)
+ - Machines (/datum/controller/subsystem/machines): fire(1)
+ - Machines (/datum/controller/subsystem/machines): ignite(1)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-15 23:15:46.595] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ -   usr: null
+ -   src: CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm)
+ -   src.loc: the floor (137,84,1) (/turf/open/floor/plasteel)
+ -   call stack:
+ - CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm): process(2)
+ - Machines (/datum/controller/subsystem/machines): fire(1)
+ - Machines (/datum/controller/subsystem/machines): ignite(1)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-15 23:15:46.605] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ -   usr: null
+ -   src: CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm)
+ -   src.loc: the floor (80,81,1) (/turf/open/floor/plasteel/dark)
+ -   call stack:
+ - CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm): process(2)
+ - Machines (/datum/controller/subsystem/machines): fire(1)
+ - Machines (/datum/controller/subsystem/machines): ignite(1)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-15 23:15:46.616] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ -   usr: null
+ -   src: CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm)
+ -   src.loc: the floor (123,77,1) (/turf/open/floor/plasteel/vault)
+ -   call stack:
+ - CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm): process(2)
+ - Machines (/datum/controller/subsystem/machines): fire(1)
+ - Machines (/datum/controller/subsystem/machines): ignite(1)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-15 23:15:46.625] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ -   usr: null
+ -   src: CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm)
+ -   src.loc: the floor (74,75,1) (/turf/open/floor/plasteel/vault)
+ -   call stack:
+ - CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm): process(2)
+ - Machines (/datum/controller/subsystem/machines): fire(1)
+ - Machines (/datum/controller/subsystem/machines): ignite(1)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-15 23:15:46.638] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ -   usr: null
+ -   src: CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm)
+ -   src.loc: the floor (112,67,1) (/turf/open/floor/plasteel/cmo)
+ -   call stack:
+ - CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm): process(2)
+ - Machines (/datum/controller/subsystem/machines): fire(1)
+ - Machines (/datum/controller/subsystem/machines): ignite(1)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-15 23:15:48.435] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ -   usr: null
+ -   src: the tcom Air Alarm (/obj/machinery/airalarm)
+ -   src.loc: the floor (251,4,3) (/turf/open/floor/plasteel)
+ -   call stack:
+ - the tcom Air Alarm (/obj/machinery/airalarm): process(2)
+ - Machines (/datum/controller/subsystem/machines): fire(0)
+ - Machines (/datum/controller/subsystem/machines): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-15 23:15:48.555] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ -   usr: null
+ -   src: the mountain Air Alarm (/obj/machinery/airalarm)
+ -   src.loc: the floor (194,141,1) (/turf/open/floor/plasteel)
+ -   call stack:
+ - the mountain Air Alarm (/obj/machinery/airalarm): process(2)
+ - Machines (/datum/controller/subsystem/machines): fire(1)
+ - Machines (/datum/controller/subsystem/machines): ignite(1)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-15 23:15:48.575] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ -   usr: null
+ -   src: the mountain Air Alarm (/obj/machinery/airalarm)
+ -   src.loc: the floor (194,135,1) (/turf/open/floor/plasteel/brown)
+ -   call stack:
+ - the mountain Air Alarm (/obj/machinery/airalarm): process(2)
+ - Machines (/datum/controller/subsystem/machines): fire(1)
+ - Machines (/datum/controller/subsystem/machines): ignite(1)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-15 23:15:48.585] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ -   usr: null
+ -   src: the mountain Air Alarm (/obj/machinery/airalarm)
+ -   src.loc: the floor (190,135,1) (/turf/open/floor/plasteel/vault)
+ -   call stack:
+ - the mountain Air Alarm (/obj/machinery/airalarm): process(2)
+ - Machines (/datum/controller/subsystem/machines): fire(1)
+ - Machines (/datum/controller/subsystem/machines): ignite(1)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-15 23:15:48.601] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ -   usr: null
+ -   src: CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm)
+ -   src.loc: the floor (100,120,1) (/turf/open/floor/plasteel)
+ -   call stack:
+ - CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm): process(2)
+ - Machines (/datum/controller/subsystem/machines): fire(1)
+ - Machines (/datum/controller/subsystem/machines): ignite(1)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-15 23:15:48.610] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ -   usr: null
+ -   src: CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm)
+ -   src.loc: the floor (134,89,1) (/turf/open/floor/plasteel/vault)
+ -   call stack:
+ - CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm): process(2)
+ - Machines (/datum/controller/subsystem/machines): fire(1)
+ - Machines (/datum/controller/subsystem/machines): ignite(1)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-15 23:15:48.630] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ -   usr: null
+ -   src: CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm)
+ -   src.loc: the floor (122,88,1) (/turf/open/floor/plasteel/vault)
+ -   call stack:
+ - CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm): process(2)
+ - Machines (/datum/controller/subsystem/machines): fire(1)
+ - Machines (/datum/controller/subsystem/machines): ignite(1)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-15 23:15:48.638] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ -   usr: null
+ -   src: Thunderdome (Observer.) Air Al... (/obj/machinery/airalarm)
+ -   src.loc: the floor (99,88,1) (/turf/open/floor/plasteel/vault)
+ -   call stack:
+ - Thunderdome (Observer.) Air Al... (/obj/machinery/airalarm): process(2)
+ - Machines (/datum/controller/subsystem/machines): fire(1)
+ - Machines (/datum/controller/subsystem/machines): ignite(1)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-15 23:15:48.650] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ -   usr: null
+ -   src: CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm)
+ -   src.loc: the floor (62,86,1) (/turf/open/floor/plasteel/vault)
+ -   call stack:
+ - CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm): process(2)
+ - Machines (/datum/controller/subsystem/machines): fire(1)
+ - Machines (/datum/controller/subsystem/machines): ignite(1)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-15 23:15:48.659] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ -   usr: null
+ -   src: CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm)
+ -   src.loc: the floor (137,84,1) (/turf/open/floor/plasteel)
+ -   call stack:
+ - CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm): process(2)
+ - Machines (/datum/controller/subsystem/machines): fire(1)
+ - Machines (/datum/controller/subsystem/machines): ignite(1)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-15 23:15:48.673] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ -   usr: null
+ -   src: CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm)
+ -   src.loc: the floor (80,81,1) (/turf/open/floor/plasteel/dark)
+ -   call stack:
+ - CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm): process(2)
+ - Machines (/datum/controller/subsystem/machines): fire(1)
+ - Machines (/datum/controller/subsystem/machines): ignite(1)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-15 23:15:48.692] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ -   usr: null
+ -   src: CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm)
+ -   src.loc: the floor (123,77,1) (/turf/open/floor/plasteel/vault)
+ -   call stack:
+ - CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm): process(2)
+ - Machines (/datum/controller/subsystem/machines): fire(1)
+ - Machines (/datum/controller/subsystem/machines): ignite(1)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-15 23:15:48.700] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ -   usr: null
+ -   src: CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm)
+ -   src.loc: the floor (74,75,1) (/turf/open/floor/plasteel/vault)
+ -   call stack:
+ - CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm): process(2)
+ - Machines (/datum/controller/subsystem/machines): fire(1)
+ - Machines (/datum/controller/subsystem/machines): ignite(1)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-15 23:15:48.709] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ -   usr: null
+ -   src: CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm)
+ -   src.loc: the floor (112,67,1) (/turf/open/floor/plasteel/cmo)
+ -   call stack:
+ - CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm): process(2)
+ - Machines (/datum/controller/subsystem/machines): fire(1)
+ - Machines (/datum/controller/subsystem/machines): ignite(1)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-15 23:15:50.429] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ -   usr: null
+ -   src: the tcom Air Alarm (/obj/machinery/airalarm)
+ -   src.loc: the floor (251,4,3) (/turf/open/floor/plasteel)
+ -   call stack:
+ - the tcom Air Alarm (/obj/machinery/airalarm): process(2)
+ - Machines (/datum/controller/subsystem/machines): fire(0)
+ - Machines (/datum/controller/subsystem/machines): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-15 23:15:50.454] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ -   usr: null
+ -   src: the mountain Air Alarm (/obj/machinery/airalarm)
+ -   src.loc: the floor (194,141,1) (/turf/open/floor/plasteel)
+ -   call stack:
+ - the mountain Air Alarm (/obj/machinery/airalarm): process(2)
+ - Machines (/datum/controller/subsystem/machines): fire(1)
+ - Machines (/datum/controller/subsystem/machines): ignite(1)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-15 23:15:50.463] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ -   usr: null
+ -   src: the mountain Air Alarm (/obj/machinery/airalarm)
+ -   src.loc: the floor (194,135,1) (/turf/open/floor/plasteel/brown)
+ -   call stack:
+ - the mountain Air Alarm (/obj/machinery/airalarm): process(2)
+ - Machines (/datum/controller/subsystem/machines): fire(1)
+ - Machines (/datum/controller/subsystem/machines): ignite(1)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-15 23:15:50.477] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ -   usr: null
+ -   src: the mountain Air Alarm (/obj/machinery/airalarm)
+ -   src.loc: the floor (190,135,1) (/turf/open/floor/plasteel/vault)
+ -   call stack:
+ - the mountain Air Alarm (/obj/machinery/airalarm): process(2)
+ - Machines (/datum/controller/subsystem/machines): fire(1)
+ - Machines (/datum/controller/subsystem/machines): ignite(1)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-15 23:15:50.487] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ -   usr: null
+ -   src: CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm)
+ -   src.loc: the floor (100,120,1) (/turf/open/floor/plasteel)
+ -   call stack:
+ - CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm): process(2)
+ - Machines (/datum/controller/subsystem/machines): fire(1)
+ - Machines (/datum/controller/subsystem/machines): ignite(1)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-15 23:15:50.499] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ -   usr: null
+ -   src: CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm)
+ -   src.loc: the floor (134,89,1) (/turf/open/floor/plasteel/vault)
+ -   call stack:
+ - CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm): process(2)
+ - Machines (/datum/controller/subsystem/machines): fire(1)
+ - Machines (/datum/controller/subsystem/machines): ignite(1)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-15 23:15:50.507] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ -   usr: null
+ -   src: CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm)
+ -   src.loc: the floor (122,88,1) (/turf/open/floor/plasteel/vault)
+ -   call stack:
+ - CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm): process(2)
+ - Machines (/datum/controller/subsystem/machines): fire(1)
+ - Machines (/datum/controller/subsystem/machines): ignite(1)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-15 23:15:50.516] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ -   usr: null
+ -   src: Thunderdome (Observer.) Air Al... (/obj/machinery/airalarm)
+ -   src.loc: the floor (99,88,1) (/turf/open/floor/plasteel/vault)
+ -   call stack:
+ - Thunderdome (Observer.) Air Al... (/obj/machinery/airalarm): process(2)
+ - Machines (/datum/controller/subsystem/machines): fire(1)
+ - Machines (/datum/controller/subsystem/machines): ignite(1)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-15 23:15:50.528] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ -   usr: null
+ -   src: CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm)
+ -   src.loc: the floor (62,86,1) (/turf/open/floor/plasteel/vault)
+ -   call stack:
+ - CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm): process(2)
+ - Machines (/datum/controller/subsystem/machines): fire(1)
+ - Machines (/datum/controller/subsystem/machines): ignite(1)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-15 23:17:02.599] runtime error: Cannot create objects of type null.
+ - proc name: devastate wall (/turf/closed/wall/proc/devastate_wall)
+ -   source file: walls.dm,69
+ -   usr: null
+ -   src: the utility tunnel wall (25,245,4) (/turf/closed/wall/f13/tunnel)
+ -   call stack:
+ - the utility tunnel wall (25,245,4) (/turf/closed/wall/f13/tunnel): devastate wall()
+ - the utility tunnel wall (25,245,4) (/turf/closed/wall/f13/tunnel): dismantle wall(1, 0)
+ - the utility tunnel wall (25,245,4) (/turf/closed/wall/f13/tunnel): attack animal(the super mutant (/mob/living/simple_animal/hostile/supermutant))
+ - the super mutant (/mob/living/simple_animal/hostile/supermutant): DestroyObjectsInDirection(2)
+ - the super mutant (/mob/living/simple_animal/hostile/supermutant): DestroyPathToTarget()
+ - the super mutant (/mob/living/simple_animal/hostile/supermutant): handle automated action()
+ - NPC Pool (/datum/controller/subsystem/npcpool): fire(1)
+ - NPC Pool (/datum/controller/subsystem/npcpool): ignite(1)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 

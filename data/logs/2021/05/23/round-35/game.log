@@ -1,0 +1,23 @@
+[2021-05-23 23:37:36.080] Starting up round ID 35.
+ - -------------------------
+[2021-05-23 23:37:36.106] GAME: Round ID: 35
+[2021-05-23 23:37:36.198] ADMIN: Errored custom_items_whitelist line: JayEhh|ALL|ALL|/obj/item/custom/ceb_soap=1 - Path/number for item missing or invalid.
+[2021-05-23 23:37:37.031] ACCESS: Login: Italos from 177.37.233.238-1127790002 || BYOND v513.1542
+[2021-05-23 23:37:37.145] ACCESS: Mob Login: Italos/(Italos) was assigned to a /mob/dead/new_player
+[2021-05-23 23:37:37.547] GAME: Saved mode is 'extended'
+[2021-05-23 23:37:39.241] GAME: Italos/(Italos) Client Italos/(Italos) has taken ownership of mob Italos(/mob/dead/new_player) (start area (180, 247, 1))
+[2021-05-23 23:37:42.352] ACCESS: Login: Mr.Universo from 192.141.71.110-1268877105 || BYOND v513.1542
+[2021-05-23 23:37:42.864] ACCESS: Mob Login: Mr.Universo/(Mr.Universo) was assigned to a /mob/dead/new_player
+[2021-05-23 23:37:46.940] GAME: Mr.Universo/(Mr.Universo) Client Mr.Universo/(Mr.Universo) has taken ownership of mob Mr.Universo(/mob/dead/new_player) (start area (180, 247, 1))
+[2021-05-23 23:37:50.294] ACCESS: Logout: Mr.Universo/(Mr.Universo)
+[2021-05-23 23:37:50.294] GAME: Mr.Universo[DC]/(Mr.Universo) Mr.Universo[DC]/(Mr.Universo) is no longer owning mob Mr.Universo(/mob/dead/new_player) (start area (180, 247, 1))
+[2021-05-23 23:37:52.889] ACCESS: Login: Baeiou from 191.189.14.4-598825671 || BYOND v513.1542
+[2021-05-23 23:37:52.918] ACCESS: Login: Matheusgp9999 from 201.80.89.162-2764564649 || BYOND v513.1542
+[2021-05-23 23:37:53.495] ACCESS: Mob Login: Baeiou/(Baeiou) was assigned to a /mob/dead/new_player
+[2021-05-23 23:37:53.498] ACCESS: Mob Login: Matheusgp9999/(Matheusgp9999) was assigned to a /mob/dead/new_player
+[2021-05-23 23:37:53.891] GAME: An alien egg has been delivered to mountain (123, 20, 1)
+[2021-05-23 23:37:55.383] GAME: Baeiou/(Baeiou) Client Baeiou/(Baeiou) has taken ownership of mob Baeiou(/mob/dead/new_player) (start area (180, 247, 1))
+[2021-05-23 23:37:56.912] GAME: Matheusgp9999/(Matheusgp9999) Client Matheusgp9999/(Matheusgp9999) has taken ownership of mob Matheusgp9999(/mob/dead/new_player) (start area (180, 247, 1))
+[2021-05-23 23:37:58.812] ACCESS: Login: FidgetyBacchus from 191.189.13.84-2312302891 || BYOND v513.1542
+[2021-05-23 23:37:59.329] ACCESS: Mob Login: FidgetyBacchus/(FidgetyBacchus) was assigned to a /mob/dead/new_player
+[2021-05-23 23:38:08.758] GAME: FidgetyBacchus/(FidgetyBacchus) Client FidgetyBacchus/(FidgetyBacchus) has taken ownership of mob FidgetyBacchus(/mob/dead/new_player) (start area (180, 247, 1))
