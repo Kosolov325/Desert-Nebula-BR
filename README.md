@@ -2,8 +2,6 @@
 Based and maintained from Citadel Station.
 
 [![Build Status](https://github.com/Kosolov325/Desert-Nebula-BR/actions/workflows/ci_suite.yml/badge.svg?branch=master&event=push)](https://github.com/Kosolov325/Desert-Nebula-BR/actions) 
-[![Percentage of issues still open](http://isitmaintained.com/badge/open/DesertRose2/desertrose.svg)](http://isitmaintained.com/project/DesertRose2/desertrose "Percentage of issues still open") 
-
 
 **Credits**
 
