@@ -1,7 +1,7 @@
 <!-- Most valid html will work in here, excluding images. -->
 
 <h1>Bem vindo ao nebula13</h1>
-LRP<br>
+HRP<br>
 Rules:<br>
 
-<p><a href="https://docs.google.com/document/d/11r-htiw6k6ejTqRPLj5ob29NzZaAiMJJskZDLrSF5zc/edit?usp=sharing">Clique aqui para ver as regras do Desert Nebula</a></p>
+<p><a href="https://discord.gg/CVbuy2huXv">Clique aqui para ver as regras do Desert Nebula</a></p>
