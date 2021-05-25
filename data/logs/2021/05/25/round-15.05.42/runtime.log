@@ -1,0 +1,452 @@
+[2021-05-25 15:05:42.704] Starting up round ID .
+ - -------------------------
+[2021-05-25 15:05:42.705] Running /tg/ revision: 2021-05-25
+ - origin/master: 2a55ea0b0d891d1b30b295f484b98b2be5f73928
+[2021-05-25 15:05:42.726] Failed to connect to database in load_mentors(). Reverting to legacy system.
+[2021-05-25 15:05:43.813] Loading Yuma...
+[2021-05-25 15:05:48.852] Loaded Wasteland in 5s!
+[2021-05-25 15:05:50.532] Loaded Dungeons in 1.7s!
+[2021-05-25 15:05:51.473] Ruin loader finished with 0 left to spend.
+[2021-05-25 15:06:57.314] runtime error: Division by zero
+ - proc name: create gas (/obj/machinery/portable_atmospherics/canister/proc/create_gas)
+ -   source file: canister.dm,220
+ -   usr: null
+ -   src: the o2 canister (/obj/machinery/portable_atmospherics/canister/oxygen)
+ -   src.loc: the floor (57,22,5) (/turf/open/floor/plasteel/dark)
+ -   call stack:
+ - the o2 canister (/obj/machinery/portable_atmospherics/canister/oxygen): create gas()
+ - the o2 canister (/obj/machinery/portable_atmospherics/canister/oxygen): New(the floor (57,22,5) (/turf/open/floor/plasteel/dark), null)
+ - /datum/parsed_map (/datum/parsed_map): create atom(/obj/machinery/portable_atmosp... (/obj/machinery/portable_atmospherics/canister/oxygen), the floor (57,22,5) (/turf/open/floor/plasteel/dark))
+ - /datum/parsed_map (/datum/parsed_map): instance atom(/obj/machinery/portable_atmosp... (/obj/machinery/portable_atmospherics/canister/oxygen), /list (/list), the floor (57,22,5) (/turf/open/floor/plasteel/dark), 0, 1, 0, 0, 0, 0)
+ - /datum/parsed_map (/datum/parsed_map): build coordinate(/list (/list), /list (/list), the floor (57,22,5) (/turf/open/floor/plasteel/dark), 0, 1, 0, 0, 0, 0, 0)
+ - /datum/parsed_map (/datum/parsed_map):  load impl(52, 10, 5, 1, 0, -1e+31, 1e+31, -1e+31, 1e+31, 1, 2, 0, null)
+ - /datum/parsed_map (/datum/parsed_map): load(52, 10, 5, 1, 0, null, null, null, null, 1, 2, 0, null)
+ - basic syndicate infiltrator (/datum/map_template/shuttle/infiltrator/basic): load(the hull (52,10,5) (/turf/closed/wall/r_wall/syndicate), 0, 2, 0, 0, 0, 0)
+ - basic syndicate infiltrator (/datum/map_template/shuttle/infiltrator/basic): load(the hull (52,10,5) (/turf/closed/wall/r_wall/syndicate), 0, 2, 0, 0, 0, 0)
+ - Shuttle (/datum/controller/subsystem/shuttle): load template(basic syndicate infiltrator (/datum/map_template/shuttle/infiltrator/basic))
+ - Shuttle (/datum/controller/subsystem/shuttle): action load(basic syndicate infiltrator (/datum/map_template/shuttle/infiltrator/basic), the syndicate recon outpost (/obj/docking_port/stationary))
+ - the syndicate recon outpost (/obj/docking_port/stationary): load roundstart()
+ - Shuttle (/datum/controller/subsystem/shuttle): initial load()
+ - Shuttle (/datum/controller/subsystem/shuttle): Initialize(544154)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-25 15:06:58.125] ## WARNING: No /obj/docking_port/mobile/arrivals placed on the map! in code/controllers/subsystem/shuttle.dm at line 80 src: Shuttle usr: .
+[2021-05-25 15:07:01.220] runtime error: Division by zero
+ - proc name: create gas (/obj/machinery/portable_atmospherics/canister/air/create_gas)
+ -   source file: canister.dm,224
+ -   usr: null
+ -   src: the air canister (/obj/machinery/portable_atmospherics/canister/air)
+ -   src.loc: the floor (246,234,4) (/turf/open/floor/plasteel/barber)
+ -   call stack:
+ - the air canister (/obj/machinery/portable_atmospherics/canister/air): create gas()
+ - the air canister (/obj/machinery/portable_atmospherics/canister/air): New(the floor (246,234,4) (/turf/open/floor/plasteel/barber), null)
+ - /datum/parsed_map (/datum/parsed_map): create atom(/obj/machinery/portable_atmosp... (/obj/machinery/portable_atmospherics/canister/air), the floor (246,234,4) (/turf/open/floor/plasteel/barber))
+ - /datum/parsed_map (/datum/parsed_map): instance atom(/obj/machinery/portable_atmosp... (/obj/machinery/portable_atmospherics/canister/air), /list (/list), the floor (246,234,4) (/turf/open/floor/plasteel/barber), 0, 1, 0, 0, 0, 0)
+ - /datum/parsed_map (/datum/parsed_map): build coordinate(/list (/list), /list (/list), the floor (246,234,4) (/turf/open/floor/plasteel/barber), 0, 1, 0, 0, 0, 0, 0)
+ - /datum/parsed_map (/datum/parsed_map):  load impl(212, 215, 4, 1, 0, -1e+31, 1e+31, -1e+31, 1e+31, 1, 2, 0, null)
+ - /datum/parsed_map (/datum/parsed_map): load(212, 215, 4, 1, 0, null, null, null, null, 1, 2, 0, null)
+ - Oasis Bunker 2 (/datum/map_template/fallout/dungeons/oasisbunker2): load(the dense rock (212,215,4) (/turf/closed/indestructible/rock), 0, 2, 0, 0, 0)
+ - Mapping (/datum/controller/subsystem/mapping): load marks()
+ - Minor Mapping (/datum/controller/subsystem/minor_mapping): Initialize(544181)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-05-25 15:07:02.452] Loaded 0 engraved messages on map Yuma
+[2021-05-25 15:07:02.456] Initializations complete within 78.8 seconds!
+[2021-05-25 15:12:06.882] runtime error: Auxtools not found! Callback subsystem shutting itself off.
+ - proc name: process callbacks (/proc/process_callbacks)
+ -   source file: callback.dm,10
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - process callbacks(null, 36.76)
+ - Auxtools Callbacks (/datum/controller/subsystem/callbacks): fire(0)
+ - Auxtools Callbacks (/datum/controller/subsystem/callbacks): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-25 15:12:07.147] Ban database connection failure. Key kosolov325 not checked
+[2021-05-25 15:12:07.147] Ban database connection failure. Key kosolov325 not checked
+[2021-05-25 15:13:12.572] Ban database connection failure. Key kosolov325 not checked
+[2021-05-25 15:13:12.572] Ban database connection failure. Key kosolov325 not checked
+[2021-05-25 15:13:12.572] Ban database connection failure. Key kosolov325 not checked
+[2021-05-25 15:13:12.572] Ban database connection failure. Key kosolov325 not checked
+[2021-05-25 15:17:37.553] Ban database connection failure. Key sondtheanime not checked
+[2021-05-25 15:18:24.655] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ -   usr: null
+ -   src: the tcom Air Alarm (/obj/machinery/airalarm)
+ -   src.loc: the floor (251,4,3) (/turf/open/floor/plasteel)
+ -   call stack:
+ - the tcom Air Alarm (/obj/machinery/airalarm): process(2)
+ - Machines (/datum/controller/subsystem/machines): fire(0)
+ - Machines (/datum/controller/subsystem/machines): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-25 15:18:24.785] Game start took 0s
+[2021-05-25 15:18:24.957] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ -   usr: null
+ -   src: the mountain Air Alarm (/obj/machinery/airalarm)
+ -   src.loc: the floor (194,141,1) (/turf/open/floor/plasteel)
+ -   call stack:
+ - the mountain Air Alarm (/obj/machinery/airalarm): process(2)
+ - Machines (/datum/controller/subsystem/machines): fire(1)
+ - Machines (/datum/controller/subsystem/machines): ignite(1)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-25 15:18:24.958] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ -   usr: null
+ -   src: the mountain Air Alarm (/obj/machinery/airalarm)
+ -   src.loc: the floor (194,135,1) (/turf/open/floor/plasteel/brown)
+ -   call stack:
+ - the mountain Air Alarm (/obj/machinery/airalarm): process(2)
+ - Machines (/datum/controller/subsystem/machines): fire(1)
+ - Machines (/datum/controller/subsystem/machines): ignite(1)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-25 15:18:24.958] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ -   usr: null
+ -   src: the mountain Air Alarm (/obj/machinery/airalarm)
+ -   src.loc: the floor (190,135,1) (/turf/open/floor/plasteel/vault)
+ -   call stack:
+ - the mountain Air Alarm (/obj/machinery/airalarm): process(2)
+ - Machines (/datum/controller/subsystem/machines): fire(1)
+ - Machines (/datum/controller/subsystem/machines): ignite(1)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-25 15:18:24.959] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ -   usr: null
+ -   src: CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm)
+ -   src.loc: the floor (100,120,1) (/turf/open/floor/plasteel)
+ -   call stack:
+ - CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm): process(2)
+ - Machines (/datum/controller/subsystem/machines): fire(1)
+ - Machines (/datum/controller/subsystem/machines): ignite(1)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-25 15:18:24.962] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ -   usr: null
+ -   src: CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm)
+ -   src.loc: the floor (134,89,1) (/turf/open/floor/plasteel/vault)
+ -   call stack:
+ - CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm): process(2)
+ - Machines (/datum/controller/subsystem/machines): fire(1)
+ - Machines (/datum/controller/subsystem/machines): ignite(1)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-25 15:18:24.963] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ -   usr: null
+ -   src: CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm)
+ -   src.loc: the floor (122,88,1) (/turf/open/floor/plasteel/vault)
+ -   call stack:
+ - CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm): process(2)
+ - Machines (/datum/controller/subsystem/machines): fire(1)
+ - Machines (/datum/controller/subsystem/machines): ignite(1)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-25 15:18:24.964] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ -   usr: null
+ -   src: Thunderdome (Observer.) Air Al... (/obj/machinery/airalarm)
+ -   src.loc: the floor (99,88,1) (/turf/open/floor/plasteel/vault)
+ -   call stack:
+ - Thunderdome (Observer.) Air Al... (/obj/machinery/airalarm): process(2)
+ - Machines (/datum/controller/subsystem/machines): fire(1)
+ - Machines (/datum/controller/subsystem/machines): ignite(1)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-25 15:18:24.965] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ -   usr: null
+ -   src: CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm)
+ -   src.loc: the floor (62,86,1) (/turf/open/floor/plasteel/vault)
+ -   call stack:
+ - CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm): process(2)
+ - Machines (/datum/controller/subsystem/machines): fire(1)
+ - Machines (/datum/controller/subsystem/machines): ignite(1)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-25 15:18:24.966] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ -   usr: null
+ -   src: CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm)
+ -   src.loc: the floor (137,84,1) (/turf/open/floor/plasteel)
+ -   call stack:
+ - CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm): process(2)
+ - Machines (/datum/controller/subsystem/machines): fire(1)
+ - Machines (/datum/controller/subsystem/machines): ignite(1)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-25 15:18:24.968] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ -   usr: null
+ -   src: CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm)
+ -   src.loc: the floor (80,81,1) (/turf/open/floor/plasteel/dark)
+ -   call stack:
+ - CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm): process(2)
+ - Machines (/datum/controller/subsystem/machines): fire(1)
+ - Machines (/datum/controller/subsystem/machines): ignite(1)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-25 15:18:24.969] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ -   usr: null
+ -   src: CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm)
+ -   src.loc: the floor (123,77,1) (/turf/open/floor/plasteel/vault)
+ -   call stack:
+ - CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm): process(2)
+ - Machines (/datum/controller/subsystem/machines): fire(1)
+ - Machines (/datum/controller/subsystem/machines): ignite(1)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-25 15:18:24.970] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ -   usr: null
+ -   src: CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm)
+ -   src.loc: the floor (74,75,1) (/turf/open/floor/plasteel/vault)
+ -   call stack:
+ - CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm): process(2)
+ - Machines (/datum/controller/subsystem/machines): fire(1)
+ - Machines (/datum/controller/subsystem/machines): ignite(1)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-25 15:18:24.971] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ -   usr: null
+ -   src: CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm)
+ -   src.loc: the floor (112,67,1) (/turf/open/floor/plasteel/cmo)
+ -   call stack:
+ - CentCom Recovery Ship Air Alar... (/obj/machinery/airalarm): process(2)
+ - Machines (/datum/controller/subsystem/machines): fire(1)
+ - Machines (/datum/controller/subsystem/machines): ignite(1)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-25 15:18:28.860] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ -   usr: null
+ -   src: the tcom Air Alarm (/obj/machinery/airalarm)
+ -   src.loc: the floor (251,4,3) (/turf/open/floor/plasteel)
+ -   call stack:
+ - the tcom Air Alarm (/obj/machinery/airalarm): process(2)
+ - Machines (/datum/controller/subsystem/machines): fire(0)
+ - Machines (/datum/controller/subsystem/machines): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-25 15:18:28.960] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ -   usr: null
+ -   src: the mountain Air Alarm (/obj/machinery/airalarm)
+ -   src.loc: the floor (194,141,1) (/turf/open/floor/plasteel)
+ -   call stack:
+ - the mountain Air Alarm (/obj/machinery/airalarm): process(2)
+ - Machines (/datum/controller/subsystem/machines): fire(1)
+ - Machines (/datum/controller/subsystem/machines): ignite(1)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-25 15:18:28.960] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ - 
+[2021-05-25 15:18:28.960] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ - 
+[2021-05-25 15:18:28.961] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ - 
+[2021-05-25 15:18:28.961] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ - 
+[2021-05-25 15:18:28.961] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ - 
+[2021-05-25 15:18:28.962] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ - 
+[2021-05-25 15:18:28.962] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ - 
+[2021-05-25 15:18:28.962] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ - 
+[2021-05-25 15:18:28.962] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ - 
+[2021-05-25 15:18:28.963] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ - 
+[2021-05-25 15:18:28.963] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ - 
+[2021-05-25 15:18:28.963] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ - 
+[2021-05-25 15:18:30.873] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ - 
+[2021-05-25 15:18:31.179] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ - 
+[2021-05-25 15:18:31.179] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ - 
+[2021-05-25 15:18:31.179] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ - 
+[2021-05-25 15:18:31.180] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ - 
+[2021-05-25 15:18:31.180] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ - 
+[2021-05-25 15:18:31.180] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ - 
+[2021-05-25 15:18:31.180] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ - 
+[2021-05-25 15:18:31.181] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ - 
+[2021-05-25 15:18:31.181] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ - 
+[2021-05-25 15:18:31.181] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ - 
+[2021-05-25 15:18:31.181] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ - 
+[2021-05-25 15:18:31.182] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ - 
+[2021-05-25 15:18:31.182] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ - 
+[2021-05-25 15:18:32.872] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ - 
+[2021-05-25 15:18:32.923] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ - 
+[2021-05-25 15:18:32.934] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ - 
+[2021-05-25 15:18:32.934] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ - 
+[2021-05-25 15:18:32.934] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ - 
+[2021-05-25 15:18:32.935] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ - 
+[2021-05-25 15:18:32.935] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ - 
+[2021-05-25 15:18:32.935] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ - 
+[2021-05-25 15:18:32.936] runtime error: Undefined operation: 0 / null
+ - proc name: process (/obj/machinery/airalarm/process)
+ -   source file: airalarm.dm,703
+ - 
+[2021-05-25 15:19:04.285] Ban database connection failure. Key sondtheanime not checked
+[2021-05-25 15:19:04.285] Ban database connection failure. Key guest2368659242 not checked
+[2021-05-25 15:19:04.285] Ban database connection failure. Key sondtheanime not checked
+[2021-05-25 15:19:13.662] Ban database connection failure. Key jhonatanlima not checked
+[2021-05-25 15:19:57.532] Ban database connection failure. Key kosolov325 not checked
+[2021-05-25 15:20:11.765] Ban database connection failure. Key jhonatanlima not checked
+[2021-05-25 15:20:11.765] Ban database connection failure. Key jhonatanlima not checked
+[2021-05-25 15:20:11.765] Ban database connection failure. Key jhonatanlima not checked
+[2021-05-25 15:20:11.766] Ban database connection failure. Key jhonatanlima not checked
+[2021-05-25 15:21:02.786] Ban database connection failure. Key kosolov325 not checked
+[2021-05-25 15:21:02.786] Ban database connection failure. Key kosolov325 not checked
+[2021-05-25 15:21:02.786] Ban database connection failure. Key kosolov325 not checked
+[2021-05-25 15:21:02.786] Ban database connection failure. Key kosolov325 not checked

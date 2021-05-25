@@ -27,7 +27,7 @@ $include policy.txt
 SERVERTAGLINE Discord link to nebula 13 brasil: https://discord.gg/3Q8hRaDf7B
 
 ## Server SQL name: This is the name used to identify the server to the SQL DB, distinct from SERVERNAME as it must be at most 32 characters.
- SERVERSQLNAME nebularose
+ SERVERSQLNAME vault13
 
 ## Station name: The name of the station as it is referred to in-game. If commented out, the game will generate a random name instead.
 STATIONNAME Desert Nebula 13

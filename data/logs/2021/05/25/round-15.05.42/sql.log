@@ -1,0 +1,13 @@
+[2021-05-25 15:05:42.706] SQL: Connect() failed | MySqlError { ERROR 1698 (28000): Access denied for user 'root'@'localhost' }
+[2021-05-25 15:05:42.706] SQL: Failed to connect to database while loading admins. Loading from backup.
+[2021-05-25 15:05:42.708] SQL: Error loading admin ranks from database. Loading from backup.
+[2021-05-25 15:05:42.721] SQL: Error loading admins from database. Loading from backup.
+[2021-05-25 15:05:42.726] SQL: Connect() failed | MySqlError { ERROR 1698 (28000): Access denied for user 'root'@'localhost' }
+[2021-05-25 15:05:50.544] SQL: Connect() failed | MySqlError { ERROR 1698 (28000): Access denied for user 'root'@'localhost' }
+[2021-05-25 15:12:07.147] SQL: Connect() failed | MySqlError { ERROR 1698 (28000): Access denied for user 'root'@'localhost' }
+[2021-05-25 15:13:36.237] SQL: Connect() failed | MySqlError { ERROR 1698 (28000): Access denied for user 'root'@'localhost' }
+[2021-05-25 15:17:37.553] SQL: Connect() failed | MySqlError { ERROR 1698 (28000): Access denied for user 'root'@'localhost' }
+[2021-05-25 15:18:24.786] SQL: Connect() failed | MySqlError { ERROR 1698 (28000): Access denied for user 'root'@'localhost' }
+[2021-05-25 15:18:24.786] SQL: Connect() failed | MySqlError { ERROR 1698 (28000): Access denied for user 'root'@'localhost' }
+[2021-05-25 15:18:25.433] SQL: Connect() failed | MySqlError { ERROR 1698 (28000): Access denied for user 'root'@'localhost' }
+[2021-05-25 15:18:25.434] SQL: Connect() failed | MySqlError { ERROR 1698 (28000): Access denied for user 'root'@'localhost' }

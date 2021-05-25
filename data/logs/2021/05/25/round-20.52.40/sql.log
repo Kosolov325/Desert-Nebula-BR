@@ -1,0 +1,8 @@
+[2021-05-25 20:52:40.524] SQL: Connect() failed | MySqlError { ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES) }
+[2021-05-25 20:52:40.524] SQL: Failed to connect to database while loading admins. Loading from backup.
+[2021-05-25 20:52:40.525] SQL: Error loading admin ranks from database. Loading from backup.
+[2021-05-25 20:52:40.537] SQL: Error loading admins from database. Loading from backup.
+[2021-05-25 20:52:40.543] SQL: Connect() failed | MySqlError { ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES) }
+[2021-05-25 20:52:48.530] SQL: Connect() failed | MySqlError { ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES) }
+[2021-05-25 20:52:58.277] SQL: Connect() failed | MySqlError { ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES) }
+[2021-05-25 20:53:13.071] SQL: Connect() failed | MySqlError { ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES) }

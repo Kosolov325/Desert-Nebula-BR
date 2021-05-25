@@ -1,0 +1,9 @@
+[2021-05-25 17:09:39.191] Starting up round ID .
+ - -------------------------
+[2021-05-25 17:09:39.193] Running /tg/ revision: 2021-05-25
+ - origin/master: 2a55ea0b0d891d1b30b295f484b98b2be5f73928
+[2021-05-25 17:09:39.211] Failed to connect to database in load_mentors(). Reverting to legacy system.
+[2021-05-25 17:09:40.297] Loading Yuma...
+[2021-05-25 17:09:45.344] Loaded Wasteland in 5.1s!
+[2021-05-25 17:09:47.009] Loaded Dungeons in 1.7s!
+[2021-05-25 17:09:47.957] Ruin loader finished with 0 left to spend.

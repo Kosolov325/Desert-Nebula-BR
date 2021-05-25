@@ -1,0 +1,54 @@
+[2021-05-25 21:24:45.309] Starting up round ID 39.
+ - -------------------------
+[2021-05-25 21:24:45.310] GAME: Round ID: 39
+[2021-05-25 21:24:45.363] ADMIN: Errored custom_items_whitelist line: JayEhh|ALL|ALL|/obj/item/custom/ceb_soap=1 - Path/number for item missing or invalid.
+[2021-05-25 21:24:46.390] GAME: Saved mode is 'extended'
+[2021-05-25 21:26:01.110] GAME: brotherhood of steel (base) loaded at 10,10,5
+[2021-05-25 21:26:01.337] GAME: Pahrump train loaded at 19,10,5
+[2021-05-25 21:26:01.606] GAME: fancy transport ferry loaded at 25,10,5
+[2021-05-25 21:26:01.753] GAME: supply train (Pahrump) loaded at 38,10,5
+[2021-05-25 21:26:02.745] GAME: assault pod (Default) loaded at 45,10,5
+[2021-05-25 21:26:03.299] GAME: basic syndicate infiltrator loaded at 52,10,5
+[2021-05-25 21:26:03.741] GAME: Bunker Elevator loaded at 69,10,5
+[2021-05-25 21:26:03.779] GAME: North Bunker Elevator loaded at 72,10,5
+[2021-05-25 21:26:05.215] GAME: North Sewer 1 loaded at 70,198,3
+[2021-05-25 21:26:06.895] GAME: North Bunker 2 loaded at 7,220,4
+[2021-05-25 21:26:08.721] GAME: Oasis Bunker 2 loaded at 212,215,4
+[2021-05-25 21:26:22.641] ACCESS: Login: Kosolov325 from 187.19.213.74-540227776 || BYOND v513.1542
+[2021-05-25 21:26:22.866] ACCESS: Mob Login: Kosolov325/(Kosolov325) was assigned to a /mob/dead/new_player
+[2021-05-25 21:26:25.730] GAME: Kosolov325/(Kosolov325) Client Kosolov325/(Kosolov325) has taken ownership of mob Kosolov325(/mob/dead/new_player) (start area (180, 247, 1))
+[2021-05-25 21:28:45.072] GAME: Item Spawners Subsystem Firing
+[2021-05-25 21:28:48.727] GAME: The Monster Wave has fired the first time. Next fire (in an hour) will spawn a monster pit.
+[2021-05-25 21:28:49.109] SAY: *no key*/(super mutant) "GRRRRRR!" FORCED by poly (Bunker (236, 250, 4))
+[2021-05-25 21:28:49.184] SAY: *no key*/(mother deathclaw) "Growl!" FORCED by poly (Bunker (233, 221, 4))
+[2021-05-25 21:28:49.309] SAY: *no key*/(legendary super mutant) "ARRRRR!" FORCED by poly (Tunnel (86, 227, 3))
+[2021-05-25 21:28:49.345] EMOTE: *no key*/(deathclaw) grawls. (Tunnel (107, 203, 3))
+[2021-05-25 21:28:49.353] SAY: *no key*/(deathclaw) "Rawr!" FORCED by poly (Tunnel (118, 202, 3))
+[2021-05-25 21:28:49.688] EMOTE: *no key*/(deathclaw) grumbles. (Bunker (197, 79, 4))
+[2021-05-25 21:28:49.885] SAY: *no key*/(deathclaw) "GRRAAGH!" FORCED by poly (Building (111, 144, 3))
+[2021-05-25 21:28:49.946] EMOTE: *no key*/(molerat) hisses at the deathclaw. (Tunnel (29, 121, 3))
+[2021-05-25 21:28:49.952] SAY: *no key*/(deathclaw) "Growl!" FORCED by poly (Clinic (26, 136, 3))
+[2021-05-25 21:28:49.968] EMOTE: *no key*/(deathclaw) grawls. (Tunnel (23, 118, 3))
+[2021-05-25 21:28:50.051] SAY: *no key*/(Raider) "HURRY, HURRY, HURRY!!!" (Wasteland (234, 184, 2))
+[2021-05-25 21:28:50.196] EMOTE: *no key*/(feral dog) growls at the feral ghoul reaver. (Wasteland (185, 120, 2))
+[2021-05-25 21:28:52.045] EMOTE: *no key*/(molerat) stops moving... (Bunker (18, 119, 3))
+[2021-05-25 21:28:52.050] EMOTE: *no key*/(feral dog) growls at the young cazador. (Wasteland (184, 120, 2))
+[2021-05-25 21:28:53.655] EMOTE: *no key*/(young cazador) stops moving... (Bunker (62, 232, 4))
+[2021-05-25 21:28:53.655] SAY: *no key*/(legendary super mutant) "GRRRRRR!" FORCED by poly (Bunker (62, 233, 4))
+[2021-05-25 21:28:53.679] EMOTE: *no key*/(molerat) stops moving... (Tunnel (26, 120, 3))
+[2021-05-25 21:28:55.235] EMOTE: *no key*/(cazador) stops moving... (Bunker (61, 232, 4))
+[2021-05-25 21:28:55.254] EMOTE: *no key*/(�chick) pecks at the ground. (Wasteland (66, 48, 2))
+[2021-05-25 21:28:57.318] EMOTE: *no key*/(lil'Wompus) hisses. (Bunker (19, 251, 4))
+[2021-05-25 21:28:57.327] EMOTE: *no key*/(legendary super mutant) yells at the cazador. (Bunker (62, 233, 4))
+[2021-05-25 21:28:57.351] EMOTE: *no key*/(�chicken) clucks. (Village (55, 148, 2))
+[2021-05-25 21:28:59.421] EMOTE: *no key*/(cazador) stops moving... (Bunker (61, 233, 4))
+[2021-05-25 21:29:03.601] EMOTE: *no key*/(young cazador) stops moving... (Bunker (62, 234, 4))
+[2021-05-25 21:29:05.656] EMOTE: *no key*/(cazador) stops moving... (Bunker (63, 234, 4))
+[2021-05-25 21:29:07.708] EMOTE: *no key*/(legendary super mutant) yells at the cazador. (Bunker (62, 233, 4))
+[2021-05-25 21:29:07.713] SAY: *no key*/(Trading Protectron) "Stop, this is a robbery! At these prices you are robbing me." FORCED by poly (Building (242, 94, 2))
+[2021-05-25 21:29:07.714] SAY: *no key*/(Trading Protectron) "Legion? NCR? Raider? Hell we don&#39;t care, as long as you got the caps." FORCED by poly (Building (242, 184, 2))
+[2021-05-25 21:29:07.731] SAY: *no key*/(�chick) "Cherp?" FORCED by poly (Wasteland (67, 48, 2))
+[2021-05-25 21:29:11.820] SAY: *no key*/(�chicken) "Bwaak bwak." FORCED by poly (Brotherhood of Steel (141, 251, 2))
+[2021-05-25 21:29:13.916] SAY: *no key*/(Nobody's Perfect) "Delicious!" (Holding Facility (138, 144, 1))
+[2021-05-25 21:29:15.798] ACCESS: Logout: Kosolov325/(Kosolov325)
+[2021-05-25 21:29:15.798] GAME: Kosolov325[DC]/(Kosolov325) Kosolov325[DC]/(Kosolov325) is no longer owning mob Kosolov325(/mob/dead/new_player) (start area (180, 247, 1))

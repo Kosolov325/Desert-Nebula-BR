@@ -83,7 +83,10 @@ SUBSYSTEM_DEF(air)
 	return ..()
 
 /datum/controller/subsystem/air/proc/extools_update_ssair()
-//datum/controller/subsystem/air/proc/extools_update_reactions()
+
+/datum/controller/subsystem/air/proc/extools_update_reactions()
+/datum/controller/subsystem/air/proc/auxtools_update_reactions()
+
 
 /datum/controller/subsystem/air/proc/thread_running()
 	return FALSE
@@ -132,7 +135,7 @@ SUBSYSTEM_DEF(air)
 			return
 		resumed = 0
 		currentpart = SSAIR_FINALIZE_TURFS
-	
+
 	// This literally just waits for the turf processing thread to finish, doesn't do anything else.
 	// this is necessary cause the next step after this interacts with the air--we get consistency
 	// issues if we don't wait for it, disappearing gases etc.
@@ -439,3 +442,4 @@ SUBSYSTEM_DEF(air)
 #undef SSAIR_TURF_POST_PROCESS
 #undef SSAIR_FINALIZE_TURFS
 #undef SSAIR_ATMOSMACHINERY_AIR
+

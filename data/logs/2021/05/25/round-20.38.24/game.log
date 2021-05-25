@@ -1,0 +1,168 @@
+[2021-05-25 20:38:24.933] Starting up round ID .
+ - -------------------------
+[2021-05-25 20:38:24.989] ADMIN: Errored custom_items_whitelist line: JayEhh|ALL|ALL|/obj/item/custom/ceb_soap=1 - Path/number for item missing or invalid.
+[2021-05-25 20:38:26.032] GAME: Saved mode is 'extended'
+[2021-05-25 20:39:41.431] GAME: brotherhood of steel (base) loaded at 10,10,5
+[2021-05-25 20:39:41.641] GAME: Pahrump train loaded at 19,10,5
+[2021-05-25 20:39:41.912] GAME: fancy transport ferry loaded at 25,10,5
+[2021-05-25 20:39:42.060] GAME: supply train (Pahrump) loaded at 38,10,5
+[2021-05-25 20:39:43.058] GAME: assault pod (Default) loaded at 45,10,5
+[2021-05-25 20:39:43.612] GAME: basic syndicate infiltrator loaded at 52,10,5
+[2021-05-25 20:39:44.055] GAME: Bunker Elevator loaded at 69,10,5
+[2021-05-25 20:39:44.093] GAME: North Bunker Elevator loaded at 72,10,5
+[2021-05-25 20:39:45.484] GAME: North Sewer 1 loaded at 70,198,3
+[2021-05-25 20:39:46.926] GAME: North Bunker 1 loaded at 7,220,4
+[2021-05-25 20:39:48.643] GAME: Oasis Bunker 2 loaded at 212,215,4
+[2021-05-25 20:42:01.705] ACCESS: Login: Kosolov325 from 187.19.213.74-540227776 || BYOND v513.1542
+[2021-05-25 20:42:01.705] ACCESS: Mob Login: Kosolov325/(Kosolov325) was assigned to a /mob/dead/new_player
+[2021-05-25 20:42:15.918] GAME: Kosolov325/(Kosolov325) Client Kosolov325/(Kosolov325) has taken ownership of mob Kosolov325(/mob/dead/new_player) (start area (180, 247, 1))
+[2021-05-25 20:42:36.590] ADMIN: Kosolov325/(Kosolov325) is attempting to re-established the DB Connection
+[2021-05-25 20:43:49.363] GAME: Item Spawners Subsystem Firing
+[2021-05-25 20:43:53.280] GAME: The Monster Wave has fired the first time. Next fire (in an hour) will spawn a monster pit.
+[2021-05-25 20:43:53.373] SAY: *no key*/(deathclaw) "GRRAAGH!" FORCED by poly (Tunnel (115, 212, 3))
+[2021-05-25 20:43:53.498] SAY: *no key*/(mother deathclaw) "GRRAAGH!" FORCED by poly (Bunker (241, 222, 4))
+[2021-05-25 20:43:53.501] EMOTE: *no key*/(giant spider (672)) chitters (Bunker (224, 221, 4))
+[2021-05-25 20:43:53.504] SAY: *no key*/(super mutant) "ARRRRR!" FORCED by poly (Bunker (41, 251, 4))
+[2021-05-25 20:43:53.510] EMOTE: *no key*/(super mutant) yells at the giant radscorpion. (Bunker (39, 248, 4))
+[2021-05-25 20:43:53.514] SAY: *no key*/(super mutant) "ARGH!" FORCED by poly (Bunker (34, 247, 4))
+[2021-05-25 20:43:53.519] EMOTE: *no key*/(super mutant) yells at the giant radscorpion. (Bunker (54, 246, 4))
+[2021-05-25 20:43:53.540] SAY: *no key*/(super mutant) "NNNNNGH!" FORCED by poly (Bunker (27, 231, 4))
+[2021-05-25 20:43:53.581] EMOTE: *no key*/(mother deathclaw) grawls. (Tunnel (117, 219, 3))
+[2021-05-25 20:43:53.586] EMOTE: *no key*/(deathclaw) grawls. (Tunnel (113, 206, 3))
+[2021-05-25 20:43:53.927] SAY: *no key*/(deathclaw) "Rawr!" FORCED by poly (Bunker (192, 73, 4))
+[2021-05-25 20:43:54.178] SAY: *no key*/(deathclaw) "GRRAAGH!" FORCED by poly (Tunnel (60, 215, 3))
+[2021-05-25 20:43:54.269] EMOTE: *no key*/(deathclaw) grumbles. (Clinic (26, 143, 3))
+[2021-05-25 20:43:54.272] SAY: *no key*/(deathclaw) "GRRAAGH!" FORCED by poly (Clinic (26, 151, 3))
+[2021-05-25 20:43:54.292] EMOTE: *no key*/(molerat) hisses at the mother deathclaw. (Bunker (18, 119, 3))
+[2021-05-25 20:43:54.341] SAY: *no key*/(Raider) "HURRY, HURRY, HURRY!!!" (Wasteland (234, 184, 2))
+[2021-05-25 20:43:54.419] EMOTE: *no key*/(feral dog) snarls at the feral ghoul reaver. (Wasteland (186, 119, 2))
+[2021-05-25 20:43:54.496] EMOTE: *no key*/(feral ghoul reaver) stares at the mr. handy. (Village (142, 152, 2))
+[2021-05-25 20:43:56.216] EMOTE: *no key*/(molerat) stops moving... (Bunker (18, 119, 3))
+[2021-05-25 20:43:56.217] SAY: *no key*/(mother deathclaw) "ROAR!" FORCED by poly (Bunker (18, 118, 3))
+[2021-05-25 20:43:57.764] SAY: *no key*/(super mutant) "HMPH!" FORCED by poly (Bunker (51, 246, 4))
+[2021-05-25 20:43:57.785] EMOTE: *no key*/(molerat) stops moving... (Tunnel (26, 120, 3))
+[2021-05-25 20:43:57.785] SAY: *no key*/(deathclaw) "Growl!" FORCED by poly (Tunnel (25, 120, 3))
+[2021-05-25 20:43:59.423] EMOTE: *no key*/(feral ghoul reaver) gurgles at the feral dog. (Village (181, 117, 2))
+[2021-05-25 20:44:01.455] EMOTE: *no key*/(super mutant) yells at the giant radscorpion. (Bunker (50, 248, 4))
+[2021-05-25 20:44:01.810] GAME: *no key*/(Kosolov325) *no key*/(Kosolov325) is no longer owning mob Kosolov325(/mob/dead/new_player) (start area (180, 247, 1))
+[2021-05-25 20:44:01.810] ACCESS: Mob Login: Kosolov325/(Lucas Calado) was assigned to a /mob/living/carbon/human
+[2021-05-25 20:44:02.888] GAME: Kosolov325/(Lucas Calado) Client Kosolov325/(Lucas Calado) has taken ownership of mob (/mob/living/carbon/human) (Tunnel (131, 150, 3))
+[2021-05-25 20:44:04.599] SAY: *no key*/(deathclaw) "GRRAAGH!" FORCED by poly (Tunnel (50, 220, 3))
+[2021-05-25 20:44:04.667] EMOTE: *no key*/(giant spider (184)) chitters (Tunnel (177, 123, 3))
+[2021-05-25 20:44:04.695] SAY: *no key*/(Alpha Deathclaw) "GRRAAGH!" FORCED by poly (Tunnel (108, 205, 3))
+[2021-05-25 20:44:04.699] SAY: *no key*/(deathclaw) "Rawr!" FORCED by poly (Tunnel (127, 206, 3))
+[2021-05-25 20:44:04.700] SAY: *no key*/(mother deathclaw) "ROAR!" FORCED by poly (Tunnel (126, 215, 3))
+[2021-05-25 20:44:04.722] SAY: *no key*/(super mutant) "NNNNNGH!" FORCED by poly (Tunnel (96, 225, 3))
+[2021-05-25 20:44:04.725] SAY: *no key*/(legendary super mutant) "GRRRRRR!" FORCED by poly (Tunnel (86, 227, 3))
+[2021-05-25 20:44:04.730] SAY: *no key*/(legendary super mutant) "NNNNNGH!" FORCED by poly (Tunnel (95, 227, 3))
+[2021-05-25 20:44:04.752] SAY: *no key*/(super mutant) "NNNNNGH!" FORCED by poly (Tunnel (89, 231, 3))
+[2021-05-25 20:44:04.833] EMOTE: *no key*/(giant radscorpion) stops moving... (Bunker (50, 247, 4))
+[2021-05-25 20:44:04.862] EMOTE: *no key*/(feral dog) stops moving... (Village (182, 117, 2))
+[2021-05-25 20:44:04.870] SAY: *no key*/(�chicken) "BWAAAAARK BWAK BWAK BWAK!" FORCED by poly (NCR (55, 207, 2))
+[2021-05-25 20:44:04.872] EMOTE: *no key*/(�chick) cheeps. (Caves (53, 111, 2))
+[2021-05-25 20:44:06.523] EMOTE: *no key*/(�chicken) clucks. (Caves (174, 158, 2))
+[2021-05-25 20:44:10.528] SAY: *no key*/(super mutant) "ARGH!" FORCED by poly (Bunker (38, 245, 4))
+[2021-05-25 20:44:10.540] EMOTE: *no key*/(feral dog) barks at the feral ghoul reaver. (Wasteland (185, 120, 2))
+[2021-05-25 20:44:10.542] SAY: *no key*/(�chick) "Chirrup." FORCED by poly (Caves (54, 110, 2))
+[2021-05-25 20:44:14.534] SAY: *no key*/(�chicken) "Cluck!" FORCED by poly (Legion (232, 47, 2))
+[2021-05-25 20:44:14.539] EMOTE: *no key*/(feral dog) snarls at the feral ghoul reaver. (Wasteland (185, 119, 2))
+[2021-05-25 20:44:16.550] EMOTE: *no key*/(feral dog) stops moving... (Wasteland (185, 119, 2))
+[2021-05-25 20:44:16.552] SAY: *no key*/(�chick) "Cherp?" FORCED by poly (Wasteland (65, 47, 2))
+[2021-05-25 20:44:20.528] SAY: *no key*/(�chick) "Cherp?" FORCED by poly (Wasteland (67, 47, 2))
+[2021-05-25 20:44:22.550] EMOTE: *no key*/(�chicken) pecks at the ground. (Village (58, 147, 2))
+[2021-05-25 20:44:26.555] SAY: *no key*/(Raider) "HURRY, HURRY, HURRY!!!" (Wasteland (240, 184, 2))
+[2021-05-25 20:44:26.556] SAY: *no key*/(�chick) "Chirrup." FORCED by poly (Wasteland (65, 48, 2))
+[2021-05-25 20:44:30.541] EMOTE: *no key*/(giant radscorpion) stops moving... (Bunker (39, 244, 4))
+[2021-05-25 20:44:30.543] SAY: *no key*/(pug) "YAP" FORCED by poly (Brotherhood of Steel 1st Floor Offices (218, 223, 3))
+[2021-05-25 20:44:32.558] SAY: *no key*/(super mutant) "ARGH!" FORCED by poly (Bunker (38, 245, 4))
+[2021-05-25 20:44:40.567] SAY: *no key*/(�chick) "Cheep!" FORCED by poly (Caves (52, 111, 2))
+[2021-05-25 20:44:42.555] SAY: *no key*/(Trading Protectron) "Howdy partner! How about you spend some of them there hard earned caps on some of this fine merchandise." FORCED by poly (Building (114, 188, 2))
+[2021-05-25 20:44:42.558] SAY: *no key*/(�chick) "Chirrup." FORCED by poly (Caves (52, 111, 2))
+[2021-05-25 20:44:46.570] EMOTE: *no key*/(�chicken) clucks. (Brotherhood of Steel (142, 252, 2))
+[2021-05-25 20:44:46.571] SAY: *no key*/(Trading Protectron) "Howdy partner! How about you spend some of them there hard earned caps on some of this fine merchandise." FORCED by poly (Building (114, 188, 2))
+[2021-05-25 20:44:46.576] EMOTE: *no key*/(�chicken) flaps its wings viciously. (Village (58, 147, 2))
+[2021-05-25 20:44:48.556] EMOTE: *no key*/(�chicken) pecks at the ground. (Brotherhood of Steel (144, 253, 2))
+[2021-05-25 20:44:52.586] EMOTE: *no key*/(�chicken) clucks. (Brotherhood of Steel (143, 252, 2))
+[2021-05-25 20:44:54.564] SAY: *no key*/(Crackers) "BAWWWWK george mellons griffing me!" FORCED by poly (Vault (51, 186, 4))
+[2021-05-25 20:44:54.566] EMOTE: *no key*/(�chicken) clucks. (Caves (173, 159, 2))
+[2021-05-25 20:44:56.573] SAY: *no key*/(Raider) "HURRY, HURRY, HURRY!!!" (Wasteland (240, 183, 2))
+[2021-05-25 20:45:02.586] SAY: *no key*/(brahmin) "MOOOOOO" FORCED by poly (Wasteland (135, 105, 2))
+[2021-05-25 20:45:02.593] SAY: *no key*/(�chick) "Cherp." FORCED by poly (Wasteland (67, 47, 2))
+[2021-05-25 20:45:02.712] ADMIN: Kosolov325/(Lucas Calado) admin ghosted.
+[2021-05-25 20:45:02.715] GAME: *no key*/(Lucas Calado) *no key*/(Lucas Calado) is no longer owning mob Unknown(/mob/living/carbon/human) (Tunnel (135, 111, 3))
+[2021-05-25 20:45:02.715] ACCESS: Mob Login: kosolov325/(Lucas Calado) was assigned to a /mob/dead/observer
+[2021-05-25 20:45:02.861] GAME: kosolov325/(Lucas Calado) Client kosolov325/(Lucas Calado) has taken ownership of mob Lucas Calado(/mob/dead/observer) (Tunnel (135, 111, 3))
+[2021-05-25 20:45:06.145] ADMIN: kosolov325/(Lucas Calado) checked the individual player panel for kosolov325/(Lucas Calado).
+[2021-05-25 20:45:10.578] SAY: *no key*/(Trading Protectron) "Legion? NCR? Raider? Hell we don&#39;t care, as long as you got the caps." FORCED by poly (Building (242, 185, 2))
+[2021-05-25 20:45:12.581] SAY: *no key*/(brahmin) "MOOOOOO" FORCED by poly (Farm (103, 118, 2))
+[2021-05-25 20:45:14.576] EMOTE: *no key*/(giant radscorpion) snips at the radroach. (Tunnel (82, 191, 3))
+[2021-05-25 20:45:14.579] EMOTE: *no key*/(�chicken) flaps its wings viciously. (Caves (174, 159, 2))
+[2021-05-25 20:45:17.472] GAME: kosolov325/(Lucas Calado) used abandon mob while bypassing the regular death cooldown VIA admin prompt.
+[2021-05-25 20:45:17.472] GAME: kosolov325/(Lucas Calado) used abandon mob.
+[2021-05-25 20:45:17.472] GAME: *no key*/(Lucas Calado) *no key*/(Lucas Calado) is no longer owning mob Lucas Calado(/mob/dead/observer) (Tunnel (135, 115, 3))
+[2021-05-25 20:45:17.472] ACCESS: Mob Login: kosolov325/(new player) was assigned to a /mob/dead/new_player
+[2021-05-25 20:45:17.626] GAME: kosolov325/(new player) Client kosolov325/(new player) has taken ownership of mob the new player(/mob/dead/new_player) (start area (180, 247, 1))
+[2021-05-25 20:45:18.578] EMOTE: *no key*/(radroach) stops moving... (Tunnel (83, 190, 3))
+[2021-05-25 20:45:18.580] SAY: *no key*/(Crackers) "BAWWWWK george mellons griffing me!" FORCED by poly (Vault (51, 186, 4))
+[2021-05-25 20:45:18.582] SAY: *no key*/(�chicken) "BWAAAAARK BWAK BWAK BWAK!" FORCED by poly (Village (58, 148, 2))
+[2021-05-25 20:45:20.572] EMOTE: *no key*/(giant rad scorpion) snips at the radroach. (Tunnel (82, 192, 3))
+[2021-05-25 20:45:20.576] EMOTE: *no key*/(giant radscorpion) snips at the radroach. (Tunnel (82, 191, 3))
+[2021-05-25 20:45:20.579] SAY: *no key*/(�chicken) "BWAAAAARK BWAK BWAK BWAK!" FORCED by poly (Caves (175, 158, 2))
+[2021-05-25 20:45:22.134] GAME: *no key*/(new player) *no key*/(new player) is no longer owning mob the new player(/mob/dead/new_player) (start area (180, 247, 1))
+[2021-05-25 20:45:22.134] ACCESS: Mob Login: kosolov325/(Lucas Calado) was assigned to a /mob/living/carbon/human
+[2021-05-25 20:45:22.848] GAME: kosolov325/(Lucas Calado) Client kosolov325/(Lucas Calado) has taken ownership of mob (/mob/living/carbon/human) (Caves (77, 34, 3))
+[2021-05-25 20:45:23.383] EMOTE: *no key*/(Alpha Deathclaw) grawls. (Tunnel (108, 201, 3))
+[2021-05-25 20:45:23.417] EMOTE: *no key*/(giant spider (184)) chitters (Tunnel (176, 124, 3))
+[2021-05-25 20:45:23.634] SAY: *no key*/(deathclaw) "GRRAAGH!" FORCED by poly (Clinic (25, 142, 3))
+[2021-05-25 20:45:23.684] EMOTE: *no key*/(mother deathclaw) grumbles. (Bunker (18, 118, 3))
+[2021-05-25 20:45:23.709] SAY: *no key*/(brahmin) "moo" FORCED by poly (Farm (103, 117, 2))
+[2021-05-25 20:45:27.273] SAY: *no key*/(Raider) "HURRY, HURRY, HURRY!!!" (Wasteland (240, 184, 2))
+[2021-05-25 20:45:29.288] SAY: *no key*/(Trading Protectron) "Reminds me of what my grandpappy used to say, make a snap decision now and never question it. You look like you could use some product there partner." FORCED by poly (Building (242, 185, 2))
+[2021-05-25 20:45:33.282] SAY: *no key*/(brahmin) "moo" FORCED by poly (Farm (105, 118, 2))
+[2021-05-25 20:45:35.146] EMOTE: *no key*/(pug) chases its tail. (Vault (50, 189, 4))
+[2021-05-25 20:45:36.624] ADMIN: kosolov325/(Lucas Calado) admin ghosted.
+[2021-05-25 20:45:36.627] GAME: *no key*/(Lucas Calado) *no key*/(Lucas Calado) is no longer owning mob Lucas Calado(/mob/living/carbon/human) (Tunnel (77, 32, 3))
+[2021-05-25 20:45:36.627] ACCESS: Mob Login: kosolov325/(Lucas Calado) was assigned to a /mob/dead/observer
+[2021-05-25 20:45:36.794] GAME: kosolov325/(Lucas Calado) Client kosolov325/(Lucas Calado) has taken ownership of mob Lucas Calado(/mob/dead/observer) (Tunnel (77, 32, 3))
+[2021-05-25 20:45:39.282] EMOTE: *no key*/(Crackers) squawks. (Vault (51, 186, 4))
+[2021-05-25 20:45:43.278] SAY: *no key*/(�chick) "Cherp?" FORCED by poly (Wasteland (66, 47, 2))
+[2021-05-25 20:45:43.279] SAY: *no key*/(�chicken) "Bwaak bwak." FORCED by poly (Village (59, 147, 2))
+[2021-05-25 20:45:45.272] EMOTE: *no key*/(radroach) stops moving... (Tunnel (87, 189, 3))
+[2021-05-25 20:45:49.281] EMOTE: *no key*/(radroach) stops moving... (Tunnel (87, 189, 3))
+[2021-05-25 20:45:49.284] SAY: *no key*/(Trading Protectron) "Stop, this is a robbery! At these prices you are robbing me." FORCED by poly (Building (242, 185, 2))
+[2021-05-25 20:45:53.793] GAME: kosolov325/(Lucas Calado) used abandon mob while bypassing the regular death cooldown VIA admin prompt.
+[2021-05-25 20:45:53.793] GAME: kosolov325/(Lucas Calado) used abandon mob.
+[2021-05-25 20:45:53.793] GAME: *no key*/(Lucas Calado) *no key*/(Lucas Calado) is no longer owning mob Lucas Calado(/mob/dead/observer) (Tunnel (77, 32, 3))
+[2021-05-25 20:45:53.794] ACCESS: Mob Login: kosolov325/(new player) was assigned to a /mob/dead/new_player
+[2021-05-25 20:45:53.893] GAME: kosolov325/(new player) Client kosolov325/(new player) has taken ownership of mob the new player(/mob/dead/new_player) (start area (180, 247, 1))
+[2021-05-25 20:45:55.623] GAME: *no key*/(new player) *no key*/(new player) is no longer owning mob the new player(/mob/dead/new_player) (start area (180, 247, 1))
+[2021-05-25 20:45:55.624] ACCESS: Mob Login: kosolov325/(Lucas Calado) was assigned to a /mob/living/carbon/human
+[2021-05-25 20:45:56.121] GAME: kosolov325/(Lucas Calado) Client kosolov325/(Lucas Calado) has taken ownership of mob (/mob/living/carbon/human) (Brotherhood of Steel 1st Floor Offices (229, 215, 3))
+[2021-05-25 20:45:56.202] EMOTE: *no key*/(deathclaw) grawls. (Bunker (12, 117, 3))
+[2021-05-25 20:45:56.225] SAY: *no key*/(deathclaw) "GRRAAGH!" FORCED by poly (Clinic (25, 162, 3))
+[2021-05-25 20:45:56.227] SAY: *no key*/(deathclaw) "ROAR!" FORCED by poly (Clinic (26, 160, 3))
+[2021-05-25 20:45:56.307] EMOTE: *no key*/(giant spider (564)) chitters (Tunnel (171, 126, 3))
+[2021-05-25 20:45:56.353] EMOTE: *no key*/(mother deathclaw) grawls. (Tunnel (117, 220, 3))
+[2021-05-25 20:45:56.360] SAY: *no key*/(legendary super mutant) "GRRRRRR!" FORCED by poly (Tunnel (95, 223, 3))
+[2021-05-25 20:45:56.376] SAY: *no key*/(legendary super mutant) "ARRRRR!" FORCED by poly (Tunnel (94, 227, 3))
+[2021-05-25 20:45:56.515] SAY: *no key*/(Trading Protectron) "Stop, this is a robbery! At these prices you are robbing me." FORCED by poly (Building (242, 185, 2))
+[2021-05-25 20:45:56.517] SAY: *no key*/(Trading Protectron) "Legion? NCR? Raider? Hell we don&#39;t care, as long as you got the caps." FORCED by poly (Building (114, 188, 2))
+[2021-05-25 20:45:56.519] SAY: *no key*/(�chicken) "Bwaak bwak." FORCED by poly (Village (58, 146, 2))
+[2021-05-25 20:45:58.197] SAY: *no key*/(Raider) "HURRY, HURRY, HURRY!!!" (Wasteland (240, 184, 2))
+[2021-05-25 20:45:58.199] EMOTE: *no key*/(�chick) pecks at the ground. (Wasteland (65, 48, 2))
+[2021-05-25 20:45:58.199] SAY: *no key*/(�chick) "Cherp?" FORCED by poly (Wasteland (66, 47, 2))
+[2021-05-25 20:46:02.792] ADMIN: kosolov325/(Lucas Calado) admin ghosted.
+[2021-05-25 20:46:02.795] GAME: *no key*/(Lucas Calado) *no key*/(Lucas Calado) is no longer owning mob Lucas Calado(/mob/living/carbon/human) (Brotherhood of Steel Operations Department (223, 219, 3))
+[2021-05-25 20:46:02.795] ACCESS: Mob Login: kosolov325/(Lucas Calado) was assigned to a /mob/dead/observer
+[2021-05-25 20:46:02.938] GAME: kosolov325/(Lucas Calado) Client kosolov325/(Lucas Calado) has taken ownership of mob Lucas Calado(/mob/dead/observer) (Brotherhood of Steel Operations Department (223, 219, 3))
+[2021-05-25 20:46:04.735] GAME: kosolov325/(Lucas Calado) used abandon mob while bypassing the regular death cooldown VIA admin prompt.
+[2021-05-25 20:46:04.735] GAME: kosolov325/(Lucas Calado) used abandon mob.
+[2021-05-25 20:46:04.735] GAME: *no key*/(Lucas Calado) *no key*/(Lucas Calado) is no longer owning mob Lucas Calado(/mob/dead/observer) (Brotherhood of Steel Operations Department (223, 219, 3))
+[2021-05-25 20:46:04.735] ACCESS: Mob Login: kosolov325/(new player) was assigned to a /mob/dead/new_player
+[2021-05-25 20:46:04.810] GAME: kosolov325/(new player) Client kosolov325/(new player) has taken ownership of mob the new player(/mob/dead/new_player) (start area (180, 247, 1))
+[2021-05-25 20:46:07.089] GAME: *no key*/(new player) *no key*/(new player) is no longer owning mob the new player(/mob/dead/new_player) (start area (180, 247, 1))
+[2021-05-25 20:46:07.089] ACCESS: Mob Login: kosolov325/(Lucas Calado) was assigned to a /mob/living/carbon/human
+[2021-05-25 20:46:08.206] GAME: kosolov325/(Lucas Calado) Client kosolov325/(Lucas Calado) has taken ownership of mob (/mob/living/carbon/human) (NCR (16, 211, 2))
+[2021-05-25 20:46:09.515] SAY: *no key*/(�chicken) "Cluck!" FORCED by poly (Caves (175, 159, 2))
+[2021-05-25 20:46:11.266] EMOTE: *no key*/(pug) pants. (Brotherhood of Steel 1st Floor Offices (218, 223, 3))
+[2021-05-25 20:46:13.299] EMOTE: *no key*/(�chicken) flaps its wings viciously. (Brotherhood of Steel (141, 251, 2))

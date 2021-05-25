@@ -1,0 +1,19 @@
+[2021-05-25 20:52:40.522] Starting up round ID .
+ - -------------------------
+[2021-05-25 20:52:40.575] ADMIN: Errored custom_items_whitelist line: JayEhh|ALL|ALL|/obj/item/custom/ceb_soap=1 - Path/number for item missing or invalid.
+[2021-05-25 20:52:41.606] GAME: Saved mode is 'extended'
+[2021-05-25 20:52:49.797] GAME: An alien egg has been delivered to mountain (123, 20, 1)
+[2021-05-25 20:53:00.125] ACCESS: Login: Kosolov325 from 187.19.213.74-540227776 || BYOND v513.1542
+[2021-05-25 20:53:00.126] ACCESS: Mob Login: Kosolov325/(Kosolov325) was assigned to a /mob/dead/new_player
+[2021-05-25 20:53:03.366] GAME: Kosolov325/(Kosolov325) Client Kosolov325/(Kosolov325) has taken ownership of mob Kosolov325(/mob/dead/new_player) (start area (180, 247, 1))
+[2021-05-25 20:53:13.070] ADMIN: Kosolov325/(Kosolov325) is attempting to re-established the DB Connection
+[2021-05-25 20:53:51.513] ACCESS: Logout: Kosolov325/(Kosolov325)
+[2021-05-25 20:53:51.514] GAME: Kosolov325[DC]/(Kosolov325) Kosolov325[DC]/(Kosolov325) is no longer owning mob Kosolov325(/mob/dead/new_player) (start area (180, 247, 1))
+[2021-05-25 20:53:57.579] GAME: brotherhood of steel (base) loaded at 10,10,5
+[2021-05-25 20:53:57.792] GAME: Pahrump train loaded at 19,10,5
+[2021-05-25 20:53:58.063] GAME: fancy transport ferry loaded at 25,10,5
+[2021-05-25 20:53:58.213] GAME: supply train (Pahrump) loaded at 38,10,5
+[2021-05-25 20:53:59.226] GAME: assault pod (Default) loaded at 45,10,5
+[2021-05-25 20:53:59.779] GAME: basic syndicate infiltrator loaded at 52,10,5
+[2021-05-25 20:54:00.224] GAME: Bunker Elevator loaded at 69,10,5
+[2021-05-25 20:54:00.265] GAME: North Bunker Elevator loaded at 72,10,5

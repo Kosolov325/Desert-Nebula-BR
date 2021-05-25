@@ -1,0 +1,15 @@
+[2021-05-25 20:52:40.522] Starting up round ID .
+ - -------------------------
+[2021-05-25 20:52:40.523] Running /tg/ revision: 2021-05-25
+ - origin/master: 2a55ea0b0d891d1b30b295f484b98b2be5f73928
+[2021-05-25 20:52:40.543] Failed to connect to database in load_mentors(). Reverting to legacy system.
+[2021-05-25 20:52:41.625] Loading Yuma...
+[2021-05-25 20:52:46.777] Loaded Wasteland in 5.1s!
+[2021-05-25 20:52:48.518] Loaded Dungeons in 1.7s!
+[2021-05-25 20:52:49.459] Ruin loader finished with 0 left to spend.
+[2021-05-25 20:52:58.277] Ban database connection failure. Key kosolov325 not checked
+[2021-05-25 20:53:05.686] Ban database connection failure. Key kosolov325 not checked
+[2021-05-25 20:53:05.940] Ban database connection failure. Key kosolov325 not checked
+[2021-05-25 20:53:06.191] Ban database connection failure. Key kosolov325 not checked
+[2021-05-25 20:53:06.452] Ban database connection failure. Key kosolov325 not checked
+[2021-05-25 20:54:00.281] ## WARNING: No /obj/docking_port/mobile/arrivals placed on the map! in code/controllers/subsystem/shuttle.dm at line 80 src: Shuttle usr: .

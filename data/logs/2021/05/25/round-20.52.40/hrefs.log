@@ -1,0 +1,27 @@
+[2021-05-25 20:52:40.522] Starting up round ID .
+ - -------------------------
+[2021-05-25 20:53:05.185] HREF: Kosolov325 (usr:Kosolov325[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A4%7D
+[2021-05-25 20:53:05.436] HREF: Kosolov325 (usr:Kosolov325[(180,247,1)]) : tgui=1&window_id=browseroutput&type=telemetry&payload=%7B%22connections%22%3A%5B%7B%22ckey%22%3A%22kosolov325%22%2C%22address%22%3A%22187.19.213.74%22%2C%22computer_id%22%3A%22540227776%22%7D%2C%7B%22ckey%22%3A%22kosolov325%22%2C%22address%22%3A%22187.19.213.50%22%2C%22computer_id%22%3A%22540227776%22%7D%2C%7B%22ckey%22%3A%22kosolov325%22%2C%22address%22%3A%22187.19.213.146%22%2C%22computer_id%22%3A%22540227776%22%7D%2C%7B%22ckey%22%3A%22kosolov325%22%2C%22address%22%3A%22187.19.213.2%22%2C%22computer_id%22%3A%22540227776%22%7D%2C%7B%22ckey%22%3A%22kosolov325%22%2C%22address%22%3A%22187.19.213.170%22%2C%22computer_id%22%3A%22540227776%22%7D%5D%7D
+[2021-05-25 20:53:05.940] HREF: Kosolov325 (usr:Kosolov325[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ready
+[2021-05-25 20:53:06.192] HREF: Kosolov325 (usr:Kosolov325[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A0%7D
+[2021-05-25 20:53:07.492] HREF: Kosolov325 (usr:Kosolov325[(180,247,1)]) : 
+[2021-05-25 20:53:07.492] HREF: Kosolov325 (usr:Kosolov325[(180,247,1)]) : 
+[2021-05-25 20:53:08.561] HREF: Kosolov325 (usr:Kosolov325[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A1%7D
+[2021-05-25 20:53:09.566] HREF: Kosolov325 (usr:Kosolov325[(180,247,1)]) : asset_cache_preload_data=%7B%22tgui-common.chunk.js%22%3A%22e3cc0789f56d9f18bdf66307c4008b40%22%2C%22tgui-panel.bundle.js%22%3A%229faa9bf7e314ef05529e6a4a8785af54%22%2C%22tgui-panel.bundle.css%22%3A%22c3ff98002b61d02d18f71f2a310a654d%22%2C%22padlock.png%22%3A%22fd54303923e9086cd6b61a9c4c454f12%22%2C%22asset.0860cded2abd3cfbf9ba06ae1cfa18fb.css%22%3A%220860cded2abd3cfbf9ba06ae1cfa18fb%22%2C%22fa-regular-400.eot%22%3A%22fc9c63c8224fb341fc933641cbdd12ef%22%2C%22fa-regular-400.woff%22%3A%22e5770f9863963fb576942e25214a226d%22%2C%22fa-solid-900.eot%22%3A%22ef3df98419d143d9617fe163bf4edc0b%22%2C%22fa-solid-900.woff%22%3A%224bced7c4c0d61d4f988629bb8ae80b8b%22%2C%22font-awesome.css%22%3A%22b7b0fc427ae028cde1fe3356abfee869%22%2C%22v4shim.css%22%3A%22e140a7d32f343530f016095df3cc2ae4%22%2C%22asset.e85d1081d7103b09a2e492fa24dbd97b.css%22%3A%22e85d1081d7103b09a2e492fa24dbd97b%22%2C%22asset.253bbc52a19928fa3bb250b9d2a425c6.png%22%3A%22253bbc52a19928fa3bb250b9d2a425c6%22%2C%22asset.9fb3455e39c1c40b9eb331534ba43cf4.png%22%3A%229fb3455e39c1c40b9eb331534ba43cf4%22%2C%22jquery.min.js%22%3A%228101d596b2b8fa35fe3a634ea342d7c3%22%2C%22asset.30872c7daa2d65e38f92772e971bf109.css%22%3A%2230872c7daa2d65e38f92772e971bf109%22%7D
+[2021-05-25 20:53:11.067] HREF: Kosolov325 (usr:Kosolov325[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A2%7D
+[2021-05-25 20:53:13.571] HREF: Kosolov325 (usr:Kosolov325[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A3%7D
+[2021-05-25 20:53:16.075] HREF: Kosolov325 (usr:Kosolov325[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A4%7D
+[2021-05-25 20:53:18.829] HREF: Kosolov325 (usr:Kosolov325[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A5%7D
+[2021-05-25 20:53:21.333] HREF: Kosolov325 (usr:Kosolov325[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A6%7D
+[2021-05-25 20:53:23.835] HREF: Kosolov325 (usr:Kosolov325[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A7%7D
+[2021-05-25 20:53:26.338] HREF: Kosolov325 (usr:Kosolov325[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A0%7D
+[2021-05-25 20:53:28.813] HREF: Kosolov325 (usr:Kosolov325[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A1%7D
+[2021-05-25 20:53:31.130] HREF: Kosolov325 (usr:Kosolov325[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A2%7D
+[2021-05-25 20:53:33.679] HREF: Kosolov325 (usr:Kosolov325[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A3%7D
+[2021-05-25 20:53:42.782] HREF: Kosolov325 (usr:Kosolov325[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A4%7D
+[2021-05-25 20:53:42.782] HREF: Kosolov325 (usr:Kosolov325[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A5%7D
+[2021-05-25 20:53:42.783] HREF: Kosolov325 (usr:Kosolov325[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A6%7D
+[2021-05-25 20:53:44.143] HREF: Kosolov325 (usr:Kosolov325[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A7%7D
+[2021-05-25 20:53:46.417] HREF: Kosolov325 (usr:Kosolov325[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A0%7D
+[2021-05-25 20:53:48.715] HREF: Kosolov325 (usr:Kosolov325[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A1%7D
+[2021-05-25 20:53:51.262] HREF: Kosolov325 (usr:Kosolov325[(180,247,1)]) : tgui=1&window_id=browseroutput&type=ping&payload=%7B%22index%22%3A2%7D

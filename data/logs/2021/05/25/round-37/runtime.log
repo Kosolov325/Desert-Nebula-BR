@@ -1,0 +1,110 @@
+[2021-05-25 20:56:57.164] Starting up round ID 37.
+ - -------------------------
+[2021-05-25 20:56:57.166] Running /tg/ revision: 2021-05-25
+ - origin/master: 2a55ea0b0d891d1b30b295f484b98b2be5f73928
+[2021-05-25 20:56:58.259] Loading Yuma...
+[2021-05-25 20:57:03.403] Loaded Wasteland in 5.2s!
+[2021-05-25 20:57:05.117] Loaded Dungeons in 1.7s!
+[2021-05-25 20:57:06.061] Ruin loader finished with 0 left to spend.
+[2021-05-25 20:58:16.761] ## WARNING: No /obj/docking_port/mobile/arrivals placed on the map! in code/controllers/subsystem/shuttle.dm at line 80 src: Shuttle usr: .
+[2021-05-25 20:58:22.548] Loaded 0 engraved messages on map Yuma
+[2021-05-25 20:58:22.550] Initializations complete within 84.4 seconds!
+[2021-05-25 20:58:22.654] runtime error: Auxtools not found! Callback subsystem shutting itself off.
+ - proc name: process callbacks (/proc/process_callbacks)
+ -   source file: callback.dm,10
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - process callbacks(null, 46.64)
+ - Auxtools Callbacks (/datum/controller/subsystem/callbacks): fire(0)
+ - Auxtools Callbacks (/datum/controller/subsystem/callbacks): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-25 21:03:12.352] Game start took 0s
+[2021-05-25 21:06:02.683] runtime error: Cannot read null.player_details
+ - proc name: Login (/mob/Login)
+ -   source file: login.dm,46
+ -   usr: (src)
+ -   src: Lucas Calado (/mob/living/brain)
+ -   src.loc: null
+ -   call stack:
+ - Lucas Calado (/mob/living/brain): Login()
+ - Lucas Calado (/mob/living/brain): Login()
+ - 
+[2021-05-25 21:06:02.706] runtime error: Cannot read null.comp_lookup
+ - proc name: UnregisterSignal (/datum/proc/UnregisterSignal)
+ -   source file: _component.dm,201
+ -   usr: null
+ -   src: Social Anxiety (/datum/quirk/social_anxiety)
+ -   call stack:
+ - Social Anxiety (/datum/quirk/social_anxiety): UnregisterSignal(null, /list (/list))
+ - Social Anxiety (/datum/quirk/social_anxiety): remove()
+ - Social Anxiety (/datum/quirk/social_anxiety): Destroy(0)
+ - qdel(Social Anxiety (/datum/quirk/social_anxiety), 0)
+ - Social Anxiety (/datum/quirk/social_anxiety): process(10)
+ - Quirks (/datum/controller/subsystem/processing/quirks): fire(0)
+ - Quirks (/datum/controller/subsystem/processing/quirks): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-25 21:07:51.122] runtime error: Cannot read null.player_details
+ - proc name: Login (/mob/Login)
+ -   source file: login.dm,46
+ -   usr: (src)
+ -   src: Lucas Calado (/mob/living/brain)
+ -   src.loc: null
+ -   call stack:
+ - Lucas Calado (/mob/living/brain): Login()
+ - Lucas Calado (/mob/living/brain): Login()
+ - 
+[2021-05-25 21:07:51.170] runtime error: Cannot create objects of type null.
+ - proc name: break wall (/turf/closed/wall/proc/break_wall)
+ -   source file: walls.dm,64
+ -   usr: Lucas Calado (/mob/living/carbon/human)
+ -   src: the store wall (83,26,2) (/turf/closed/wall/f13/store)
+ -   usr.loc: null
+ -   call stack:
+ - the store wall (83,26,2) (/turf/closed/wall/f13/store): break wall()
+ - the store wall (83,26,2) (/turf/closed/wall/f13/store): dismantle wall(0, 1)
+ - the store wall (83,26,2) (/turf/closed/wall/f13/store): ex act(3, null)
+ - /datum/explosion (/datum/explosion): New(sidewalk (81,24,2) (/turf/open/indestructible/ground/outside/sidewalk), 1, 2, 4, 1, 1, 0, 2, 0, 0)
+ - 
+[2021-05-25 21:07:51.172] runtime error: Cannot create objects of type null.
+ - proc name: break wall (/turf/closed/wall/proc/break_wall)
+ -   source file: walls.dm,64
+ -   usr: Lucas Calado (/mob/living/carbon/human)
+ -   src: the store wall (83,22,2) (/turf/closed/wall/f13/store)
+ -   usr.loc: null
+ -   call stack:
+ - the store wall (83,22,2) (/turf/closed/wall/f13/store): break wall()
+ - the store wall (83,22,2) (/turf/closed/wall/f13/store): dismantle wall(0, 1)
+ - the store wall (83,22,2) (/turf/closed/wall/f13/store): ex act(3, null)
+ - /datum/explosion (/datum/explosion): New(sidewalk (81,24,2) (/turf/open/indestructible/ground/outside/sidewalk), 1, 2, 4, 1, 1, 0, 2, 0, 0)
+ - 
+[2021-05-25 21:07:51.173] runtime error: Cannot create objects of type null.
+ - proc name: break wall (/turf/closed/wall/proc/break_wall)
+ -   source file: walls.dm,64
+ -   usr: Lucas Calado (/mob/living/carbon/human)
+ -   src: the store wall (83,23,2) (/turf/closed/wall/f13/store)
+ -   usr.loc: null
+ -   call stack:
+ - the store wall (83,23,2) (/turf/closed/wall/f13/store): break wall()
+ - the store wall (83,23,2) (/turf/closed/wall/f13/store): dismantle wall(0, 1)
+ - the store wall (83,23,2) (/turf/closed/wall/f13/store): ex act(3, null)
+ - /datum/explosion (/datum/explosion): New(sidewalk (81,24,2) (/turf/open/indestructible/ground/outside/sidewalk), 1, 2, 4, 1, 1, 0, 2, 0, 0)
+ - 
+[2021-05-25 21:07:51.174] runtime error: Cannot create objects of type null.
+ - proc name: break wall (/turf/closed/wall/proc/break_wall)
+ -   source file: walls.dm,64
+ -   usr: Lucas Calado (/mob/living/carbon/human)
+ -   src: the store wall (83,24,2) (/turf/closed/wall/f13/store)
+ -   usr.loc: null
+ -   call stack:
+ - the store wall (83,24,2) (/turf/closed/wall/f13/store): break wall()
+ - the store wall (83,24,2) (/turf/closed/wall/f13/store): dismantle wall(0, 1)
+ - the store wall (83,24,2) (/turf/closed/wall/f13/store): ex act(3, null)
+ - /datum/explosion (/datum/explosion): New(sidewalk (81,24,2) (/turf/open/indestructible/ground/outside/sidewalk), 1, 2, 4, 1, 1, 0, 2, 0, 0)
+ - 

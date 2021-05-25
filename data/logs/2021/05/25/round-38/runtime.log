@@ -1,0 +1,387 @@
+[2021-05-25 21:12:11.534] Starting up round ID 38.
+ - -------------------------
+[2021-05-25 21:12:11.536] Running /tg/ revision: 2021-05-25
+ - origin/master: 2a55ea0b0d891d1b30b295f484b98b2be5f73928
+[2021-05-25 21:12:12.640] Loading Yuma...
+[2021-05-25 21:12:17.838] Loaded Wasteland in 5.2s!
+[2021-05-25 21:12:19.557] Loaded Dungeons in 1.7s!
+[2021-05-25 21:12:20.508] Ruin loader finished with 0 left to spend.
+[2021-05-25 21:13:31.005] ## WARNING: No /obj/docking_port/mobile/arrivals placed on the map! in code/controllers/subsystem/shuttle.dm at line 80 src: Shuttle usr: .
+[2021-05-25 21:13:36.856] Loaded 0 engraved messages on map Yuma
+[2021-05-25 21:13:36.858] Initializations complete within 84.4 seconds!
+[2021-05-25 21:13:37.160] runtime error: Attempt to interpret non-number value as number
+ - proc name: auxtools stack trace (/proc/auxtools_stack_trace)
+ -   source file: _extools_api.dm,8
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - auxtools stack trace("Attempt to interpret non-numbe...")
+ - Auxtools Callbacks (/datum/controller/subsystem/callbacks): fire(0)
+ - Auxtools Callbacks (/datum/controller/subsystem/callbacks): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-25 21:13:37.209] runtime error: Attempt to interpret non-number value as number
+ - proc name: auxtools stack trace (/proc/auxtools_stack_trace)
+ -   source file: _extools_api.dm,8
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - auxtools stack trace("Attempt to interpret non-numbe...")
+ - Auxtools Callbacks (/datum/controller/subsystem/callbacks): fire(0)
+ - Auxtools Callbacks (/datum/controller/subsystem/callbacks): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-25 21:13:37.259] runtime error: Attempt to interpret non-number value as number
+ - proc name: auxtools stack trace (/proc/auxtools_stack_trace)
+ -   source file: _extools_api.dm,8
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - auxtools stack trace("Attempt to interpret non-numbe...")
+ - Auxtools Callbacks (/datum/controller/subsystem/callbacks): fire(0)
+ - Auxtools Callbacks (/datum/controller/subsystem/callbacks): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-25 21:13:37.309] runtime error: Attempt to interpret non-number value as number
+ - proc name: auxtools stack trace (/proc/auxtools_stack_trace)
+ -   source file: _extools_api.dm,8
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - auxtools stack trace("Attempt to interpret non-numbe...")
+ - Auxtools Callbacks (/datum/controller/subsystem/callbacks): fire(0)
+ - Auxtools Callbacks (/datum/controller/subsystem/callbacks): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-25 21:13:37.359] runtime error: Attempt to interpret non-number value as number
+ - proc name: auxtools stack trace (/proc/auxtools_stack_trace)
+ -   source file: _extools_api.dm,8
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - auxtools stack trace("Attempt to interpret non-numbe...")
+ - Auxtools Callbacks (/datum/controller/subsystem/callbacks): fire(0)
+ - Auxtools Callbacks (/datum/controller/subsystem/callbacks): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-25 21:13:37.409] runtime error: Attempt to interpret non-number value as number
+ - proc name: auxtools stack trace (/proc/auxtools_stack_trace)
+ -   source file: _extools_api.dm,8
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - auxtools stack trace("Attempt to interpret non-numbe...")
+ - Auxtools Callbacks (/datum/controller/subsystem/callbacks): fire(0)
+ - Auxtools Callbacks (/datum/controller/subsystem/callbacks): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-25 21:13:37.459] runtime error: Attempt to interpret non-number value as number
+ - proc name: auxtools stack trace (/proc/auxtools_stack_trace)
+ -   source file: _extools_api.dm,8
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - auxtools stack trace("Attempt to interpret non-numbe...")
+ - Auxtools Callbacks (/datum/controller/subsystem/callbacks): fire(0)
+ - Auxtools Callbacks (/datum/controller/subsystem/callbacks): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-25 21:13:37.509] runtime error: Attempt to interpret non-number value as number
+ - proc name: auxtools stack trace (/proc/auxtools_stack_trace)
+ -   source file: _extools_api.dm,8
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - auxtools stack trace("Attempt to interpret non-numbe...")
+ - Auxtools Callbacks (/datum/controller/subsystem/callbacks): fire(0)
+ - Auxtools Callbacks (/datum/controller/subsystem/callbacks): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-25 21:13:37.559] runtime error: Attempt to interpret non-number value as number
+ - proc name: auxtools stack trace (/proc/auxtools_stack_trace)
+ -   source file: _extools_api.dm,8
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - auxtools stack trace("Attempt to interpret non-numbe...")
+ - Auxtools Callbacks (/datum/controller/subsystem/callbacks): fire(0)
+ - Auxtools Callbacks (/datum/controller/subsystem/callbacks): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-25 21:13:37.609] runtime error: Attempt to interpret non-number value as number
+ - proc name: auxtools stack trace (/proc/auxtools_stack_trace)
+ -   source file: _extools_api.dm,8
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - auxtools stack trace("Attempt to interpret non-numbe...")
+ - Auxtools Callbacks (/datum/controller/subsystem/callbacks): fire(0)
+ - Auxtools Callbacks (/datum/controller/subsystem/callbacks): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-25 21:13:37.659] runtime error: Attempt to interpret non-number value as number
+ - proc name: auxtools stack trace (/proc/auxtools_stack_trace)
+ -   source file: _extools_api.dm,8
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - auxtools stack trace("Attempt to interpret non-numbe...")
+ - Auxtools Callbacks (/datum/controller/subsystem/callbacks): fire(0)
+ - Auxtools Callbacks (/datum/controller/subsystem/callbacks): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-25 21:13:37.709] runtime error: Attempt to interpret non-number value as number
+ - proc name: auxtools stack trace (/proc/auxtools_stack_trace)
+ -   source file: _extools_api.dm,8
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - auxtools stack trace("Attempt to interpret non-numbe...")
+ - Auxtools Callbacks (/datum/controller/subsystem/callbacks): fire(0)
+ - Auxtools Callbacks (/datum/controller/subsystem/callbacks): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-25 21:13:37.759] runtime error: Attempt to interpret non-number value as number
+ - proc name: auxtools stack trace (/proc/auxtools_stack_trace)
+ -   source file: _extools_api.dm,8
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - auxtools stack trace("Attempt to interpret non-numbe...")
+ - Auxtools Callbacks (/datum/controller/subsystem/callbacks): fire(0)
+ - Auxtools Callbacks (/datum/controller/subsystem/callbacks): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-25 21:13:37.809] runtime error: Attempt to interpret non-number value as number
+ - proc name: auxtools stack trace (/proc/auxtools_stack_trace)
+ -   source file: _extools_api.dm,8
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - auxtools stack trace("Attempt to interpret non-numbe...")
+ - Auxtools Callbacks (/datum/controller/subsystem/callbacks): fire(0)
+ - Auxtools Callbacks (/datum/controller/subsystem/callbacks): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-25 21:13:37.859] runtime error: Attempt to interpret non-number value as number
+ - proc name: auxtools stack trace (/proc/auxtools_stack_trace)
+ -   source file: _extools_api.dm,8
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - auxtools stack trace("Attempt to interpret non-numbe...")
+ - Auxtools Callbacks (/datum/controller/subsystem/callbacks): fire(0)
+ - Auxtools Callbacks (/datum/controller/subsystem/callbacks): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-25 21:13:37.909] runtime error: Attempt to interpret non-number value as number
+ - proc name: auxtools stack trace (/proc/auxtools_stack_trace)
+ -   source file: _extools_api.dm,8
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - auxtools stack trace("Attempt to interpret non-numbe...")
+ - Auxtools Callbacks (/datum/controller/subsystem/callbacks): fire(0)
+ - Auxtools Callbacks (/datum/controller/subsystem/callbacks): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-25 21:13:37.959] runtime error: Attempt to interpret non-number value as number
+ - proc name: auxtools stack trace (/proc/auxtools_stack_trace)
+ -   source file: _extools_api.dm,8
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - auxtools stack trace("Attempt to interpret non-numbe...")
+ - Auxtools Callbacks (/datum/controller/subsystem/callbacks): fire(0)
+ - Auxtools Callbacks (/datum/controller/subsystem/callbacks): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-25 21:13:38.009] runtime error: Attempt to interpret non-number value as number
+ - proc name: auxtools stack trace (/proc/auxtools_stack_trace)
+ -   source file: _extools_api.dm,8
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - auxtools stack trace("Attempt to interpret non-numbe...")
+ - Auxtools Callbacks (/datum/controller/subsystem/callbacks): fire(0)
+ - Auxtools Callbacks (/datum/controller/subsystem/callbacks): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-25 21:13:38.059] runtime error: Attempt to interpret non-number value as number
+ - proc name: auxtools stack trace (/proc/auxtools_stack_trace)
+ -   source file: _extools_api.dm,8
+ -   usr: (src)
+ -   src: null
+ -   call stack:
+ - auxtools stack trace("Attempt to interpret non-numbe...")
+ - Auxtools Callbacks (/datum/controller/subsystem/callbacks): fire(0)
+ - Auxtools Callbacks (/datum/controller/subsystem/callbacks): ignite(0)
+ - Master (/datum/controller/master): RunQueue()
+ - Master (/datum/controller/master): Loop()
+ - Master (/datum/controller/master): StartProcessing(0)
+ - 
+[2021-05-25 21:13:38.109] runtime error: Attempt to interpret non-number value as number
+ - proc name: auxtools stack trace (/proc/auxtools_stack_trace)
+ -   source file: _extools_api.dm,8
+ - 
+[2021-05-25 21:13:38.159] runtime error: Attempt to interpret non-number value as number
+ - proc name: auxtools stack trace (/proc/auxtools_stack_trace)
+ -   source file: _extools_api.dm,8
+ - 
+[2021-05-25 21:13:38.209] runtime error: Attempt to interpret non-number value as number
+ - proc name: auxtools stack trace (/proc/auxtools_stack_trace)
+ -   source file: _extools_api.dm,8
+ - 
+[2021-05-25 21:13:38.259] runtime error: Attempt to interpret non-number value as number
+ - proc name: auxtools stack trace (/proc/auxtools_stack_trace)
+ -   source file: _extools_api.dm,8
+ - 
+[2021-05-25 21:13:38.309] runtime error: Attempt to interpret non-number value as number
+ - proc name: auxtools stack trace (/proc/auxtools_stack_trace)
+ -   source file: _extools_api.dm,8
+ - 
+[2021-05-25 21:13:38.359] runtime error: Attempt to interpret non-number value as number
+ - proc name: auxtools stack trace (/proc/auxtools_stack_trace)
+ -   source file: _extools_api.dm,8
+ - 
+[2021-05-25 21:13:38.409] runtime error: Attempt to interpret non-number value as number
+ - proc name: auxtools stack trace (/proc/auxtools_stack_trace)
+ -   source file: _extools_api.dm,8
+ - 
+[2021-05-25 21:13:38.459] runtime error: Attempt to interpret non-number value as number
+ - proc name: auxtools stack trace (/proc/auxtools_stack_trace)
+ -   source file: _extools_api.dm,8
+ - 
+[2021-05-25 21:13:38.509] runtime error: Attempt to interpret non-number value as number
+ - proc name: auxtools stack trace (/proc/auxtools_stack_trace)
+ -   source file: _extools_api.dm,8
+ - 
+[2021-05-25 21:13:38.559] runtime error: Attempt to interpret non-number value as number
+ - proc name: auxtools stack trace (/proc/auxtools_stack_trace)
+ -   source file: _extools_api.dm,8
+ - 
+[2021-05-25 21:13:38.609] runtime error: Attempt to interpret non-number value as number
+ - proc name: auxtools stack trace (/proc/auxtools_stack_trace)
+ -   source file: _extools_api.dm,8
+ - 
+[2021-05-25 21:13:38.659] runtime error: Attempt to interpret non-number value as number
+ - proc name: auxtools stack trace (/proc/auxtools_stack_trace)
+ -   source file: _extools_api.dm,8
+ - 
+[2021-05-25 21:13:38.709] runtime error: Attempt to interpret non-number value as number
+ - proc name: auxtools stack trace (/proc/auxtools_stack_trace)
+ -   source file: _extools_api.dm,8
+ - 
+[2021-05-25 21:13:38.759] runtime error: Attempt to interpret non-number value as number
+ - proc name: auxtools stack trace (/proc/auxtools_stack_trace)
+ -   source file: _extools_api.dm,8
+ - 
+[2021-05-25 21:13:38.809] runtime error: Attempt to interpret non-number value as number
+ - proc name: auxtools stack trace (/proc/auxtools_stack_trace)
+ -   source file: _extools_api.dm,8
+ - 
+[2021-05-25 21:13:38.859] runtime error: Attempt to interpret non-number value as number
+ - proc name: auxtools stack trace (/proc/auxtools_stack_trace)
+ -   source file: _extools_api.dm,8
+ - 
+[2021-05-25 21:13:38.909] runtime error: Attempt to interpret non-number value as number
+ - proc name: auxtools stack trace (/proc/auxtools_stack_trace)
+ -   source file: _extools_api.dm,8
+ - 
+[2021-05-25 21:13:38.959] runtime error: Attempt to interpret non-number value as number
+ - proc name: auxtools stack trace (/proc/auxtools_stack_trace)
+ -   source file: _extools_api.dm,8
+ - 
+[2021-05-25 21:13:39.009] runtime error: Attempt to interpret non-number value as number
+ - proc name: auxtools stack trace (/proc/auxtools_stack_trace)
+ -   source file: _extools_api.dm,8
+ - 
+[2021-05-25 21:13:39.059] runtime error: Attempt to interpret non-number value as number
+ - proc name: auxtools stack trace (/proc/auxtools_stack_trace)
+ -   source file: _extools_api.dm,8
+ - 
+[2021-05-25 21:13:39.109] runtime error: Attempt to interpret non-number value as number
+ - proc name: auxtools stack trace (/proc/auxtools_stack_trace)
+ -   source file: _extools_api.dm,8
+ - 
+[2021-05-25 21:13:39.159] runtime error: Attempt to interpret non-number value as number
+ - proc name: auxtools stack trace (/proc/auxtools_stack_trace)
+ -   source file: _extools_api.dm,8
+ - 
+[2021-05-25 21:13:39.209] runtime error: Attempt to interpret non-number value as number
+ - proc name: auxtools stack trace (/proc/auxtools_stack_trace)
+ -   source file: _extools_api.dm,8
+ - 
+[2021-05-25 21:13:39.259] runtime error: Attempt to interpret non-number value as number
+ - proc name: auxtools stack trace (/proc/auxtools_stack_trace)
+ -   source file: _extools_api.dm,8
+ - 
+[2021-05-25 21:13:39.309] runtime error: Attempt to interpret non-number value as number
+ - proc name: auxtools stack trace (/proc/auxtools_stack_trace)
+ -   source file: _extools_api.dm,8
+ - 
+[2021-05-25 21:13:39.499] runtime error: Attempt to interpret non-number value as number
+ - proc name: auxtools stack trace (/proc/auxtools_stack_trace)
+ -   source file: _extools_api.dm,8
+ - 
+[2021-05-25 21:13:39.550] runtime error: Attempt to interpret non-number value as number
+ - proc name: auxtools stack trace (/proc/auxtools_stack_trace)
+ -   source file: _extools_api.dm,8
+ - 
+[2021-05-25 21:13:39.600] runtime error: Attempt to interpret non-number value as number
+ - proc name: auxtools stack trace (/proc/auxtools_stack_trace)
+ -   source file: _extools_api.dm,8
+ - 
+[2021-05-25 21:13:39.650] runtime error: Attempt to interpret non-number value as number
+ - proc name: auxtools stack trace (/proc/auxtools_stack_trace)
+ -   source file: _extools_api.dm,8
+ - 
+[2021-05-25 21:13:39.700] runtime error: Attempt to interpret non-number value as number
+ - proc name: auxtools stack trace (/proc/auxtools_stack_trace)
+ -   source file: _extools_api.dm,8
+ - 
+[2021-05-25 21:13:39.750] runtime error: Attempt to interpret non-number value as number
+ - proc name: auxtools stack trace (/proc/auxtools_stack_trace)
+ -   source file: _extools_api.dm,8
+ - 
+[2021-05-25 21:13:39.800] runtime error: Attempt to interpret non-number value as number
+ - proc name: auxtools stack trace (/proc/auxtools_stack_trace)
+ -   source file: _extools_api.dm,8
+ - 
+[2021-05-25 21:15:47.502] Game start took 0s

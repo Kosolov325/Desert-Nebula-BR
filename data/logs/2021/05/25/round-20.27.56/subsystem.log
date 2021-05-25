@@ -1,0 +1,23 @@
+[2021-05-25 20:27:56.886] Starting up round ID .
+ - -------------------------
+[2021-05-25 20:27:57.854] INIT: Initialized Profiler subsystem within 0 seconds!
+[2021-05-25 20:27:57.902] Fail2Topic: Failed to drop firewall rule. Exit code: 1.
+[2021-05-25 20:27:57.902] INIT: Initialized Fail2Topic subsystem within 0.1 seconds!
+[2021-05-25 20:27:57.909] INIT: Initialized Title Screen subsystem within 0 seconds!
+[2021-05-25 20:27:57.909] INIT: Initialized Database subsystem within 0 seconds!
+[2021-05-25 20:27:57.909] INIT: Initialized Stat Panels subsystem within 0 seconds!
+[2021-05-25 20:27:57.909] INIT: Initialized Blackbox subsystem within 0 seconds!
+[2021-05-25 20:27:57.909] INIT: Initialized Server Tasks subsystem within 0 seconds!
+[2021-05-25 20:27:57.910] INIT: Initialized Input subsystem within 0 seconds!
+[2021-05-25 20:27:57.912] INIT: Initialized Sounds subsystem within 0 seconds!
+[2021-05-25 20:27:57.912] INIT: Initialized Vis contents overlays subsystem within 0 seconds!
+[2021-05-25 20:27:57.965] INIT: Initialized Research subsystem within 0 seconds!
+[2021-05-25 20:27:57.967] INIT: Initialized Events subsystem within 0 seconds!
+[2021-05-25 20:27:57.972] INIT: Initialized Jobs subsystem within 0 seconds!
+[2021-05-25 20:27:57.974] INIT: Initialized Quirks subsystem within 0 seconds!
+[2021-05-25 20:27:57.977] INIT: Initialized Ticker subsystem within 0 seconds!
+[2021-05-25 20:27:57.993] INIT: Initialized Instruments subsystem within 0 seconds!
+[2021-05-25 20:28:05.778] INIT: Initialized Mapping subsystem within 7.8 seconds!
+[2021-05-25 20:28:05.778] INIT: Initialized Economy subsystem within 0 seconds!
+[2021-05-25 20:28:05.780] INIT: Initialized Networks subsystem within 0 seconds!
+[2021-05-25 20:28:05.780] INIT: Initialized Holodeck subsystem within 0 seconds!
