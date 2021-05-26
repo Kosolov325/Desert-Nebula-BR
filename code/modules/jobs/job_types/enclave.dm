@@ -56,8 +56,6 @@ Commander
 
 	outfit = /datum/outfit/job/enclave/f13uscommander
 
-	access = list()
-	minimal_access = list()
 
 /datum/outfit/job/enclave/f13uscommander
 	name = "US Commander"
@@ -65,9 +63,9 @@ Commander
 
 	id = /obj/item/card/id/gold
 	uniform =  /obj/item/clothing/under/rank/captain
-	suit = /obj/item/clothing/suit/armor/f13/power_armor/advanced/mk2
+	suit = /obj/item/clothing/suit/armor/f13/power_armor/advanced
 	belt = /obj/item/storage/belt/military/assault
-	head = /obj/item/clothing/head/helmet/f13/power_armor/advanced/mk2
+	head = /obj/item/clothing/head/helmet/f13/power_armor/advanced
 	mask = /obj/item/clothing/mask/gas/sechailer/swat
 	gunsmith_three = TRUE
 	suit_store = /obj/item/gun/energy/laser/ultra_rifle
@@ -75,9 +73,7 @@ Commander
 		/obj/item/shield/energy=1, \
 		/obj/item/kitchen/knife/combat=1, \
 		/obj/item/gun/energy/laser/aer14=1, \
-		/obj/item/gun/ballistic/automatic/pistol/n99=1,\
 		/obj/item/stock_parts/cell/ammo/mfc=2, \
-		/obj/item/ammo_box/magazine/m10mm_adv/simple=1, \
 		/obj/item/stock_parts/cell/ammo/ultracite=2, \
 		/obj/item/binoculars=1,\
 		/obj/item/reagent_containers/hypospray/medipen/stimpak/super=2, \
@@ -99,8 +95,6 @@ Medic
 	display_order = JOB_DIS_PLAY_ORDER_US_MEDIC
 	outfit = /datum/outfit/job/enclave/f13usmedic
 
-	access = list()
-	minimal_access = list()
 
 /datum/outfit/job/enclave/f13usmedic
 	name = "US Medic"
@@ -117,7 +111,6 @@ Medic
 		/obj/item/kitchen/knife/combat=1, \
 		/obj/item/gun/energy/laser/aer14=1, \
 		/obj/item/stock_parts/cell/ammo/mfc=2,\
-		/obj/item/ammo_box/magazine/m10mm_adv/simple=2,\
 		/obj/item/reagent_containers/hypospray/medipen/stimpak/super=2, \
 		/obj/item/reagent_containers/dropper/SR/NotVault = 1,\
 		/obj/item/reagent_containers/hypospray/CMO=1,\
@@ -142,8 +135,6 @@ Private
 	exp_type = EXP_TYPE_ENCLAVE
 	display_order = JOB_DIS_PLAY_ORDER_US_PRIVATE
 	outfit = /datum/outfit/job/enclave/f13usprivate
-	access = list()
-	minimal_access = list()
 
 /datum/outfit/job/enclave/f13usprivate
 	name = "US Private"
@@ -154,15 +145,13 @@ Private
 	belt = /obj/item/storage/belt/military/assault
 	head = /obj/item/clothing/head/helmet/f13/power_armor/advanced
 	mask = /obj/item/clothing/mask/gas/sechailer/swat
-	suit_store = /obj/item/gun/ballistic/automatic/ar
+	suit_store = /obj/item/gun/energy/laser/aer14
 	backpack_contents = list(
 		/obj/item/shield/energy=1, \
 		/obj/item/kitchen/knife/combat=1, \
-		/obj/item/gun/energy/laser/aer14=1, \
 		/obj/item/stock_parts/cell/ammo/mfc=2, \
 		/obj/item/gun/energy/laser/plasma/glock=1, \
 		/obj/item/stock_parts/cell/ammo/ec=2, \
-		/obj/item/ammo_box/magazine/m556/rifle/assault=2, \
 		/obj/item/reagent_containers/hypospray/medipen/stimpak/super=2, \
 		/obj/item/binoculars=1, \
 		/obj/item/healthanalyzer/advanced=1
@@ -184,9 +173,6 @@ Scientist
 	display_order = JOB_DIS_PLAY_ORDER_US_SCIENTIST
 	outfit = /datum/outfit/job/enclave/f13usscientist
 
-	access = list()
-	minimal_access = list()
-
 /datum/outfit/job/enclave/f13usscientist
 	name = "US Scientist"
 	jobtype = /datum/job/enclave/f13usscientist
@@ -205,9 +191,7 @@ Scientist
 		/obj/item/shield/energy=1, \
 		/obj/item/kitchen/knife/combat=1, \
 		/obj/item/gun/energy/laser/aer14=1, \
-		/obj/item/gun/ballistic/automatic/pistol/n99=1, \
 		/obj/item/stock_parts/cell/ammo/mfc=2, \
-		/obj/item/ammo_box/magazine/m10mm_adv/simple=2, \
 		/obj/item/reagent_containers/hypospray/medipen/stimpak/super=2, \
 		/obj/item/healthanalyzer/advanced=1
 		)
@@ -229,9 +213,6 @@ Engineer
 	display_order = JOB_DIS_PLAY_ORDER_US_ENGINEER
 	outfit = /datum/outfit/job/enclave/f13usengineer
 
-	access = list()
-	minimal_access = list()
-
 /datum/outfit/job/enclave/f13usengineer
 	name = "US Engineer"
 	jobtype = /datum/job/enclave/f13usengineer
@@ -250,9 +231,7 @@ Engineer
 		/obj/item/shield/energy=1, \
 		/obj/item/kitchen/knife/combat=1, \
 		/obj/item/gun/energy/laser/aer14=1, \
-		/obj/item/gun/ballistic/automatic/pistol/n99=1, \
 		/obj/item/stock_parts/cell/ammo/mfc=2, \
-		/obj/item/ammo_box/magazine/m10mm_adv/simple=2, \
 		/obj/item/reagent_containers/hypospray/medipen/stimpak/super=2, \
 		/obj/item/stack/sheet/metal/fifty=1, \
 		/obj/item/stack/sheet/glass/fifty=1, \
