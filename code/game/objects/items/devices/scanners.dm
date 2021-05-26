@@ -520,7 +520,7 @@ GENETICS SCANNER
 			to_chat(usr, "The scanner now shows specific limb damage.")
 		if(0)
 			to_chat(usr, "The scanner no longer shows limb damage.")
-
+x
 /obj/item/healthanalyzer/advanced
 	name = "advanced health analyzer"
 	icon_state = "health_adv"
@@ -628,9 +628,9 @@ GENETICS SCANNER
 	var/turf/location = get_turf(user)
 	if(!istype(location))
 		return
-	
+
 	scan_turf(user, location)
-	
+
 /obj/item/analyzer/AltClick(mob/user) //Barometer output for measuring when the next storm happens
 	. = ..()
 

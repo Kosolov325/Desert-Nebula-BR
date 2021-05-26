@@ -153,7 +153,7 @@
 	var/datum/outfit/job/O = outfit_override || outfit
 	if(O)
 		H.equipOutfit(O, visualsOnly, preference_source) //mob doesn't have a client yet.
-	
+
 	//If we have any additional loadouts, notify the player
 	if(!visualsOnly && LAZYLEN(loadout_options))
 		H.enable_loadout_select()

@@ -368,6 +368,7 @@
 				"NCR Scout", "NCR Scout Sergeant", "NCR Scout Lieutenant",
 				"Chief of Security", "Vault-tec Doctor", "Vault-tec Scientist",
 				"Vault-tec Security", "Vault-tec Engineer", "Vault Dweller", "Settler",
+				"US Commander", "US Commander", "US Medic", "US Private", "US Scientist", "US Engineer",
 				"Wastelander", "Raider", "Great Khan", "Preacher", "Head Hunter", "Chief", "Shaman", "Villager", "Hunter")
 
 /proc/get_all_job_icons() //For all existing HUD icons

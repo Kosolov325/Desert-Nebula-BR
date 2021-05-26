@@ -1,8 +1,8 @@
 // BEGIN_INTERNALS
 /*
 MAP_ZOOM: 1.000
-LAST_COMPILE_TIME: 1621886502
-DIR: code\__HELPERS code\datums code\game 
+LAST_COMPILE_TIME: 1622044445
+DIR: _maps\map_files _maps\map_files\Pahrump _maps\map_files\Pahrump\old _maps\map_files\Portland _maps\map_files\PossumMap _maps\map_files\Sunnyvale _maps\map_files\templates _maps\map_files\VaultValley _maps\shuttles code\__DEFINES code\__HELPERS code\controllers code\controllers\configuration code\controllers\configuration\entries code\controllers\subsystem code\modules code\modules\admin code\modules\client code\modules\jobs code\modules\mob code\modules\mob\dead code\modules\mob\dead\new_player 
 AUTO_FILE_DIR: OFF
 MAP_ICON_TYPE: 0
 LAST_COMPILE_VERSION: 513.1542

@@ -67,60 +67,24 @@ GLOBAL_LIST_INIT(command_positions, list(
 
 GLOBAL_LIST_INIT(silicon_whitelist_positions, list(
 "Mr. Handy"))
+
+GLOBAL_LIST_INIT(enclave_positions, list(
+"US Commander",
+"US Medic",
+"US Private",
+"US Scientist",
+"US Engineer"
+))
+
 //Whitelisted positions list FO13 anything that shows up here requires that the user have an entry in the 'role_whitelist' table of id,ckey,"faction"
 //NCR Assistant and Legion Camp Follower re-added to whitelisting.  BoS Initiate removed from whitelist.
 
 GLOBAL_LIST_INIT(faction_whitelist_positions, list(
-"Head Scribe",
-"Elder",
-"Head Paladin",
-"Head Knight",
-"Head Scribe",
-"Star Paladin",
-"Paladin",
-"Star Knight",
-"Knight",
-"Proctor",
-"Scribe",
-"BoS Off-Duty",
-
-"Legion Centurion",
-"Legion Venator",
-"Legion Veteran Decanus",
-"Veteran Legionary",
-"Legion Prime Decanus",
-"Prime Legionary",
-"Legion Recruit Decanus",
-"Legion Scout",
-"Legion Explorer",
-"Auxilia",
-"Legion Slave",
-
-"Mayor",
-"Sheriff",
-"Deputy",
-"Shopkeeper",
-"Doctor",
-"Prospector",
-"Detective",
-
-"Chief",
-"Shaman",
-"Head Hunter",
-"Druid",
-"Hunter",
-
-"Followers Administrator",
-"Followers Doctor",
-"Followers Guard",
-
-"Cyborg",
-"Overseer",
-"Chief of Security",
-"Vault-tec Doctor",
-"Vault-tec Scientist",
-"Vault-tec Security",
-"Vault-tec Engineer"
+"US Commander",
+"US Medic",
+"US Private",
+"US Scientist",
+"US Engineer"
 ))
 
 GLOBAL_LIST_INIT(faction_player_positions, list(
@@ -339,6 +303,7 @@ GLOBAL_LIST_INIT(exp_jobsmap, list(
 
 	EXP_TYPE_TRIBALCOMMAND = list("titles" = list("Chief","Shaman","Head Hunter")),
 	EXP_TYPE_FOLLOWERSCOMMAND = list("titles" = list("Followers Administrator")),
+	EXP_TYPE_ENCLAVE = list("titles" = enclave_positions),
 	EXP_TYPE_NCRCOMMAND    = list("titles" = list("NCR Lieutenant","NCR Sergeant First Class","NCR Captain", "NCR Veteran Ranger"))
 
 
