@@ -1,7 +1,7 @@
 /proc/job_is_whitelist_locked(jobtitle)
-	if(!CONFIG_GET(flag/use_role_whitelist) && (jobtitle in (GLOB.enclave_positions | list("AI"))))
+	if(!CONFIG_GET(flag/use_role_whitelist) && (jobtitle in (GLOB.enclave_positions | GLOB.general_high_command_positions | list("AI"))))
 		return FALSE
-	if(!CONFIG_GET(flag/use_role_whitelist) && !(jobtitle in (GLOB.enclave_positions | list("AI"))))
+	if(!CONFIG_GET(flag/use_role_whitelist) && !(jobtitle in (GLOB.enclave_positions | GLOB.general_high_command_positions | list("AI"))))
 		return FALSE
 	return TRUE
 
@@ -40,6 +40,14 @@
 
 	if(whitelists["enclave"])
 		for(var/rtypeWL in GLOB.enclave_positions)
+			play_records[rtypeWL] = rtypeWL
+
+	if(!whitelists["high"])
+		for(var/rtypeWL in GLOB.general_high_command_positions)
+			play_records[rtypeWL] = 0
+
+	if(whitelists["high"])
+		for(var/rtypeWL in GLOB.general_high_command_positions)
 			play_records[rtypeWL] = rtypeWL
 /*
 	if(!whitelists["faction"])							// if they do not have faction whitelist, remove faction whitelist positions This whitelist is for all roles.

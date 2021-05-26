@@ -1,8 +1,8 @@
 // BEGIN_INTERNALS
 /*
 MAP_ZOOM: 1.000
-LAST_COMPILE_TIME: 1622044445
-DIR: _maps\map_files _maps\map_files\Pahrump _maps\map_files\Pahrump\old _maps\map_files\Portland _maps\map_files\PossumMap _maps\map_files\Sunnyvale _maps\map_files\templates _maps\map_files\VaultValley _maps\shuttles code\__DEFINES code\__HELPERS code\controllers code\controllers\configuration code\controllers\configuration\entries code\controllers\subsystem code\modules code\modules\admin code\modules\client code\modules\jobs code\modules\mob code\modules\mob\dead code\modules\mob\dead\new_player 
+LAST_COMPILE_TIME: 1622064675
+DIR: _maps _maps\map_files _maps\map_files\Pahrump _maps\map_files\Pahrump\old _maps\map_files\Portland _maps\map_files\PossumMap _maps\map_files\Sunnyvale _maps\map_files\templates _maps\map_files\VaultValley _maps\shuttles code code\__DEFINES code\__HELPERS code\modules code\modules\clothing code\modules\clothing\head code\modules\clothing\suits code\modules\clothing\under code\modules\jobs code\modules\jobs\job_types code\modules\mob code\modules\mob\living code\modules\mob\living\simple_animal code\modules\mob\living\simple_animal\hostile code\modules\mob\living\simple_animal\hostile\f13 code\modules\projectiles code\modules\projectiles\ammunition code\modules\projectiles\ammunition\energy sound sound\f13ambience 
 AUTO_FILE_DIR: OFF
 MAP_ICON_TYPE: 0
 LAST_COMPILE_VERSION: 513.1542

@@ -64,6 +64,17 @@ GLOBAL_LIST_INIT(command_positions, list(
 
 	"Followers Administrator"
 	))
+GLOBAL_LIST_INIT(general_high_command_positions, list(
+"Elder",
+"Coven Witch",
+"NOPE",
+"Legion Orator",
+"Legion Vexillarius",
+"Legion Slavemaster",
+"Priestess of Mars",
+"NCR Colonel",
+"NCR Captain"
+))
 
 GLOBAL_LIST_INIT(silicon_whitelist_positions, list(
 "Mr. Handy"))

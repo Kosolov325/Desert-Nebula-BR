@@ -53,8 +53,8 @@ Elder
 	selection_color = "#7f8c8d"
 	req_admin_notify = 1
 
-	total_positions = 0
-	spawn_positions = 0
+	total_positions = 1
+	spawn_positions = 1
 
 	outfit = /datum/outfit/job/bos/f13elder
 

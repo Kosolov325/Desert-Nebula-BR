@@ -70,7 +70,7 @@ Commander
 	head = /obj/item/clothing/head/helmet/f13/power_armor/advanced/mk2
 	mask = /obj/item/clothing/mask/gas/sechailer/swat
 	gunsmith_three = TRUE
-	suit_store = /obj/item/gun/ballistic/automatic/ar
+	suit_store = /obj/item/gun/energy/laser/ultra_rifle
 	backpack_contents = list(
 		/obj/item/shield/energy=1, \
 		/obj/item/kitchen/knife/combat=1, \
@@ -78,7 +78,7 @@ Commander
 		/obj/item/gun/ballistic/automatic/pistol/n99=1,\
 		/obj/item/stock_parts/cell/ammo/mfc=2, \
 		/obj/item/ammo_box/magazine/m10mm_adv/simple=1, \
-		/obj/item/ammo_box/magazine/m556/rifle/assault=2, \
+		/obj/item/stock_parts/cell/ammo/ultracite=2, \
 		/obj/item/binoculars=1,\
 		/obj/item/reagent_containers/hypospray/medipen/stimpak/super=2, \
 		/obj/item/healthanalyzer/advanced=1
@@ -200,7 +200,7 @@ Scientist
 	mask = /obj/item/clothing/mask/gas/sechailer/swat
 	glasses = /obj/item/clothing/glasses/sunglasses/big
 	chemwhiz = TRUE
-	suit_store = /obj/item/gun/energy/ionrifle/carbine
+	suit_store = /obj/item/gun/energy/plasma/rifle
 	backpack_contents = list(
 		/obj/item/shield/energy=1, \
 		/obj/item/kitchen/knife/combat=1, \
@@ -209,7 +209,6 @@ Scientist
 		/obj/item/stock_parts/cell/ammo/mfc=2, \
 		/obj/item/ammo_box/magazine/m10mm_adv/simple=2, \
 		/obj/item/reagent_containers/hypospray/medipen/stimpak/super=2, \
-		/obj/item/stock_parts/cell/ammo/ec=2, \
 		/obj/item/healthanalyzer/advanced=1
 		)
 
