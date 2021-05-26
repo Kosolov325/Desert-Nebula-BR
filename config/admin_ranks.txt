@@ -45,7 +45,7 @@ Game Master		= +EVERYTHING *EVERYTHING
 Lazy Master 	= +EVERYTHING -AUTOLOGIN *EVERYTHING
 
 Host			= +EVERYTHING *EVERYTHING
-Kosolov                 = +@
-Elder                   = +@
+Kosolov                 = +EVERYTHING *EVERYTHING
+Elder                   = +EVERYTHING *EVERYTHING
 
 Coder			= +DEBUG +VAREDIT +SERVER +SPAWN +POLL -AUTOLOGIN

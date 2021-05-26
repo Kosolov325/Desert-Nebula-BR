@@ -21,3 +21,4 @@ sound/f13music/praise_the_lord.ogg
 sound/f13music/hope_country_choir.ogg
 sound/f13music/praise_the_lord.ogg
 sound/f13music/hope_country_choir.ogg
+sound/f13music/praise_the_lord.ogg
