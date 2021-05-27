@@ -72,10 +72,10 @@ Commander
 	backpack_contents = list(
 		/obj/item/shield/energy=1, \
 		/obj/item/kitchen/knife/combat=1, \
-		/obj/item/gun/energy/laser/aer14=1, \
-		/obj/item/stock_parts/cell/ammo/mfc=2, \
 		/obj/item/stock_parts/cell/ammo/ultracite=2, \
 		/obj/item/binoculars=1,\
+		/obj/item/gun/energy/laser/plasma/glock=1, \
+		/obj/item/stock_parts/cell/ammo/ec=2, \
 		/obj/item/reagent_containers/hypospray/medipen/stimpak/super=2, \
 		/obj/item/healthanalyzer/advanced=1
 		)
@@ -230,11 +230,10 @@ Engineer
 	backpack_contents = list(
 		/obj/item/shield/energy=1, \
 		/obj/item/kitchen/knife/combat=1, \
-		/obj/item/gun/energy/laser/aer14=1, \
-		/obj/item/stock_parts/cell/ammo/mfc=2, \
 		/obj/item/reagent_containers/hypospray/medipen/stimpak/super=2, \
 		/obj/item/stack/sheet/metal/fifty=1, \
 		/obj/item/stack/sheet/glass/fifty=1, \
+		/obj/item/grenade/plastic/c4=2,
 		/obj/item/storage/fancy/ammobox/lethalshot=3, \
 		/obj/item/healthanalyzer/advanced=1
 		)

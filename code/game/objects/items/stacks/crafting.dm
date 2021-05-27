@@ -12,7 +12,7 @@
 	name = "metal parts"
 	icon_state = "sheet-metalparts"
 	singular_name = "metal part"
-	custom_materials = list(/datum/material/iron = 20000)
+	custom_materials = list(/datum/material/iron = 10000)
 	flags_1 = CONDUCT_1
 	merge_type = /obj/item/stack/crafting/metalparts
 

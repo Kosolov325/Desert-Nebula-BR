@@ -1,3 +1,5 @@
 
 *.rsc
 data/logs/*
+*.lk
+*.dmb
