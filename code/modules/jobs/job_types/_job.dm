@@ -137,7 +137,7 @@
 		bank_account.account_id = rand(111111,999999)
 		bank_account.payday(STARTING_PAYCHECKS, TRUE)
 		H.account_id = bank_account.account_id
-	if(CONFIG_GET(flag/enforce_human_authority) && (title in GLOB.command_positions))
+	if(CONFIG_GET(flag/enforce_human_authority))
 		if(H.dna.species.id != "human")
 			H.set_species(/datum/species/human)
 			H.apply_pref_name("human", preference_source)

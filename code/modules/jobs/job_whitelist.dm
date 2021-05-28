@@ -1,7 +1,7 @@
 /proc/job_is_whitelist_locked(jobtitle)
-	if(!CONFIG_GET(flag/use_role_whitelist) && (jobtitle in (GLOB.enclave_positions | GLOB.general_high_command_positions | list("AI"))))
+	if(!CONFIG_GET(flag/use_role_whitelist) && (jobtitle in (GLOB.general_high_command_positions | list("AI"))))
 		return FALSE
-	if(!CONFIG_GET(flag/use_role_whitelist) && !(jobtitle in (GLOB.enclave_positions | GLOB.general_high_command_positions | list("AI"))))
+	if(!CONFIG_GET(flag/use_role_whitelist) && !(jobtitle in (GLOB.general_high_command_positions | list("AI"))))
 		return FALSE
 	return TRUE
 
@@ -33,10 +33,6 @@
 		play_records[rtype] = rtype
 
 	qdel(whitelist_read)
-
-	if(!whitelists["enclave"])							// if they do not have faction whitelist, remove faction whitelist positions This whitelist is for all roles.
-		for(var/rtypeWL in GLOB.enclave_positions)
-			play_records[rtypeWL] = 0
 
 	if(!whitelists["high"])							// if they do not have standard whitelist, remove standard whitelist positions. This whitelist is for all faction non-leadership roles.
 		for(var/rtypeWL in GLOB.general_high_command_positions)
@@ -83,10 +79,6 @@
 		for(var/rtypeWL in GLOB.vault_positions)
 			play_records[rtypeWL] = 0
 	*/
-
-	if(!whitelists["enclave"])						 // if they do not have antagonist whitelist, remove antagonist whitelist positions
-		for(var/rtypeWL in GLOB.enclave_positions)
-			play_records[rtypeWL] = 0
 
 	if(whitelists["high"])
 		for(var/rtypeWL in GLOB.general_high_command_positions)
