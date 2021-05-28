@@ -1,0 +1,13 @@
+﻿C:\Users\Ausiane\Desktop\Coding\ss13\desertrose\tools\bootstrap/.cache/python-3.6.8/python.exe
+-m
+mapmerge2.fixup
+---
+A merge commit was encountered before good versions of these maps were found:
+Traceback (most recent call last):
+  File "runpy.py", line 193, in _run_module_as_main
+  File "runpy.py", line 85, in _run_code
+  File "C:\Users\Ausiane\Desktop\Coding\ss13\desertrose\tools\mapmerge2\fixup.py", line 132, in <module>
+    exit(main(pygit2.Repository(pygit2.discover_repository(os.getcwd()))))
+  File "C:\Users\Ausiane\Desktop\Coding\ss13\desertrose\tools\mapmerge2\fixup.py", line 99, in main
+    print("\n".join(f"    {x}" for x in head_files.keys() - base_files.keys()))
+NameError: name 'base_files' is not defined
