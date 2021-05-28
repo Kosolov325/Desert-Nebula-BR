@@ -35,7 +35,7 @@
 	qdel(whitelist_read)
 
 	if(!whitelists["enclave"])							// if they do not have faction whitelist, remove faction whitelist positions This whitelist is for all roles.
-		for(var/rtypeWL in enclave_positions)
+		for(var/rtypeWL in GLOB.enclave_positions)
 			play_records[rtypeWL] = 0
 
 	if(!whitelists["high"])							// if they do not have standard whitelist, remove standard whitelist positions. This whitelist is for all faction non-leadership roles.
