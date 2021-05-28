@@ -52,7 +52,7 @@ Commander
 	selection_color = "#aaaaf7"
 	exp_type = EXP_TYPE_ENCLAVE
 	description = "You are the acting US Commander, your goals is to find a base and make the US government and Enclave goals arise."
-	display_order = JOB_DIS_PLAY_ORDER_US_COMMANDER
+	display_order = JOB_DISPLAY_ORDER_US_COMMANDER
 
 	outfit = /datum/outfit/job/enclave/f13uscommander
 
@@ -92,7 +92,7 @@ Medic
 	supervisors = "the commander"
 	selection_color = "#ccccff"
 	exp_type = EXP_TYPE_ENCLAVE
-	display_order = JOB_DIS_PLAY_ORDER_US_MEDIC
+	display_order = JOB_DISPLAY_ORDER_US_MEDIC
 	outfit = /datum/outfit/job/enclave/f13usmedic
 
 
@@ -133,7 +133,7 @@ Private
 	supervisors = "the commander"
 	selection_color = "#ccccff"
 	exp_type = EXP_TYPE_ENCLAVE
-	display_order = JOB_DIS_PLAY_ORDER_US_PRIVATE
+	display_order = JOB_DISPLAY_ORDER_US_PRIVATE
 	outfit = /datum/outfit/job/enclave/f13usprivate
 
 /datum/outfit/job/enclave/f13usprivate
@@ -170,7 +170,7 @@ Scientist
 	supervisors = "the commander"
 	selection_color = "#ccccff"
 	exp_type = EXP_TYPE_ENCLAVE
-	display_order = JOB_DIS_PLAY_ORDER_US_SCIENTIST
+	display_order = JOB_DISPLAY_ORDER_US_SCIENTIST
 	outfit = /datum/outfit/job/enclave/f13usscientist
 
 /datum/outfit/job/enclave/f13usscientist
@@ -210,7 +210,7 @@ Engineer
 	supervisors = "the commander"
 	selection_color = "#ccccff"
 	exp_type = EXP_TYPE_ENCLAVE
-	display_order = JOB_DIS_PLAY_ORDER_US_ENGINEER
+	display_order = JOB_DISPLAY_ORDER_US_ENGINEER
 	outfit = /datum/outfit/job/enclave/f13usengineer
 
 /datum/outfit/job/enclave/f13usengineer
