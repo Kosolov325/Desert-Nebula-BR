@@ -1,7 +1,7 @@
 /proc/job_is_whitelist_locked(jobtitle)
-	if(!CONFIG_GET(flag/use_role_whitelist) && (jobtitle in (GLOB.general_high_command_positions | list("AI"))))
+	if(!CONFIG_GET(flag/use_role_whitelist) && (jobtitle in (GLOB.general_high_command_positions | GLOB.enclave_positions | list("AI"))))
 		return FALSE
-	if(!CONFIG_GET(flag/use_role_whitelist) && !(jobtitle in (GLOB.general_high_command_positions | list("AI"))))
+	if(!CONFIG_GET(flag/use_role_whitelist) && !(jobtitle in (GLOB.general_high_command_positions | GLOB.enclave_positions | list("AI"))))
 		return FALSE
 	return TRUE
 
@@ -37,6 +37,11 @@
 	if(!whitelists["high"])							// if they do not have standard whitelist, remove standard whitelist positions. This whitelist is for all faction non-leadership roles.
 		for(var/rtypeWL in GLOB.general_high_command_positions)
 			play_records[rtypeWL] = 0
+
+	if(!whitelists["enclave"])							// if they do not have standard whitelist, remove standard whitelist positions. This whitelist is for all faction non-leadership roles.
+		for(var/rtypeWL in GLOB.enclave_positions)
+			play_records[rtypeWL] = 0
+
 
 	/*
 	if(!whitelists["leadership_bos"])					// if they do not have leadership_bos whitelist, remove leadership_bos whitelist positions
@@ -82,6 +87,10 @@
 
 	if(whitelists["high"])
 		for(var/rtypeWL in GLOB.general_high_command_positions)
+			play_records[rtypeWL] = rtypeWL
+
+	if(whitelists["enclave"])							// if they do not have standard whitelist, remove standard whitelist positions. This whitelist is for all faction non-leadership roles.
+		for(var/rtypeWL in GLOB.enclave_positions)
 			play_records[rtypeWL] = rtypeWL
 
 	prefs.job_whitelists = play_records
