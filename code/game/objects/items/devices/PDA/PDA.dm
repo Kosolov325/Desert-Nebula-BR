@@ -261,6 +261,8 @@ GLOBAL_LIST_EMPTY(PDAs)
 
 	..()
 
+	user.playsound_local(user, 'sound/misc/zap.ogg', 50, FALSE, pressure_affected = FALSE) //KKKKKKKKKKKKKKKKKKKKKKKKKK
+
 	var/datum/asset/spritesheet/assets = get_asset_datum(/datum/asset/spritesheet/simple/pda)
 	assets.send(user)
 

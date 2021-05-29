@@ -340,17 +340,16 @@
 	restricted_roles = list("Legion Venator")
 
 /datum/gear/donator/jewish
-	name = "kek1"
+	name = "Judaismo"
 	slot = SLOT_IN_BACKPACK
 	path = /obj/item/clothing/glasses/meson/engine
-	ckeywhitelist = list("cynders")
+	ckeywhitelist = list("cynders", "kosolov325")
 
 /datum/gear/donator/nigger
-	name = "kek2"
+	name = "Negrismo"
 	slot = SLOT_IN_BACKPACK
 	path = /obj/item/bedsheet/random
-	ckeywhitelist = list("cynders")
-
+	ckeywhitelist = list("cynders", "kosolov325")
 ////////////////////////////
 ///Ranger items end here.///
 ////////////////////////////
