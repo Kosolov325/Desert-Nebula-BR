@@ -1,7 +1,7 @@
 ## Desert Rose NEBULA BR
 Based and maintained from Citadel Station.
 
-[![Build Status](https://github.com/Kosolov325/Desert-Nebula-BR/actions/workflows/ci_suite.yml/badge.svg?branch=master&event=push)](https://github.com/Kosolov325/Desert-Nebula-BR/actions) 
+[![Build Status](https://github.com/Kosolov325/Desert-Nebula-BR/actions/workflows/blank.yml/badge.svg?branch=master&event=push)](https://github.com/Kosolov325/Desert-Nebula-BR/actions) 
 
 **Credits**
 
