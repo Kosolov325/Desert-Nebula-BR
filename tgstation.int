@@ -1,8 +1,8 @@
 // BEGIN_INTERNALS
 /*
 MAP_ZOOM: 1.000
-LAST_COMPILE_TIME: 1622308671
-DIR: _maps\map_files _maps\map_files\Pahrump _maps\map_files\Pahrump\old _maps\map_files\Portland _maps\map_files\PossumMap _maps\map_files\Sunnyvale _maps\map_files\templates _maps\map_files\VaultValley _maps\shuttles code code\__DEFINES code\__DEFINES\combat code\__DEFINES\dcs code\controllers code\controllers\subsystem code\datums code\datums\components code\datums\looping_sounds code\game code\game\gamemodes code\game\gamemodes\clock_cult code\game\gamemodes\sandbox code\game\machinery code\game\mecha code\game\mecha\combat code\game\objects code\game\objects\items code\game\objects\items\devices code\game\objects\items\devices\PDA code\game\objects\items\devices\radio code\modules code\modules\keybindings code\modules\keybindings\keybind code\modules\mob code\modules\mob\living code\modules\mob\living\carbon code\modules\mob\living\carbon\alien code\modules\mob\living\carbon\monkey code\modules\rigsuits code\modules\rigsuits\modules code\modules\rigsuits\suits code\modules\unit_tests config icons icons\fallout icons\fallout\misc icons\mob 
+LAST_COMPILE_TIME: 1622819519
+DIR: _maps\map_files\Pahrump _maps\map_files\Pahrump\old _maps\map_files\Portland _maps\map_files\Portland\backup _maps\map_files\StJeromes\backup _maps\map_files\Sunnyvale _maps\map_files\VaultValley code code\__DEFINES code\_onclick code\_onclick\hud 
 AUTO_FILE_DIR: OFF
 MAP_ICON_TYPE: 0
 LAST_COMPILE_VERSION: 513.1542

@@ -120,7 +120,7 @@
 //	var/projectile_damage_multiplier = 1
 
 /*
-	var/automatic = 0 //can gun use it, 0 is no, anything above 0 is the delay between clicks in ds 
+	var/automatic = 0 //can gun use it, 0 is no, anything above 0 is the delay between clicks in ds
 */ //Disabled because automatic fire is buggy and a bit OP.
 
 /obj/item/gun/Initialize()
@@ -616,7 +616,7 @@
 		. += knife_overlay
 	else
 		knife_overlay = null
-	
+
 	if(scope)
 		if(scope.icon_state in icon_states('icons/obj/guns/scopes.dmi'))
 			scope_overlay = scope.icon_state
@@ -754,7 +754,7 @@
 		user.visible_message("<span class='notice'>[user] looks up from the scope of [src].</span>", "<span class='notice'>You look up from the scope of [src].</span>")
 
 /obj/item/gun/proc/on_walk(mob/living/L)
-	//zoom(L, FALSE)
+//	zoom(L, FALSE)
 
 /obj/item/gun/proc/rotate(mob/living/user, old_dir, direction = FALSE)
 	var/_x = 0
@@ -771,7 +771,7 @@
 	user.client.change_view(zoom_out_amt)
 	user.client.pixel_x = world.icon_size*_x
 	user.client.pixel_y = world.icon_size*_y
-		
+
 //Proc, so that gun accessories/scopes/etc. can easily add zooming.
 /obj/item/gun/proc/build_zooming()
 	if(azoom)

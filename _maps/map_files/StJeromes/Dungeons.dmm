@@ -277,7 +277,6 @@
 	icon_state = "remains"
 	},
 /obj/item/gun/ballistic/automatic/pistol/deagle,
-/obj/item/ammo_casing/a50AE,
 /obj/item/clothing/under/f13/bdu,
 /turf/open/floor/plasteel/f13/vault_floor/dark/darksolid,
 /area/f13/bunker/museum)
@@ -639,10 +638,6 @@
 /area/f13/bunker/museum)
 "cj" = (
 /mob/living/simple_animal/hostile/handy/gutsy,
-/turf/open/floor/plasteel/f13/vault_floor/dark/darksolid,
-/area/f13/bunker/museum)
-"ck" = (
-/mob/living/simple_animal/hostile/ghoul/hot,
 /turf/open/floor/plasteel/f13/vault_floor/dark/darksolid,
 /area/f13/bunker/museum)
 "cl" = (
@@ -3168,7 +3163,6 @@
 /turf/open/floor/wood/f13/old,
 /area/f13/wasteland)
 "kI" = (
-/obj/structure/booth,
 /obj/item/reagent_containers/food/snacks/burger/fish,
 /turf/open/floor/wood/f13/old,
 /area/f13/wasteland)
@@ -3180,7 +3174,6 @@
 /turf/open/floor/wood/f13/old,
 /area/f13/wasteland)
 "kK" = (
-/obj/structure/booth,
 /obj/item/reagent_containers/food/snacks/salad/desertsalad,
 /obj/item/reagent_containers/food/drinks/bottle/brown/green,
 /turf/open/floor/wood/f13/old,
@@ -3193,7 +3186,6 @@
 /turf/open/floor/wood/f13/old,
 /area/f13/wasteland)
 "kM" = (
-/obj/structure/booth,
 /obj/item/reagent_containers/food/snacks/salad/herbsalad,
 /turf/open/floor/wood/f13/old,
 /area/f13/wasteland)
@@ -3206,22 +3198,14 @@
 /turf/open/floor/wood/f13/old,
 /area/f13/wasteland)
 "kO" = (
-/obj/structure/booth,
 /obj/item/reagent_containers/food/snacks/salad/ricepudding,
 /turf/open/floor/wood/f13/old,
 /area/f13/wasteland)
 "kP" = (
-/obj/structure/booth,
 /obj/item/reagent_containers/food/snacks/burger/superbite,
 /turf/open/floor/wood/f13/old,
 /area/f13/wasteland)
-"kQ" = (
-/obj/structure/booth,
-/obj/effect/spawner/lootdrop/f13/foodspawner,
-/turf/open/floor/wood/f13/old,
-/area/f13/wasteland)
 "kR" = (
-/obj/structure/booth,
 /obj/item/reagent_containers/food/snacks/salad/jungle,
 /turf/open/floor/wood/f13/old,
 /area/f13/wasteland)
@@ -3230,10 +3214,6 @@
 /obj/item/stack/sheet/mineral/sandbags,
 /obj/item/stack/sheet/mineral/sandbags,
 /obj/item/stack/sheet/mineral/sandbags,
-/turf/open/indestructible/ground/outside/desert,
-/area/f13/wasteland)
-"kT" = (
-/obj/structure/kitchenspike/cross,
 /turf/open/indestructible/ground/outside/desert,
 /area/f13/wasteland)
 "kU" = (
@@ -3272,10 +3252,6 @@
 /turf/open/floor/wood/f13/old,
 /area/f13/wasteland)
 "kZ" = (
-/obj/structure/booth{
-	dir = 1;
-	icon_state = "booth_table_end"
-	},
 /obj/machinery/light,
 /obj/item/reagent_containers/food/snacks/salad/desertsalad,
 /turf/open/floor/wood/f13/old,
@@ -3296,13 +3272,6 @@
 /obj/item/target/alien,
 /turf/open/floor/wood/f13/old,
 /area/f13/wasteland)
-"lc" = (
-/obj/structure/booth{
-	dir = 1;
-	icon_state = "booth_table_end"
-	},
-/turf/open/floor/wood/f13/old,
-/area/f13/wasteland)
 "ld" = (
 /obj/structure/chair/left{
 	dir = 8;
@@ -3311,34 +3280,18 @@
 /turf/open/floor/wood/f13/old,
 /area/f13/wasteland)
 "le" = (
-/obj/structure/booth{
-	dir = 1;
-	icon_state = "booth_table_end"
-	},
 /obj/item/reagent_containers/food/snacks/salad/ricepork,
 /turf/open/floor/wood/f13/old,
 /area/f13/wasteland)
 "lf" = (
-/obj/structure/booth{
-	dir = 1;
-	icon_state = "booth_table_end"
-	},
 /obj/effect/spawner/lootdrop/f13/foodspawner,
 /turf/open/floor/wood/f13/old,
 /area/f13/wasteland)
 "lg" = (
-/obj/structure/booth{
-	dir = 1;
-	icon_state = "booth_table_end"
-	},
 /obj/item/reagent_containers/food/snacks/salad/desertsalad,
 /turf/open/floor/wood/f13/old,
 /area/f13/wasteland)
 "lh" = (
-/obj/structure/booth{
-	dir = 1;
-	icon_state = "booth_table_end"
-	},
 /obj/machinery/light,
 /obj/item/reagent_containers/food/snacks/salad/oatmeal,
 /turf/open/floor/wood/f13/old,
@@ -4727,25 +4680,10 @@
 	icon_state = "darkdirtysolid"
 	},
 /area/f13/underground/cave)
-"pq" = (
-/obj/structure/booth,
-/turf/open/floor/f13{
-	icon_state = "darkdirtysolid"
-	},
-/area/f13/underground/cave)
 "pr" = (
 /obj/structure/chair/stool/retro/backed{
 	dir = 8;
 	icon_state = "nv_backed"
-	},
-/turf/open/floor/f13{
-	icon_state = "darkdirtysolid"
-	},
-/area/f13/underground/cave)
-"ps" = (
-/obj/structure/booth{
-	dir = 1;
-	icon_state = "booth_table_end"
 	},
 /turf/open/floor/f13{
 	icon_state = "darkdirtysolid"
@@ -7255,8 +7193,8 @@ aa
 aa
 aa
 po
-pq
-ps
+oV
+oV
 oV
 po
 po
@@ -19090,7 +19028,7 @@ jM
 hC
 hx
 kK
-lc
+hx
 lo
 ib
 ib
@@ -19861,7 +19799,7 @@ ky
 kD
 hx
 kM
-lc
+hx
 lo
 ib
 ib
@@ -22173,7 +22111,7 @@ hx
 hx
 hx
 hx
-kQ
+lf
 lg
 lo
 ib
@@ -24743,7 +24681,7 @@ ku
 ku
 kE
 jM
-kT
+hu
 ik
 iv
 ib
@@ -26028,7 +25966,7 @@ ku
 ku
 kF
 jM
-kT
+hu
 hT
 ib
 ib
@@ -57027,7 +56965,7 @@ aU
 bH
 aU
 aS
-ck
+aS
 aS
 ag
 af
@@ -58309,7 +58247,7 @@ aS
 aS
 aS
 aS
-ck
+aS
 aS
 bH
 bH

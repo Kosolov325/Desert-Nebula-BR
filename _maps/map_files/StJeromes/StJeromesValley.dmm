@@ -394,8 +394,6 @@
 /obj/structure/rack,
 /obj/item/stack/sheet/metal/ten,
 /obj/item/stack/sheet/glass/ten,
-/obj/item/dna_probe,
-/obj/item/circuitboard/machine/dna_vault,
 /obj/item/circuitboard/machine/cryo_tube,
 /obj/item/circuitboard/machine/clonepod/experimental,
 /turf/open/floor/plasteel/f13/vault_floor/purple/whitepurplefull,
@@ -1081,10 +1079,6 @@
 	},
 /turf/open/floor/plasteel/f13/vault_floor/red/redchess/redchess2,
 /area/f13/vault)
-"acW" = (
-/obj/item/reagent_containers/food/snacks/monkeycube,
-/turf/open/floor/plasteel/f13/vault_floor/plating,
-/area/f13/vault)
 "acX" = (
 /mob/living/simple_animal/hostile/radroach,
 /turf/open/floor/plasteel/f13/vault_floor/plating,
@@ -1477,7 +1471,6 @@
 /obj/item/clothing/head/f13/boscap,
 /obj/item/clothing/gloves/color/white/bos,
 /obj/item/clothing/under/f13/bosformgold_m,
-/obj/item/clothing/shoes/laceup/bos,
 /obj/item/clothing/under/f13/bosformgold_f,
 /obj/structure/closet/cabinet,
 /turf/open/floor/f13{
@@ -1586,21 +1579,12 @@
 /obj/machinery/chem_master/condimaster,
 /turf/open/floor/plasteel/freezer,
 /area/f13/vault)
-"ael" = (
-/obj/structure/piano,
-/turf/open/floor/plasteel/f13/vault_floor/misc/cafeteria,
-/area/f13/vault)
 "aem" = (
 /obj/machinery/light{
 	dir = 1;
 	light_color = "#706891"
 	},
 /turf/open/floor/plasteel/f13/vault_floor/misc/cafeteria,
-/area/f13/vault)
-"aen" = (
-/obj/structure/bed/mattress,
-/obj/item/clothing/mask/gas/sexyclown,
-/turf/open/floor/plasteel/f13/vault_floor/plating,
 /area/f13/vault)
 "aeo" = (
 /obj/item/slime_extract/grey,
@@ -1843,8 +1827,6 @@
 	light_color = "#d8b1b1"
 	},
 /obj/structure/closet/secure_closet/freezer/kitchen,
-/obj/item/reagent_containers/food/snacks/pemmican,
-/obj/item/reagent_containers/food/snacks/pemmican,
 /obj/machinery/camera{
 	c_tag = "Engineering Supermatter Starboard";
 	dir = 4;
@@ -3175,13 +3157,6 @@
 /obj/item/toy/cards/deck,
 /turf/open/floor/carpet/black,
 /area/f13/brotherhood)
-"aiN" = (
-/obj/structure/table/wood/poker,
-/obj/item/storage/pill_bottle/dice,
-/obj/item/storage/pill_bottle/dice,
-/obj/item/storage/pill_bottle/dice,
-/turf/open/floor/carpet/black,
-/area/f13/brotherhood)
 "aiO" = (
 /obj/structure/table/wood/poker,
 /turf/open/floor/carpet/black,
@@ -4096,7 +4071,7 @@
 /obj/machinery/porta_turret/syndicate{
 	faction = list("Enclave");
 	integrity_failure = 1;
-	lethal_projectile = /obj/item/projectile/plasmacaster;
+	lethal_projectile = /obj/item/projectile/energy/plasmabolt/rifle;
 	max_integrity = 20000
 	},
 /turf/open/floor/f13{
@@ -5201,10 +5176,6 @@
 	icon_state = "2-i"
 	},
 /area/f13/vault)
-"aoY" = (
-/obj/effect/gibspawner/humanbodypartless,
-/turf/open/floor/plasteel/grimy,
-/area/f13/vault)
 "aoZ" = (
 /obj/structure/bookcase/random/fiction,
 /turf/open/floor/wood,
@@ -5655,10 +5626,6 @@
 	},
 /turf/open/floor/plasteel/f13/vault_floor/neutral/neutralsolid,
 /area/f13/vault)
-"aqm" = (
-/obj/effect/gibspawner/humanbodypartless,
-/turf/open/floor/wood,
-/area/f13/vault)
 "aqn" = (
 /obj/effect/spawner/lootdrop/f13/junkspawners,
 /turf/open/floor/wood,
@@ -5858,7 +5825,6 @@
 /obj/machinery/light{
 	dir = 1
 	},
-/obj/item/grown/nettle/death,
 /turf/open/floor/f13{
 	icon_state = "grass2"
 	},
@@ -7325,27 +7291,12 @@
 	icon_state = "grass2"
 	},
 /area/f13/underground/cave/vault/fourfivefour)
-"auJ" = (
-/mob/living/simple_animal/hostile/ghoul/frozen,
-/turf/open/indestructible/ground/outside/snow,
-/area/f13/wasteland)
 "auK" = (
 /obj/structure/cable{
 	icon_state = "1-2"
 	},
 /turf/open/floor/plasteel/f13/vault_floor/red,
 /area/f13/vault)
-"auL" = (
-/obj/structure/lattice/catwalk,
-/obj/structure/piano{
-	desc = "What a wierd piano..";
-	name = "minimoog"
-	},
-/turf/open/water{
-	desc = "Shallow water heated by the earth below. It bubbles up, steaming the area and warming the body..";
-	name = "Hotsprings"
-	},
-/area/f13/klamat)
 "auM" = (
 /obj/structure/flora/ausbushes,
 /turf/open/floor/f13{
@@ -7695,7 +7646,6 @@
 /area/f13/underground/cave/vault/fourfivefour)
 "avD" = (
 /obj/structure/closet/wardrobe/genetics_white,
-/obj/item/dna_probe,
 /turf/open/floor/f13{
 	icon_state = "bluedirtychess2"
 	},
@@ -7766,12 +7716,6 @@
 /obj/structure/chair/comfy{
 	dir = 1
 	},
-/turf/open/floor/f13{
-	icon_state = "floorrusty"
-	},
-/area/f13/city)
-"avM" = (
-/mob/living/simple_animal/hostile/ghoul/frozen,
 /turf/open/floor/f13{
 	icon_state = "floorrusty"
 	},
@@ -8163,7 +8107,6 @@
 /area/f13/office)
 "axb" = (
 /obj/structure/rack,
-/obj/item/stack/sheet/durathreadraw,
 /turf/open/floor/f13{
 	icon_state = "floorrusty"
 	},
@@ -8328,10 +8271,6 @@
 	icon_state = "whitegreenrustychess"
 	},
 /area/f13/office)
-"axF" = (
-/mob/living/simple_animal/hostile/ghoul/hot,
-/turf/open/floor/plating/f13/inside/mountain,
-/area/f13/sewer)
 "axG" = (
 /obj/structure/table,
 /obj/item/reagent_containers/glass/bottle/potass_iodide,
@@ -8341,7 +8280,6 @@
 "axH" = (
 /obj/structure/table,
 /obj/item/clothing/head/f13/pot,
-/obj/item/reagent_containers/glass/beaker/large/ethanol,
 /turf/open/floor/plasteel/f13/vault_floor/plating,
 /area/f13/tunnel)
 "axI" = (
@@ -8405,10 +8343,6 @@
 	icon_state = "floorrusty"
 	},
 /area/f13/office)
-"axR" = (
-/mob/living/simple_animal/hostile/ghoul/hot,
-/turf/open/indestructible/ground/inside/subway,
-/area/f13/sewer)
 "axS" = (
 /obj/structure/simple_door/bunker,
 /turf/open/floor/plasteel/f13/vault_floor/plating,
@@ -9646,16 +9580,6 @@
 "aBU" = (
 /turf/closed/indestructible/vaultdoor,
 /area/shuttle/vault113_elevator)
-"aBV" = (
-/obj/structure/closet,
-/obj/item/clothing/under/f13/vault,
-/obj/item/clothing/under/f13/vault,
-/obj/item/clothing/suit/hooded/wintercoat/blue113,
-/obj/item/clothing/suit/hooded/wintercoat/blue113,
-/obj/item/clothing/suit/hooded/wintercoat/blue113,
-/obj/item/clothing/suit/hooded/wintercoat/blue113,
-/turf/open/floor/plasteel/f13/vault_floor/floor,
-/area/f13/vault)
 "aBW" = (
 /obj/structure/closet,
 /obj/item/clothing/under/f13/vault,
@@ -9844,10 +9768,6 @@
 	},
 /turf/open/floor/wood,
 /area/gateway)
-"aCI" = (
-/obj/machinery/gateway/centeraway,
-/turf/open/floor/wood,
-/area/gateway)
 "aCJ" = (
 /obj/machinery/gateway{
 	dir = 4
@@ -9970,12 +9890,6 @@
 /obj/structure/simple_door/bunker/glass,
 /turf/open/floor/plasteel/shuttle,
 /area/shuttle/vault113_elevator)
-"aDg" = (
-/obj/structure/table,
-/obj/item/clothing/suit/hooded/wintercoat/blue113,
-/obj/item/clothing/suit/hooded/wintercoat/blue113,
-/turf/open/floor/plasteel/f13/vault_floor/floor,
-/area/f13/vault)
 "aDh" = (
 /obj/machinery/light_switch,
 /turf/closed/wall/r_wall/f13/vault,
@@ -10457,7 +10371,6 @@
 /turf/open/indestructible/ground/outside/snow,
 /area/f13/wasteland)
 "aEP" = (
-/obj/item/flashlight/glowstick/random,
 /mob/living/simple_animal/hostile/raider/tribal,
 /turf/open/floor/plating/tunnel{
 	icon_state = "tunnelrusty"
@@ -10518,7 +10431,6 @@
 /turf/open/floor/plating/tunnel,
 /area/f13/underground/mountain)
 "aFb" = (
-/obj/item/flashlight/glowstick/random,
 /mob/living/simple_animal/hostile/raider/biker,
 /turf/open/floor/plating/tunnel{
 	icon_state = "tunnelrusty"
@@ -10602,7 +10514,6 @@
 /turf/open/floor/plating/ice/temperate,
 /area/f13/den)
 "aFp" = (
-/obj/item/flashlight/glowstick/random,
 /mob/living/simple_animal/hostile/raider/tribal,
 /turf/open/floor/plating/tunnel,
 /area/f13/underground/mountain)
@@ -11993,10 +11904,6 @@
 	icon_state = "floorrusty"
 	},
 /area/f13/city)
-"aJI" = (
-/mob/living/simple_animal/hostile/ghoul/frozen,
-/turf/open/indestructible/ground/inside/mountain,
-/area/f13/underground/mountain)
 "aJJ" = (
 /obj/structure/simple_door/room,
 /turf/open/floor/plasteel/f13{
@@ -12520,7 +12427,6 @@
 /turf/open/indestructible/ground/outside/sidewalk,
 /area/f13/building)
 "aLf" = (
-/obj/effect/landmark/start/f13/ncrspecialist,
 /turf/open/indestructible/ground/outside/sidewalk{
 	icon_state = "verticalrightborderright1"
 	},
@@ -12540,10 +12446,6 @@
 /area/f13/ncr)
 "aLk" = (
 /turf/open/floor/plating/f13/outside/desert,
-/area/f13/ncr)
-"aLl" = (
-/obj/effect/landmark/start/f13/ncrspecialist,
-/turf/open/indestructible/ground/outside/road,
 /area/f13/ncr)
 "aLm" = (
 /obj/item/candle,
@@ -12635,10 +12537,6 @@
 /obj/structure/simple_door/wood,
 /turf/open/floor/f13/wood,
 /area/f13/wasteland)
-"aLE" = (
-/obj/item/pickaxe/rust,
-/turf/open/indestructible/ground/inside/mountain,
-/area/f13/ncr)
 "aLF" = (
 /obj/structure/flora/wasteplant/wild_fungus,
 /turf/open/floor/plating/f13/outside/desert,
@@ -12655,7 +12553,6 @@
 /obj/machinery/light/small{
 	dir = 4
 	},
-/obj/effect/landmark/start/f13/ncrspecialist,
 /turf/open/indestructible/ground/outside/sidewalk{
 	icon_state = "verticalleftborderleft0"
 	},
@@ -13722,12 +13619,6 @@
 	},
 /turf/open/floor/plasteel/f13/vault_floor/misc/rarewhite,
 /area/f13/clinic)
-"aOI" = (
-/obj/item/bedsheet/mime,
-/turf/closed/mineral/snowmountain{
-	turf_type = /turf/open/floor/plating/f13/outside/desert
-	},
-/area/f13/underground/mountain)
 "aOJ" = (
 /obj/structure/table,
 /obj/item/reagent_containers/hypospray/medipen/stimpak,
@@ -15320,14 +15211,6 @@
 /obj/effect/spawner/lootdrop/f13/medical/wasteland/meds/drug,
 /turf/open/floor/carpet,
 /area/f13/casino)
-"aUh" = (
-/obj/structure/window/reinforced/tinted{
-	dir = 8
-	},
-/obj/structure/table/wood/fancy/black,
-/obj/item/clothing/mask/gas/sexymime,
-/turf/open/floor/carpet/black,
-/area/f13/casino)
 "aUi" = (
 /obj/item/storage/trash_stack,
 /turf/open/floor/carpet/black,
@@ -15444,7 +15327,6 @@
 	dir = 8
 	},
 /obj/structure/table/wood/fancy/black,
-/obj/item/clothing/mask/gas/sexyclown,
 /turf/open/floor/carpet/black,
 /area/f13/casino)
 "aUE" = (
@@ -22571,13 +22453,6 @@
 	icon_state = "housewood2"
 	},
 /area/f13/city)
-"bqN" = (
-/obj/structure/table/wood,
-/obj/item/pda/clown,
-/turf/open/floor/f13/wood{
-	icon_state = "housewood2"
-	},
-/area/f13/city)
 "bqO" = (
 /obj/structure/table/wood,
 /obj/item/pda/bar,
@@ -26660,8 +26535,7 @@
 /obj/structure/closet,
 /obj/effect/spawner/lootdrop/f13/weapon/melee/random,
 /obj/effect/spawner/lootdrop/clothing_low,
-//obj/effect/spawner/lootdrop/f13/weapon/gun/ammo/tier1,
-/turf/open/floor/f13/wood,
+//turf/open/floor/f13/wood,
 /area/f13/city)
 "bCk" = (
 /obj/structure/table/wood,
@@ -32906,10 +32780,7 @@
 /area/f13/sewer)
 "bSV" = (
 /obj/structure/table/wood,
-/obj/item/kitchen/knife/butcher{
-	icon_state = "butchblood"
-	},
-/obj/item/reagent_containers/food/snacks/meatball,
+/obj/item/kitchen/knife/butcher/obj/item/reagent_containers/food/snacks/meatball,
 /obj/item/reagent_containers/food/snacks/meatball,
 /obj/item/reagent_containers/food/snacks/meatball,
 /obj/item/reagent_containers/food/snacks/meatball,
@@ -33943,10 +33814,7 @@
 "bWw" = (
 /obj/structure/table/wood,
 /obj/item/flashlight/lantern,
-/obj/item/kitchen/knife/butcher{
-	icon_state = "butchblood"
-	},
-/turf/open/indestructible/ground/inside/mountain,
+/obj/item/kitchen/knife/butcher/turf/open/indestructible/ground/inside/mountain,
 /area/f13/shack)
 "bWx" = (
 /turf/open/indestructible/ground/inside/mountain,
@@ -36842,7 +36710,6 @@
 /area/f13/city)
 "cfn" = (
 /obj/structure/bed,
-/obj/item/bedsheet/mime,
 /turf/open/floor/wood{
 	icon_state = "housewood3"
 	},
@@ -48617,7 +48484,7 @@ aaf
 agD
 agA
 aic
-aiN
+aiO
 aiO
 aib
 agA
@@ -90223,7 +90090,7 @@ aaG
 app
 aaG
 aaG
-ael
+aev
 aeZ
 afs
 afW
@@ -91255,7 +91122,7 @@ aco
 apr
 bQT
 aop
-aoY
+ahA
 apj
 aoS
 aoS
@@ -91865,7 +91732,7 @@ aoZ
 apn
 apF
 aoS
-aqm
+aoS
 aoS
 ara
 aco
@@ -97288,10 +97155,10 @@ abd
 aaG
 aaG
 acm
-acW
+aco
 acp
 aco
-aen
+acm
 aaG
 aeO
 afj
@@ -119423,7 +119290,7 @@ avh
 awl
 axd
 awl
-axF
+axc
 axc
 afE
 afE
@@ -120033,7 +119900,7 @@ awl
 awl
 awl
 awl
-axR
+afE
 afE
 afE
 bAi
@@ -131278,7 +131145,7 @@ aBk
 aBk
 aBk
 aBk
-aLE
+aLj
 aLj
 aLk
 aLF
@@ -135561,7 +135428,7 @@ aRv
 aPX
 bDB
 aKR
-aLl
+aMe
 aLJ
 aRf
 aZJ
@@ -135670,7 +135537,7 @@ aBk
 aBk
 aBk
 aBk
-aJI
+aBQ
 aBQ
 aBQ
 aBk
@@ -135763,7 +135630,7 @@ aRv
 aPX
 bDB
 aKR
-aLl
+aMe
 aLJ
 aZn
 aZJ
@@ -135965,7 +135832,7 @@ aPX
 aPX
 bDB
 aKR
-aLl
+aMe
 aMe
 aMe
 bvn
@@ -136293,7 +136160,7 @@ aBQ
 aBQ
 aBQ
 aBQ
-aJI
+aBQ
 aBQ
 aBQ
 aBQ
@@ -138767,7 +138634,7 @@ atJ
 atJ
 atJ
 atJ
-aOI
+atJ
 atJ
 aBj
 aBj
@@ -155306,7 +155173,7 @@ aKQ
 aKQ
 aKQ
 bdq
-auL
+bFh
 aKV
 aKV
 aKV
@@ -158787,7 +158654,7 @@ aSE
 aSE
 aBl
 aBl
-auJ
+aDL
 bzm
 aCj
 aCj
@@ -178687,7 +178554,7 @@ aab
 atJ
 aaG
 aaG
-aBV
+aBW
 aCo
 aCo
 aCo
@@ -179297,7 +179164,7 @@ aBY
 aCo
 aCo
 aCo
-aDg
+aDa
 aCo
 aCo
 aCo
@@ -189032,7 +188899,7 @@ aIF
 bhQ
 bhQ
 bhQ
-avM
+bhQ
 bhQ
 biX
 aGe
@@ -189192,7 +189059,7 @@ aBm
 aBs
 aBI
 aCx
-aCI
+aBI
 aCY
 aBI
 aBI
@@ -190439,7 +190306,7 @@ aDL
 aDL
 aUT
 avI
-avM
+bhQ
 aCR
 aUT
 aIQ
@@ -190646,7 +190513,7 @@ bhQ
 aID
 bhQ
 bhQ
-avM
+bhQ
 aJq
 aJA
 aJA
@@ -196748,7 +196615,7 @@ aSm
 aSd
 aTw
 aTv
-aUh
+aUD
 aUD
 aUW
 aSd
@@ -270239,7 +270106,7 @@ bpX
 bpX
 bpX
 aUT
-avM
+bhQ
 bhQ
 bhQ
 aID
@@ -270248,7 +270115,7 @@ aJN
 aUM
 aJW
 bos
-avM
+bhQ
 aUT
 bpX
 bpX
@@ -275541,7 +275408,7 @@ bqF
 aWS
 aWS
 aWS
-bqN
+aXX
 aWS
 aWS
 bqC

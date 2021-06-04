@@ -308,12 +308,6 @@
 	},
 /turf/open/floor/f13,
 /area/space)
-"cA" = (
-/obj/structure/booth,
-/turf/open/floor/f13{
-	icon_state = "whiteyellowdirtychess2"
-	},
-/area/f13/building)
 "cB" = (
 /obj/machinery/light,
 /obj/structure/chair/comfy/beige{
@@ -5556,9 +5550,6 @@
 	},
 /area/space)
 "Od" = (
-/obj/structure/booth/middle{
-	dir = 4
-	},
 /obj/machinery/door/poddoor/shutters,
 /turf/open/floor/plasteel/f13/vault_floor/misc/bar,
 /area/f13/city)
@@ -6008,14 +5999,6 @@
 	icon_state = "verticaloutermain2bottom"
 	},
 /area/space)
-"RF" = (
-/obj/structure/booth{
-	dir = 1
-	},
-/turf/open/floor/f13{
-	icon_state = "whiteyellowdirtychess2"
-	},
-/area/f13/building)
 "RH" = (
 /obj/machinery/light/broken{
 	dir = 1
@@ -6143,21 +6126,12 @@
 	icon_state = "whiteyellowdirtychess2"
 	},
 /area/f13/building)
-"SE" = (
-/obj/structure/booth{
-	dir = 4
-	},
-/turf/open/floor/wood,
-/area/f13/city)
 "SF" = (
 /turf/open/indestructible/ground/outside/sidewalk{
 	icon_state = "horizontaloutermain2"
 	},
 /area/space)
 "SG" = (
-/obj/structure/booth/middle{
-	dir = 4
-	},
 /obj/item/paper_bin,
 /obj/item/pen,
 /turf/open/floor/wood,
@@ -6184,12 +6158,6 @@
 	icon_state = "outerpavement"
 	},
 /area/space)
-"SQ" = (
-/obj/structure/booth{
-	dir = 8
-	},
-/turf/open/floor/wood,
-/area/f13/city)
 "SR" = (
 /turf/open/indestructible/ground/outside/ruins{
 	dir = 8;
@@ -6227,7 +6195,6 @@
 /turf/open/floor/plasteel/blueyellow,
 /area/space)
 "Ti" = (
-/obj/structure/booth,
 /obj/effect/decal/cleanable/generic,
 /turf/open/floor/wood,
 /area/f13/city)
@@ -6278,10 +6245,6 @@
 /obj/structure/barricade/wooden/planks/pregame,
 /turf/open/floor/f13/wood,
 /area/space)
-"TA" = (
-/obj/structure/booth,
-/turf/open/floor/wood,
-/area/f13/city)
 "TB" = (
 /obj/structure/timeddoor,
 /turf/closed/wall/r_wall/f13superstore{
@@ -6338,12 +6301,6 @@
 "TV" = (
 /turf/open/floor/wood/f13/old/ruinedcornerbr,
 /area/space)
-"TW" = (
-/obj/structure/booth{
-	dir = 1
-	},
-/turf/open/floor/wood,
-/area/f13/city)
 "TX" = (
 /obj/structure/car,
 /turf/open/indestructible/ground/outside/road,
@@ -6783,12 +6740,6 @@
 	icon_state = "outermaincornerouter"
 	},
 /area/space)
-"Xi" = (
-/obj/structure/booth/single,
-/turf/open/indestructible/ground/outside/sidewalk{
-	icon_state = "horizontaltopbordertop0"
-	},
-/area/f13/wasteland)
 "Xk" = (
 /turf/open/indestructible/ground/inside/subway,
 /area/space)
@@ -12110,11 +12061,11 @@ Tv
 rd
 DL
 KB
-cA
-RF
 Un
-cA
-RF
+Un
+Un
+Un
+Un
 Un
 Un
 vi
@@ -40014,7 +39965,7 @@ Mf
 NA
 pN
 Rh
-SE
+ZQ
 FL
 bF
 Wi
@@ -40578,7 +40529,7 @@ Mj
 pN
 pN
 RJ
-SQ
+ZQ
 TT
 Tk
 VC
@@ -42271,12 +42222,12 @@ Od
 Qt
 IQ
 Ti
-TW
+ZQ
 bF
 yf
 yf
 ZO
-Xi
+YI
 ps
 ps
 ps
@@ -43116,8 +43067,8 @@ KM
 Od
 Qt
 IQ
-TA
-TW
+ZQ
+ZQ
 bF
 yf
 yf
